@@ -1,2 +1,6 @@
-# 11th-botany
-11th Standard Botany
+## Dev
+
+```sh
+./hugow --get-extended --get-latest
+./hugow server --ignoreCache --themesDir ../
+```
