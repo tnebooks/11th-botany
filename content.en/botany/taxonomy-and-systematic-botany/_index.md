@@ -1577,7 +1577,7 @@ To treat hypertension and mental disorders Alkaloid (reserpine) obtained from th
 | 2 |Medicinal plant |Rauvola serpentina(Indian snake root /sarpagandha) |ShootDried roots |To treat hypertension andmental disordersAlkaloid (reserpine)obtained from the driedroots, of the plant canlower the blood pressureand used as sedative forpatients suering fromSchizophrenia. |
   
 
-![ _Cat_![No Desc](5.51.png "")
+
  _Cat_](5.14.png "")
 
 
@@ -2378,7 +2378,7 @@ Leaf
 
 Pseudo stem
 
-![No Desc](5.68.png "")
+
  _Mus_
 
 Fruit

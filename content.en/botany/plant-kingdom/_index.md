@@ -1717,7 +1717,7 @@ get degenerated. The nucellus gets reduced in the form of a thin papery layer in
 
 **Pollination and Fertilization** Pollination is carried out by wind and occurs at 3 celled stage(a prothallial cell, a large tube cell and a small generative cell). Pollen grains get lodged in the pollen chamber after pollination. The generative cell divides into a stalk and a body cell. The body cell divides to produce two large multiciliated antherozoids or sperms. During fertilization, one of the male gamete or multiciliated antherozoid fuses with the egg of the archegonium to form a diploid zygote (2n). The endosperm is haploid. The interval between pollination and fertilization is 4- 6 months. The zygote undergoes mitotic division and develops into embryo. The ovule is transformed into seed. The seed has two unequal cotyledons. Germination is hypogeal. The life cycle shows alternation of generations (Figure 2.31).
 
-![Life Cycle of](2.49.png "")
+
  _Cycas_
 
 CYCAS (Male)

@@ -1231,8 +1231,6 @@ in higher plants?
 
 During respiration breakdown of glucose in cytosol occurs both by glycolysis (about 2/3) as well as by oxidative pentose phosphate pathway (about 1/3). Pentose phosphate pathway was described by **Warburg**, **Dickens** and **Lipmann** (1938). Hence, it is also called **Warburg-Dickens-Lipmann pathway**. It takes place in cytoplasm of mature plant cells. It is an alternate way for breakdown of glucose (Figure 14.15).
 
-![ Fate of Glucose in HMP shunt and Glycolysis](14.15.png "")
-
 
 Ribulose- 5-phosphate
 
@@ -1357,8 +1355,6 @@ Gluco dehydPhospho hexose isomerase
 6\. Isomerisation
 
 Phosphorylation
-
-![ Pentose phospha  ](14.16.png "")
 
 
 \-Phosphate

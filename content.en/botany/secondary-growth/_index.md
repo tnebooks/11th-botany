@@ -867,8 +867,6 @@ Cambium
 
 Xylem
 
-![ Transverse section (T.S) of _Peperomia_ stem (diagrammatic) showing anomalous primary growth](10.24.png "")
-
 
 ## Timber
  Timber is derived from wood logs through the process of sawing. There are many methods of sawing. Among them, rib sawing is the most common method in making timber. Timber is mainly used for carpentry and building houses. In order to enrich the quality of timber, seasoning of wood is done. Timber is the most important tissue that sequestrates atmospheric carbon and this reduces global warming.
@@ -896,8 +894,6 @@ List out the uses of saw dust, shavings and wood flour.
 veneers. It is used in flooring, walls, false roof and vehicle interiors.
 
 a. b.
-
-![ Shows grain, texure and figure of wood (a–b).](10.25.png "")
 
 
 **Activity**
