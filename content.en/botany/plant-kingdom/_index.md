@@ -1,15 +1,7 @@
 ---
 title: 'Plant Kingdom'
-weight: 3
+weight: 2
 ---
-
-  
-
-**Pl**
-
-**Chapter**
-
-**2**
 
 The learner will be able to, _- Outline the classification of plant. 
 - Illustrate the life cycles in plant. 
