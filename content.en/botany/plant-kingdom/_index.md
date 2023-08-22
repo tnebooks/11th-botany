@@ -39,7 +39,7 @@ _Angiosperms_
 
 **2.1** Classification of Plants **2.2** Life Cycle patterns in Plants **2.3** Algae **2.4** Bryophytes **2.5** Pteridophytes **2.6** Gymnosperms **2.7** Angiosperms
 
-**Unit Li**  
+  
 
 **ant Kingdom**
 
@@ -48,7 +48,7 @@ Traditionally organisms existing on the earth were classified into plants and an
 ## Classification of Plants
  Classification widely accepted for plants now include Embryophyta which is divided into Bryophyta and Tracheophyta. The latter is further divided into Pteridophyta and Spermatophyta (Gymnospermae and Angiospermae). An outline Classification of Plant Kingdom is given in Figure 2.1
 
-**I: Diversity of ving World**
+
 
 
 

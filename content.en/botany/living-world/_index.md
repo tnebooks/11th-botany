@@ -3,81 +3,41 @@ title: 'Living World'
 weight: 1
 ---
 
-  
+The learner will be able to,
 
-The learner will be able to, _- Differentiate living and non-living_
+- Differentiate living and non-living things. 
+- Appreciate the attributes of living organisms. 
+- Compare the different classifications proposed by biologists. 
+- Recognize the general characters,structure and reproduction of Bacteria._
+- Identify the characteristic features of Archaebacteria, Cyanobacteria, Mycoplasma and Actinomycetes._
+- Describe the characteristic features of fungi._
+- Outline the classification of fungi. 
+- Describe the structure and reproduction in Agaricus. 
+- Discuss the structure and uses of Mycorrhizae and Lichens.
 
-_things. 
-- Appreciate the attributes of living_
-
-_organisms. 
-- Compare the different classifications_
-
-_proposed by biologists. 
-- Recognize the general characters,_
-
-_structure and reproduction of Bacteria._
-
-_- Identify the characteristic features of Archaebacteria, Cyanobacteria, Mycoplasma and Actinomycetes._
-
-_- Describe the characteristic features of fungi._
-
-_- Outline the classification of fungi. 
-- Describe the structure and_
-
-_reproduction in Agaricus. 
-- Discuss the structure and uses of_
-
-_Mycorrhizae and Lichens._
-
-**Chapter**
-
-**1**
-
-**Learning Objectives**
-
-**Chapter Outline 1.1** Attributes of Living organisms **1.2** Viruses **1.3** Classification of Living world **1.4** Bacteria **1.5** Fungi
-
-Earth was formed some 4.6 billion years ago. It is the life supporting planet with land forms like mountains, plateaus, glaciers, etc. Life on earth exists within a complex structure called **biosphere**. There exist many mysteries and
-
-**Unit Li**
-
-**Li**  
-
-wonders in the living world some are not visible but the activity of some capture the attention of all. For example the response of sun flower to the sunlight, the twinkling firefly in the dark forest, the rolling water droplets on the surface of lotus leaf, the closure of the leaf of venus fly trap on insect touch and a squid squeezing ink to escape from its predator. From this it is clear that the wonder planet earth harbours both landforms and life forms. Have you thought of DNA molecule? It is essential for the regulation of life and is made up of carbon, hydrogen, oxygen, nitrogen and phosphorus. thus nonliving and living things exist together to make our planet unique.
-
-According to a survey made by Mora _et al.,_ 2011 the number of estimated species on earth is 8.7 million. The living world includes microbes, plants, animals and human beings which possess unique and distinct characteristic feature.
-
-**I: Diversity of ving World**
-
-**ving World**
-
-
-
-
-  
-
-## Attributes of living organisms
- The attributes of living organisms are given below and is represented in Figure 1.1.
-
-**ExcretionIrritabilityRespiration**
-
-**Metabolism ATTRIBUTES**
-
-**OF LIVING ORGANISMS**
-
-**MovementNutritionGrowth**
-
-**Reproduction**
+Earth was formed some 4.6 billion years ago. It is the life supporting planet with land forms like mountains, plateaus, glaciers, etc. Life on earth exists within a complex structure called **biosphere**. There exist many mysteries and wonders in the living world some are not visible but the activity of some capture the attention of all. For example the response of sun flower to the sunlight, the twinkling firefly in the dark forest, the rolling water droplets on the surface of lotus leaf, the closure of the leaf of venus fly trap on insect touch and a squid squeezing ink to escape from its predator. From this it is clear that the wonder planet earth harbours both landforms and life forms. Have you thought of DNA molecule? It is essential for the regulation of life and is made up of carbon, hydrogen, oxygen, nitrogen and phosphorus. thus nonliving and living things exist together to make our planet unique.
 
 ![ Attributes of living organisms](1.1.png "")
 
+According to a survey made by Mora _et al.,_ 2011 the number of estimated species on earth is 8.7 million. The living world includes microbes, plants, animals and human beings which possess unique and distinct characteristic feature.
 
-**Growth** Growth is an intrinsic property of all living organisms through which they can increase cells both in number and mass. Unicellular and multicellular organisms grow by cell division. In plants, growth is indefinite and occurs throughout their life. In animals, growth is definite and occurs for some period. Growth in non-living objects is **extrinsic**. Mountains, boulders and sand mounds grow by simple aggregation of material on the surface. Living cells grow by the addition of new protoplasm within the cells. Therefore, growth in living thing is **intrinsic**. In unicellular organisms like Bacteria and Amoeba growth occurs by cell division and such cell division also leads to the growth of their population. Hence, growth and reproduction are mutually inclusive events.
+  
 
-**Cellular structure** All living organisms are made up of cells which may be prokaryotic or eukaryotic. **Prokaryotes** are unicellular, lack membrane bound nuclei and organelles like mitochondria, endoplasmic reticulum, golgi bodies and so on (Example: Bacteria and Blue green algae). In **Eukaryotes** a definite nucleus and membrane bound organelles are present. Eukaryotes may be unicellular (_Amoeba_) or multicellular (_Oedogonium_).  
+# Attributes of living organisms
+ The attributes of living organisms are given below and is represented in Figure 1.1.
 
-**Reproduction** Reproduction is one of the fundamental characteristic features of living organisms. It is the tendency of a living organism to perpetuate its own species. There are two types of reproduction namely asexual and sexual (Figure 1.2).
+![ Attributes of living organisms](1.2.png "")
+
+## Growth
+
+Growth is an intrinsic property of all living organisms through which they can increase cells both in number and mass. Unicellular and multicellular organisms grow by cell division. In plants, growth is indefinite and occurs throughout their life. In animals, growth is definite and occurs for some period. Growth in non-living objects is **extrinsic**. Mountains, boulders and sand mounds grow by simple aggregation of material on the surface. Living cells grow by the addition of new protoplasm within the cells. Therefore, growth in living thing is **intrinsic**. In unicellular organisms like Bacteria and Amoeba growth occurs by cell division and such cell division also leads to the growth of their population. Hence, growth and reproduction are mutually inclusive events.
+
+## Cellular structure
+
+All living organisms are made up of cells which may be prokaryotic or eukaryotic. **Prokaryotes** are unicellular, lack membrane bound nuclei and organelles like mitochondria, endoplasmic reticulum, golgi bodies and so on (Example: Bacteria and Blue green algae). In **Eukaryotes** a definite nucleus and membrane bound organelles are present. Eukaryotes may be unicellular (_Amoeba_) or multicellular (_Oedogonium_).  
+
+## Reproduction
+Reproduction is one of the fundamental characteristic features of living organisms. It is the tendency of a living organism to perpetuate its own species. There are two types of reproduction namely asexual and sexual (Figure 1.2).
 
 Nucleus
 
@@ -94,9 +54,11 @@ Nucleus
 
 their surroundings by sense organs. This is called **Consciousness**. Plants also respond to the stimuli. Bending of plants towards sunlight, the closure of leaves in touch-me-not plant to touch are some examples for response to stimuli in plants. This type of response is called **Irritability.**
 
-**Homeostasis** Property of self-regulation and tendency to maintain a steady state within an external environment which is liable to change is called **Homeostasis**. It is essential for the living organism to maintain internal condition to survive in the environment.
+## Homeostasis
+Property of self-regulation and tendency to maintain a steady state within an external environment which is liable to change is called **Homeostasis**. It is essential for the living organism to maintain internal condition to survive in the environment.
 
-**Metabolism** The sum of all the chemical reactions taking place in a cell of living organism is called **metabolism**. It is broadly divided into **anabolism** and **catabolism.** The difference between anabolism and catabolism is given in Table 1.1.
+## Metabolism 
+The sum of all the chemical reactions taking place in a cell of living organism is called **metabolism**. It is broadly divided into **anabolism** and **catabolism.** The difference between anabolism and catabolism is given in Table 1.1.
 
 **Table 1.1: Difference between anabolism and catabolism**
 
@@ -171,12 +133,8 @@ Movement, Nutrition, Respiration and Excretion are also considered as the proper
 
 **Activity 1.1** Collect _Vallisneria_ leaves or _Chara_ from nearby aquarium and observe a leaf or _Chara_ thallus (internodal region)under the microscope. You could see cells clearly under the microscope. Could you notice the movement of cytoplasm? The movement of cytoplasm is called cytoplasmic streaming or **cyclosis**.
 
-## Viruses
- Did you go through the headlines of newspapers in recent times? Have you heard of the terms EBOLA, ZIKA, AIDS, SARS, H1N1 etc.? There are serious entities which are considered as **“Biological Puzzle”** and cause disease in man. They are called viruses. We have learnt about the attributes of living world in the previous chapter. Now we shall discuss about viruses which connect the living and nonliving world.
-
-
-
-
+# Viruses
+Did you go through the headlines of newspapers in recent times? Have you heard of the terms EBOLA, ZIKA, AIDS, SARS, H1N1 etc.? There are serious entities which are considered as **“Biological Puzzle”** and cause disease in man. They are called viruses. We have learnt about the attributes of living world in the previous chapter. Now we shall discuss about viruses which connect the living and nonliving world.
 
 
 | Tab l e 1.1: Dif ferenc e b e twe enana b o lis m a nd c ata b o lis m |
@@ -194,7 +152,7 @@ An American Scientist obtained virus in crystallised form from infected tobacco 
 
 **W.M. Stanley (1904-1971)**
 
-### Milestones in Virology
+## Milestones in Virology
  1796 Edward Jenner used vaccination for
 
 small pox 1886 Adolf Mayer demonstrated the
@@ -211,7 +169,7 @@ infectious nature of Tobacco mosaic virus using sap of mosaic leaves
 
 1984 Luc Montagnier and Robert Gallo discovered HIV (Human Immuno Deficiency Virus).
 
-### Size and Shape
+## Size and Shape
  Viruses are ultramicroscopic particles. They are smaller than bacteria and their diameter range from 20 to 300 nm. (1nm = 10-9metres). Bacteriophage measures about 10-100 nm in size. The size of TMV is 300×20 nm.
 
 Generally viruses are of three types based on shape and symmetry (Figure 1.4).  
@@ -243,7 +201,7 @@ Tail fibre
 
 **(a)** (**b) (c)**
 
-### Characteristic Features of Viruses Living Characters
+## Characteristic Features of Viruses Living Characters
  - Presence of nucleic acid and protein. 
 - Capable of mutatio. 
 - Ability to multiply within living cells. 
@@ -256,7 +214,9 @@ beings.
 - Absence of metabolism. 
 - Inactive outside the host. 
 - Do not show functional autonomy. 
-- Energy producing enzyme system is absent. ### Classification of Viruses
+- Energy producing enzyme system is absent. ### 
+
+## Classification of Viruses
  Among various classifications proposed for viruses the classification given by David Baltimore in the year 1971 is given below. The classification is based on mechanism of RNA production, the nature of the genome (single stranded –ss or double stranded - ds), RNA or DNA, the use of reverse transcriptase (RT), ss RNA may be (+) sense or (–) antisense. Viruses are classified into seven classes (Table 1.2). **Viral genome** Each virus possesses only one type of nucleic acid either DNA or RNA. The nucleic acid may be in a linear or circular form. Generally
 
 
@@ -276,24 +236,21 @@ Adeno viruses Parvo viruses Reo viruses Toga viruses Rhabdo viruses Retro viruse
 
 Hepadna viruses
 
-### Tobacco Mosaic Virus (TMV)
+## Tobacco Mosaic Virus (TMV)
  Tobacco mosaic virus was discovered in 1892 by Dimitry Ivanowsky from the Tobacco plant. Viruses infect healthy plants through vectors like aphids, locusts etc. The first visible symptom of TMV is discoloration of leaf colour along the veins and show typical yellow and green mottling which is the mosaic symptom. The downward curling and distortion of young apical leaves occurs, plant becomes stunted and yield is affected.
 
 **Structure** Electron microscopic studies have revealed that TMV is a rod shaped (Figure 1.4b)  
 
 helical virus measuring about 300x20nm with a molecular weight of 39x106 Daltons. The virion is made up of two constituents, a protein coat called **capsid** and a core called **nucleic acid**. The protein coat is made up of approximately 2130 identical protein subunits called **capsomeres** which are present around a central single stranded RNA molecule. The genetic information necessary for the formation of a complete TMV particle is contained in its RNA. The RNA consists of 6,500 nucleotides.
 
-### Bacteriophage
+## Bacteriophage
  Viruses infecting bacteria are called **Bacteriophages**. It literally means ‘eaters of bacteria’ (Gr: Phagein = to eat). Phages are abundant in soil, sewage water, fruits, vegetables, and milk.
 
-**Structure of T4 bacteriophage** The T4 phage is tadpole shaped and consists of head, collar, tail, base plate and fibres (Figure 1.4). The head is hexagonal which consists of about 2000 identical protein subunits. The long helical tail consists of an inner tubular core which is connected to the head by a collar. There is a base plate attached to the end of tail. The base plate contains six spikes and tail fibres. These fibres are used to attach the phage on the cell wall of bacterial host during replication. A dsDNA molecule of about 50 µm is tightly packed inside the head. The DNA is about 1000 times longer than the phage itself. ### Multiplication or Life Cycle of
+**Structure of T4 bacteriophage** The T4 phage is tadpole shaped and consists of head, collar, tail, base plate and fibres (Figure 1.4). The head is hexagonal which consists of about 2000 identical protein subunits. The long helical tail consists of an inner tubular core which is connected to the head by a collar. There is a base plate attached to the end of tail. The base plate contains six spikes and tail fibres. These fibres are used to attach the phage on the cell wall of bacterial host during replication. A dsDNA molecule of about 50 µm is tightly packed inside the head. The DNA is about 1000 times longer than the phage itself. 
 
+## Multiplication or Life Cycle of Phages
 
-**Phages** Phages multiply through two different types of life cycle. a. Lytic or Virulent cycle b. Lysogenic or Avirulent life cycle. **_a. Lytic Cycle_** During lytic cycle of phage, disintegration of host bacterial cell occurs and the progeny virions are released (Figure 1.5a). The steps involved in the lytic cycle are as follows:
-
-
-
-
+Phages multiply through two different types of life cycle. a. Lytic or Virulent cycle b. Lysogenic or Avirulent life cycle. **_a. Lytic Cycle_** During lytic cycle of phage, disintegration of host bacterial cell occurs and the progeny virions are released (Figure 1.5a). The steps involved in the lytic cycle are as follows:
 
 
 | Tab l e 1.2: Dif ferent C l ass es o f v ir us es |
@@ -351,10 +308,6 @@ Viruses infecting blue green algae are called **Cyanophages** and are first repo
 
 and Morris in the year 1963(Example LPP1 - _Lyngbya, Plectonema_ and _Phormidium_). Similarly, Hollings(1962) reported viruses infecting cultivated Mushrooms and causing die back disease. The viruses attacking fungi are called **Mycoviruses** or **Mycophages.**
 
-
-
-
-  
 
 cell divides, the prophage multiplies along with the bacterial chromosome. On exposure to UV radiation and chemicals the excision of phage DNA may occur and results in lytic cycle.
 
