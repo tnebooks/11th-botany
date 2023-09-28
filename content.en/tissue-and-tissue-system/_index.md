@@ -46,9 +46,9 @@ The term meristem was coined by **C. Nageli** 1858.
 
 - Meristematic cells are self-perpetuating.
 
-      **Classification of Meristem**
+**Classification of Meristem**
 
-  Meristem has been classified into several types on the basis of position, origin, function and division.
+Meristem has been classified into several types on the basis of position, origin, function and division.
 
 **Theories of Meristem Organization and Function**
 Many anatomists illustrated the root and shoot apical meristems on the basis of number and arrangement and accordingly proposed the following theories – An extract of which is discussed below.
@@ -317,7 +317,8 @@ The fibres of sclerenchyma associated with phloem are called phloem fibres or ba
 | Derived directly from meristematic | Develops from secondary sclerosis of parenchyma cells |
 
 **Difference between Tracheids and Fibres**
-
+| Tracheids | Fibres |
+| :-------: | :----: |
 | Not much elongate. | Very long cell. |
 | Possess oblique end wall. | Possess tapering end wall. |
 | Cell walls are not as thick as Fibre. | Cell wall are thick and lignifie. |
