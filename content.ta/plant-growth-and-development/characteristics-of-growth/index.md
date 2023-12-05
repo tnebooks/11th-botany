@@ -1,6 +1,9 @@
 ---
 title: 'தாவர வளர்ச்சியின் பண்புகள்'
 weight: 1
+references:
+    videos:
+        - youtube:3EYZbCbowNE
 ---
 
 ரகா தாவர வளர்ச்சியின்‌ பண்புகள்‌: (வனின்‌ ரெமி

@@ -1,6 +1,9 @@
 ---
 title: 'Characteristics of Growth'
 weight: 1
+references:
+    videos:
+        - youtube:3EYZbCbowNE
 ---
 
 - Growth increases in protoplasm at cellular level. 
