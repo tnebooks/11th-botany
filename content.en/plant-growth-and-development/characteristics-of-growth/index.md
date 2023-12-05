@@ -13,7 +13,7 @@ references:
 - Leaves, flowers and fruits are limited in growth or determinate or **closed form growth.**
 - Monocarpic annual plants produce flowers only once during lifetime and dies. ```Example: Paddy and Bean```
 - Monocarpic perennials produce flowers only once during life time but the plants survive for many years. ```Example: Bamboo.```
-- Polycarpic perennials produce flowers every year during life time. Example: Coconut.
+- Polycarpic perennials produce flowers every year during life time. ```Example: Coconut.```
 
 # Kinetics of growth
 It is an analysis of the motion of cells or expansion. 
@@ -26,7 +26,7 @@ The total period from initial to the final stage of growth is called the **grand
 3. Decelerating phase 
 4. Maturation phase
 
-### Lag phase 
+### Lag phase
 In this phase new cells are formed from pre-existing cells slowly. It is found in the tip of the stem, root and branches. It is the initial stage of growth. In other words, growth starts from this period. 
 
 ### Log phase or exponential growth
@@ -36,7 +36,7 @@ Here, the newly formed cell increases in size rapidly by deposition of cell wall
 
 The rate of growth decreases and becomes limited owing to internal and external or both the factors because the metabolic process becomes slow.
 
-### Steady state period or maturation phase
+### Maturation phase or Steady state period 
 In this phase cell wall thickening due to new particle deposition on the inner surface of the cell wall takes place. The overall growth ceases and becomes constant. The growth rate becomes zero.  
 
 ## Types of growth rate
@@ -50,26 +50,14 @@ If the length of a plant organ is plotted against time, it shows a linear curve 
 - One continues to divide but the other undergoes cell cycle arrest and begins to develop, differentiate and mature.
 - After each round of cell division, only a single cell remains capable of division and one new body cell forms.
 
-For example, starting with a single cell after round 1 of cell division there is one dividing cell and one body cell. After round 2 there are two body cells, after round 3 there are three and so on (Figure 15.1).
+For example, starting with a single cell after round 1 of cell division there is one dividing cell and one body cell. After round 2 there are two body cells, after round 3 there are three and so on 
 
-Dividing cell
-
-Body Cell
 
 ![ Arithmetic Growth Rate The plants single dividing cell would](15.1.png "")
 
 
-undergo one million rounds of nuclear and cellular division. If each round requires one day, this type of arithmetic increase would require one million days or 2739.7 years. This arithmetic rate is capable of producing small number of cells present in very small parts of plants. For example the hair on many leaves and stems consists of just a single row of cells produced by the division of the basal cell, the cell at the bottom of the hair next to other epidermal cells. Hair may contain 5 to 10 cells by the division of the basal cell. So, all its cells could be produced in just five to ten days. In the figure 15.2, on plotting the hight of the plant against time a linear curve is obtained. Mathematically it is expressed as:
+The plants single dividing cell would undergo one million rounds of nuclear and undergo one million rounds of nuclear and cellular division. If each round requires one day, this type of arithmetic increase would require one million days or 2739.7 years. This arithmetic rate is capable of producing small number of cells present in very small parts of plants. For example the hair on many leaves and stems consists of just a single row of cells produced by the division of the basal cell, the cell at the bottom of the hair next to other epidermal cells. Hair may contain 5 to 10 cells by the division of the basal cell. So, all its cells could be produced in just five to ten days. In the figure 15.2, on plotting the hight of the plant against time a linear curve is obtained. Mathematically it is expressed as:
 
-Time
-
-He igh
-
-t o f t
-
-he p
-
-lan t
 
 ![ Constant Linear Growth Lt = Lo + rt _Lt_ = length at time ‘t’ _Lo_ = length at time zero _r_ = growth rate of elongation per unit](15.2.png "")
 
@@ -120,6 +108,7 @@ and B1 = Area of leaves after a given time. (A1-A) and (B1-B) represents an abso
 
 
 # Measurement of Growth Experiment
+
 ## Arc auxanometer
 
 The increase in the length of the stem tip can easily be measured by an arc auxanometer which consists of a small pulley to the axis of which is attached a long pointer sliding over a graduated arc. A thread one end of which is tied to the stem tip and another end to a weight passes over the pulley tightly. As soon as the stem tip increases in length, the pulley moves and the pointer slide over the graduated arc (Figure 15.6). The reading is taken. The actual increase in the length of the stem is then calculated by knowing the length of the pointer and the radius of the pulley. If the distance travelled by the pointer is 10 and the radius of the pulley is 4 inches and the length of the pint is 20 inches, the actual grown is measured as follows: Actual growth in length = (Distance travelled by the pointer × radius of the pulley) / Length of the pointer. 
@@ -127,6 +116,9 @@ The increase in the length of the stem tip can easily be measured by an arc auxa
 For example, 
 `actual growth in length = (10 × 4 inches)/ 20 inches = 2 inches`
 
-![ Arc auxanometer](15.6.png "")
+![ Diagrammatic comparision of absolute and relative growth rates](15.6.png "")
+![ Arc auxanometer](auxanometer.png "")
+
+
 
 
