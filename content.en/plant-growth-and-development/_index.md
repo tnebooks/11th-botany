@@ -1,6 +1,8 @@
 ---
 title: 'Plant Growth and Development'
 weight: 15
+categories:
+    - plant-growth
 ---
 
 The Banyan tree continues to grow for thousands of years and some others particularly annual plants cease growth within a season or within a year. Can you understand the reasons? How does a zygote give rise to an embryo and an embryo to a seedling? How does a new plant structure arise from the pre-existing structure? Growth is defined as an irreversible permanent increase in size, shape, number,volume and dry weight. Plant growth occurs by cell division, cell enlargement, differentiation and maturation.

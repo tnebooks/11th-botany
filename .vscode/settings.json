@@ -1,0 +1,26 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "content.en/.*",
+                "isAsync": true,
+                "cmd": "mkdir -p ../gurukulam/site/content.en/books/tnebooks/11th-botany && cp -rf content.en/** ../gurukulam/site/content.en/books/tnebooks/11th-botany/"
+            },
+            {
+                "match": "content.ta/.*",
+                "isAsync": true,
+                "cmd": "mkdir -p ../gurukulam/site/content.ta/books/tnebooks/11th-botany && cp -rf content.ta/** ../gurukulam/site/content.ta/books/tnebooks/11th-botany/"
+            },
+            {
+                "match": "slides/content.en/.*",
+                "isAsync": true,
+                "cmd": "mkdir -p ../gurukulam/site/content.en/courses/books/tnebooks/11th-botany && cp -rf slides/content.en/** ../gurukulam/site/content.en/courses/books/tnebooks/11th-botany/"
+            },
+            {
+                "match": "slides/content.ta/.*",
+                "isAsync": true,
+                "cmd": "mkdir -p ../gurukulam/site/content.ta/courses/books/tnebooks/11th-botany && cp -rf slides/content.ta/** ../gurukulam/site/content.ta/courses/books/tnebooks/11th-botany/"
+            }
+        ]
+    }
+}
