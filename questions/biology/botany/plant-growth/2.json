@@ -1,0 +1,14 @@
+{
+  "question" : "If the diameter of the pulley is 6 inches, length of pointer is 10 inches and distance travelled by pointer is 5 inches. Calculate the actual growth in length of plant.",
+  "explanation" : "",
+  "choices" : [ {
+    "value" : "1.5inches",
+    "answer" : true
+  }, {
+    "value" : "6 inches"
+  }, {
+    "value" : "12 inches"
+  }, {
+    "value" : "30 inches"
+  } ]
+}

@@ -1,0 +1,14 @@
+{
+  "question" : "Select the wrong statement from the following",
+  "explanation" : "",
+  "choices" : [ {
+    "value" : "Formative phase of the cells retain the capability of cell division.",
+    "answer" : true
+  }, {
+    "value" : "In elongation phase development of central vacuole takes place."
+  }, {
+    "value" : "In maturation phase thickening and differentiation takes place."
+  }, {
+    "value" : "In maturation phase, the cells grow further."
+  } ]
+}
