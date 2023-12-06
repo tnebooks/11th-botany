@@ -105,20 +105,16 @@ Plants often grow by a combination of arithmetic and geometric growth patterns. 
 
 Quantitative comparisons between the growth of living system can also be made in two ways and is explained in the table 1.
 
-In figure 15.5, two leaves A and B are drawn at a particular time. Then A1and B1 are drawn after a given time. A and B = Area of leaves at a particular time. A1 and B1 = Area of leaves after a given time. (A1-A) and (B1-B) represents an absolute increase in area in the given time. Leaf A increases from 5 cm2 to 10 cm2; 5 cm2 in a given time. Leaf B increases from 50 cm2 to 55 cm2 ; 5 cm2 in a given time. Hence, both leaves A and B increase their area by 5 cm2 in a given time. This is absolute growth. Relative growth is faster in leaf A because of initial small size. It decreases with time.  
+Two leaves A and B are drawn at a particular time. Then {{< katex block >}}A^1{{< /katex >}} and {{< katex block >}}B^1{{< /katex >}} are drawn after a given time. A and B = Area of leaves at a particular time. {{< katex block >}}A^1{{< /katex >}} and {{< katex block >}}B^1{{< /katex >}} = Area of leaves after a given time. ({{< katex block >}}A^1{{< /katex >}}-A) and ({{< katex block >}}B^1{{< /katex >}}-B) represents an absolute increase in area in the given time. Leaf A increases from 5 {{< katex block >}}cm^2{{< /katex >}} to 10 {{< katex block >}}cm^2{{< /katex >}}; 5 {{< katex block >}}cm^2{{< /katex >}} in a given time. Leaf B increases from 50 {{< katex block >}}cm^2{{< /katex >}} to 55 {{< katex block >}}cm^2{{< /katex >}} ; 5 {{< katex block >}}cm^2{{< /katex >}} in a given time. Hence, both leaves A and B increase their area by 5 {{< katex block >}}cm^2{{< /katex >}} in a given time. This is absolute growth. Relative growth is faster in leaf A because of initial small size. It decreases with time.  
 
-![Comparision of absolute and relative growth rates](absolute-and-relative-growth.png)
+![Comparision of absolute and relative growth rates](absolute-and-relative-growth.svg)
 
 # Measurement of Growth Experiment
 
 ## Arc auxanometer
 
-The increase in the length of the stem tip can easily be measured by an arc auxanometer which consists of a small pulley to the axis of which is attached a long pointer sliding over a graduated arc. A thread one end of which is tied to the stem tip and another end to a weight passes over the pulley tightly. As soon as the stem tip increases in length, the pulley moves and the pointer slide over the graduated arc (Figure 15.6). The reading is taken. The actual increase in the length of the stem is then calculated by knowing the length of the pointer and the radius of the pulley. If the distance travelled by the pointer is 10 and the radius of the pulley is 4 inches and the length of the pint is 20 inches, the actual grown is measured as follows: Actual growth in length = (Distance travelled by the pointer × radius of the pulley) / Length of the pointer. 
+The increase in the length of the stem tip can easily be measured by an arc auxanometer which consists of a small pulley to the axis of which is attached a long pointer sliding over a graduated arc. A thread one end of which is tied to the stem tip and another end to a weight passes over the pulley tightly. As soon as the stem tip increases in length, the pulley moves and the pointer slide over the graduated arc. The reading is taken. The actual increase in the length of the stem is then calculated by knowing the length of the pointer and the radius of the pulley. If the distance travelled by the pointer is 10 and the radius of the pulley is 4 inches and the length of the pint is 20 inches, the actual grown is measured as follows: Actual growth in length = (Distance travelled by the pointer × radius of the pulley) / Length of the pointer. 
 
 For example, `actual growth in length = (10 × 4 inches)/ 20 inches = 2 inches`
 
-![ Arc auxanometer](auxanometer.png "")
-
-
-
-
+![Arc auxanometer](auxanometer.png "")
