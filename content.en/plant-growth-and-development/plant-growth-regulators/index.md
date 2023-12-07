@@ -3,64 +3,78 @@ title: 'Plant Growth Regulators'
 weight: 2
 ---
 
-Plant Growth Regulators (chemical messenger) are defined as organic substances which are synthesized in minute quantities in one part of the plant body and transported to another part where they influence specific physiological processes. Five major groups of hormones _viz._, auxins, gibberellins, cytokinins, ethylene and abscisic acid are presently known to coordinate and regulate growth and development in plants. The term phytohormones is implied to those chemical substances which are synthesized by plants and thus, naturally occurring. On the other hand, there are several manufactured chemicals which often resemble the hormones in physiological action and even in molecular structure. Recently, another two groups, the brassinosteroids and polyamines were also known to behave like hormones. **1\. Plant growth regulators – classification** Plant Growth Regulators are classified as natural and synthetic based on their source and a detailed flow diagram is given in Figure 15.7.
+Plant Growth Regulators (chemical messenger) are defined as organic substances which are synthesized in minute quantities in one part of the plant body and transported to another part where they influence specific physiological processes. Five major groups of hormones _viz._, auxins, gibberellins, cytokinins, ethylene and abscisic acid are presently known to coordinate and regulate growth and development in plants. The term phytohormones is implied to those chemical substances which are synthesized by plants and thus, naturally occurring. On the other hand, there are several manufactured chemicals which often resemble the hormones in physiological action and even in molecular structure. Recently, another two groups, the brassinosteroids and polyamines were also known to behave like hormones. 
 
-**Plant Growth Regulators (PGRs)**
+# Plant growth regulators – classification
 
-**Natural (Phytohormones) Synthetic**
+Plant Growth Regulators are classified as natural and synthetic based on their source and a detailed flow diagram is given below
 
-**Plant Growth Promoters Growth inhibitors**
+```goat
+                                                                   +----------------------------------+                                                               
+                                                                   |                                  |                                                               
+                                                                   |                                  |                                                               
+                                                                   |  Plant Growth Regulators (PGRs)  |                                                               
+                                                                   |                                  |                                                               
+                                                                   +----------------------------------+                                                               
+                                            +-------------------------------------------------------------------------------------+                                   
+                                            |                                                                                     |                                   
+                                            |                                                                                     |                                   
+                                            |                                                                                     |                                   
+                         +------------------|------------------+                                                          +-------|------+                            
+                         |                                     |                                                          |              |                            
+                         |   Natural (Phytohormones) Synthetic |                                                          |  Synthetic   |                            
+                         |                                     |                                                          |              |                            
+                         +-------------------------------------+                                                          +--------------+                            
+                                            -                                      +                                              |                                   
+               -----------------------------+--------------------------+                                                          |                                   
++----------------------------+                              +----------|----------+                                               |                                   
+|                            |                              |                     |                                               |                                   
+|    Plant Growth Promoters  |                              |   Growth inhibitors |                                               |                                   
++----------------------------+                              +---------------------+                                               |                                   
+              |                                                        |                                                          |                                   
+              |                                                        |                                                          |                                   
+              |                                                        |                                                          |                                   
+              |                                                        |                                                          |                                   
+              |                                                        +                                                +---------+--+                                
+    +---------+------+                                       +--------------------+                                     |    NAA     |                                
+    |    Auxin       |                                       |      Ethylene      |                                     |  2,4 -D    |                                
+    |                |                                       |                    |                                     | 2,4,5 - T  |                                
+    |  Gibberellin   |                                       |   Abscisic acid    |                                     |            |                                
+    |                |                                       |                    |                                     +------------+                                
+    |   Cytokinin    |                                       +--------------------+                                                                                   
+    +----------------+                                                                                                                                                
+                                                                                                                                                                     +
+```
 
-**Auxin**
+#  Characteristics of phytohormones 
 
-**Gibberellin Cytokinin**
+- Usually produced in tips of roots, stems and leaves.
+- Transfer of hormones from one place to another takes part through conductive systems.
+- They are required in trace quantities. 
+- All hormones are organic in nature. 
+- There are no specialized cells or organs for their secretion. 
+- They are capable of influencing physiological activities leading to promotion, inhibition and modification of growth.
 
-**Ethylene**
+# Synergistic and Antagonistic effects
 
-**Abscisic acid**
+- Synergistic effects: more substance in such a way that both promote each others activity. Example: Activity of auxin and gibberellins or cytokinins.
+- Antagonistic effects: The effect of two substances in such a way that they have opposite effects on the same process. One accelerates and other inhibits. Example: ABA and gibberellins during seed or bud dormancy. ABA induces dormancy and gibberellins break it.
 
-**NAA**
+# Auxins 
 
-**2,4 -D**
+## Discovery
+During 1880, **Charles Darwin** noted the unilateral growth and curvature of Canary grass (_Phalaris canariensis_) coleoptile to light. The term auxin (Greek: Auxin – to Grow) was first used by F. W. Went in 1926 using Oats (_Avena_) coleoptile and isolated the auxin. F. W. Went in 1928 collected auxin in agar jelly. **Kogl** and **Haugen Smith** (1931) isolated Auxin from human urine, and called it as **Auxin A**. Later on in 1934, similar active substances was isolated from corn grain oil and was named as **Auxin B**. Kogl _et al.,_ (1934) found heteroauxin in the plant and chemically called it as **Indole Acetic Acid** (IAA) 
 
-**2,4,5 - T**
+## Occurrence
+Auxin is generally produced by the growing tips of the stem and root, from where they migrate to the region of the action. 
 
-**Figure 15.7: Classification of Plant Growth** Regulators
+## Types of Auxin
 
-**2\. Characteristics of phytohormones** i. Usually produced in tips of roots, stems
-
-and leaves. ii. Transfer of hormones from one place to
-
-another takes part through conductive systems.
-
-iii. They are required in trace quantities. iv. All hormones are organic in nature. v. There are no specialized cells or organs for
-
-their secretion.  
-
-vi. They are capable of influencing physiological activities leading to promotion, inhibition and modification of growth.
-
-**3\. Synergistic and Antagonistic effects** i. Synergistic effects: The effect of one or
-
-more substance in such a way that both promote each others activity. Example: Activity of auxin and gibberellins or cytokinins.
-
-ii. Antagonistic effects: The effect of two substances in such a way that they have opposite effects on the same process. One accelerates and other inhibits. Example: ABA and gibberellins during seed or bud dormancy. ABA induces dormancy and gibberellins break it.
-
-### Auxins 1. Discovery
- During 1880, **Charles Darwin** noted the unilateral growth and curvature of Canary grass (_Phalaris canariensis_) coleoptile to light. The term auxin (Greek: Auxin – to Grow) was first used by F. W. Went in 1926 using Oats (_Avena_) coleoptile and isolated the auxin. F. W. Went in 1928 collected auxin in agar jelly. **Kogl** and **Haugen Smith** (1931) isolated Auxin from human urine, and called it as **Auxin A**. Later on in 1934, similar active substances was isolated from corn grain oil and was named as **Auxin B**. Kogl _et al.,_ (1934) found heteroauxin in the plant and chemically called it as **Indole Acetic Acid** (IAA) **2\. Occurrence** Auxin is generally produced by the growing tips of the stem and root, from where they migrate to the region of the action. **3\. Types of Auxin** Auxins are divided into two categories Natural auxins and Synthetic auxins.
-
-**Anti-auxins** Anti-auxin compounds when applied to the plant inhibit the effect of auxin. Example: 2, 4, 5-Tri Iodine Benzoic Acid (TIBA) and Napthylpthalamine.
+Auxins are divided into two categories Natural auxins and Synthetic auxins.
 
 
+> Anti-auxin compounds when applied to the plant inhibit the effect of auxin. Example: 2, 4, 5-Tri Iodine Benzoic Acid (TIBA) and Napthylpthalamine.
 
-
-
-
-| Plant Growth Regulators (PGRs) |
-|------|------|------|
-| Synthetic |
-| Natural (Phytohormones) |
-
-  
 
 **(i) Free auxin** They move out of tissues as they are easily diffusible. Example: IAA. **(ii) Bound Auxin** They are not diffusible. Example: IAA. **4\. Precursor** The amino acid Tryptophan is the precursor of IAA and zinc is required for its synthesis. **5\. Chemical structure** Auxin has similar chemical structure of IAA. **6\. Transport in Plants** Auxin is polar in transport. It includes basipetal and acropetal transport. Basipetal means transport through phloem from shoot to root and acropetal means transport through xylem from root to shoot. **7\. Bioassay (Avena Curvature Test /**
 
