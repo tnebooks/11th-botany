@@ -1,0 +1,20 @@
+{
+    "question": "Select the correctly matched one\n\nA) Human urine\nB) Corn gram oil\nC) Fungus\nD) Herring fish sperm\nE) Unripe maize grains\nF) Young cotton bolls\n\ni) Auxin –B\nii) GA3\niii) Abscisic acid II\niv) Kinitin\nv) Auxin A\nvi) Zeatin",
+    "explanation": "",
+    "type": "CHOOSE_THE_BEST",
+    "choices": [
+        {
+            "value": "A-iii, B-iv, C-v, D-vi, E-i, F-ii,"
+        },
+        {
+            "value": "A-v, B-i, C-ii, D-iv, E-vi, F-iii,"
+        },
+        {
+            "value": "A-iii, B-v, C-vi, D-i, E-ii,F-iv,",
+            "answer": true
+        },
+        {
+            "value": "A-ii, B-iii, C-v, D-vi, E-iv, F-i"
+        }
+    ]
+}

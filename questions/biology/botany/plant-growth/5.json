@@ -1,0 +1,20 @@
+{
+    "question": "Seed dormancy allows the plants to",
+    "explanation": "",
+    "type": "CHOOSE_THE_BEST",
+    "choices": [
+        {
+            "value": "overcome unfavourable climatic conditions"
+        },
+        {
+            "value": "develop healthy seeds"
+        },
+        {
+            "value": "reduce viability",
+            "answer": true
+        },
+        {
+            "value": "prevent deterioration of seeds"
+        }
+    ]
+}

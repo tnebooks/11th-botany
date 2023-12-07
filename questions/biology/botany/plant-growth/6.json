@@ -1,0 +1,20 @@
+{
+    "question": "Which one of the following method are\nused to break the seed dormancy?",
+    "explanation": "",
+    "type": "CHOOSE_THE_BEST",
+    "choices": [
+        {
+            "value": "Scarification"
+        },
+        {
+            "value": "Impaction",
+            "answer": true
+        },
+        {
+            "value": "Stratification"
+        },
+        {
+            "value": "All the above"
+        }
+    ]
+}

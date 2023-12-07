@@ -1,0 +1,20 @@
+{
+  "question": "________ is the powerful growth inhibitor",
+  "explanation": "",
+  "type": "CHOOSE_THE_BEST",
+  "choices": [
+    {
+      "value": "Ethanol"
+    },
+    {
+      "value": "Cytokinins",
+      "answer": true
+    },
+    {
+      "value": "ABA"
+    },
+    {
+      "value": "Auxin"
+    }
+  ]
+}
