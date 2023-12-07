@@ -1,0 +1,20 @@
+{
+    "question": "சரியாகப் ப�ொருந்தியுள்ளதைத் தேர்ந்தெடு \n\nA) மனிதச் சிறுநீர்\nB) மக்காச்சோள எண்ணெய் \nC) பூஞ்சைகள்\nD) ஹெர்ரிங் மீன் விந்து\nE) இளம் மக்காச்சோளம்\nF) இளம் பருத்திக் காய்  \n\ni) ஆக்சின் B \nii) GA3\niii) அப்சிசிக் அமிலம் II\niv) கைனடின்\nv) ஆக்சின் A\nvi) சியாடின்",
+    "explanation": "",
+    "type": "CHOOSE_THE_BEST",
+    "choices": [
+        {
+            "value": "A-iii, B-iv, C-v, D-vi, E-i, F-ii,"
+        },
+        {
+            "value": "A-v, B-i, C-ii, D-iv, E-vi, F-iii,"
+        },
+        {
+            "value": "A-iii, B-v, C-vi, D-i, E-ii,F-iv,",
+            "answer": true
+        },
+        {
+            "value": "A-ii, B-iii, C-v, D-vi, E-iv, F-i"
+        }
+    ]
+}
