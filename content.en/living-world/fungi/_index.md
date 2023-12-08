@@ -24,8 +24,7 @@ Discovery of Penicillin in the year 1928 is a serendipity in the world of medici
 The word ‘fungus’ is derived from Latin meaning ‘mushroom’. Fungi are ubiquitous, eukaryotic, achlorophyllous heterotrophic organisms. They exist in unicellular or multicellular forms. The study of fungi is called mycology. (Gr. mykes – mushroom: logos – study). P.A. Micheli is considered as founder of Mycology. Few renowned mycologists include Arthur H.R. Buller, John Webster, D.L.Hawksworth, G.C.Ainsworth, B.B.Mundkur, K.C.Mehta, C.V. Subramanian and T.S. Sadasivan.
 
 > E.J. Butler is the Father of Indian Mycology. He established Imperial Agricultural Research Institute at Pusa, Bihar. It was later shifted to New Delhi and at present known as Indian Agricultural Research Insitute (IARI). He published a book, ‘Fungi and Disease in Plants’ on Indian plant diseases in the year 1918.
-> ![Alt text](1.27.png)
-> **E.J. Butler (1874-1943)**
+> ![Alt text](1.27.png) > **E.J. Butler (1874-1943)**
 
 ## General characteristic features
 
@@ -366,7 +365,6 @@ The symbiotic association between the roots of higher plants and fungal mycelium
 **Bacteria**
 
 Let’s explore the structure and shapes of Bacteria.
-![Alt text](battery.png)
 
 **Steps**
 
@@ -379,13 +377,10 @@ Let’s explore the structure and shapes of Bacteria.
 
 - Select structure tap and note the internal structure of bacteria
 - Click cell wall and note the difference between different shapes
-  ![Alt text](activity.png)
 
 ```
 URL:
 https://play.google.com/store/apps/details?id=com.rendernet.bacteria&hl=en
 ```
-
-![Alt text](qr.png)
 
 - Pictures are indicative only
