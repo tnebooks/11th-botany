@@ -211,7 +211,7 @@ developed a method of growing plants in nutrient solution. The commonly used nut
 
 **Aeroponics:** This technique was developed by **Soifer Hillel** and **David Durger**. It is a system where roots are suspended in air and nutrients are sprayed over the roots by a motor driven rotor (Figure 12.4).
 
-![ Aeroponics ## Nitrogen Fixation](12.4.png "")
+![ Aeroponics ## Nitrogen Fixation](12.6.png "")
 
 # 12.7 Nitrogen Fixation
 
