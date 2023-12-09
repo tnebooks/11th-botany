@@ -68,27 +68,50 @@ During 1880, **Charles Darwin** noted the unilateral growth and curvature of Can
 ## Occurrence
 Auxin is generally produced by the growing tips of the stem and root, from where they migrate to the region of the action. 
 
+> Anti-auxin compounds when applied to the plant inhibit the effect of auxin. Example: 2, 4, 5-Tri Iodine Benzoic Acid (TIBA) and Napthylpthalamine.
+
+### Free auxin
+
+They move out of tissues as they are easily diffusible. `Example: IAA`. 
+
+### Bound Auxin
+
+They are not diffusible. `Example: IAA Acetic Acid`. 
+
+## Precursor
+The amino acid Tryptophan is the precursor of IAA and zinc is required for its synthesis. 
+
+## Chemical structure
+Auxin has similar chemical structure of IAA. 
+
+## Transport in Plants
+Auxin is polar in transport. It includes basipetal and acropetal transport. Basipetal means transport through phloem from shoot to root and acropetal means transport through xylem from root to shoot. 
+
+## Bioassay (Avena Curvature Test Went Experiment) 
+
+Bioassay means testing of substances for their activity in causing a growth response in a living plant or its part. **The procedure involves the following steps:** When the _Avena_ seedlings have attained a height of 15 to 30 mm, about 1mm of the coleoptile tip is removed. This apical part is the source of natural auxin. The tip is now placed on agar blocks for few hours. During this period, the auxin diffuses out of these tips into the agar. The auxin containing agar block is now placed on one side of the decapitated stump of Avena coleoptile. The auxin from the agar blocks diffuses down through coleoptile along the side to which the auxin agar block is placed. An agar block without auxin is placed on another decapitated coleoptile. Within an hour, the coleoptiles with auxin agar block bends on the opposite side where the agar block is placed.
+
+
 ## Types of Auxin
 
 Auxins are divided into two categories Natural auxins and Synthetic auxins.
 
+### Natural auxins
 
-> Anti-auxin compounds when applied to the plant inhibit the effect of auxin. Example: 2, 4, 5-Tri Iodine Benzoic Acid (TIBA) and Napthylpthalamine.
+Auxin occuring in plants are called `Natural auxin`
 
+1. Indole Acetic Acid (IAA)
+2. Indole Propionic Acid (IPA)
+3. Indole Butyric Acid (IBA)
+4. Phenyl Acetic Acid (PAA)
 
-**(i) Free auxin** They move out of tissues as they are easily diffusible. Example: IAA. **(ii) Bound Auxin** They are not diffusible. Example: IAA. **4\. Precursor** The amino acid Tryptophan is the precursor of IAA and zinc is required for its synthesis. **5\. Chemical structure** Auxin has similar chemical structure of IAA. **6\. Transport in Plants** Auxin is polar in transport. It includes basipetal and acropetal transport. Basipetal means transport through phloem from shoot to root and acropetal means transport through xylem from root to shoot. **7\. Bioassay (Avena Curvature Test /**
+### Synthetic auxins
 
-**Went Experiment)** Bioassay means testing of substances for their activity in causing a growth response in a living plant or its part. **The procedure involves the following steps:** When the _Avena_ seedlings have attained a height of 15 to 30 mm, about 1mm of the coleoptile tip is removed. This apical part is the source of natural auxin. The tip is now placed on agar blocks for few hours. During this period, the auxin diffuses out of these tips into the agar. The auxin containing agar block is now placed on one side of the decapitated stump of Avena coleoptile. The auxin from the agar blocks diffuses down through coleoptile along the side to which the auxin agar block is placed. An agar block without auxin is placed on another decapitated coleoptile. Within an hour, the coleoptiles with auxin agar block bends on the opposite side where the agar block is placed.
+These are synthesized artificially and have properties like Auxin.
 
-**Types of Auxin**
-
-**Natural Synthe** Auxin occuring in plants are called “Natural auxin”
-
-1\. Indole Acetic Acid (IAA) 2. Indole Propionic Acid (IPA) 3. Indole Butyric Acid (IBA) 4. Phenyl Acetic Acid (PAA)
-
-These are synthesized artific properties like Auxin.
-
-1\. 2,4-Dichloro Phenoxy Acet 2. 2,4,5-Trichloro Phenoxy Ac 3. Napthalene Acetic Acid (NA  
+1. 2,4-Dichloro Phenoxy Acetic Acid (2,4-D)
+2. 2,4,5-Trichloro Phenoxy Acetic Acid (2,4,5-T)
+3. Napthalene Acetic Acid (NAA)  
 
 This curvature can be measured (Figure 15.8). **8\. Physiological Effects*. 
 - They promote cell elongation in
