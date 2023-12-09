@@ -32,4 +32,3 @@ Most plants, fungi and other microbes synthesizes a number of organic compounds 
 ### Organic Molecules
 
 Organic molecules may be small and simple. These simple molecules assemble and form large and complex molecules called **macromolecules**. These include four main classes – carbohydrates, lipids, proteins and nucleic acids. All macromolecules except lipids are formed by the process of polymerisation, a process in which repeating subunits termed monomers are bound into chains of different lengths. These chains of monomers are called **polymers**.
-
