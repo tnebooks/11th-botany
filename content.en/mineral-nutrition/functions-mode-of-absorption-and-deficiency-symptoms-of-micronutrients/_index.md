@@ -6,7 +6,7 @@ of Micronutrients'
 weight: 3
 ---
 
-# 12.3 Functions, mode of absorption and deficiency symptoms of micronutrients
+#  Functions, mode of absorption and deficiency symptoms of micronutrients
 
 
 Micronutrients even though required in trace amounts are essential for the metabolism of plants. They play key roles in many plants. Example: Boron is essential for translocation of sugars, molybdenum is involved in nitrogen metabolism and zinc is needed for biosynthesis of auxin. Here, we will study about the role of micro nutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases. 

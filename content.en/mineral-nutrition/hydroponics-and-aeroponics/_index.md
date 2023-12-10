@@ -3,7 +3,7 @@ title: 'Hydroponics and Aeroponics'
 weight: 6
 ---
 
-# 12.6 Hydroponics and Aeroponics 
+#  Hydroponics and Aeroponics 
 
 **1. Hydroponics or Soilless culture:Von Sachs** 
 

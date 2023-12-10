@@ -3,11 +3,11 @@ title: 'Special modes of nutrition'
 weight: 9
 ---
 
-# 12.9 Special modes of nutrition
+#  Special modes of nutrition
  
 Nutrition is the process of uptake and utilization of nutrients by living organisms. There are two main types such as **autotrophic** and **heterotrophic** nutrition. Autotrophic nutrition is further divided into **photosynthetic** and **chemosynthetic** nutrition. Heterotrophic nutrition is further divided into saprophytic, parasitic, symbiotic and insectivorous type. In this topic you are going to learn about special mode of nutrition. 
 
-## 12.9.1 Saprophytic mode of nutrition in angiosperms** 
+##  Saprophytic mode of nutrition in angiosperms** 
 
 Saprophytes derive nutrients from dead and decaying matter. Bacteria and fungus are main saprophytic organisms. Some angiosperms also follow saprophytic mode of nutrition. Example: Neottia. Roots of Neottia (Bird’s Nest Orchid) associate with mycorrhizae and absorb nutrients as a saprophyte. Monotropa (Indian Pipe) grow on humus rich soil found in thick forests. It absorbs nutrient through mycorrhizal association (Figure 12.9).
 

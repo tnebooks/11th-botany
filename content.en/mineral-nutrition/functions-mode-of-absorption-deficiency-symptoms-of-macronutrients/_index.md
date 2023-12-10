@@ -5,7 +5,7 @@ of Macronutrients'
 weight: 2
 ---
 
-# 12.2 Functions, mode of absorption and deficiency symptoms of macronutrients
+#  Functions, mode of absorption and deficiency symptoms of macronutrients
 
 
 Macronutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases are discussed here:  

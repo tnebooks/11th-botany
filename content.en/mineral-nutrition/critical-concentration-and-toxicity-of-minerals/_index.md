@@ -5,17 +5,17 @@ weight: 5
 ---
 
 
-# 12.5 Critical concentration and toxicity of minerals
+#  Critical concentration and toxicity of minerals
 
 
-## 12.5.1  Critical Concentration
+##   Critical Concentration
 
 To increase the productivity and also to avoid mineral toxicity knowledge of critical concentration is essential. Mineral nutrients lesser than critical concentration cause deficiency symptoms. Increase of mineral nutrients more than the normal concentration causes toxicity. A concentration, at which 10 % of the dry weight of tissue is reduced, is considered as toxic. Figure 12.2 explains about Critical Concentration.
 
 ![](12.4.png)
 
 
-### 12.5.2 Mineral Toxicity 
+###  Mineral Toxicity 
 
 **a. Manganese toxicity**
 

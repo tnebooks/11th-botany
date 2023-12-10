@@ -4,15 +4,20 @@ weight: 1
 ---
 
 
-# 12.1 Classification of minerals 
+#  Classification of minerals 
 
-## 12.1.1 Classification of minerals based ontheir quantity requirements 
+##  Classification of minerals based ontheir quantity requirements 
 
-Essential elements are classified as **Macro-nutrients Micronutrients** and **Unclassified minerals** based on their requirements. Essential minerals which are required in higher concentration are called Macronutrients. Essential minerals which are required in less concentration called are as Micronutrients.
+Essential elements are classified as **Macro-nutrients Micronutrients** and **Unclassified minerals** based on their 
+
+`table`
+![](1.png)
+
+requirements. Essential minerals which are required in higher concentration are called Macronutrients. Essential minerals which are required in less concentration called are as Micronutrients.
 
 Minerals like Sodium, Silicon, Cobalt and Selenium are not included in the list of essential nutrients but are required by some plants, these minerals are placed in the list of unclassified minerals. These minerals play specific roles for example, Silicon is essential for pest resistance, prevent water lodging and aids cell wall formation in Equisetaceae (Equisetum), Cyperaceae and Gramineae (Table 12. 1).
 
-### 12.1.2 Classification of minerals based on mobility
+###  Classification of minerals based on mobility
 
 
 If you observe where the deficiency symptoms appear first, you can notice differences in old and younger leaves. It is mainly due to mobility of minerals. Based on this, they are classified into 1. Actively mobile minerals and 2. Relatively immobile minerals (Figure 12.1).
@@ -25,17 +30,12 @@ Deficiency symptoms first appear on old and senescent leaves due to active movem
 
 **b. Relatively immobile minerals** 
 
-Calcium, Sulphur, Iron, Boron and Copper shows deficiency symptoms first that appear
-
-![](1.png)
-  
-
-on young leaves due to the immobile nature of minerals
+Calcium, Sulphur, Iron, Boron and Copper shows deficiency symptoms first that appear on young leaves due to the immobile nature of minerals
 
 ![ Mobility of Minerals](12.1.png "")
 
 
-### 12.1.3 Classification of minerals based on their functions
+###  Classification of minerals based on their functions
 
 
 **a. Structural component minerals:** 

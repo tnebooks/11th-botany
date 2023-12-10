@@ -3,14 +3,14 @@ title: 'Nitrogen Fixation'
 weight: 7
 ---
 
-# 12.7 Nitrogen Fixation
+#  Nitrogen Fixation
 
  Inspiring act of nature is self-regulation. As all living organisms act as tools for biogeochemical cycles, nitrogen cycle is highly regulated. Life on earth depends on nitrogen cycle. Nitrogen occurs in atmosphere in the form of N2 (N≡N), two nitrogen atoms joined together by strong triple covalent bonds. The process of converting atmospheric nitrogen (N2) into ammonia is termed as nitrogen fixation. Nitrogen fixation can occur by two methods: 1. Biological; 2. Non-Biological (Figure 12.5).
 
 ![ Nitrogen fixation](1111.png "")
 
 
-##  12.7.1 Non – Biological nitrogen fixation
+##  Non – Biological nitrogen fixation
 
  - Nitrogen fixation by chemical process in
 
@@ -19,7 +19,7 @@ industry.
 
 lightening fixes atmospheric nitrogen.
 
-### 12.7.2 Biological nitrogen fixation
+###  Biological nitrogen fixation
 
  Symbiotic bacterium like Rhizobium fixes atmospheric nitrogen. Cyanobacteria found in Lichens, Anthoceros, Azolla and coralloid roots of Cycas also fix nitrogen. Non-symbiotic (free living bacteria) like Clostridium also fix nitrogen.
 
@@ -62,4 +62,5 @@ Cycas - Anabaena and Nostoc
 
 Free living bacteria and fungi also fix atmospheric nitrogen.
 
+`table`
 ![](11111.png)
