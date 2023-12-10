@@ -74,7 +74,7 @@ Respiration occurring in the presence of oxygen is called **aerobic respiration*
 1. Glycolysis 2. Fermentation
 
 
-# 14.5Stages of Respiration
+# 14.5 Stages of Respiration
 
 1. Glycolysis-conversion of glucose into pyruvic acid in cytoplasm of cell. 
 2. Link reaction-conversion of pyruvic acid into acetyl coenzyme-A in mitochondrial matrix.
