@@ -1,0 +1,19 @@
+{
+  "question": "Refer to the given figure and select the correct statement.",
+  "explanation": "1.A, B, and C are histogen of shoot apex 2.A Gives rise to medullary rays. 3.B Gives rise to cortex. 4.C Gives rise to epidermis.",
+  "choices": [
+    {
+      "value": "1 and 2 only",
+      "answer": true
+    },
+    {
+      "value": "2 and 3 only"
+    },
+    {
+      "value": "1 and 3 only"
+    },
+    {
+      "value": "3 and 4 only"
+    }
+  ]
+}
