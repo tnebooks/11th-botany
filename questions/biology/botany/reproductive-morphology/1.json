@@ -1,0 +1,19 @@
+{
+  "question": "Vexillary aestivation is characteristic of the family",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Fabaceae",
+      "answer": true
+    },
+    {
+      "value": "Asteraceae"
+    },
+    {
+      "value": "Solanaceae"
+    },
+    {
+      "value": "Brassicaceae"
+    }
+  ]
+}

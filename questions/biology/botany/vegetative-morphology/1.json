@@ -1,0 +1,19 @@
+{
+  "question": "Which of the following is polycarpic plant?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Mangifera",
+      "answer": true
+    },
+    {
+      "value": "Bambusa"
+    },
+    {
+      "value": "Musa"
+    },
+    {
+      "value": "Agave"
+    }
+  ]
+}

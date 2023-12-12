@@ -1,9 +1,7 @@
 ---
-title: 'Mineral Nutrition'
+title: "Mineral Nutrition"
 weight: 12
 ---
-
-
 
 As a traveller you would have got a chance to observe the plants. It is an interesting fact that all plants are not alike. Just spend some time to observe the nature. You can notice plants with attractive leaves, flowers and fruits.
 
@@ -31,7 +29,6 @@ Minerals like Sodium, Silicon, Cobalt and Selenium are not included in the list 
 
 ### 12.1.2 Classification of minerals based on mobility
 
-
 If you observe where the deficiency symptoms appear first, you can notice differences in old and younger leaves. It is mainly due to mobility of minerals. Based on this, they are classified into 1. Actively mobile minerals and 2. Relatively immobile minerals (Figure 12.1).
 
 **a. Actively mobile minerals** 
@@ -46,7 +43,6 @@ Calcium, Sulphur, Iron, Boron and Copper shows deficiency symptoms first that ap
 
 ![](1.png)
   
-
 on young leaves due to the immobile nature of minerals
 
 ![ Mobility of Minerals](12.1.png "")
@@ -61,7 +57,6 @@ Minerals like Carbon, Hydrogen, Oxygen and Nitrogen
 
 **b. Enzyme function**: 
 
-
 Molybdenum (Mo) is essential for nitrogenase enzyme during reduction of atmospheric nitrogen into ammonia. Zinc (Zn)is an important activator for alcohol dehydrogenase and carbonic anhydrase. Magnesium (Mg) is the activator for RUBP carboxylase- oxygenase and PEP carboxylase. Nickel (Ni) is a constituent of urease and hydrogenase.
 
 **c. Osmotic Potential:** 
@@ -74,6 +69,7 @@ Magnesium (Mg) in chlorophyll and phosphorous (P) in ATP.
 
 # 12.2 Functions, mode of absorption and deficiency symptoms of macronutrients
 
+Macronutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases are discussed here:
 
 Macronutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases are discussed here:  
 
@@ -88,15 +84,14 @@ It is required by the plants in greatest amount. It is an essential component of
 Constituent of cell membrane, proteins, nucleic acids, ATP, NADP, phytin and sugar phosphate. It is absorbed as H2PO4 1 and HPO4 2 ions.
 
 **Deficiency symptoms:** 
-
 Stunted growth, anthocyanin formation, necrosis, inhibition of cambial activity, affect root growth and fruit ripening.
 
-**3. Potassium (K):** 
 
+**3. Potassium (K):** 
 Maintains turgidity and osmotic potential of the cell, opening and closure of stomata, phloem translocation, stimulate activity of enzymes, anion and cation balance by ion-exchange. It is absorbed as K1 ions.
 
-**Deficiency symptoms:** 
 
+**Deficiency symptoms:** 
 Marginal chlorosis, necrosis, low cambial activity, loss of apical dominance, lodging in cereals and curled leaf margin.
 
 **4. Calcium (Ca):** 
@@ -108,7 +103,6 @@ It is involved in synthesis of calcium pectate in middle lamella, mitotic spindl
 Chlorosis, necrosis, stunted growth, premature fall of leaves and flowers, inhibit seed formation, Black heart of Celery, Hooked leaf tip in Sugar beet, Musa and Tomato.
 
 **5. Magnesium (Mg):** 
-
 It is a constituent of chlorophyll, activator of enzymes of carbohydrate metabolism (RUBP Carboxylase and PEP Carboxylase) and involved in the synthesis of DNA and RNA. It is essential for binding of ribosomal sub units. It is absorbed as Mg21 ions.
 
 **Deficiency symptoms:** Inter veinal chlorosis, necrosis, anthocyanin (purple) formation and Sand drown of tobacco.
@@ -117,12 +111,8 @@ It is a constituent of chlorophyll, activator of enzymes of carbohydrate metabol
 
 **Deficiency symptoms:** Chlorosis, anthocyanin formation, stunted growth, rolling of leaf tip and reduced nodulation in legumes.
 
-
 # 12.3 Functions, mode of absorption and deficiency symptoms of micronutrients
-
-
 Micronutrients even though required in trace amounts are essential for the metabolism of plants. They play key roles in many plants. Example: Boron is essential for translocation of sugars, molybdenum is involved in nitrogen metabolism and zinc is needed for biosynthesis of auxin. Here, we will study about the role of micro nutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases. 
-
 
 **1. Iron (Fe):** 
 
@@ -141,14 +131,15 @@ Activator of carboxylases, oxidases, dehydrogenases and kinases, involved in spl
 
 Constituent of plastocyanin, component of phenolases, tyrosinase, enzymes involved in redox reactions, synthesis of ascorbic acid, maintains carbohydrate and nitrogen balance, part of oxidase and cytochrome oxidase. It is absorbed as cupric (Cu21) ions.
 
+
 **Deficiency:** Die back of citrus, Reclamation disease of cereals and legumes, chlorosis, necrosis and Exanthema in Citrus.
+
 
 **4. Zinc (Zn):** 
 
 Essential for the synthesis of Indole acetic acid (Auxin), activator of carboxylases, alcohol dehydrogenase, lactic dehydrogenase, glutamic acid dehydrogenase, carboxy peptidases and tryptophan synthetase. It is absorbed as Zn21 ions.
 
 **Deficiency:** Little leaf and mottle leaf due to deficiency of auxin, Inter veinal chlorosis, stunted growth, necrosis and Khaira disease of rice.
-
 
 **5. Boron (B):** 
 
@@ -224,109 +215,125 @@ developed a method of growing plants in nutrient solution. The commonly used nut
 
  - Nitrogen fixation by chemical process in
 
-industry. 
+**5. Boron (B):** Translocation of carbohydrates, uptake and utilisation of Ca11, pollen germination, nitrogen metabolism, fat metabolism, cell elongation and differen- tiation. It is absorbed as (borate) BO32 ions.
+
+**Deficiency:** Death of root and shoot tips, premature fall of flowers and fruits, brown heart of beet root, internal cork of apple and fruit cracks.
+
+**6. Molybdenum (Mo):** Component of nitrogenase, nitrate reductase, involved in nitrogen metabolism, and nitrogen fixation. It is absorbed as molybdate (Mo21) ions.
+
+**Deficiency:** Chlorosis, necrosis, delayed flowering, retarded growth and whip tail disease of cauliflower.
+
+**7. Chlorine (Cl):** It is involved in Anion – Cation balance, cell division, photolysis of water. It is absorbed as Cl2 ions.
+
+**Deficiency:** Wilting of leaf tips
+
+## Deficiency diseases and symptoms
+
+The following table (Table 12.2) gives you an idea about Minerals and their Deficiency symptoms:
+
+**Table 12.2: Deficiency disease and symptoms**
+
+|                 Name of the deficiency disease and symptoms                  |                              Deficiency minerals                              |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|                            1. Chlorosis (Overall)                            | Nitrogen, Potassium, Magnesium, Sulphur, Iron,Manganese, Zinc and Molybdenum. |
+|                           a. Interveinal chlorosis                           |                     Magnesium, Iron, Manganese and Zinc.                      |
+|                            b. Marginal chlorosis                             |                                  Potassium.                                   |
+|                      2. Necrosis (Death of the tissue)                       |          Magnesium, Potassium, Calcium, Zinc, Molybdenumand Copper.           |
+|                              3. Stunted growth                               |             Nitrogen, Phosphorus, Calcium, Potassium and Sulphur.             |
+|                           4. Anthocyanin formation                           |                  Nitrogen, Phosphorus, Magnesium and Sulphur                  |
+|                             5. Delayed flowering                             |                       Nitrogen, Sulphur and Molybdenum                        |
+| 6. Die back of shoot, Reclamation disease,Exanthema in citrus (gums on bark) |                                    Copper                                     |
+|                              7. Hooked leaf tip                              |                                    Calcium                                    |
+|                                8. Little Leaf                                |                                     Zinc                                      |
+|            9. Brown heart of Beet root and Internalcork of apple             |                                     Boron                                     |
+|                   10. Whiptail of cauliflower and cabbage                    |                                  Molybdenum                                   |
+|                            11. Curled leaf margin                            |                                   Potassium                                   |
+
+## Critical concentration and toxicity of minerals
+
+### Critical Concentration
+
+To increase the productivity and also to avoid mineral toxicity knowledge of critical concentration is essential. Mineral nutrients lesser than critical concentration cause deficiency symptoms. Increase of mineral nutrients more than the normal concentration causes toxicity. A concentration, at which 10 % of the dry weight of tissue is reduced, is considered as toxic. Figure ##12.2 explains about Critical Concentration.
+
+![Alt text](image.png)
+
+### Mineral Toxicity
+
+**a. Manganese toxicity**
+Increased Concentration of Manganese will prevent the uptake of Fe and Mg, prevent translocation of Ca to the shoot apex and cause their deficiency. The symptoms of manganese toxicity are appearance of brown spots surrounded by chlorotic veins.
+####b. Aluminium Toxicity
+Aluminium toxicity causes precipitation of nucleic acid, inhibition of ATPase, inhibition of cell division and binding of plasma membrane with Calmodulin.For theories regarding, translocation of minerals please refer Chapter- 11.
+
+## Hydroponics and Aeroponics
+
+**1. Hydroponics or Soilless culture:Von Sachs** developed a method of growing plants in nutrient solution. The commonly used nutrient solutions are **Knop solution** (1865) and **Arnon** and **Hoagland** **Solution** (1940). Later the term Hydroponics was coined by **Goerick** (1940) and he also introduced commercial techniques for hydroponics. In hydroponics roots are immersed in the solution containing nutrients and air is supplied with help of tube (Figure 12.3).
+
+![Alt text](image-1.png)
+
+**Aeroponics:** This technique was developed by **Soifer Hillel** and **David Durger**. It is a system where roots are suspended in air and nutrients are sprayed over the roots by a motor driven rotor (Figure 12.4).
+
+![Alt text](image-2.png)
+
+## NITROGEN FIXATION
+
+Inspiring act of nature is self-regulation. As all living organisms act as tools for biogeochemical cycles, nitrogen cycle is highly regulated. Life on earth depends on nitrogen cycle. Nitrogen occurs in atmosphere in the form of N2 (N≡N), two nitrogen atoms joined together by strong triple covalent bonds. The process of converting atmospheric nitrogen (N2) into ammonia is termed as nitrogen fixation. Nitrogen fixation can occur by two methods: 1. Biological; 2. Non-Biological (Figure 12.5).
+
+### Non – Biological nitrogen fixation
+
+
+- Nitrogen fixation by chemical process inindustry.
 - Natural electrical discharge during
+  lightening fixes atmospheric nitrogen.
 
-lightening fixes atmospheric nitrogen.
+### Biological nitrogen fixation
 
-### 12.7.2 Biological nitrogen fixation
-
- Symbiotic bacterium like Rhizobium fixes atmospheric nitrogen. Cyanobacteria found in Lichens, Anthoceros, Azolla and coralloid roots of Cycas also fix nitrogen. Non-symbiotic (free living bacteria) like Clostridium also fix nitrogen.
+Symbiotic bacterium like _Rhizobium_ fixes atmospheric nitrogen. Cyanobacteria found in Lichens, _Anthoceros, Azolla_ and coralloid roots of _Cycas_ also fix nitrogen. Non-symbiotic (free living bacteria) like _Clostridium_ also fix nitrogen.
 
 **a. Symbiotic nitrogen fixation**
+**i. Nitrogen fixation with nodulation**
+_Rhizobium_ bacterium is found in leguminous plants and fix atmospheric nitrogen. This kind of symbiotic association is beneficial for both the bacterium and plant. Root nodules are formed due to bacterial infection. _Rhizobium_ enters into the host cell and proliferates, it remains separated from the host cytoplasm by a membrane (Figure 12.6).
 
-**i. Nitrogen fixation with nodulation** 
+**Stages of Root nodule formation**_:_
 
-Rhizobium bacterium is found in leguminous plants and fix atmospheric nitrogen. This kind of symbiotic association is beneficial for both the bacterium and plant. Root nodules are formed due to bacterial infection. Rhizobium enters into the host cell and proliferates, it remains separated from the host cytoplasm by a membrane (Figure 12.6).  
-
-
-**Stages of Root nodule formation:**
-
-1. Legume plants secretes phenolics which attracts Rhizobium. 
-
-2. Rhizobium reaches the rhizosphere and enters into the root hair, infects the root hair and leads to curling of root hairs.
-
+1. Legume plants secretes phenolics which
+   attracts _Rhizobium_.
+2. _Rhizobium_ reaches the rhizosphere and
+   enters into the root hair, infects the root hair and leads to curling of root hairs.
 3. Infection thread grows inwards and separates the infected tissue from normal tissue.
 
-![ Rhizobium(Bacteroid) in root nodule](12.7.png "")
+![Alt text](image-3.png)
 
-4. A membrane bound bacterium is formed inside the nodule and is called **bacteroid**.
+4.A membrane bound bacterium is formed inside the nodule and is called bacteroid.
+5.Cytokinin from bacteria and auxin from host plant promotes cell division and leads to nodule formation
 
-5. Cytokinin from bacteria and auxin from host plant promotes cell division and leads to nodule formation
+**Non-Legume** _Alnus and Casuarina_ contain the bacterium _Frankia. Psychotria_ contains the bacterium _Klebsiella_.
+**ii. Nitrogen fixation without nodulation** The following plants and prokaryotes are involved in nitrogen fixation.
 
-
-**Non-Legume** 
-
-Alnus and Casuarina contain the bacterium Frankia. Psychotria contains the bacterium Klebsiella. 
-
-**ii. Nitrogen fixation without nodulation** 
-
-The following plants and prokaryotes are involved in nitrogen fixation.
-  
-
-Lichens - Anabaena and Nostoc Anthoceros - Nostoc 
-Azolla - Anabaena azollae 
+Lichens - Anabaena and Nostoc
+Anthoceros - Nostoc
+Azolla - Anabaena azollae
 Cycas - Anabaena and Nostoc
 
-**b. Non-symbiotic Nitrogen fixation** 
-
+**b. Non-symbiotic Nitrogen fixation**
 Free living bacteria and fungi also fix atmospheric nitrogen.
+|:-------------: | |:-----------: |
+| Aerobic | Azotobacter, Beijerinckia and\_\_Derxia|
+| Anaerobic | Clostridium |
+Photosynthetic | Chlorobium and Rhodospirillum |
+| Chemosynthetic | Disulfovibrio |
+Free living fungi | Yeast and Pullularia |
+|Cyanobacteria | Nostoc, Anabaena and Oscillatoria.|
 
-![](11111.png)
+## Nitrogen cycle and nitrogen metabolism
 
+### Nitrogen cycle
 
-# 12.8 Nitrogen cycle and nitrogen metabolism
+This cycle consists of following stages:
+**1.Fixation of atmospheric nitrogen**
+Di-nitrogen molecule from the atmosphere progressively gets reduced by addition of a pair of hydrogen atoms. Triple bond between two nitrogen atoms (N≡N) are cleaved to produce ammonia (Figure 12.7).
 
-
-## 12.8.1 Nitrogen cycle
- This cycle consists of following stages: 
- 
- **1. Fixation of atmospheric nitrogen** 
- 
- Di-nitrogen molecule from the atmosphere progressively gets reduced by addition of a pair of hydrogen atoms. Triple bond between two nitrogen atoms (N≡N) are cleaved to produce ammonia (Figure 12.7).
-
-Nitrogen fixation process requires Nitrogenase enzyme complex, Minerals (Mo, Fe and S), anaerobic condition, ATP, electron and glucose 6 phosphate as H1 donor. Nitrogenase enzyme is active only in anaerobic condition. To create this anaerobic condition a pigment known as **leghaemoglobin** is synthesized in the nodules which acts as oxygen scavenger and removes the oxygen. Nitrogen fixing bacteria in root nodules appears pinkish due to the presence of this leghaemoglobin pigment. 
-
+Nitrogen fixation process requires Nitrogenase enzyme complex, Minerals (Mo, Fe and S), anaerobic condition, ATP, electron and glucose 6 phosphate as H1 donor. Nitrogenase enzyme is active only in anaerobic condition. To create this anaerobic condition a pigment known as **leghaemoglobin** is synthesized in the nodules which acts as oxygen scavenger and removes the oxygen. Nitrogen fixing bacteria in root nodules appears pinkish due to the presence of this leghaemoglobin pigment.
 Overall equation:
-
-![](123.png)  
-
-![ Nitrogenase enzyme function](12.8.png "")
-
-
-**2. Nitrification** 
-
-Ammonia (NH31) is converted into Nitrite (NO22) by Nitrosomonas bacterium. Nitrite is then converted into Nitrate (NO32) by Nitrobacter bacterium.
-
-Plants are more adapted to absorb nitrate (NO32) than ammonium ions from the soil.
-
-![](1234.png)
-
-**3. Nitrate Assimilation** 
-
-The process by which nitrate is reduced to ammonia is called **nitrate assimilation** and occurs during nitrogen cycle.
-
-![](45.png)
-
-**4. Ammonification** 
-
-Decomposition of organic nitrogen (proteins and amino acids) from dead plants and animals into ammonia is called **ammonification**. Organisim involved in this process are Bacillus ramosus and Bacillus vulgaris.
-
-**5. Denitrification**
-
-Nitrates in the soil are converted back into atmospheric nitrogen by a process called **denitrification**. Bacteria involved in this process are Pseudomonas, Thiobacillus and Bacillus subtilis.
-
-![](123456.png)
-
-![Nitrogen Cycle](12.9.png)
-
-Nitrate Molecular Nitrogen (NO3
-
-
-The overall process of nitrogen cycle is given in Figure 12.8.
-
-### 12.8.2 Nitrogen Metabolism Ammonium Assimilation (Fate of Ammonia)
-
  Ammonia is converted into amino acids by the following processes: 
  
 **1. Reductive amination** 
@@ -343,7 +350,6 @@ Transfer of amino group (NH31) from glutamic acid (glutamate) to keto group of k
 ![](000.png)
 
 **3. Catalytic Amination: (GS/GOGAT Pathway)**
-
 Glutamate amino acid combines with ammonia to form the amide glutamine.
 
 Glutamine reacts with α ketoglutaric acid to form two molecules of glutamate.
@@ -363,9 +369,11 @@ Nutrition is the process of uptake and utilization of nutrients by living organi
 Saprophytes derive nutrients from dead and decaying matter. Bacteria and fungus are main saprophytic organisms. Some angiosperms also follow saprophytic mode of nutrition. Example: Neottia. Roots of Neottia (Bird’s Nest Orchid) associate with mycorrhizae and absorb nutrients as a saprophyte. Monotropa (Indian Pipe) grow on humus rich soil found in thick forests. It absorbs nutrient through mycorrhizal association (Figure 12.9).
 
 ![](12.10.png)
-**Neottia** **Monotropa** (Bird's Nest Orchid) (Indian Pipe)
 
 
+## Special modes of nutrition
+
+Nutrition is the process of uptake and utilization of nutrients by living organisms. There are two main types such as **autotrophic** and **heterotrophic** nutrition. Autotrophic nutrition is further divided into **photosynthetic** and **chemosynthetic** nutrition. Heterotrophic nutrition is further divided into saprophytic, parasitic, symbiotic and insectivorous type. In this topic you are going to learn about special mode of nutrition.
 
 ### 12.9.2 Parasitic mode of nutrition in angiosperms
 
@@ -404,7 +412,6 @@ d. **Cyanobacteria and Coralloid Roots**: This association is found in Cycas whe
 
 ![ Symbiotic mode of nutrition](12.12.png "")
 
-
 ### 12.9.4 Insectivorous mode of nutrition
  Plants which are growing in nitrogen deficient areas develop insectivorous habit to resolve nitrogen deficiency. These plants obtain nitrogen from the insects
  
@@ -417,5 +424,4 @@ c. **Utricularia** (Bladder wort): Submerged plant in which leaf is modified int
 d. **Dionaea** (Venus fly trap): Leaf of this plant modified into a colourful trap. Two folds of lamina consist of sensitive trigger hairs and when insects touch the hairs it will close and traps the insects.(Figure 12.12).
 
 ![ Insectivorous mode of nutrition](12.13.png "")
-
 
