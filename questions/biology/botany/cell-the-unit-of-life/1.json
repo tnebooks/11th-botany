@@ -1,0 +1,19 @@
+{
+  "question": "The two subunits of ribosomes remain united at critical ion level of",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Magnesium",
+      "answer": true
+    },
+    {
+      "value": "Calcium"
+    },
+    {
+      "value": "Sodium"
+    },
+    {
+      "value": "Ferrous"
+    }
+  ]
+}
