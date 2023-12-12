@@ -1,0 +1,19 @@
+{
+  "question": "The correct sequence in cell cycle is",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "S-M-G1-G2",
+      "answer": true
+    },
+    {
+      "value": "S-G1-G2-M"
+    },
+    {
+      "value": "G1-S-G2-M"
+    },
+    {
+      "value": "M-G-G2-S"
+    }
+  ]
+}
