@@ -1,0 +1,19 @@
+{
+  "question": "Phylogenetic classification is the most favoured classification because it reflects",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Comparative Anatomy",
+      "answer": true
+    },
+    {
+      "value": "Number of flowers produced"
+    },
+    {
+      "value": "Comparative cytology"
+    },
+    {
+      "value": "Evolutionary relationships"
+    }
+  ]
+}
