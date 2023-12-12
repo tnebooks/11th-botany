@@ -1,0 +1,19 @@
+{
+  "question": "Identify correct match.",
+  "explanation": "1. Die back disease of citrus - (i) Mo. 2. Whip tail disease - (ii) Zn. 3. Brown heart of turnip - (iii) Cu. 4. Little leaf - (iv) B",
+  "choices": [
+    {
+      "value": "1 (iii) 2 (ii) 3 (iv) 4 (i)",
+      "answer": true
+    },
+    {
+      "value": "1 (iii) 2 (i) 3 (iv) 4 (ii)"
+    },
+    {
+      "value": "1 (i) 2 (iii) 3 (ii) 4 (iv)"
+    },
+    {
+      "value": "1 (iii) 2 (iv) 3 (ii) 4 (i)"
+    }
+  ]
+}
