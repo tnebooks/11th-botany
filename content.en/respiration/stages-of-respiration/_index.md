@@ -1,87 +1,16 @@
 ---
-title: 'Respiration'
-weight: 14
+title: 'Stages of Respiration'
+weight: 5
 ---
 
-
-If you are sleeping under a tree during night time you will feel difficulty in breathing. During night, plants take up oxygen and release carbon dioxide and as a result carbon dioxide will be abundant around the tree. This process of CO2 evolution is called **respiration**. This process takes place during day time also (Figure 14.1). It is accompanied by breakdown of substrates and release of energy. In this chapter, respiration process in plants at cellular level will be dealt with.
-
-
-# 14.1 Gaseous Exchange 
-
-## 14.1.1 Respiration
-The term respiration was coined by **Pepys** (1966). Respiration is a biological process in which oxidation of various food substances like carbohydrates, proteins and fats take place and as a result of this, energy is produced where O2 is taken in and CO2 is liberated. The organic substances which are oxidised during respiration are called respiratory substrates. Among these, glucose is the commonest respiratory substrate. Breaking of C-C bonds
-
-![ Compensation point ## Structure of ATP](14.2.png "")     
-
-of complex organic compounds through oxidation within the cells leads to energy release. The energy released during respiration is stored in the form of **ATP** (Adenosine Tri Phosphate) as well as liberated heat. Respiration occurs in all the living cells of organisms. The overall process of respiration corresponds to a reversal of photosynthesis.
-
-`formulae`
-`C6H12O6 1 6O2 → 6CO2 1 6H2O 1 Energy (686 K cal or 2868 KJ)`
-
-`(1K cal = 4.184 KJ)`
-
-Depending upon the nature of respiratory substrate, **Blackman** divided respiration into,
-
-1. Floating respiration 
-2. Protoplasmic respiration
-
-When carbohydrate or fat or organic acid serves as respiratory substrate and it is called **floating respiration.** It is a common mode of respiration and does not produce any toxic product. Whereas respiration utilizing protein as a respiratory substrate, it is called **protoplasmic respiration**. Protoplasmic respiration is rare and it depletes structural and functional proteins of protoplasm and liberates toxic ammonia.  
-
-### 14.1.2 Compensation point
-At dawn and dusk the intensity of light is low. The point at which CO2 released in respiration is exactly compensated by CO2 fixed in photosynthesis that means no net gaseous exchange takes place, it is called **compensation point**. At this moment, the amount of oxygen released from photosynthesis is equal to the amount of oxygen utilized in respiration. The two common factors associated with compensation point are CO2 and light (Figure 14.2). Based on this there are two types of compensation point. They are CO2 compensation point and light compensation point. C3 plants have compensation points ranging from 40-60 ppm (parts per million) CO2 while those of C4 plants ranges from 1-5 ppm CO2.
-
-![ Molecular structure of ATP](14.3.png "")
-
-# 14.2 Structure of ATP
-
-Respiration is responsible for generation of ATP. The discovery of ATP was made by **Karl Lohman** (1929). ATP is a nucleotide consisting of a base-adenine, a pentose sugar-ribose and three phosphate groups. Out of three phosphate groups the last two are attached by high energy rich bonds (Figure 14.3). On hydrolysis, it releases energy (7.3 K cal or 30.6 KJ/ATP) and it is found in all living cells and hence it is called **universal energy currency of the cell**. ATP is an instant source of energy within the cell. The energy contained in ATP is used in synthesis carbohydrates, proteins and lipids. The energy transformation concept was established by **Lipman** (1941).
-
-
-![ Types of Respiration](14.4.png "")
-
-# 14.3 Redox Reactions
-
-`formulae`
-`NAD1 1 2e - 1 2H1 NADH 1 H1`
-
-`FAD 1 2e- 1 2H1 FADH2`
-
-When NAD1 (Nicotinamide Adenine Dinucleotide-oxidised form) and FAD (Flavin Adenine Dinucleotide) pick up electrons and one or two hydrogen ions (protons), they get reduced to NADH 1 H1 and FADH2 respectively. When they drop electrons and hydrogen off they go back to their original form. The reaction in which NAD1 and FAD gain (reduction) or lose (oxidation) electrons are called **redox reaction** (Oxidation reduction reaction). These reactions are important in cellular respiration.
-
-
-# 14.4 Types of Respiration
- Respiration is classified into two types as aerobic and anaerobic respiration (Figure 14.4)
-
-
-`table`
-![](one.png)
-
-![ Overall stages of Respiration  ](14.5.png "")
-
-
-## 14.4.1 Aerobic respiration
-Respiration occurring in the presence of oxygen is called **aerobic respiration**. During aerobic respiration, food materials like carbohydrates, fats and proteins are completely oxidised into CO2, H2O and energy is released. Aerobic respiration is a very complex process and is completed in four major steps:
-
-1. Glycolysis 
-2. Pyruvate oxidation (Link reaction) 
-3. Krebs cycle (TCA cycle) 
-4. Electron Transport Chain (Terminal oxidation). 
-
-### 14.4.2 Anaerobic respiration
- In the absence of molecular oxygen glucose is incompletely degraded into either ethyl alcohol or lactic acid (Table 14.1). It includes two steps:
-
-1. Glycolysis 2. Fermentation
-
-
-# 14.5 Stages of Respiration
+# Stages of Respiration
 
 1. Glycolysis-conversion of glucose into pyruvic acid in cytoplasm of cell. 
 2. Link reaction-conversion of pyruvic acid into acetyl coenzyme-A in mitochondrial matrix.
 3. Krebs cycle-conversion of acetyl coenzyme A into carbon dioxide and water in the mitochondrial matrix.
 4. Electron transport chain to tranfer electrons remove hydrogen ions and tranfer electrons from the products of glycolysis, link reaction and Krebs cycle It takes place in mitochondrial inner membrane to release ATP with water molecule by terminal oxidation (Figure 14.5).
 
-## 14.5.1 Glycolysis
+## Glycolysis
 
 (Gr: Glykos = 5 Glucose, Lysis =  Splitting) Glycolysis is a linear series of reactions in which 6-carbon glucose is split into two molecules of 3-carbon pyruvic acid. The enzymes which are required for glycolysis are present in the cytoplasm (Figure 14.6). The reactions of glycolysis were worked out in yeast cells by three scientists **Gustav Embden** (German), **Otto** **Meyerhoff** (German) and **J**
 
@@ -110,7 +39,7 @@ The overall net reaction of glycolysis
 
 `2x CH3COCOOH 1 2ATP 12NADH12H1`
 
-### 14.5.2  Pyruvate Oxidation (Link reaction)
+### Pyruvate Oxidation (Link reaction)
 Two molecules of pyruvate formed by glycolysis in the cytosol enters into the mitochondrial matrix. In aerobic respiration this pyruvate with coenzyme A is oxidatively decarboxylated into acetyl CoA by pyruvate dehydrogenase complex. This reaction is irreversible and produces two molecules of NADH 1 H1 and 2CO2. It is also called **transition reaction**
 
 
@@ -126,7 +55,7 @@ Pyruvate dehydrogenase complex consist of three distinct enzymes, such as
 2. Dihydrolipoyil transacetylase
 3. Dihydrolipoyil dehydrogenase and five different coenzymes, TPP (Thymine Pyro Phosphate), NAD1, FAD, CoA and lipoate.
 
-### 14.5.3 Krebs cycle or Citric acid cycle or TCA cycle:
+### Krebs cycle or Citric acid cycle or TCA cycle:
 Two molecules of acetyl CoA formed from link reaction now enter into Krebs cycle. It is named after its discoverer, German Biochemist **Sir Hans Adolf Krebs** (1937). The enzymes necessary for TCA cycle are found in mitochondrial matrix except succinate dehydrogenase enzyme which is found in mitochondrial inner membrane (Figure 14.7).
 
 ![Krebs cycle or Citric acid cycle](14.9.png "")
@@ -157,7 +86,7 @@ Two molecules of pyruvic acid formed at the end of glycolysis enter into the mit
 
 ![ Alternative substrates for respiration](14.10.png "")
 
-### 14.5.4 Electron Transport Chain (ETC) (Terminal oxidation)
+### Electron Transport Chain (ETC) (Terminal oxidation)
 
 During glycolysis, link reaction and Krebs cycle the respiratory substrates are oxidised
 
@@ -216,136 +145,3 @@ When the cost of transport of ATPs from matrix into the cytosol is considered, t
  1 **H**1 **and 1.5 ATPs for each FADH2** oxidised during electron transport system.
 
 Therefore, in plant cells net yield of 30 ATP molecules for complete aerobic oxidation of one molecule of glucose. But in those animal cells (showing malate shuttle mechanism) net yield will be 32 ATP molecules.
-
-# 14.6 Respiratory Quotient (RQ)
- The ratio of volume of carbon dioxide given out and volume of oxygen taken in during respiration is called **Respiratory Quotient or Respiratory ratio**. RQ value depends upon respiratory substrates and their oxidation.
-
-`formulae`
-`RQ = Volume of CO2 liberated / Volume of O2 consumed` 
-
-1. The respiratory substrate is a carbohydrate, it will be completely oxidised in aerobic respiration and the value of the RQ will be equal to unity. 
-
-`formulae`
-`C6H12O6 1 6O2 6CO2 ↑ 1 6H2O 1 Energy Glucose`
-
-`RQ of glucose 5 6 molecules of CO2`
-`6 molecules of O2 = 1 (unity)` 
-
-2. If the respiratory substrate is a carbohydrate it will be incompletely oxidised when it goes through anaerobic respiration and the RQ value will be infinity. 
-
-`formulae`
-`C6H12O6 2CO2↑1 2C2H5OH 1 Energy Glucose Ethyl alcohol  }RQ of glucose 5 2 molecules of CO2 Anaerobically zero molecule of O2 5 ∞ (infinity)`
-
-3. In some succulent plants like O_puntia, Bryophyllum_ carbohydrates are partially oxidised to organic acid, particularly malic acid without corresponding release of CO2 but O2 is consumed hence the RQ value will be zero. 
-
-`formulae`
-`2C6H12O6 1 3O2 3C4H6O5 1 3H2O 1 Energy Glucose Malic acid RQ of glucose 5 zero molecule of CO2 in succulents 3 molecules of O2 5 0 (zero)`
-
-4. When respiratory substrate is protein or fat, then RQ will be less than unity. 
-
-`formulae`
-`2(C51H98O6) 1 145O2 102CO2↑1 98H2O 1 Energy Tripalmitin(Fat) RQ of 5 102 molecules of CO2 Tripalmitin 145 molecules of O2 5 0.7 (less than unity)` 
-
-5. When respiratory substrate is an organic acid the value of RQ will be more than unity. 
-
-`formulae`
-`C4H6O5 1 3O2 4CO2 ↑1 3H2O 1 Energy Malic acid RQ of 5 4 molecules of CO2 malic acid 3 molecules of O2 5 1.33 (more than unity)` 
-
-**Significance of RQ** 
-1. RQ value indicates which type of respiration occurs in living cells, either aerobic or anaerobic.
-
-2. It also helps to know which type of respiratory substrate is involved.
-
-
-# 14.7 Anaerobic Respiration 
-
-## 14.7.1 Fermentation
-Some organisms can respire in the absence of oxygen. This process is called **fermentation or anaerobic**
-
-`table`
-![](three.png)
-
-
-**respiration** (Figure 14.12). There are three types of fermentation: 
-1. Alcoholic fermentation 
-2. Lactic acid fermentation 
-3. Mixed acid fermentation
-
-
-**1. Alcoholic fermentation** The cells of roots in water logged soil respire by alcoholic fermentation because of lack of oxygen by converting pyruvic acid into ethyl alcohol and CO2. Many species of yeast (Saccharomyces) also respire anaerobically. This process takes place in two steps:
-
-`formulae`
-`(i) 2CH3COCOOH Pyruvate decarboxylase TPP 2CH3CHO 1 2CO2↑ Pyruvic acid Acetaldehyde`
-`(ii) 2CH3CHO 1 2NADH12H1 Alcohol dehydrogenase Acetaldehyde 2CH3CH2OH 1 2NAD1 Ethyl alcohol`
-
-![Anaerobic Respiration](four.png "")
-
-**Industrial uses of alcoholic fermentation:** 
-1. In bakeries, it is used for preparing bread, cakes, biscuits. 
-
-2. In beverage industries for preparing wine and alcoholic drinks. 
-
-3. In producing vinegar and in tanning, curing of leather. 
-
-4. Ethanol is used to make gasohol (a fuel that is used for cars in Brazil). 
-
-**2. Lactic acid fermentation** Some bacteria (_Bacillus_), fungi and muscles of vertebrates produce lactic acid from pyruvic acid (Table 14.3).
-
-`formulae`
-`2CH3COCOOH 1 2NADH12H1 Pyruvic acid  2CH3CHOHCOOH 1 2NAD1 Lactic acid`
-
-**3. Mixed acid fermentation** This type of fermentation is a characteristic feature of Enterobacteriaceae and results in the formation of lactic acid, ethanol, formic acid and gases like CO2 and H2.
-
-**Characteristics of Anaerobic Respiration** 
-1. Anaerobic respiration is less efficient than the aerobic respiration (Figure 14.12). 
-
-2. Limited number of ATP molecules is generated per glucose molecule (Table 14.4). 
-
-3. It is characterized by the production of CO2 and it is used for Carbon fixation in photosynthesis.
-
-`table`
-![](five.png)
-
-
-# 14.8  Factors Affecting Respiration
-
-![](six.png)
-
-# 14.9 Pentose Phosphate Pathway (Phospho Gluconate Pathway)
-
-During respiration breakdown of glucose in cytosol occurs both by glycolysis (about 2/3) as well as by oxidative pentose phosphate pathway (about 1/3). Pentose phosphate pathway was described by **Warburg**, **Dickens** and **Lipmann**  (1938). Hence, it is also called **Warburg-Dickens-Lipmann** pathway. It takes place in cytoplasm of mature plant cells. It is an alternate way for breakdown of glucose (Figure 14.15).
-
-![Fate of Glucose in HMP shunt
-and Glycolysis](seven.png)
-
-
-It is also known as **Hexose monophosphate shunt (HMP Shunt) or Direct Oxidative Pathway**. It consists of two phases, oxidative phase and non-oxidative phase. The oxidative events convert six molecules of six carbon Glucose-6-phosphate to 6 molecules of five carbon sugar Ribulose-5 phosphate with loss of 6CO2 molecules and generation of 12  NADPH 1 H1 (not  NADH). The remaining reactions known as **non-oxidative pathway**, convert Ribulose-5-phosphate molecules to various intermediates such as Ribose-5-phosphate(5C), Xylulose5-phosphate(5C), Glyceraldehyde-3- phosphate(3C), Sedoheptulose-7-Phosphate (7C), and Erythrose-4-phosphate (4C). Finally, five molecules of glucose-6- phosphate is regene-rated (Figure 14.16). The overall reaction is:  
-
-`formulae`
-`6 x Glucose-6-Phosphate 1 12NADP1 1 6H2O`
-
-`5 x Glucose-6-Phosphate 1 6CO2 1 Pi 1 12NADPH 112H1`
-
-The net result of complete oxidation of one glucose-6-phosphate yield 6CO2 and 12NADPH 1 H1. The oxidative pentose 
-
-![Pentose phosphate pathway or HMP shunt](eight.png)
-
-
-phosphate pathway is controlled by glucose- 6-phosphate dehydrogenase enzyme which is inhibited by high ratio of NADPH to NADP1.
-
-Significance of pentose phosphate pathway 
-
-1. HMP shunt is associated with the generation of two important products, NADPH and pentose sugars, which play a vital role in anabolic reactions.
-
-2. Coenzyme NADPH generated is used for reductive biosynthesis and counter damaging the effects of oxygen free radicals
-
-3. Ribose-5-phosphate and its derivatives are used in the synthesis of DNA, RNA, ATP, NAD1, FAD and Coenzyme A.
-
-4. Erythrose is used for synthesis of anthocyanin, lignin and other aromatic compounds.
-
-5. It plays a role on fixation of Co2 in photosynthesis through RUBP.
-
-
-
-
-
