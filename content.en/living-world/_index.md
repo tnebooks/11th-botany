@@ -1,6 +1,8 @@
 ---
 title: "Living World"
 weight: 1
+categories:
+    - living-world
 ---
 
 The learner will be able to,
