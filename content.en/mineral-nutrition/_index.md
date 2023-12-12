@@ -1,9 +1,7 @@
 ---
-title: 'Mineral Nutrition'
+title: "Mineral Nutrition"
 weight: 12
 ---
-
-
 
 As a traveller you would have got a chance to observe the plants. It is an interesting fact that all plants are not alike. Just spend some time to observe the nature. You can notice plants with attractive leaves, flowers and fruits.
 
@@ -31,7 +29,6 @@ Minerals like Sodium, Silicon, Cobalt and Selenium are not included in the list 
 
 ### 12.1.2 Classification of minerals based on mobility
 
-
 If you observe where the deficiency symptoms appear first, you can notice differences in old and younger leaves. It is mainly due to mobility of minerals. Based on this, they are classified into 1. Actively mobile minerals and 2. Relatively immobile minerals (Figure 12.1).
 
 **a. Actively mobile minerals** 
@@ -46,11 +43,9 @@ Calcium, Sulphur, Iron, Boron and Copper shows deficiency symptoms first that ap
 
 ![](1.png)
   
-
 on young leaves due to the immobile nature of minerals
 
 ![ Mobility of Minerals](12.1.png "")
-
 
 ### 12.1.3 Classification of minerals based on their functions
 
@@ -61,6 +56,7 @@ Minerals like Carbon, Hydrogen, Oxygen and Nitrogen
 
 **b. Enzyme function**: 
 
+**b. Enzyme function**: 
 
 Molybdenum (Mo) is essential for nitrogenase enzyme during reduction of atmospheric nitrogen into ammonia. Zinc (Zn)is an important activator for alcohol dehydrogenase and carbonic anhydrase. Magnesium (Mg) is the activator for RUBP carboxylase- oxygenase and PEP carboxylase. Nickel (Ni) is a constituent of urease and hydrogenase.
 
@@ -71,9 +67,9 @@ Potassium (K) plays a key role in maintaining osmotic potential of the cell. The
 **d. Energy components:** 
 
 Magnesium (Mg) in chlorophyll and phosphorous (P) in ATP.
-
 # 12.2 Functions, mode of absorption and deficiency symptoms of macronutrients
 
+Macronutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases are discussed here:
 
 Macronutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases are discussed here:  
 
@@ -88,15 +84,14 @@ It is required by the plants in greatest amount. It is an essential component of
 Constituent of cell membrane, proteins, nucleic acids, ATP, NADP, phytin and sugar phosphate. It is absorbed as H2PO4 1 and HPO4 2 ions.
 
 **Deficiency symptoms:** 
-
 Stunted growth, anthocyanin formation, necrosis, inhibition of cambial activity, affect root growth and fruit ripening.
 
-**3. Potassium (K):** 
 
+**3. Potassium (K):** 
 Maintains turgidity and osmotic potential of the cell, opening and closure of stomata, phloem translocation, stimulate activity of enzymes, anion and cation balance by ion-exchange. It is absorbed as K1 ions.
 
-**Deficiency symptoms:** 
 
+**Deficiency symptoms:** 
 Marginal chlorosis, necrosis, low cambial activity, loss of apical dominance, lodging in cereals and curled leaf margin.
 
 **4. Calcium (Ca):** 
@@ -111,23 +106,17 @@ Chlorosis, necrosis, stunted growth, premature fall of leaves and flowers, inhib
 
 It is a constituent of chlorophyll, activator of enzymes of carbohydrate metabolism (RUBP Carboxylase and PEP Carboxylase) and involved in the synthesis of DNA and RNA. It is essential for binding of ribosomal sub units. It is absorbed as Mg21 ions.
 
-**Deficiency symptoms:** Inter veinal chlorosis, necrosis, anthocyanin (purple) formation and Sand drown of tobacco.
-
 **6. Sulphur (S):** Essential component of amino acids like cystine, cysteine and methionine, constituent of coenzyme A, Vitamins like biotin and thiamine, constituent of proteins and ferredoxin. plants utilise sulphur as sulphate (SO42) ions.
 
 **Deficiency symptoms:** Chlorosis, anthocyanin formation, stunted growth, rolling of leaf tip and reduced nodulation in legumes.
 
-
 # 12.3 Functions, mode of absorption and deficiency symptoms of micronutrients
 
-
 Micronutrients even though required in trace amounts are essential for the metabolism of plants. They play key roles in many plants. Example: Boron is essential for translocation of sugars, molybdenum is involved in nitrogen metabolism and zinc is needed for biosynthesis of auxin. Here, we will study about the role of micro nutrients, their functions, their mode of absorption, deficiency symptoms and deficiency diseases. 
-
 
 **1. Iron (Fe):** 
 
 Iron is required lesser than macronutrient and larger than micronutrients, hence, it can be placed in any one of the groups. Iron is an essential element for the synthesis of chlorophyll and carotenoids. It is the component of cytochrome, ferredoxin, flavoprotein, formation of chlorophyll, porphyrin, activation of catalase, peroxidase enzymes. It is absorbed as ferrous (Fe21) and ferric (Fe31) ions. Absorbtion of Fe2+ ions are comparitively more than Fe3+ ions. Mostly fruit  trees are sensitive to iron. 
-
 
 **Deficiency:** Interveinal Chlorosis, formation of short and slender stalk and inhibition of chlorophyll formation.
 
@@ -146,9 +135,6 @@ Constituent of plastocyanin, component of phenolases, tyrosinase, enzymes involv
 **4. Zinc (Zn):** 
 
 Essential for the synthesis of Indole acetic acid (Auxin), activator of carboxylases, alcohol dehydrogenase, lactic dehydrogenase, glutamic acid dehydrogenase, carboxy peptidases and tryptophan synthetase. It is absorbed as Zn21 ions.
-
-**Deficiency:** Little leaf and mottle leaf due to deficiency of auxin, Inter veinal chlorosis, stunted growth, necrosis and Khaira disease of rice.
-
 
 **5. Boron (B):** 
 
@@ -175,19 +161,16 @@ It is involved in Anion – Cation balance, cell division, photolysis of water. 
 # 12.4 Deficiency diseases and symptoms
  The following table (Table 12.2) gives you an idea Minerals and their Deficiency symptoms:
 
-
 ![](2.png)
 
 
 # 12.5 Critical concentration and toxicity of minerals
-
 
 ## 12.5.1  Critical Concentration
 
 To increase the productivity and also to avoid mineral toxicity knowledge of critical concentration is essential. Mineral nutrients lesser than critical concentration cause deficiency symptoms. Increase of mineral nutrients more than the normal concentration causes toxicity. A concentration, at which 10 % of the dry weight of tissue is reduced, is considered as toxic. Figure 12.2 explains about Critical Concentration.
 
 ![](12.4.png)
-
 
 ### 12.5.2 Mineral Toxicity 
 
@@ -219,15 +202,87 @@ developed a method of growing plants in nutrient solution. The commonly used nut
 
 ![ Nitrogen fixation](1111.png "")
 
+##  12.7.1 Non – Biological nitrogen fixation
+
+ - Nitrogen fixation by chemical process in
+
+**5. Boron (B):** Translocation of carbohydrates, uptake and utilisation of Ca11, pollen germination, nitrogen metabolism, fat metabolism, cell elongation and differen- tiation. It is absorbed as (borate) BO32 ions.
+
+**Deficiency:** Death of root and shoot tips, premature fall of flowers and fruits, brown heart of beet root, internal cork of apple and fruit cracks.
+
+**6. Molybdenum (Mo):** Component of nitrogenase, nitrate reductase, involved in nitrogen metabolism, and nitrogen fixation. It is absorbed as molybdate (Mo21) ions.
+
+**Deficiency:** Chlorosis, necrosis, delayed flowering, retarded growth and whip tail disease of cauliflower.
+
+**7. Chlorine (Cl):** It is involved in Anion – Cation balance, cell division, photolysis of water. It is absorbed as Cl2 ions.
+
+**Deficiency:** Wilting of leaf tips
+
+## Deficiency diseases and symptoms
+
+The following table (Table 12.2) gives you an idea about Minerals and their Deficiency symptoms:
+
+**Table 12.2: Deficiency disease and symptoms**
+
+|                 Name of the deficiency disease and symptoms                  |                              Deficiency minerals                              |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|                            1. Chlorosis (Overall)                            | Nitrogen, Potassium, Magnesium, Sulphur, Iron,Manganese, Zinc and Molybdenum. |
+|                           a. Interveinal chlorosis                           |                     Magnesium, Iron, Manganese and Zinc.                      |
+|                            b. Marginal chlorosis                             |                                  Potassium.                                   |
+|                      2. Necrosis (Death of the tissue)                       |          Magnesium, Potassium, Calcium, Zinc, Molybdenumand Copper.           |
+|                              3. Stunted growth                               |             Nitrogen, Phosphorus, Calcium, Potassium and Sulphur.             |
+|                           4. Anthocyanin formation                           |                  Nitrogen, Phosphorus, Magnesium and Sulphur                  |
+|                             5. Delayed flowering                             |                       Nitrogen, Sulphur and Molybdenum                        |
+| 6. Die back of shoot, Reclamation disease,Exanthema in citrus (gums on bark) |                                    Copper                                     |
+|                              7. Hooked leaf tip                              |                                    Calcium                                    |
+|                                8. Little Leaf                                |                                     Zinc                                      |
+|            9. Brown heart of Beet root and Internalcork of apple             |                                     Boron                                     |
+|                   10. Whiptail of cauliflower and cabbage                    |                                  Molybdenum                                   |
+|                            11. Curled leaf margin                            |                                   Potassium                                   |
+
+## Critical concentration and toxicity of minerals
+
+### Critical Concentration
+
+To increase the productivity and also to avoid mineral toxicity knowledge of critical concentration is essential. Mineral nutrients lesser than critical concentration cause deficiency symptoms. Increase of mineral nutrients more than the normal concentration causes toxicity. A concentration, at which 10 % of the dry weight of tissue is reduced, is considered as toxic. Figure ##12.2 explains about Critical Concentration.
+
+![Alt text](image.png)
+
+### Mineral Toxicity
+
+**a. Manganese toxicity**
+Increased Concentration of Manganese will prevent the uptake of Fe and Mg, prevent translocation of Ca to the shoot apex and cause their deficiency. The symptoms of manganese toxicity are appearance of brown spots surrounded by chlorotic veins.
+####b. Aluminium Toxicity
+Aluminium toxicity causes precipitation of nucleic acid, inhibition of ATPase, inhibition of cell division and binding of plasma membrane with Calmodulin.For theories regarding, translocation of minerals please refer Chapter- 11.
+
+## Hydroponics and Aeroponics
+
+**1. Hydroponics or Soilless culture:Von Sachs** developed a method of growing plants in nutrient solution. The commonly used nutrient solutions are **Knop solution** (1865) and **Arnon** and **Hoagland** **Solution** (1940). Later the term Hydroponics was coined by **Goerick** (1940) and he also introduced commercial techniques for hydroponics. In hydroponics roots are immersed in the solution containing nutrients and air is supplied with help of tube (Figure 12.3).
+
+![Alt text](image-1.png)
+
+![: Hydroponics](12.5.png)
+
+**Aeroponics:** This technique was developed by **Soifer Hillel** and **David Durger**. It is a system where roots are suspended in air and nutrients are sprayed over the roots by a motor driven rotor (Figure 12.4).
+
+![ Aeroponics ## Nitrogen Fixation](12.6.png "")
+
+# 12.7 Nitrogen Fixation
+
+ Inspiring act of nature is self-regulation. As all living organisms act as tools for biogeochemical cycles, nitrogen cycle is highly regulated. Life on earth depends on nitrogen cycle. Nitrogen occurs in atmosphere in the form of N2 (N≡N), two nitrogen atoms joined together by strong triple covalent bonds. The process of converting atmospheric nitrogen (N2) into ammonia is termed as nitrogen fixation. Nitrogen fixation can occur by two methods: 1. Biological; 2. Non-Biological (Figure 12.5).
+
+![ Nitrogen fixation](1111.png "")
+
 
 ##  12.7.1 Non – Biological nitrogen fixation
 
  - Nitrogen fixation by chemical process in
 
-industry. 
-- Natural electrical discharge during
 
-lightening fixes atmospheric nitrogen.
+
+- Nitrogen fixation by chemical process inindustry.
+- Natural electrical discharge during
+  lightening fixes atmospheric nitrogen.
 
 ### 12.7.2 Biological nitrogen fixation
 
@@ -344,6 +399,7 @@ Transfer of amino group (NH31) from glutamic acid (glutamate) to keto group of k
 
 **3. Catalytic Amination: (GS/GOGAT Pathway)**
 
+**3. Catalytic Amination: (GS/GOGAT Pathway)**
 Glutamate amino acid combines with ammonia to form the amide glutamine.
 
 Glutamine reacts with α ketoglutaric acid to form two molecules of glutamate.
@@ -365,10 +421,11 @@ Saprophytes derive nutrients from dead and decaying matter. Bacteria and fungus 
 ![](12.10.png)
 **Neottia** **Monotropa** (Bird's Nest Orchid) (Indian Pipe)
 
+## Special modes of nutrition
 
+Nutrition is the process of uptake and utilization of nutrients by living organisms. There are two main types such as **autotrophic** and **heterotrophic** nutrition. Autotrophic nutrition is further divided into **photosynthetic** and **chemosynthetic** nutrition. Heterotrophic nutrition is further divided into saprophytic, parasitic, symbiotic and insectivorous type. In this topic you are going to learn about special mode of nutrition.
 
 ### 12.9.2 Parasitic mode of nutrition in angiosperms
-
 
 Organisms deriving their nutrient from another organism (host) and causing disease to the host are called parasites. 
 
@@ -393,7 +450,7 @@ ii. **Partial root parasite**: Example: Santalum album (Sandal wood tree) in its
 
 ### 12.9.3 Symbiotic mode of Nutrition
  
- 
+
 a. **Lichens**: It is a mutual association of Algae and Fungi. Algae prepares food and fungi absorbs water and provides thallus structure.
 
 b. **Mycorrhizae**: Fungi associated with roots of higher plants including Gymnosperms. Example: Pinus.
@@ -403,7 +460,6 @@ c. **Rhizobium and Legumes**: This symbiotic association fixes atmospheric nitro
 d. **Cyanobacteria and Coralloid Roots**: This association is found in Cycas where Nostoc associates with its coralloid roots. (Figure 12.11).
 
 ![ Symbiotic mode of nutrition](12.12.png "")
-
 
 ### 12.9.4 Insectivorous mode of nutrition
  Plants which are growing in nitrogen deficient areas develop insectivorous habit to resolve nitrogen deficiency. These plants obtain nitrogen from the insects
@@ -417,5 +473,4 @@ c. **Utricularia** (Bladder wort): Submerged plant in which leaf is modified int
 d. **Dionaea** (Venus fly trap): Leaf of this plant modified into a colourful trap. Two folds of lamina consist of sensitive trigger hairs and when insects touch the hairs it will close and traps the insects.(Figure 12.12).
 
 ![ Insectivorous mode of nutrition](12.13.png "")
-
 

@@ -1,0 +1,14 @@
+{
+  "question" : "Which one of the following statement about virus is correct?",
+  "explanation" : "",
+  "choices" : [ {
+    "value" : "Possess their own metabolic system",
+    "answer" : true
+  }, {
+    "value" : "They are facultative parasites"
+  }, {
+    "value" : "They contain DNA or RNA"
+  }, {
+    "value" : "Enzymes are present"
+  } ]
+}

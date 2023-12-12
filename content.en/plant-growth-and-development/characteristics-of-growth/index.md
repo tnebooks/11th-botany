@@ -4,6 +4,13 @@ weight: 1
 references:
     videos:
         - youtube:3EYZbCbowNE
+    books:
+        - b1:
+            title: Plant Physiology and Development
+            url: https://amzn.eu/d/9jvQWzQ
+        - b2:
+            title: A Textbook Of Plant Physiology, Biochemistry And Biotechnology
+            url: https://amzn.eu/d/4EbJUpv
 ---
 
 - Growth increases in protoplasm at cellular level. 

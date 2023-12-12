@@ -1,0 +1,19 @@
+{
+  "question": "Which of the plant group has gametophyte as a dominant phase?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Pteridophytes",
+      "answer": true
+    },
+    {
+      "value": "Bryophytes"
+    },
+    {
+      "value": "Gymnosperm"
+    },
+    {
+      "value": "Angiosperm"
+    }
+  ]
+}
