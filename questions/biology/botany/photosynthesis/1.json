@@ -1,0 +1,19 @@
+{
+  "question": "Assertion (A): Increase in Proton gradient inside lumen responsible for ATP synthesis",
+  "explanation": "Reason (R): Oxygen evolving complex of PS I located on thylakoid membrane facing Stroma, releases H1 ions",
+  "choices": [
+    {
+      "value": "Both Assertion and Reason are True.",
+      "answer": true
+    },
+    {
+      "value": "Assertion is True and Reason is False."
+    },
+    {
+      "value": "Reason is True and Assertion is False."
+    },
+    {
+      "value": "Both Assertion and Reason are False."
+    }
+  ]
+}
