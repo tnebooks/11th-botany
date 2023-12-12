@@ -1,0 +1,19 @@
+{
+  "question": "In a fully turgid cell",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "DPD = 10 atm; OP = 5 atm;TP = 10 atm",
+      "answer": true
+    },
+    {
+      "value": "DPD = 0 atm; OP = 10 atm;TP = 10 atm"
+    },
+    {
+      "value": "DPD = 0 atm; OP = 5 atm;TP = 10 atm"
+    },
+    {
+      "value": "DPD = 20 atm; OP = 20 atm;TP = 10 atm"
+    }
+  ]
+}

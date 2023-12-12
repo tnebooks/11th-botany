@@ -1,0 +1,19 @@
+{
+  "question": "விறைப்பழுத்தம் உடைய செல்லில்",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "DPD = 10 வளி; OP = 5 வளி;TP = 10 வளி",
+      "answer": true
+    },
+    {
+      "value": "DPD = 0 வளி; OP = 10 வளி;TP = 10 வளி"
+    },
+    {
+      "value": "DPD = 0 வளி; OP = 5 வளி;TP = 10 வளி"
+    },
+    {
+      "value": "DPD = 20 வளி; OP = 20 வளி;TP = 10 வளி"
+    }
+  ]
+}
