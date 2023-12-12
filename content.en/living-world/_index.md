@@ -3,6 +3,16 @@ title: "Living World"
 weight: 1
 categories:
     - living-world
+references:
+    videos:
+        - youtube:v426ufEpbQ
+    books:
+        - b1:
+            title: Introductory Mycology
+            url: https://amzn.eu/d/cYRaXPx
+        - b2:
+            title: Plant biology
+            url: https://amzn.eu/d/gUG4EAa
 ---
 
 The learner will be able to,
