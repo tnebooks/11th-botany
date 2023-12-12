@@ -1,0 +1,19 @@
+{
+  "question": "The number of ATP molecules formed by complete oxidation of one molecule of pyruvicacid is",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "12",
+      "answer": true
+    },
+    {
+      "value": "13"
+    },
+    {
+      "value": "14"
+    },
+    {
+      "value": "15"
+    }
+  ]
+}
