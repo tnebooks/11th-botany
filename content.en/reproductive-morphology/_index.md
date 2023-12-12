@@ -75,15 +75,11 @@ free **(apocarpous)** G(3) – Carpels three, united **(syncarpous)** G0 – pis
 
 **Br Brl K (5) C 5 A(∞)G(5)**
 
-![No Desc](4.26.png)
-
 **Br Ebrl**
 
 **Male Flower**
 
 •
-
-![No Desc](4.2.png)
 
 **Br Ebrl**
 
