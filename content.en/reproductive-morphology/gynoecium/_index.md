@@ -77,3 +77,5 @@ It describes placement of the perianth and androecium relative to the ovary and 
 **Hypanthium ( Staminal disk)** : a fleshy elevated often nectariferous cup like thalamus
 
 ---
+
+![Alt text](4.30.png)
