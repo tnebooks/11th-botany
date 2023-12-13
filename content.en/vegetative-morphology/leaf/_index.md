@@ -48,9 +48,9 @@ iii. Lamina (Epipodium)
 The part of the leaf attached to the node of the stem is called **leaf base.** Usually it protects the growing buds at its axil. **Pulvinus:** In legumes leaf base become broad and swollen which is known as **pulvinus.** Example: _Clitoria, Lablab, Cassia, Butea_. **Sheathing leafbase: In many monocot families** such as Arecaceae, Musaceae, Zingiberaceae and Poaceae the leafbase extends into a sheath and clasps part or whole of the internode. Such leafbase also leave permanent scars on the stem when they fall.
 
 **II. Petiole (stipe or mesopodium)** It is the bridge between lamina and stem. Petiole or leaf stalk is a cylindrical or sub cylindrical or flattened structure of a leaf which joins the lamina with the stem. A leaf with petiole are said to be **petiolate.** Example: _Ficus, Hibiscus._ Leaves that do not possess petiole is said to be **sessile**. Example*: Calotropis.*
-
-**Figure 3.11: (a)** Parts of the leaf **(b)** Pulvinus leaf base **(c)** Sheathing leaf base
 ![Alt text](3.12.png)
+**Figure 3.11: (a)** Parts of the leaf **(b)** Pulvinus leaf base **(c)** Sheathing leaf base
+
 **III. Lamina (Leaf blade)** The expanded flat green portion of the leaf is the blade or lamina. It is the seat of photosynthesis,gaseous exchange, transpiration and most of the metabolic reactions of the plant. The lamina is traversed by the midrib from which arise numerous lateral veins and thin veinlets. The lamina shows great variations in its shape, margin, surface, texture, colour, venation and incision.
 
 **Stipules**
@@ -61,13 +61,21 @@ In most of the dicotyledonous plants, the leaf base bears one or two lateral app
 
 The arrangement of veins and veinlets on the leaf blade or lamina is called **venation.** Internally, the vein contains vascular tissues. Conventionally venation is classified into two types namely, Reticulate venation and Parallel venation.
 
-**I. Reticulate venation** In this type of venation leaf contain a prominent midrib from which several secondary veins arise that branch and anastomose like a network. This type of venation is common in all dicot leaves. It is of two types.
+**I. Reticulate venation** 
+In this type of venation leaf contain a prominent midrib from which several secondary veins arise that branch and anastomose like a network. This type of venation is common in all dicot leaves. It is of two types.
 
 1. **Pinnately reticulate venation (unicostate):**
 
 In this type of venation there is only one midrib in the centre which forms many lateral branches to form a network. Example: _Mangifera indica._
 
 2. **Palmately reticulate venation (multicostate):** In this type of venation there are two or more principal veins arising from a single point and they proceed outwards or upwards. The two types of palmate reticulate venation are
+
+
+![ Types of reticulate venation](3.13.png)
+
+**(a)** Pinnately reticulate 
+**(b)** Palmately reticulate (Divergent) 
+**(c)** Palmately reticulate (Convergent)
 
 i. **Divergent type:** When all principal veins originate from the base and diverge from one another towards the margin of the leaf as in _Carica papaya_.
 
@@ -83,15 +91,12 @@ ii. **Convergent:** When the veins converge to the apex of the leaf, as in India
 
 **ii.Convergent type:** All principal veins run parallel to each other from the base of the lamina and join at the apex as in Bamboos, rice, water hyacinth.
 
-![ Types of reticulate venation](3.13.png)
 
-**(a)** Pinnately reticulate **(b)** Palmately reticulate (Divergent) **(c)** Palmately reticulate (Convergent)
-
+![Alt text](3.14.png)
 ## Phyllotaxy
 
 The mode of arrangement of leaves on the stem is known as **phyllotaxy (Gk. Phyllon** \= **leaf ; taxis** \= **arrangement**)**.** Phyllotaxy is to avoid over crowding of leaves and expose the leaves maximum to the sunlight for photosynthesis. The four main types of phyllotaxy are (1) Alternate (2) Opposite (3) Ternate (4) Whorled.
 
-![Alt text](3.14.png)
 
 **1. Alternate phyllotaxy**
 
@@ -119,10 +124,13 @@ In leaf mosaic leaves tend to fit in with one another and adjust themselves in s
 
 ## Leaf type
 
-The pattern of division of a leaf into discrete components or segments is termed leaf type. Based on the number of segments **I. Simple leaf** A leaf is said to be simple when the petiole bears a single lamina; lamina may be entire(undivided) Example: Mango or incised to any depth but not upto the midrib or petiole. Example: _Cucurbita_.
+The pattern of division of a leaf into discrete components or segments is termed leaf type. Based on the number of segments 
+
+**I. Simple leaf** A leaf is said to be simple when the petiole bears a single lamina; lamina may be entire(undivided) Example: Mango or incised to any depth but not upto the midrib or petiole. Example: _Cucurbita_.
 ![Alt text](3.15.png)
 
-**II. Compound leaf** Compound leaf is one in which the main rachis bears more than one lamina surface, called **leaflets.** Compound leaves have evolved to increase total lamina surface. There is one axillary bud in the axil of the whole compound leaf. The leaflets however, do not possess axillary buds.
+**II. Compound leaf** 
+Compound leaf is one in which the main rachis bears more than one lamina surface, called **leaflets.** Compound leaves have evolved to increase total lamina surface. There is one axillary bud in the axil of the whole compound leaf. The leaflets however, do not possess axillary buds.
 **1. Pinnately compound leaf** A pinnately compound leaf is defined as one in which the rachis, bears laterally a number of leaflets, arranged alternately or in an opposite manner, as in Tamarindus, _Cassia._
 
 i. **Unipinnate:** The rachis is simple and unbranched which bears leaflets directly on its sides in alternate or opposite manner. Example: _Rose_, _Neem_. Unipinnate leaves are of two types.

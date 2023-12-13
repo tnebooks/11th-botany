@@ -21,7 +21,8 @@ The learner will be able to,
 **3.6** Shoot system
 **3.7** Leaf
 
-The study of various external features of the organism is known as **Morphology.** **Plant Morphology** is also known as **external morphology that** deals with the study of shape, size and structure of plants and their parts (roots, stems, leaves, flowers, fruits and seeds). Study of Morphology is important in Taxonomy. Morphological features are important in determining productivity of crops. Morphological characters indicate the specific habitats of living as well as the fossil plants and help to correlate the distribution in space and time of fossil plants. Morphological features are also significant for phylogeny. **Plant Morphology can be studied under two broad categories:**
+The study of various external features of the organism is known as **Morphology.** **Plant Morphology** is also known as **external morphology that** deals with the study of shape, size and structure of plants and their parts (roots, stems, leaves, flowers, fruits and seeds). Study of Morphology is important in Taxonomy. Morphological features are important in determining productivity of crops. Morphological characters indicate the specific habitats of living as well as the fossil plants and help to correlate the distribution in space and time of fossil plants. Morphological features are also significant for phylogeny. 
+**Plant Morphology can be studied under two broad categories:**
 
 A. **Vegetative Morphology –** It includes shoot system and root system
 

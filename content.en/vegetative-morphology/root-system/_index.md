@@ -7,7 +7,8 @@ references:
 
 # Root System
 
-The root is non-green, cylindrical descending axis of the plant that usually grows into the soil (positively geotropic). It develops from the radicle which is the first structure that comes out when a seed is placed in the soil. Root is responsible for absorption of water and nutrients and anchoring the plant. **I. Characteristic features**
+The root is non-green, cylindrical descending axis of the plant that usually grows into the soil (positively geotropic). It develops from the radicle which is the first structure that comes out when a seed is placed in the soil. Root is responsible for absorption of water and nutrients and anchoring the plant. 
+**I. Characteristic features**
 
 - Root is the descending portion of the plant axis.
 - Generally non-green in colour as it lacks chlorophyll.
@@ -46,7 +47,7 @@ Root developing from any part of the plant other than radicle is called **advent
 ![Alt text](<Root Zones.png>)
 roots arise from various regions of the plant body. These are bunch of thread-like roots nearly equal in size which are collectively called **fibrous** root system generally found in grasses. Example: _Oryza sativa, Eleusine coracana_.
 
-## Functions of root
+### Functions of root
 
 Root performs two kinds of functions namely primary and secondary functions.
 
@@ -59,7 +60,7 @@ Root performs two kinds of functions namely primary and secondary functions.
 
 In some plants roots perform additional functions. These are called **secondary functions.** To perform additional functions, structure of roots are modified.
 
-## Modifications of root
+### Modifications of root
 
 I. Tap root modification
 
