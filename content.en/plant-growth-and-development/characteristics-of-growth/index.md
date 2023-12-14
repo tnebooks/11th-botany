@@ -26,9 +26,9 @@ references:
 - Monocarpic perennials produce flowers only once during life time but the plants survive for many years. `Example: Bamboo.`
 - Polycarpic perennials produce flowers every year during life time. `Example: Coconut.`
 
-![Bamboos](bamboos.png "w-35 float-end")
+![Bamboos](bamboos.png "w-50 float-end")
 
-![Saguaro Cactus](saguaro-cactus.png "w-35 float-end")
+![Saguaro Cactus](saguaro-cactus.png "w-50 float-end")
 
 ## Kinetics of growth
 
@@ -74,11 +74,11 @@ If the length of a plant organ is plotted against time, it shows a linear curve 
 
 For example, starting with a single cell after round 1 of cell division there is one dividing cell and one body cell. After round 2 there are two body cells, after round 3 there are three and so on
 
-![Arithmetic Growth Rate](arithmetic-growth-rate.png "w-35 float-end")
+![Arithmetic Growth Rate](arithmetic-growth-rate.png "w-50 float-end")
 
 The plants single dividing cell would undergo one million rounds of nuclear and undergo one million rounds of nuclear and cellular division. If each round requires one day, this type of arithmetic increase would require one million days or 2739.7 years. This arithmetic rate is capable of producing small number of cells present in very small parts of plants. For example the hair on many leaves and stems consists of just a single row of cells produced by the division of the basal cell, the cell at the bottom of the hair next to other epidermal cells. Hair may contain 5 to 10 cells by the division of the basal cell. So, all its cells could be produced in just five to ten days. In the figure 15.2, on plotting the hight of the plant against time a linear curve is obtained. Mathematically it is expressed as:
 
-![Constant Linear Growth](constant-linear-growth.png "w-35 float-end")
+![Constant Linear Growth](constant-linear-growth.png "w-50 float-end")
 
 {{< katex block >}}
 
@@ -97,7 +97,7 @@ This growth occurs in many higher plants and plant organs and is measured in siz
 
 The large plant or animal parts are produced this way. In fact, it is common in animals but rare in plants except when they are young and small. Exponential growth curve can be expressed as,
 
-![Geometric growth](progeny-cells.png "w-35 float-end")
+![Geometric growth](progeny-cells.png "w-50 float-end")
 
 {{< katex block >}}
 
@@ -121,13 +121,13 @@ Here ‘_r’_ is the relative growth rate and also a measure of the ability of 
 
 Plants often grow by a combination of arithmetic and geometric growth patterns. A young embryonic plant grows geometrically and cell division becomes restricted to certain cells at the tips of roots and shoots. After this point, growth is of the slower arithmetic type, but some of the new cells that are produced can develop into their mature condition and begin carrying out specialized types of metabolism. Plants are thus a mixture of older, mature cells and young, dividing cells.
 
-![Arithmetic and geometric growth of embryo](arithmetic-and-geometric-growth-of-embryo.png "w-30 float-end")
+![Arithmetic and geometric growth of embryo](arithmetic-and-geometric-growth-of-embryo.png "w-50 float-end")
 
 Quantitative comparisons between the growth of living system can also be made in two ways and is explained in the table 1.
 
 Two leaves A and B are drawn at a particular time. Then {{< katex block >}}A^1{{< /katex >}} and {{< katex block >}}B^1{{< /katex >}} are drawn after a given time. A and B = Area of leaves at a particular time. {{< katex block >}}A^1{{< /katex >}} and {{< katex block >}}B^1{{< /katex >}} = Area of leaves after a given time. ({{< katex block >}}A^1{{< /katex >}}-A) and ({{< katex block >}}B^1{{< /katex >}}-B) represents an absolute increase in area in the given time. Leaf A increases from 5 {{< katex block >}}cm^2{{< /katex >}} to 10 {{< katex block >}}cm^2{{< /katex >}}; 5 {{< katex block >}}cm^2{{< /katex >}} in a given time. Leaf B increases from 50 {{< katex block >}}cm^2{{< /katex >}} to 55 {{< katex block >}}cm^2{{< /katex >}} ; 5 {{< katex block >}}cm^2{{< /katex >}} in a given time. Hence, both leaves A and B increase their area by 5 {{< katex block >}}cm^2{{< /katex >}} in a given time. This is absolute growth. Relative growth is faster in leaf A because of initial small size. It decreases with time.
 
-![Comparision of absolute and relative growth rates](absolute-and-relative-growth.svg "w-30 float-end")
+![Comparision of absolute and relative growth rates](absolute-and-relative-growth.svg "w-50 float-end")
 
 # Measurement of Growth Experiment
 
