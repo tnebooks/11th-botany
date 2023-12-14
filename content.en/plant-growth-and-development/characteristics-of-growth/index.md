@@ -137,4 +137,4 @@ The increase in the length of the stem tip can easily be measured by an arc auxa
 
 For example, `actual growth in length = (10 × 4 inches)/ 20 inches = 2 inches`
 
-![Arc auxanometer](auxanometer.png "w-30 float-end")
+![Arc auxanometer](auxanometer.png "w-50 float-end")
