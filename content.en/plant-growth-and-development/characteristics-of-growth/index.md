@@ -11,6 +11,8 @@ references:
     - b2:
         title: A Textbook Of Plant Physiology, Biochemistry And Biotechnology
         url: https://amzn.eu/d/4EbJUpv
+  links:
+      - https://www.vedantu.com/biology/growth-development
 ---
 
 # Characteristics of Growth
@@ -24,9 +26,9 @@ references:
 - Monocarpic perennials produce flowers only once during life time but the plants survive for many years. `Example: Bamboo.`
 - Polycarpic perennials produce flowers every year during life time. `Example: Coconut.`
 
-![Bamboos](bamboos.png)
+![Bamboos](bamboos.png "w-35")
 
-![Saguaro Cactus](saguaro-cactus.png)
+![Saguaro Cactus](saguaro-cactus.png "w-35")
 
 ## Kinetics of growth
 
