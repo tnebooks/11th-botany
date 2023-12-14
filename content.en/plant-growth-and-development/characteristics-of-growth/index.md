@@ -26,9 +26,9 @@ references:
 - Monocarpic perennials produce flowers only once during life time but the plants survive for many years. `Example: Bamboo.`
 - Polycarpic perennials produce flowers every year during life time. `Example: Coconut.`
 
-![Bamboos](bamboos.png "w-35")
+![Bamboos](bamboos.png "w-50 float-end")
 
-![Saguaro Cactus](saguaro-cactus.png "w-35")
+![Saguaro Cactus](saguaro-cactus.png "w-50 float-end")
 
 ## Kinetics of growth
 
