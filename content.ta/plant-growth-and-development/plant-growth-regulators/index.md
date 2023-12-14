@@ -1,6 +1,18 @@
 ---
 title: "தாவர வளர்ச்சி ஒழுங்குபடுத்திகள்"
 weight: 2
+references:
+    videos:
+        - youtube:3EYZbCbowNE
+    books:
+        - b1:
+            title: Plant Physiology and Development
+            url: https://amzn.eu/d/9jvQWzQ
+        - b2:
+            title: A Textbook Of Plant Physiology, Biochemistry And Biotechnology
+            url: https://amzn.eu/d/4EbJUpv
+    links:
+      - https://www.vedantu.com/biology/growth-development
 ---
 
 # தாவர வளர்ச்சி ஒழுங்குபடுத்திகள்
