@@ -12,11 +12,15 @@ Amitosis is also called **direct** or **incipient cell division**. Here there is
 
 **Karyokinesis:** 
 - Involves division of nucleus. 
-- Nucleus develops a constriction at the center and becomes dumbell shaped.- Constriction deepens and divides the nucleus into two.
+- Nucleus develops a constriction at the center and becomes dumbell shaped.
+- Constriction deepens and divides the nucleus into two. 
+
 **Cytokinesis:** 
 - Involves division of cytoplasm. 
 - Plasma membrane develops a constriction along nuclear constriction. 
-- It deepens centripetally and finally divides the cell into two cells. Example: Cells of mammalian cartilage, macronucleus of _Paramecium_ and old degenerating cells of higher plants. **Drawbacks of Amitosis**
+- It deepens centripetally and finally divides the cell into two cells. Example: Cells of mammalian cartilage, macronucleus of _Paramecium_ and old degenerating cells of higher plants. 
+
+ **Drawbacks of Amitosis**
 - Causes unequal distribution of chromosomes. 
 - Can lead to abnormalities in metabolism and reproduction.
 
@@ -39,14 +43,16 @@ Example: Most plants and animal.
 
 ---
 ![](7.4.png "")
-Mitosis is divided into four stages prophase, metaphase, anaphase and telophase (Figure 7.6). 
+ 
+ Mitosis is divided into four stages prophase, metaphase, anaphase and telophase (Figure 7.6). 
 
 **Prophase** 
 
 Prophase is the longest phase in mitosis. Chromosomes become visible as long thin thread like structure, condenses to form compact mitotic chromosomes. In plant cells initiation of spindle fibres takes place, nucleolus disappears. Nuclear envelope breaks down. Golgi apparatus and endoplasmic reticulum disappear.
 
 ![](7.5.png "")
-In animal cell the centrioles extend a radial array of microtubules (Figure 7.4) and reach the poles of the cell. This arrangement of microtubules is called **an aster**. Plant cells do not form asters. 
+ 
+ In animal cell the centrioles extend a radial array of microtubules (Figure 7.4) and reach the poles of the cell. This arrangement of microtubules is called **an aster**. Plant cells do not form asters. 
 
 **Metaphase** 
 
