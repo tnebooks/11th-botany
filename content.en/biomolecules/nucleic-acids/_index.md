@@ -3,6 +3,7 @@ title: "Nucleic Acids"
 weight: 7
 ---
 
+**Nucleic Acids** 
 
 As we know DNA and RNA are the two kinds of nucleic acids. These were originally isolated from cell nucleus. They are present in all known **cells** and **viruses** with special coded genetic programme with detailed and specific instructions for each organism heredity.
 
@@ -38,7 +39,7 @@ Watson and Crick shared the **Nobel Prize** in **1962** for their discovery, alo
 
 As proposed by **James Watson and Francis Crick**, DNA consists of right handed double helix with 2 helical polynucleotide chains that are coiled around a common axis to form right handed B form of DNA. The coils are held together by hydrogen bonds which occur between complementary pairs of nitrogenous bases. The sugar is called **2**′**\-deoxyribose** because there is no hydroxyl at position 2′. Adenine and thiamine base pairs has two hydrogen bonds while guanine and cytosine base pairs have three hydrogen bonds.
 
-As published by **Erwin Chargaff** in 1949, a purine pairs with pyrimidine and vice versa**.** Adenine (A) always pairs with Thymine (T) by double bond and Guanine (G) always pairs with Cytosine (C) by triple bond.
+As published by **Erwin Chargaff** in 1949, a purine pairs with pyrimidine and vice versa. Adenine (A) always pairs with Thymine (T) by double bond and Guanine (G) always pairs with Cytosine (C) by triple bond.
 
 ![Alt text](8.33.png)
 
