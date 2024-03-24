@@ -138,7 +138,7 @@ On the basis of their mode of nutrition bacteria are classified into two types n
 
 **A. Photoautotrophic bacteria** Bacteria use sunlight as their source of energy to synthesize food. They may be
 
-**1. Photolithotrophs** In photolithotrophs the hydrogen donor is an inorganic substance. **a. Green sulphur bacteria:** In this type of bacteria the hydrogen donor is H2S and possess pigment called **Bacterioviridin.** Example: _Chlorobium._ **b. Purple sulphur bacteria:** For bacteria belong to this group the hydrogen donor is thiosulphate, **Bacteriochlorophyll** is present**.** Chlorophyll containing chlorosomes are present Example: _Chromatium_.
+**1. Photolithotrophs** In photolithotrophs the hydrogen donor is an inorganic substance. **a. Green sulphur bacteria:** In this type of bacteria the hydrogen donor is H2S and possess pigment called **Bacterioviridin.** Example: _Chlorobium._ **b. Purple sulphur bacteria:** For bacteria belong to this group the hydrogen donor is thiosulphate, **Bacteriochlorophyll** is present . Chlorophyll containing chlorosomes are present Example: _Chromatium_.
 
 **2. Photoorganotrophs** They utilize organic acid or alcohol as hydrogen donor. Example: Purple non sulphur bacteria – _Rhodospirillum._
 
@@ -299,7 +299,7 @@ Stromatolites are deposits formed when colonies of cyanobacteria bind with calci
 - “Pruteen” is a single cell protein derived from _Methylophilus_ _methylotrophus_.
 - Agrobacterium tumefaciens\_ cause crown gall disease in plants but its inherent tumour inducing principle helps to carry the desired gene into the plant through Genetic engineering.
 - Thermus aquaticus\_ is a thermophilic gram negative bacteria which produces Taq Polymerase a key enzyme for Polymerase Chain Reaction (PCR).
-- Methanobacterium* is employed in biogas production. \_Halobacterium*, an extremophilic bacterium grows in high salinity. It is exploited for the production β carotene.
+- Methanobacterium  is employed in biogas production. Halobacterium, an extremophilic bacterium grows in high salinity. It is exploited for the production β carotene.
 
 **Cyanobacteria** are popularly called as 'Blue green algae' or 'Cyanophyceae'. They are photosynthetic, prokaryotic organisms. According to evolutionary record Cyanobacteria are primitive forms and are found in different habitats. Most of them are fresh water and few are marine (_Trichodesmium_ and _Dermacarpa_) _Trichodesmium erythraeum_ a cyanobacterium imparts red colour to Red sea. Species of _Nostoc_, _Anabaena_ lead an endophytic life in the coralloid root of _Cycas_, leaves of aquatic fern _Azolla_ by establishing a symbiotic association and fix atmospheric nitrogen. Members like _Gloeocapsa,_ _Nostoc_, _Scytonema_ are found as phycobionts in lichen thalli.
 
@@ -314,7 +314,7 @@ Stromatolites are deposits formed when colonies of cyanobacteria bind with calci
 - In some forms a large colourless cell is found in the terminal or intercalary position called Heterocysts. They are involved in nitrogen fixation.
 - They reproduce only through vegetative methods and produce Akinetes (thick wall dormant cell formed from vegetative cell), Hormogonia (a portion of filament get detached and reproduce by cell division), fission and endospores.
 - The presence of mucilage around the thallus is characteristic feature of this group. Therefore, this group is also called Myxophyceae.
-- Sexual reproduction is absent\_..
+- Sexual reproduction is absent.
 - _Microcystis aeruginosa_, _Anabaena_
   _flos-aquae_ cause water blooms and release toxins and affect the aquatic organism.
 
