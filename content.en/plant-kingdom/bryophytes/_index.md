@@ -87,7 +87,7 @@ _Marchantia_ grows in cool moist shady places. _Marchantia polymorpha_ is the co
 
 **Gametophyte**
 
-The plant body of Marchantia is a gametophyte. It is prostrate,dorsiventral and dichotomously branched. The thallus on the dorsal surface possess conspicuous median midrib which is marked by a shallow groove on dorsal surface. The dorsal surface appears to have rhomboidal or polygonal diamond shaped areas which indicate the outline of the underlying air chambers of the thallus \_(\_Figure 2.9).
+The plant body of Marchantia is a gametophyte. It is prostrate,dorsiventral and dichotomously branched. The thallus on the dorsal surface possess conspicuous median midrib which is marked by a shallow groove on dorsal surface. The dorsal surface appears to have rhomboidal or polygonal diamond shaped areas which indicate the outline of the underlying air chambers of the thallus \(Figure 2.9).
 
 The dorsal surface also shows crescent shaped structures called gemma cups which contain vegetative reproductive structures called gemmae. The apical notch bears an apical cell which helps in the growth of the thallus.The ventral surface the thallus bears multicellular scales and rhizoids which help in fixation and absorption of water and minerals. The rhizoids are of two types namely smooth walled or pegged (tuberculate) type. On maturation the thallus bears erect antheriophores and archegoniophores.
 
@@ -95,7 +95,7 @@ The dorsal surface also shows crescent shaped structures called gemma cups which
 
 **Internal structure of Thallus**
 
-In transverse section the _Marchantia_ thallus shows three parts namely: epidermis, photosynthetic region and storage region \_(\_Figure 2.10).
+In transverse section the _Marchantia_ thallus shows three parts namely: epidermis, photosynthetic region and storage region (Figure 2.10).
 
 ![ T.S. of Thallus](2.15.png)
 
@@ -112,9 +112,9 @@ _Marchantia_ reproduces by vegetative and sexual methods.
 ![Alt text](2.17.png)
 
 **1. Sexual reproduction:**
-In _Marchantia_, sex organs are borne on special stalked receptacles called the gametophores. Those bearing antheridia are called antheridiophores and archegonia bearing structures are called archegoniophores _(\_Figure 2.12). \_Marchantia_ is heterothallic or dioecious. i.e., male and female receptacles are present on different thalli. The sex organs in bryophytes are multicellular. The Male sex organ is called antheridium. It produce biflagellate antherozoids. The Female sex organ is flask shaped called archegonium and produces a single egg. Water is essential for fertilization. The antherozoids are released into water and are attracted towards archegonium through chemotaxis. Although many antherozoids enter the archegonium, only one fuses with the egg to form zygote. The zygote represents the first cell of the sporophytic generation. Zygote develops in to a multicellular structure called sporophyte. (Figure 2.13).
+In _Marchantia_, sex organs are borne on special stalked receptacles called the gametophores. Those bearing antheridia are called antheridiophores and archegonia bearing structures are called archegoniophores _(Figure 2.12). Marchantia_ is heterothallic or dioecious. i.e., male and female receptacles are present on different thalli. The sex organs in bryophytes are multicellular. The Male sex organ is called antheridium. It produce biflagellate antherozoids. The Female sex organ is flask shaped called archegonium and produces a single egg. Water is essential for fertilization. The antherozoids are released into water and are attracted towards archegonium through chemotaxis. Although many antherozoids enter the archegonium, only one fuses with the egg to form zygote. The zygote represents the first cell of the sporophytic generation. Zygote develops in to a multicellular structure called sporophyte. (Figure 2.13).
 
 ![ _Marchantia_ - V.S. of Sporophyte](2.18.png)
 
-The sporophyte is not free-living but attached to the photosynthetic gametophyte and derives nutrition from it. Sporophyte is differentiated into foot, seta and capsule. The foot is bulbous and is embedded in the gametophyte. It derives nutrition from the gametophyte and transfers to the sporophyte. Seta is short and connects foot and capsule. The capsule consists of single layered jacket layer and encloses numerous haploid spores and elaters. The capsule is covered by protective covering called calyptra. On maturation the capsule dehisces and spores are released. Elaters helps in the dispersal of spores. The spores under favourable conditions germinate and develop into new gametophyte. The haploid gametophytic phase alternates with diploid sporophytic phase, thus the life cycle of _Marchantia_ shows alternation of generation \_(\_Figure 2.14).
+The sporophyte is not free-living but attached to the photosynthetic gametophyte and derives nutrition from it. Sporophyte is differentiated into foot, seta and capsule. The foot is bulbous and is embedded in the gametophyte. It derives nutrition from the gametophyte and transfers to the sporophyte. Seta is short and connects foot and capsule. The capsule consists of single layered jacket layer and encloses numerous haploid spores and elaters. The capsule is covered by protective covering called calyptra. On maturation the capsule dehisces and spores are released. Elaters helps in the dispersal of spores. The spores under favourable conditions germinate and develop into new gametophyte. The haploid gametophytic phase alternates with diploid sporophytic phase, thus the life cycle of _Marchantia_ shows alternation of generation \(Figure 2.14).
 ![Alt text](2.19.png)
