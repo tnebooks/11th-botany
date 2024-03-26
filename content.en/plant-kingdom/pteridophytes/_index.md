@@ -43,7 +43,7 @@ The Economic importance of Pteridophyte is given in Table 2.4
 
 **Table 2.4: Economic importance of Pteridophyte**
 
-| \*\*Pteridophyte                                           | Uses\*\*                                            |
+| Pteridophyte                                           | Uses                                          |
 | ---------------------------------------------------------- | --------------------------------------------------- |
 | _Rumohra adiantiformis_ (leather leaf fern)                | Cut flower arrangements.                            |
 | _Marsilea_                                                 | Food                                                |
@@ -71,7 +71,7 @@ The plant body of Selaginella is sporophyte (2n) and it is differentiated into r
 prostrate creeping system (_S. kraussiana_); suberect (_S. rupestris_); erect (_Selaginella erythropus_); climbing (_Selaginella alligans_). _S. oregana_ is an epiphyte. Most of the species are perennials. On the basis of structure of stem and arrangement of leaves, _Selaginella_ is divided into two sub genera namely Homoeophyllum and Heterophyllum.
 
 ```
-**Do You Know ?**
+Do You Know ?
 The success and dominance of vascular plants is due to the development of
 
 - Extensive root system.
@@ -85,7 +85,7 @@ Homeophyllum include species with erect stem and spirally arranged leaves.
 **PsilotopsidaPsilophytopsida Lycop**
 The plant body is rootless and have fungal association. Small, scaly appendages represent the leaves. Gametophyte is colourless and have fungal association. They are homosporous and spores are produced in sporangia or synangia. Example: _Psilotum._
 
-The plant is differen into root, and leave Leaves ar univeined spirally ar Ligules ar present. Sporophy arranged form of s Both hom (_Lycopodi_ and heter (_Selaginel_ found. `Example: _Selaginell_`
+The plant is differen into root, and leave Leaves ar univeined spirally ar Ligules ar present. Sporophy arranged form of s Both hom (_Lycopodi_ and heter (_Selaginel_ found. `Example: Selaginell`
 
 All are extinct plants. Plant body had only stem and rhizome. Roots and leaves were absent. Homosporous Spore tetrads were borne at the terminal sporangia. Example: _Rhynia_.
 

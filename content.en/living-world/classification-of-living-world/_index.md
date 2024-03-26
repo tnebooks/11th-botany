@@ -40,7 +40,7 @@ R.H.Whittaker, an American taxonomist proposed five Kingdom classification in th
 
 ![Alt text](1.11.png)
 
-**Protista, Fungi, Plantae and Animalia** (Figure 1.7). The criteria adopted for the classification include cell structure, thallus organization, mode of nutrition, reproduction and phylogenetic relationship**.** A comparative account of the salient features of each Kingdom is given in Table 1.5
+**Protista, Fungi, Plantae and Animalia** (Figure 1.7). The criteria adopted for the classification include cell structure, thallus organization, mode of nutrition, reproduction and phylogenetic relationship . A comparative account of the salient features of each Kingdom is given in Table 1.5
 
 **Merits**
 
