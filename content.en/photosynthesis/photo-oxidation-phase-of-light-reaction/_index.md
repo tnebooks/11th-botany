@@ -1,15 +1,13 @@
 ---
-title: "Photo-Oxidation Phase of Light 
-Reaction"
+title: "Photo-Oxidation Phase of Light Reaction"
 weight: 8
 ---
 
-
-## 13.8 Photo-Oxidation Phase of Light
+## Photo-Oxidation Phase of Light
 
 **Reaction** The action of photon plays a vital role in excitation of pigment molecules to release an electron. When the molecules absorb a photon, it is in excited state. When the light source turned off, the high energy electrons return to their normal low energy orbitals as the excited molecule goes back to its original stable condition known as **ground state**. When molecules absorb or emit light they change their electronic state. Absorption of blue light excites the chlorophyll to higher energy state than absorption of Red light, because the energy of photon is higher when their wavelength is shorter. When the pigment molecule is in an excited state, this excitation energy is utilised for the phosphorylation. Phosphorylation takes place with the help of light generated electron and hence it is known as **photophosphorylation**.
 
-### 13.8.1 Photosystem and Reaction Centre
+### Photosystem and Reaction Centre
 
 - Thylakoid membrane contains Photosystem I (PS I) and Photosystem II (PS II).
 
