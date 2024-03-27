@@ -3,8 +3,7 @@ title: "Factors affecting Photosynthesis"
 weight: 15
 ---
 
-
-## 13.15 Factors affecting Photosynthesis
+## Factors affecting Photosynthesis
 
 In 1860, **Sachs** gave three cardinal points theory explaining minimum, optimum and maximum factors that control photosynthesis.
 ![](image.10.PNG)
@@ -19,9 +18,9 @@ II. **Internal factors:** Pigments, protoplasmic factor, accumulation of carbohy
 
 ![Alt text](image-2.png)
 
-### 13.15.1 External factors
+### External factors
 
- **1. Light**
+**1. Light**
 
 Energy for photosynthesis comes only from light. Photooxidation of water and excitation of pigment molecules are directly controlled by light. Stomatal movement leading to diffusion of CO2 is indirectly controlled by light.
 
@@ -32,7 +31,7 @@ Intensity of light plays a direct role in the rate of photosynthesis. Under low 
 In plants which are exposed to light for longer duration (Long day Plants) photosynthetic rate is higher.
 
 **c. Quality of light:**
- Different wavelengths of light affect the rate of photosynthesis because pigment system does not absorb all the rays equally. Photosynthetic rate is maximum in blue and red light. **Photosynthetically Active Radiation** (PAR) is between 400 to 700 nm. Red light induces highest rate of photosynthesis and green light induces lowest rate of photosynthesis.
+Different wavelengths of light affect the rate of photosynthesis because pigment system does not absorb all the rays equally. Photosynthetic rate is maximum in blue and red light. **Photosynthetically Active Radiation** (PAR) is between 400 to 700 nm. Red light induces highest rate of photosynthesis and green light induces lowest rate of photosynthesis.
 
 **2. Carbon dioxide** 
 CO2 is found only 0.3 % in the atmosphere but plays a vital role. Increase in concentration of CO2 increases the rate of photosynthesis (CO2 concentration in the atmosphere is 330 ppm). If concentration is increased beyond 500ppm, rate of photosynthesis will be affected showing the inhibitory effect. 
@@ -60,15 +59,15 @@ the enzymes responsible for photosynthesis
 
 **7. Air pollutants** Pollutants like SO2, NO2, O3 (Ozone) and Smog affects rate of photosynthesis.
 
-### 13.15.2 Internal Factors
+### Internal Factors
 
-**1\. Photosynthetic Pigments**
+**1. Photosynthetic Pigments**
 It is an essential factor and even a small quantity is enough to carry out photosynthesis.
-**2\. Protoplasmic factor**
+**2. Protoplasmic factor**
 Hydrated protoplasm is essential for photosynthesis. It also includes enzymes responsible for Photosynthesis.
 
-**3\. Accumulation of Carbohydrates** Photosynthetic end products like carbohydrates are accumulated in cells and if translocation of carbohydrates is slow then this will affect the rate of photosynthesis. 
+**3. Accumulation of Carbohydrates** Photosynthetic end products like carbohydrates are accumulated in cells and if translocation of carbohydrates is slow then this will affect the rate of photosynthesis. 
 
-**4\. Anatomy of leaf** Thickness of cuticle and epidermis, distribution of stomata, presence or absence of Kranz anatomy and relative proportion of photosynthetic cells affect photosynthesis. 
+**4. Anatomy of leaf** Thickness of cuticle and epidermis, distribution of stomata, presence or absence of Kranz anatomy and relative proportion of photosynthetic cells affect photosynthesis. 
 
-**5\. Hormones** Hormones like gibberellins and cytokinin increase the rate of photosynthesis.
+**5. Hormones** Hormones like gibberellins and cytokinin increase the rate of photosynthesis.
