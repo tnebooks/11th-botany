@@ -40,4 +40,4 @@ is between 300 to 2600 nm. The visible spectrum ranges between 390 to 763 nm (39
 
 After one hour observe the chromatographic paper. You can find the pigments being separated into four distinct spots (Figure 13. 4).
 
-![Paper Chromatography.png](<Paper Chromatography.png>)
+![alt text](Paper-Chromatography.png)
