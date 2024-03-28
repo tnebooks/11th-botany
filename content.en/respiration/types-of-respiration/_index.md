@@ -4,10 +4,8 @@ weight: 4
 ---
 
 # Types of Respiration
- Respiration is classified into two types as aerobic and anaerobic respiration (Figure 14.4)
+Respiration is classified into two types as aerobic and anaerobic respiration (Figure 14.4)
 
-
-`table`
 ![](one.png)
 
 ![ Overall stages of Respiration  ](14.5.png "")
@@ -22,6 +20,8 @@ Respiration occurring in the presence of oxygen is called **aerobic respiration*
 4. Electron Transport Chain (Terminal oxidation). 
 
 ### Anaerobic respiration
- In the absence of molecular oxygen glucose is incompletely degraded into either ethyl alcohol or lactic acid (Table 14.1). It includes two steps:
+In the absence of molecular oxygen glucose is incompletely degraded into either ethyl alcohol or lactic acid (Table 14.1). It includes two steps:
 
 1. Glycolysis 2. Fermentation
+
+>ATP is not only higher energy compound present in a cell. There are other higher energy compounds also present. Example GTP (Guanosine Tri Phosphate) and UTP (Uridine Tri Phosphate).

@@ -4,7 +4,7 @@ weight: 6
 ---
 
 # Respiratory Quotient (RQ)
- The ratio of volume of carbon dioxide given out and volume of oxygen taken in during respiration is called **Respiratory Quotient or Respiratory ratio**. RQ value depends upon respiratory substrates and their oxidation.
+The ratio of volume of carbon dioxide given out and volume of oxygen taken in during respiration is called **Respiratory Quotient or Respiratory ratio**. RQ value depends upon respiratory substrates and their oxidation.
 
 `formulae`
 `RQ = Volume of CO2 liberated / Volume of O2 consumed` 
@@ -42,3 +42,16 @@ weight: 6
 
 2. It also helps to know which type of respiratory substrate is involved.
 
+>Red colour in various parts of plants is due to the presence of anthocyanin, synthesis of which require more O2 than CO2 evolved. RQ will be less than one.
+
+>**Activity**
+Take a test tube with some germinated seeds and fill with water. Keep this test tube after some time until liberation of CO2. When the carbon dioxide from respiration is mixed to water, carbonic acid (H2CO3) is produced. Therefore, as more carbon dioxide is released, the solution becomes more acidic. You will see changes in pH as an indicator using blue litmus paper changed into red that respiration has occurred CO21H2O H2CO3
+
+>The apparatus used for determining respiration and RQ is called Ganong’s Respirometer.
+
+>**Respiratory quotients of some other substances**
+Proteins : 0.8–0.9
+Oleic acid (Fat) : 0.71
+Palmitic acid (Fat) : 0.36
+Tartaric acid : 1.6
+Oxalic acid : 4.0

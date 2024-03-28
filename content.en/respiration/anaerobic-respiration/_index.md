@@ -3,14 +3,12 @@ title: 'Anaerobic Respiration'
 weight: 7
 ---
 
-# 14.7 Anaerobic Respiration 
+# Anaerobic Respiration 
 
-## 14.7.1 Fermentation
+## Fermentation
 Some organisms can respire in the absence of oxygen. This process is called **fermentation or anaerobic**
 
-`table`
 ![](three.png)
-
 
 **respiration** (Figure 14.12). There are three types of fermentation: 
 1. Alcoholic fermentation 
@@ -51,3 +49,9 @@ Some organisms can respire in the absence of oxygen. This process is called **fe
 
 `table`
 ![](five.png)
+
+>**Demonstration of alcoholic fermentation**
+Take a Kuhne’s fermentation tube which consists of an upright glass tube with side bulb. Pour 10% sugar solution mixed with baker’s yeast into the fermentation tube the side tube is filled plug the mouth with lid. After some time, the glucose solution will be fermented. The solution will give out an alcoholic smell and level of solution in glass column will fall due to the accumulation of CO2 gas. It is due to the presence of zymase enzyme in yeast which converts the glucose solution into alcohol and CO2. Now introduce a pellet of KOH into the tube, the KOH will absorb CO2 and the level of solution will rise in upright tube (Figure 14.13).![alt text](Kuhnes.png)
+
+>**Activity**
+Take a bottle filled with warm watermixed with baker’s yeast and sugar.Aftersome time, you will notice water bubblingas yeast produces carbon dioxide. Attacha balloon to the mouth of the bottle. After 30 minutes you’ll notice balloon standing upright (Figure 14.14).![alt text](air-balloon-activity.png)
