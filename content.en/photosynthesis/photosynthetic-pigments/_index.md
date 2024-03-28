@@ -3,19 +3,17 @@ title: "Photosynthetic Pigments"
 weight: 2
 ---
 
-
-
-## 13.2 Photosynthetic Pigments
+## Photosynthetic Pigments
 
 A photosynthetic pigment is a pigment that is present in chloroplasts or photosynthetic bacteria which captures the light energy necessary for photosynthesis (Table 13.1).
 
 ![](image-5.PNG)
 
-### 13.2.1 Chlorophyll
+### Chlorophyll
 
 Chlorophyll 'a' is the primary pigment which acts as a reaction centre and all other pigments act as accessory pigments and trap solar energy and then transfer it to chlorophyll 'a'. Chlorophyll molecules have a tadpole like structure. It consists of Mg-Porphyrin head (Hydrophilic Head) and (Lipophilic tail) Phytol tail. The Porphyrin head consists of four pyrrol rings linked together by C-H bridges. Each pyrrole ring comprises of four carbons and one nitrogen atom. Porphyrin ring has several side groups which alter the properties of the pigment. Different side groups are indicative of various types of chlorophyll. The Phytol tail made up of 20 carbon alcohol is attached to carbon 7 of the Pyrrole ring IV. It has a long propionic acid ester bond. Long lipophilic tail helps in anchoring chlorophyll to the lamellae.
 
-### 13.2.2 Carotenoids
+### Carotenoids
 
 ![ Changes in Fruit colour due to difference in pigmentation](13.3.png)
 
@@ -25,7 +23,6 @@ Orange, Red, Yellow and Brownish pigments, hydrocarbons (Lipids) and most of the
 **ii. Xanthophylls:**
 Yellow (C40H56O2) pigments are like carotenes but contain oxygen. Lutein is responsible for yellow colour change of leaves during autumn season. Examples: Lutein, Violaxanthin and Fucoxanthin.
 
-### 13.2.3 Phycobilins
+### Phycobilins
 
 They are proteinaceous pigments, soluble in water, and do not contain Mg and Phytol tail. They exist in two forms such as 1. Phycocyanin found in cyanobacteria 2. Phycoerythrin found in rhodophycean algae (Red algae).
-

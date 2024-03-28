@@ -2,6 +2,7 @@
 title: "Primary and Secondary Metabolites"
 weight: 2
 ---
+**Primary and Secondary Metabolites** 
 
 Most plants, fungi and other microbes synthesizes a number of organic compounds called as **metabolites** which are intermediates and products of metabolism. The term metabolite is usually restricted to small molecules. It can be catergorized into two types namely primary and secondary metabolites based on their role in metabolic process (Figure 8.4).
 
