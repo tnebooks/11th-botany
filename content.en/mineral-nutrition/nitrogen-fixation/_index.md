@@ -29,7 +29,7 @@ lightening fixes atmospheric nitrogen.
 
 Rhizobium bacterium is found in leguminous plants and fix atmospheric nitrogen. This kind of symbiotic association is beneficial for both the bacterium and plant. Root nodules are formed due to bacterial infection. Rhizobium enters into the host cell and proliferates, it remains separated from the host cytoplasm by a membrane (Figure 12.6).  
 
-
+![alt text](image.png)
 **Stages of Root nodule formation:**
 
 1. Legume plants secretes phenolics which attracts Rhizobium. 

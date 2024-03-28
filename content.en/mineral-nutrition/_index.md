@@ -5,6 +5,7 @@ weight: 12
 
 As a traveller you would have got a chance to observe the plants. It is an interesting fact that all plants are not alike. Just spend some time to observe the nature. You can notice plants with attractive leaves, flowers and fruits.
 
+![alt text](image-10.png)
 Can you say all plants are healthy and uniform in growth? Some plants are not healthy and show symptoms like texture changes, stunted growth, chlorosis, necrosis and so on. Can you tell what is the reason for all these symptoms? It may be due to infection of microbial pathogens or climatic factors or due to mineral deficiency.
 
 In this chapter we are going to learn about classification of minerals, their functions, deficiency diseases and symptoms, nitrogen metabolism and special modes of nutrition. Further, how can these ideas help us to improve productivity in agriculture?
