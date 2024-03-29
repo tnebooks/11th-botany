@@ -23,7 +23,6 @@ In this phase electrons pass through electron carrier molecules and generate ass
 
 The process of Photolysis is associated with **Oxygen Evolving Complex** (OEC) or water splitting complex in pigment system II and is catalysed by the presence of Mn11 and Cl–. When the pigment system II is active it receives light and the water molecule splits into OH– ions and H1 ions. The OH–ions unite to form water molecules again and release O2 and electrons (Figure 13.11).
 
-![Oxygen Evolving Complex (OEC)](13.12.png)
 
 ### Electron Transport Chain of Chloroplast
 
