@@ -146,13 +146,6 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 
 **Root:** Branched tap root system
 
-**Economic importance of the family Apocynace**
-
-| **S. No** | **Economic importance** | **Binomial**                                               | **Useful part**   | **Uses**                                                                                                                                                                                                 |
-| --------- | ----------------------- | ---------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1         | **Food plant**          | \_Carissa carandas (பெரும்களா) \_Carissa spinarum(சிறுகளா) | Fruits            | Edible and used in pickles                                                                                                                                                                               |
-| 2         | **Medicinal plant**     | _Rauvolfia serpentina_ (Indian snake root /sarpag)         | Shoot Dried roots | To treat hypertension and mental disorders Alkaloid (reserpine) obtained from the dried roots, of the plant can lower the blood pressure and used as sedative for patients suffering from Schizophrenia. |
-
 **Stem:** Aerial, erect, cylindrical reddish green, glabrous and branched.
 
 **Leaves:** Usually simple, opposite decussate, exstipulate, subsessile, or petiolate, elliptic – ovate,entire, mucronate, unicostate reticulate venation.
@@ -259,7 +252,6 @@ APG system of classification Bentham and Hookersystem of classification
 | S.No. |Economicimportance |Binomial |Useful part |Uses |
 | 1. |Food plant |Solanum tuberosum (potato)Lycopersicon esculentum(tomato)Solanum melongena(brinjal)Capsicum annuum (bellpeppers & chilli papers)C. frutescens (ள�ொÞ)Physalis peruviana (capegooseberry / கசொCக¤தக�ொ) |Undergroundstem tubersRipened fruitsTender fruitsFruitsFruit |Used as vegetables and also usedfUosr ted ahe ps derod liciouctio un os veg f settar acbh.leand eaten raw.Cooked and eaten asvegetable.Used as vegetables andpowdered chilli is the driedpulverized fruit which is usedas spice to add pungency orpiquancy and flavour to dishes.Used as delicious fruit. |
 
-_Cestrum diurnum_ (Day Jasmine) _Cestrum nocturnum_ (Night Jasmine) _Nicotiana alata Petunia hybrida_, _Schizanthus pinnatus_
 
 ## Family: Euphorbiaceae (Castor Family / Spurge Family)
 
@@ -410,13 +402,6 @@ Bisexual flower:
 
 **Systematic position**
 
-| APG Classification | Bentham and HookerClassification |
-| ------------------ | -------------------------------- | ------- | -------------- |
-| Kingdom            | Plantae                          | Kingdom | Plantae        |
-| Clade              | Angiosperms                      | Class   | Monocotyledons |
-| Clade              | Monocots                         | Series  | Coronarieae    |
-| Order              | Liliales                         | Order   | Liliales       |
-| Family             | Liliaceae                        | Family  | Liliaceae      |
 
 ## ![Alt text](5.25.png)
 
