@@ -9,16 +9,26 @@ references:
 
 **Dicot Families**
 
-5.13.1 Family: Fabaceae (Pea family) Systematic position
+5.13.1 Family: Fabaceae (Pea family) 
+**Systematic position**
 
-**APG classication Bentham and Hooker classication**
-| Kingdom |Plantae |Kingdom |Plantae |
-|------|------|------|------|
-| Clade |Angio-sperms |Class |Dicotyledonae |
-| Clade |Eudicots |Sub-class |Polypetalae |
-| Clade |Rosids |Series |Calyciorae |
-| Order |Fabales |Order |Rosales |
-| Family |Fabaceae |Family |Fabaceae |
+**APG classication Bentham**
+| **Kingdom** | **Plantae**  |
+|-------------|--------------|
+|    Clade    | Angio_sperms |
+|    Clade    |   Eudicots   |
+|    Clade    |    Rosids    |
+|    Order    |    Fabales   |
+|    Family   |   Fabaceae   |
+
+**Bantham and Hoooker classification**
+| **Kingdom** | **Plantae**  |
+|-------------|--------------|
+|    class    | Dictyledonae |
+|  Sub-class  |  Polypetalae |
+|    Series   | Calyciflorae |
+|    Order    |    Rosales   |
+|    Family   |   Fabaceae   |
 
 **General characters**
 
@@ -26,7 +36,7 @@ references:
 
 **Habit:** All types of habits are represented in this family. Mostly herbs (_Crotalaria_), prostrate (_Indigofera enneaphylla)_ erect (_Crotalaria verrucosa_), shrubs (_Cajanus_ _cajan_), small trees (_Sesbania_), climbers (_Clitoria_), large tree (_Pongamia, Dalbergia_), woody climber (_Mucuna_), hydrophyte (_Aeschynomene aspera_) commonly called **pith plant.**
 
-**Root:** Tap root system, roots are nodulated, have tubercles c o n t a i n i n g nitrogen – fixing bacteria (_Rhizobium leguminosarum)_
+**Root:** Tap root system, roots are nodulated, have tubercles containing nitrogen – fixing bacteria (_Rhizobium leguminosarum)_
 ![Alt text](5.13.png)
 
 **Stem:** Aerial, herbaceous, woody (_Dalbergia_) twining or climbing (_Clitoria)_.
@@ -41,7 +51,7 @@ references:
 
 **Corolla:** Petals 5, apopetalous, unequal and **papilionaceous**, **vexillary** or **descendingly imbricate** aestivation, all petals have claw at the base. The outer most petal is large called **standard petal** or **vexillum**, Lateral 2 petals are lanceolate and curved. They are called **wing petals** or **alae**. Anterior two petals are partly fused and are called **keel petals** or **carina** which encloses the stamens and pistil.
 
-**Androecium:** Stamens 10, diadelphous, usually 9+1 (_Clitoria ternatea_). The odd stamen is posterior in position. In _Aeschynomene aspera_, the stamens are fused to form two bundles each containing five stamens (5)+(5). Stamens are **monadelphous** and **dimorphic** ie. 5 stamens have longer filaments and other 5 stamens have shorter filaments thus the stamens are found at two levels and the shape of anthers also varies in (_Crotalaria verrucosa)_. (5 anthers are long and lanceolate, and the other 5 anthers are short and blunt). Anthers are dithecous,
+**Androecium:** Stamens 10, diadelphous, usually 9+1 (_Clitoria ternatea_). The odd stamen is posterior in position. In _Aeschynomene aspera_, the stamens are fused to form two bundles each containing five stamens (5)+(5). Stamens are **monadelphous** and **dimorphic** ie. 5 stamens have longer filaments and other 5 stamens have shorter filaments thus the stamens are found at two levels and the shape of anthers also varies in (_Crotalaria verrucosa)_. (5 anthers are long and lanceolate, and the other 5 anthers are short and blunt). Anthers are dithecous,besifixed and dehiscing longitudinallly.
 ![Alt text](5.14.png)
 
 **Gynoecium:** Monocarpellary, unilocular, ovary superior, with two alternating rows of ovules on marginal placentation. Style simple and bent, stigma flattened or feathery.
@@ -58,15 +68,11 @@ Seed: Endospermic or non- endospermic (_Pisum sativum_), mostly **reniform**.
 
 **Stem:** Aerial, weak stem and a twiner
 
-**Leaf:** Imparipinnately compound, alternate, stipulate showing reticulate
+**Leaf:** Imparipinnately compound, alternate, stipulate showing reticulate venation. Leaflets are stipellate. Petiolate and stipels are pulvinated.
 
-**Economic Importance**
-
-venation. Leaflets are stipellate. Petiolate and stipels are pulvinated.
-
-**Inflorescence:** Solitary and axillary **Flower:** Bracteate, bracteolate, bracteoles
-
-usually large, pedicellate, heterochlamydeous, complete, bisexual, pentamerous, zygomorphic and hypogynous.
+**Inflorescence:** Solitary and axillary
+ 
+**Flower:** Bracteate, bracteolate, bracteolesusually large, pedicellate, heterochlamydeous, complete, bisexual, pentamerous, zygomorphic and hypogynous.
 
 **Calyx:** Sepals 5, synsepalous, green showing valvate aestivation. Odd sepal is anterior in position.
 
@@ -79,7 +85,8 @@ usually large, pedicellate, heterochlamydeous, complete, bisexual, pentamerous, 
 **Fruit:** Legume
 
 **Seed:** Non-endospermous, reniform. Floral Formula: **Dt0.Dtn0.'.""."M\*7+.E7.C\*;+-3.I3**
-
+**Economic Impotence**
+![alt text](pluses.png)
 | Economic importance | Binomial                                                                                                                      | Useful part                    | Uses                                                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Food plants         | Lablab purpureus (field bean)Sesbania grandiflora (agathi)Cyamopsis tetragonoloba(cluster bean)                               | TenderfruitsLeavesTenderfruits | VegetableGreensVegetable                                                                                                         |
@@ -97,15 +104,24 @@ usually large, pedicellate, heterochlamydeous, complete, bisexual, pentamerous, 
 
 **Systematic position**
 
-**APG classification Bentham and Hooker classification**
+**APG classification Bentham**
+| **Kingdom** | **Plantae** |
+|:-----------:|:-----------:|
+|    Clade    | Angiosperms |
+|    Clade    |   Eudicots  |
+|    Clade    |  Asterides  |
+|    Order    | Gentianales |
+|    family   | Apocynaceae |
 
-| Kingdom | Plantae     | Kingdom   | Plantae       |
-| ------- | ----------- | --------- | ------------- |
-| Clade   | Angiosperms | Class     | Dicotyledonae |
-| Clade   | Eudicots    | Sub-class | Gamopetalae   |
-| Clade   | Asterides   | Series    | Bicarpellatae |
-| Order   | Gentianales | Order     | Gentianales   |
-| Family  | Apocynaceae | Family    | Apocynaceae   |
+**Hooker classification**
+
+| **Kingdom** |  **Plantae**  |
+|:-----------:|:-------------:|
+|    Class    | Dicotyledonae |
+|  Sub-class  |  Gamopetalae  |
+|    Series   | Bicarpellatae |
+|    Order    |  Gentianales  |
+|    family   |  Apocynaceae  |
 
 **General Characters Distribution:**
 
@@ -118,7 +134,7 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 
 **Leaves**: Simple, entire, rarely stipulate(_Tabernae montana_) exstipulate, opposite decusate (Calotropis) or alternate (Thevetia) or ternate (Nerium), .
 
-**Inflorescence: A Panicle, dichasial cyme,** often umbelliform in (Asclepiadoids) or raceme, or axillary cluster of two flowers each (_Catharanthus_).
+**Inflorescence:** A Panicle, dichasial cyme, often umbelliform in (Asclepiadoids) or raceme, or axillary cluster of two flowers each (_Catharanthus_).
 
 **Flowers:** Bracteate, bracteolate, pedicellate, complete, bisexual, actinomorphic, zygo- morphic in (_Ceropegia)_ heterochlamydeous, penta- merous, hypogynous but rarely perigynous or epigynous
 
@@ -130,15 +146,15 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 
 **Androecium:** Stamens 5 , alternipetalous, often epipetalous, In Asclepiadoids the stamens are connate to the styles to form a _Ceropegia spp_
 
-**gynostegium**, pollen grains of each theca of an anther are fused into a waxy mass called pollinium. The right pollinium of each anther attached to the left pollinium of the adjacent anther by a hair like translator, translator arms (**retinacula**) attached together with the gland like structure called **corpusculum**. Anthers are dithecous, basifixed, introse; dehisce longitudinally.
+**gynostegium**, pollen grains of each theca of an anther are fused into a waxy mass called **pollinium**. The right pollinium of each anther attached to the left pollinium of the adjacent anther by a hair like translator, translator arms (**retinacula**) attached together with the gland like structure called **corpusculum**. Anthers are dithecous, basifixed, introse; dehisce longitudinally.
 
 ![Alt text](5.17.png)
 
 **Gynoecium:** Bicarpellary, carpels apically united, superior, 1 to 2 locule with 2 to many ovules in each locule on marginal placentation. Style one and simple, stigma is characteristically thickened, massive and bilobed. A nectariferous disc is often present around or at the base of the gynoecium, (_Catharanthus_).
 
-**Fruit: The fruit is variable and can be a** berry (_Landolphia_), drupe (_Cerbera_) follicle (_Asclepias_), capsule (_Allamanda_).
+**Fruit:** The fruit is variable and can be a berry (_Landolphia_), drupe (_Cerbera_) follicle (_Asclepias_), capsule (_Allamanda_).
 
-**Seed: Seeds are endospermous often** with crown of hairs.
+**Seed:** Seeds are endospermous often with crown of hairs.
 
 **Botanical description of Catharanthus roseus**
 
@@ -150,7 +166,8 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 
 **Leaves:** Usually simple, opposite decussate, exstipulate, subsessile, or petiolate, elliptic – ovate,entire, mucronate, unicostate reticulate venation.
 
-**Inflorescence:** cymose, axillary pairs. **Flower:** Ebracteate, Ebracteolate, subsessile,complete, bisexual, heterochlamydeous, actinomorphic, hypogynous, pentamerous, rosy purple, white or pink.
+**Inflorescence:** cymose, axillary pairs. 
+**Flower:** Ebracteate, Ebracteolate, subsessile,complete, bisexual, heterochlamydeous, actinomorphic, hypogynous, pentamerous, rosy purple, white or pink.
 
 **Calyx:** Sepals 5, slightly synsepalous, green showing valvate aestivation.
 
@@ -162,12 +179,10 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 
 **Fruit:** A pair of elongated follicles. Floral Formula: **Ebr.,Ebrl., , ,K (5),C(5),A5,G(2)**
 
-| S. No | Economic importance | Binomial                                               | Useful part      | Uses                                                                                                                                                                                            |
-| ----- | ------------------- | ------------------------------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Food plant          | Carissa carandas (பெரும்களா)Carissa spinarum (சிறுகளா) | Fruits           | Edible and used in pickles                                                                                                                                                                      |
-| 2     | Medicinal plant     | Rauvola serpentina(Indian snake root /sarpagandha)    | ShootDried roots | To treat hypertension andmental disordersAlkaloid (reserpine)obtained from the driedroots, of the plant canlower the blood pressureand used as sedative forpatients suering fromSchizophrenia. |
-
+**Economic importance of the family Apocynace**
+![alt text](s.no.png)
 ![Alt text](5.18.png)
+![alt text](Eon.png)
 
 ## Family: Solanaceae (Potato Family / Night shade family)
 
@@ -177,41 +192,43 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 
 **APG system of classification**
 
-**Bentham and Hooker system of classification**
 
-| Kingdom | Plantae     | Kingdom           | Plantae       |
-| ------- | ----------- | ----------------- | ------------- |
-| Clade   | Angiosperms | Class             | Dicotyledonae |
-| Clade   | Eudicot     | Subclass          | Gamopetalae   |
-| Clade   | Asterids    | Series            | Bicarpellatae |
-| Clade   | Solanales   | Order             | Polemoniales  |
-| Family  | Solanaceae  | Family Solanaceae |
+| **Kingdom** | **Plantae** |
+|:-----------:|:-----------:|
+|    Clade    | Angiosperms |
+|    Clade    |   Eudicots  |
+|    Clade    |  Asterides  |
+|    Order    | Solanales |
+|    family   | Solanaceae |
+
+**Bentham and Hooker system of classification**
+| **Kingdom** |   **Plantae**   |
+|-------------|:---------------:|
+|    class`   |  Dicotyledonae  |
+|  Sub-class  | Gamopetalae |
+|    Series   |   Bicarpellatae   |
+|    Order    |   Polemoniales |
+|    Family   |  Solanaceae  |
 
 **General Characters**
 **Distribution:**
 
-Family Solanaceae includes about 88 genera and about 2650 species, of these Solanum is the largest genus of the family with about 1500 species. Plants are worldwide in **Habit:** Mostly annual herbs, shrubs, small trees (_Solanum violaceum_) lianas with prickles (_Solanum trilobatum_)
+Family Solanaceae includes about 88 genera and about 2650 species, of these Solanum is the largest genus of the family with about 1500 species. Plants are world wide distribution but more in South America.
 
----
+ **Habit:** Mostly annual herbs, shrubs, small trees (_Solanum violaceum_) lianas with prickles (_Solanum trilobatum_)
 
 **Root:** Branched tap root system.
 
-**Stem:** Herbaceous or woody; erect or twining, or creeping; sometimes modified into tubers (_Solanum tuberosum_) it is covered with Spines (_Solanum tuberosum)_
+**Stem:** Herbaceous or woody; erect or twining, or creeping; sometimes modified into tubers (_Solanum tuberosum_) it is covered with Spines (_Solanum tuberosum)
 
 **Leaves:** Alternate, simple, rarely pinnately compound (_Solanum tuberosum_ )and _Lycopersicon esculentum_, exstipulate, opposite or sub-opposite in upper part, unicostate reticulate venation. Yellowish verbs present in _Solanum tuberosum_
 
-**Inflorescence:** Generally axillary or terminal cymose (_Solanum_) or solitary flowers (_Datura stramonium_). Extra axillary
+**Inflorescence:** Generally axillary or terminal cymose (_Solanum_) or solitary flowers (_Datura stramonium_). Extra axillary scorpiod cyme called rhiphidium (Solanum 
+americanum) solitary and axillary (Datura
+and Nicotiana) umbellate cyme (Withania 
+somnifera).
 
-APG system of classification Bentham and Hookersystem of classification
-| Kingdom |Plantae |Kingdom |Plantae |
-|------|------|------|------|
-| Clade |Angiosperms |Class |Dicotyledonae |
-| Clade |Eudicot |Subclass |Gamopetalae |
-| Clade |Asterids |Series |Bicarpellatae |
-| Clade |Solanales |Order |Polemoniales |
-| Family |Solanaceae |Family |Solanaceae |
-
-**Flowers:** Bracteate or ebracteate, pedicellate, bisexual, heterochlamydeous, pentamerous actinomorphic or weakly zygomorphic due to oblique position of ovary, hypogynous.
+**Flowers:** Bracteate or ebracteate, pedicellate, bisaexual, heterochlamydeous, pentmerous actinomorphic or weakly zygomorphic due to oblique position of ovary, hypogynous.
 
 **Calyx:** Sepals 5, Synsepalous, valvate persistent (_Solanum americanum_), often accrescent. (_Physalis_)
 
@@ -227,7 +244,11 @@ APG system of classification Bentham and Hookersystem of classification
 
 **Botanical description of _Datura metel_**
 
-**Habit:** Large, erect and stout herb. **Root:** Branched tap root system. **Stem:** Stem is hollow, green and herbaceous with strong odour.
+**Habit:** Large, erect and stout herb. 
+
+**Root:** Branched tap root system. 
+
+**Stem:** Stem is hollow, green and herbaceous with strong odour.
 
 **Leaf:** Simple, alternate, petiolate, entire or deeply lobed, glabrous exstipulate showing unicostate reticulate venation.
 
@@ -245,47 +266,55 @@ APG system of classification Bentham and Hookersystem of classification
 
 **Fruit:** Spinescent capsule opening by four apical valves with persistent calyx.
 
-**Seed:** Endospermous. **Floral Formula:** **Dt0.Gdtn0.""".""".M\*7+.E\*7+.C7.I\*4+**
+**Seed:** Endospermous.
+
+ **Floral Formula:** **Dt0.Gdtn0.""".""".M\*7+.E\*7+.C7.I\*4+**
+
+
 ![Alt text](5.20.png)
-| Economic importance of the family solanaceae |
-|------|------|------|------|------|
-| S.No. |Economicimportance |Binomial |Useful part |Uses |
-| 1. |Food plant |Solanum tuberosum (potato)Lycopersicon esculentum(tomato)Solanum melongena(brinjal)Capsicum annuum (bellpeppers & chilli papers)C. frutescens (ள�ொÞ)Physalis peruviana (capegooseberry / கசொCக¤தக�ொ) |Undergroundstem tubersRipened fruitsTender fruitsFruitsFruit |Used as vegetables and also usedfUosr ted ahe ps derod liciouctio un os veg f settar acbh.leand eaten raw.Cooked and eaten asvegetable.Used as vegetables andpowdered chilli is the driedpulverized fruit which is usedas spice to add pungency orpiquancy and flavour to dishes.Used as delicious fruit. |
+**Economic importence**
+![alt text](<E 5.20.png>)
 
 
 ## Family: Euphorbiaceae (Castor Family / Spurge Family)
 
 ![Alt text](5.22.png)
 
+
 **(In APG classification Peraceae, Phyllanthaceae and Picrodendraceae are excluded from the family Euphorbiaceae)**
 
 **Systematic position**
 
-APG Classification |Bentham and HookerClassification
-| Kingdom |Plantae |Kingdom |Plantae |
-|------|------|------|------|
-| Clade |Angiosperms |Class |Monocotyledons |
-| Clade |Monocots |Series |Coronarieae |
-| Order |Liliales |Order |Liliales |
-| Family |Liliaceae |Family |Liliaceae |
+**APG Classification** 
+| **Kingdom** | **Plantae** |
+|:-----------:|:-----------:|
+|    Clade    | Angiosperms |
+|    Clade    |   Eudiocot |
+|    Clade    |  Rosids  |
+|    Order    | Malpighials |
+|    family   | Euphorbiaceae |
+
+**Bentham and Hooker system of Classification**
+| **Kingdom** | **Plantae** |
+|:-----------:|:-----------:|
+|    Class    | Dicotyledonae |
+|    Subclass   |             Monochamyseae    |
+|    Series    |  Unisexuales  |
+|    Order    | Euphorbiales |
+|    family   | Euphorbiaceae |
+
 
 **General characters Distribution:** Euphorbiaceae includes 214 genera and about 5600 species. The plants of this family are found throughout the world. Well represented in Africa and South America.
 
-**Habit:** Herbs (_Phyllanthus amarus_), mostly shrubs (_Ricinus communics, Jatropha gossypifolia) or tree (Emblica officinalis),_
+**Habit:** Herbs (_Phyllanthus amarus_), mostly shrubs (_Ricinus communics, Jatropha gossypifolia) or tree (Emblica officinalis),twiners (_Tragia involucrata_) some are xerophytic (_Euphorbia_) with cactus – like (phylloclades) plants usually contain milky or watery sap.
 
-**Useful part Uses**
+**Root**: Well branched tap root system.
 
-A powerful alkaloid ‘atropine’ obtained from root is used in belladonna plasters, tinctures etc. for relieving pain and also for dialating pupils of eyes for eye –testing. Stramonium drug obtained from the leaves and roots of this is used to treat asthma and whooping cough. Used to treat cough.
-
-twiners (_Tragia involucrata_) some are xerophytic (_Euphorbia_) with cactus – like (phylloclades) plants usually contain milky or watery sap.
-
-**Root**: Well branched tap root system. **Stem**: Aerial, erect or prostrate
-
-(_E.prostrata_), herbaceous or woody. Stem becomes modified into flattened, leaf-like and becomes succulent in several species of Euphorbia. Such modified stem is called phylloclades. Cylindrical, branched, solid or hollow, usually contain latex either milky (_E.tirucalli_) or watery (_Jatropha curcas_).
+ **Stem**: Aerial, erect or prostrate (_E.prostrata_), herbaceous or woody. Stem becomes modified into flattened, leaf-like and becomes succulent in several species of Euphorbia. Such modified stem is called phylloclades. Cylindrical, branched, solid or hollow, usually contain latex either milky (_E.tirucalli_) or watery (_Jatropha curcas_).
 
 **Leaf:** Stipulate or exstipulate. Mostly simple, alternate, often reduced or deciduous as in several species of _Euphorbia_, palmately lobed in (_Ricinus)_ or deeply lobed in (_Manihot)_. The stiplues are modified into a pair of spines (_E.splendens_) or glandular hairs (_Jatropha curcas). The leaves around the cyathium_ inflorescence become beautifully coloured in _E.pulcherrima_ (Paalperukki tree) with unicostate or multicostate reticulate venation.
 
-**Inflorescence: The inflorescence of** Euphorbiaceae varies greatly, Terminal compound raceme – _Croton, Ricinus,_ Catkin – _Acalypha hispida_ Cyme - _Jatropha,_ solitary axillary – _Phyllanthus asperulatus,_ cyathium – _Euphorbia_ species.
+**Inflorescence:** The inflorescence of Euphorbiaceae varies greatly, Terminal compound raceme – _Croton, Ricinus,_ Catkin – _Acalypha hispida_ Cyme - _Jatropha,_ solitary axillary – _Phyllanthus asperulatus,_ cyathium – _Euphorbia_ species.
 
 Cyathium is an unique and special inflorescence of this family.
 
@@ -293,13 +322,15 @@ Cyathium is an unique and special inflorescence of this family.
 
 **Perianth:** Tepals 0 to 5 **biseriate** (male flowers of Croton bonplandianum) uniseriate or aphyllous (_Euphorbia_), valvate or imbricate when present, apophyllous or synphyllous.
 
-**Androecium:** Stamens are 1 to many. In _Euphorbia_ a single stalked stamen represents a single male flower. In Ricinus, usually 5 stamens are present, but each stamen is profusely branched. In \_Jatroph_a, they are arranged in two whorls each of 5 stamens. The anthers are dithecous, dehisce either by transverse or longitudinal slits.
+**Androecium:** Stamens are 1 to many. In _Euphorbia_ a single stalked stamen represents a single male flower. In Ricinus, usually 5 stamens are present, but each stamen is profusely branched. In Jatroph, they are arranged in two whorls each of 5 stamens. The anthers are dithecous, dehisce either by transverse or longitudinal slits.
 
 **Gynoecium:** Tricarpellary, rarely bicarpellary (_Bridelia_), tetra or pentacarpellary (_Wielandia_), syncarpous, ovary superior, rarely semi-inferior, ovules one or two in each locule on axile placentation, Styles 3, each split into two feathery stigma. Nectaries are usually present, gynoecium is present as a pistillode in staminate flowers.
 
 **Fruit**: Fruits are capsule or schizocarp. It breaks violently and dehisce into three one seeded cocci called regma (_Ricinus_ ), drupe in (Emblica officinalis) and berry or samara.
 
-**Seed:** Seeds are endospermous. In _Ricinus_ knob-like caruncle develops from the micropyle,that absorbs and temporarily retains water enabling germination. **Botanical Description Of _Ricinus communis_ (Castor)**
+**Seed:** Seeds are endospermous. In _Ricinus_ knob-like caruncle develops from the micropyle,that absorbs and temporarily retains water enabling germination.
+
+ **Botanical Description Of _Ricinus communis_ (Castor)**
 
 **Habit**: Tall perennial shrub
 
@@ -329,10 +360,44 @@ Cyathium is an unique and special inflorescence of this family.
 ![Alt text](5.23.png)
 **Fruit**: A schizocarp with spiny outgrowth, splits into three one seeded cocci.
 
-**Seed:** Endospermous, knob-like caruncle develops from the micropyle, that absorbs
+**Seed:** Endospermous, knob-like caruncle develops from the micropyle, that absorbs and temporarily retains water enabling 
+germination. 
 
+**Floral Formula:**
+**Male flower: Br.,Ebrl., , ,P(5),A ,G0**
+**Female flower: Br.,Ebrl., , ,P(3),A 0,G(3)**
+
+**Economic impotence of the family Euphobiaceae**
+![alt text](371.png)
+
+## Monocot Family 
+
+## Family Musacaea Banana Family
+
+![Alt text](5.24.png)
+
+**Systematic position**
+**APG Classification**
+
+| **Kingdom** | **Plantae** |
+|:-----------:|:-----------:|
+|    Clade    | Angiosperms |
+|    Clade    |   Monocots  |
+|    Clade    |  Commelinids  |
+|    Order    | Zingibearales |
+|    family   | Musaceae |
+
+**Bentham and Hooker system of classification**
+| **Kingdom** |   **Plantae**   |
+|-------------|:---------------:|
+|    class   |  Monocotyledonae  |
+|  Sub-class  | Zingiberidae |
+|    Series   | Epigynae   |
+|    Order    |  Zingiberales|
+|    Family   |  Musaceae  |
+
+## ![Alt text](5.25.png)
 ---
-
 Note: Earlier Musaceae was a large family with 6 genera viz. _Musa, Ensete, Ravenala, Strelitzia, Orchidantha_ and _Heliconia_. In APG only Musa and Ensete are retained while _Ravenala, Strelitzia, Orchidantha_ and _Heleconia_ are separated.
 
 ---
@@ -344,11 +409,13 @@ Musaceae includes only 2 genera (_Musa_ and _Ensete) and 81 species. The members
 
 **Habit:** Large perennial herbs perennating by means of rhizome ( _Musa paradisiaca_), raraly trees (_Ravenala madagascariensis)_.
 
-**Root:** Fibrous adventitious root system. **Stem:** In _Musa_ the real stem is found underground called rhizomatous (dichotomously branching in atleast some spp). The apparent aerial erect, unbranched tall pseudostem is formed by the long stiff and sheathy leaf bases which are rolled around
+**Root:** Fibrous adventitious root system. 
+**Stem:** In _Musa_ the real stem is found underground called rhizomatous (dichotomously branching in atleast some spp). The apparent aerial erect, unbranched tall pseudostem is formed by the long stiff and sheathy leaf bases which are rolled around one another to form an aerial pseudostem. The central axis that is concealed at the bottom of the pseudostem in called shaft, which elongates and pierces through the pseudostem at the time of flowering and produces inflorescence terminally. (Musa) monocarpic Stem is aerial and woody in (Ravenala madagascariensis.)
 
 **Leaf:** Simple with long and strong petiole, the leaf blade is large and broad with sheathy leaf base. The leaf is exstipulate. Oval, obtuse or oblong with a stout midrib, entire, numerous parallel veins extending up to the margin, rolled in bud. Phyllotaxy is spiral in _Musa_ and distichous i.e. leaves are arranged alternately in two opposite vertical rows in _Ravenala_.
 
-**Inflorescence: Terminal or axillary thyrse** of one to many monochasial branched spadix in Musa, Usually the flowers are protected by large brightly coloured, spirally arranged, boat shaped bract called spathe. Compound cyme in _Ravenala._
+**Inflorescence:**
+Terminal or axillary thyrse of one to many monochasial branched spadix in Musa, Usually the flowers are protected by large brightly coloured, spirally arranged, boat shaped bract called spathe. Compound cyme in _Ravenala._
 
 **Flowers:** Bracteate, ebracteolate, sessile, trimerous, unisexual or bisexual or polygamous, when unisexual the flowers are monoecious. Flowers are zygyomorphic and epigynous. (In Musa flowers are polygamous i.e. staminate flowers, pistilate flowers and bisexual flowers are present in the same plant).
 
@@ -368,11 +435,11 @@ Musaceae includes only 2 genera (_Musa_ and _Ensete) and 81 species. The members
 
 **Root:** Fibrous adventitious root system.
 
-**Stem: The real stem is underground** called rhizomatous. The apparent, aerial erect unbranched pseudostem is formed by the long, stiff and sheathy leaf bases which are rolled around one another to form an aerial pseudostem. The central axis that is concealed at the bottom of the pseudostem is called shaft. The shaft elongates, pierces through the pseudostem and produces an inflorescence terminally.
+**Stem:** The real stem is underground called rhizomatous. The apparent, aerial erect unbranched pseudostem is formed by the long, stiff and sheathy leaf bases which are rolled around one another to form an aerial pseudostem. The central axis that is concealed at the bottom of the pseudostem is called shaft. The shaft elongates, pierces through the pseudostem and produces an inflorescence terminally.
 
 **Leaf:** Simple with a long and strong petiole. The leaf blade is large and broad with sheathy leaf base. Leaf exstipulate and obtuse pinnately parallel venation which extends upto the leaf margin phyllotaxy is spiral.
 
-**Inflorescence: Terminal branched spadix.** Flowers are protected by large, brightly coloured spirally arranged, boat shaped bracts called spathe. When the flowers open, spathe rolls back and falls off.
+**Inflorescence:** Terminal branched spadix. Flowers are protected by large, brightly coloured spirally arranged, boat shaped bracts called spathe. When the flowers open, spathe rolls back and falls off.
 
 **Flower:** Bracteate, ebracteolate, sessile, trimerous, unisexual or bisexual, flowers are zygomorphic and epigynous.
 
@@ -382,7 +449,7 @@ Musaceae includes only 2 genera (_Musa_ and _Ensete) and 81 species. The members
 
 **Gynoecium:** Tricarpellary, syncarpous, the median carpel anterior, trilocular, ovary inferior, numerous ovules on axile placentation. Style is simple and filiform, stigma trilobed.
 
-**Fruit: An elongated fleshy berry and** seeds are not produced in cultivated varieties.
+**Fruit:** An elongated fleshy berry and seeds are not produced in cultivated varieties.
 
 Floral Formula
 
@@ -396,15 +463,26 @@ Bisexual flower:
 **Br,Ebrl,%, ,P(3+2)+1,A3+3,G(3).**
 ![Alt text](5.26.png)
 
-## Family: Liliaceae (Lily Family)
+**Economic Impotence of the Family Musceae**
+![alt text](Economic.png)
 
-![Alt text](5.24.png)
+## Family:Liliaceae(Lily Family)
+**Systemetic position**
+| **Kingdom** | **Plantae** |
+|:-----------:|:-----------:|
+|    Clade    | Angiosperms |
+|    Clade    |   Monocots    |
+|    Order    | Liliales |
+|    family   | Liliaceae |
 
-**Systematic position**
-
-
-## ![Alt text](5.25.png)
-
+**Bentham and Hooker system of classification**
+| **Kingdom** |   **Plantae**   |
+|-------------|:---------------:|
+|    class   |  Monocotyledonae  |
+|    Series   | Coronarieae |
+|    Order    |  Liliales  |
+|    Family   |  Liliaceae  |
+---
 Note: Liliaceae of Bentham and Hooker included _Allium, Gloriosa, Smilax, Asparagus, Scilla, Aloe, Dracaena_ etc. Now under APG, it includes only **_Lilium_** and **_Tulipa_**. All others are placed under different families.
 
 ---
@@ -413,15 +491,15 @@ Note: Liliaceae of Bentham and Hooker included _Allium, Gloriosa, Smilax, Aspara
 
 **Habit:** Mostly perennial herbs persisting by means of a sympodial rhizome (_Polygonatum)_, by a bulb (_Lilium_) corm (_Colchicum_), shrubby or tree like (_Yucca_ and _Dracaena_). Woody climbers, climbing with the help of stipular tendrils in _Smilax_. Trees in (_Xanthorrhoea),_ succulents (_Aloe)_.
 
-**Root: Adventitious and fibrous, and** typically contractile.
+**Root:** Adventitious and fibrous, and typically contractile.
 
 **Stem:** Stems usually bulbous, rhizomatous in some, aerial, erect (_Dracaena_) or climbing (_Smilax)_ in _Ruscus_ the ultimate branches are modified into phylloclades, In Asparagus stem is modified into cladodes and the leaves are reduced to scales.
 
 **Leaf:** Leaves are radical (_Lilium_) or **cauline** (_Dracaena_), usually alternate, opposite (Gloriosa), sometimes fleshy and hollow, reduced to scales (_Ruscus_ and _Asparagus). The venation is parallel but_ in species of _Smilax_ it is reticulate. Leaves are usually exstipulate, but in _Smilax_, two tendrils arise from the base of the leaf, which are considered modified stipules.
 
-**Inflorescence: Flowers are usually borne** in simple or branched racemes (_Asphodelus_) spikes in _Aloe_, huge terminal panicle in _Yucca_, solitary and axillary in _Gloriosa_, solitary and terminal in _Tulipa._
+**Inflorescence:** Flowers are usually borne in simple or branched racemes (_Asphodelus_) spikes in _Aloe_, huge terminal panicle in _Yucca_, solitary and axillary in _Gloriosa_, solitary and terminal in _Tulipa._
 
-**Flowers: Flowers are often showy,** pedicellate, bracteate, ebracteolate, except _Dianella_ and _Lilium_, bisexual, actinomorphic, trimerous, hypogynous, rarely unisexual (_Smilax_) and are dioecious, rarely tetramerous (_Maianthemum_), slightly zygomorphic (_Lilium_) and hypogynous.
+**Flowers:** Flowers are often showy, pedicellate, bracteate, ebracteolate, except _Dianella_ and _Lilium_, bisexual, actinomorphic, trimerous, hypogynous, rarely unisexual (_Smilax_) and are dioecious, rarely tetramerous (_Maianthemum_), slightly zygomorphic (_Lilium_) and hypogynous.
 
 **Perianth:** Tepals 6 biseriate arranged in two whorls of 3 each, apotepalous or rarely syntepalous as in _Aloe._ Usually petaloid or sometimes sepaloid, odd tepal of the outer whorl is anterior in position, valvate or imbricate, tepals more than six in _Paris quadrifolia_.
 
@@ -431,15 +509,18 @@ Note: Liliaceae of Bentham and Hooker included _Allium, Gloriosa, Smilax, Aspara
 
 **Fruit:** Fruit usually a septicidal or loculicidal capsule or a berry as in _Asparagus_ and _Smilax._
 
-**Botanical description of _Allium cepa_** (In APG classification, _Allium cepa_ is placed under the family Amaryllidaceae)
+**Botanical description of _Allium cepa_** 
+ (In APG classification, _Allium cepa_ is placed under the family Amaryllidaceae)
 
 **Habit:** Perennial herb with bulb.
 
-**Root:** Fibrous adventitious root system **Stem:** Underground bulb
+**Root:** Fibrous adventitious root system 
+
+**Stem:** Underground bulb
 
 **Leaf:** A cluster of radical leaves emerges from the underground bulb, cylindrical and fleshy having sheathy leaf bases with parallel venation.
 
-**Inflorescence: Scapigerous i.e. the** inflorescence axis (peduncle) arising from the ground bearing a cluster of flowers at its apex. Pedicels are of equal length, arising from the apex of the peduncle which brings all flowers at the same level.
+**Inflorescence:   Scapigerous**  i.e. the inflorescence axis (peduncle) arising from the ground bearing a cluster of flowers at its apex. Pedicels are of equal length, arising from the apex of the peduncle which brings all flowers at the same level.
 
 **Flower:** Small, white, bracteate, ebracteolate, pedicellate, complete, trimerous,Bulbose stem actinomorphic and hypogynous. Flowers are protandrous.
 
@@ -447,13 +528,14 @@ Note: Liliaceae of Bentham and Hooker included _Allium, Gloriosa, Smilax, Aspara
 
 **Androecium:** Stamens 6, arranged in two whorls of three each, epitepalous, apostamenous /free and opposite to tepals. Anthers dithecous, basifixed, introse, and dehiscing longitudinally.
 
-**Gynoecium:** Tricarpellary and syncarpous. Ovary superior, trilocular with two ovules in each locule on axile placentation. Style simple, slender with simple stigma.
+**Gynoecium:** Tricarpellary and syncarpous. Ovary superior, trilocular with two ovules in each locule on axile placentation.  Style simple, slender with simple stigma.
 
 **Fruit:** A loculicidal capsule.
 **Seed:** Endospermous
 **Floral Formula:** **Br.,Ebrl., , ,P(3+3) A 3+3,G(3)**
 ![Alt text](fig.png)
 ![Alt text](Liliaceae.png)
+**Economic importence of the family Liliaceae**
 
 | S.No | Economic importance  | Binomial                                                                                                                                                          | Useful part  | Uses                                                                                                                                             |
 | ---- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
