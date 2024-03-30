@@ -16,7 +16,7 @@ In 1833, German botanist **Matthias Schleiden** and German zoologist **Theodor S
 
 It is fixed inside the eye p It is a thin transparent glass disc where there divided into 100 equal units. The scale has no values 
 
-**Stage Micrometre:**This is a slide with a line into 100 units. The line is about 10mm. The between two adjacent lines is 10 µm. The value of the stage micrometre is transferre measurement can be made using ocular mi The distance between two adjacent line of ocular meter = ( Number of stage divisions / Number of ocular divisions ) * 10 
+**Stage Micrometre:** This is a slide with a line into 100 units. The line is about 10mm. The between two adjacent lines is 10 µm. The value of the stage micrometre is transferre measurement can be made using ocular mi The distance between two adjacent line of ocular meter = ( Number of stage divisions / Number of ocular divisions ) * 10 
 
 ---
 
@@ -45,7 +45,7 @@ These solutes may be homogeneous (soluble in water) or heterogeneous mass (insol
 
 **Physical Properties of Protoplasm** 
 
-The protoplasm exists either in semisolid (jelly-like) state called ‘**gel**᾿ due to suspended particles and various chemical bonds or may be liquid state called ‘sol᾿.The colloidal protoplasm which is in gel form can change into sol form by **solation** and the sol can change into gel by gelation. These gel-sol conditions of colloidal system are prime basis for mechanical behaviour of cytoplasm. 
+The protoplasm exists either in semisolid (jelly-like) state called ‘**gel**᾿ due to suspended particles and various chemical bonds or may be liquid state called **sol**.The colloidal protoplasm which is in gel form can change into sol form by **solation** and the sol can change into gel by **gelation**. These gel-sol conditions of colloidal system are prime basis for mechanical behaviour of cytoplasm. 
 
 1. Protoplasm is translucent, odourless and polyphasic fluid. 
 2. It is a crystal colloid solution which is a mixture of chemical substances forming crystalloid i.e. true solution (sugars, salts, acids, bases) and others forming colloidal solution (Proteins and lipids)
