@@ -273,7 +273,7 @@ somnifera).
 
 ![Alt text](5.20.png)
 **Economic importence**
-![alt text](<E 5.20.png>)
+![alt text](Eco2.png)
 
 
 ## Family: Euphorbiaceae (Castor Family / Spurge Family)
