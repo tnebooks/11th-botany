@@ -3,6 +3,14 @@ title: "Attributes of living organisms"
 weight: 1
 references:
   videos:
+      - youtube:HWVbdS1_RYw
+      - youtube:FKZysxJawT4
+  
+  links:
+      - https://assets.cambridge.org/97805216/80547/excerpt/9780521680547_excerpt.pdf
+      - https://www.vedantu.com/question-answer/explain-the-characteristics-of-living-organisms-class-11-biology-cbse-5f89561c0592a47a57a7048d
+      - https://www.learncbse.in/living-world-cbse-notes-class-11-biology/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 The attributes of living organisms are given below and is represented in Figure 1.1.

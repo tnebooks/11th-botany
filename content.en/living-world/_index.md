@@ -5,7 +5,11 @@ categories:
     - living-world
 references:
     videos:
-        - youtube:v426ufEpbQ
+        - youtube:HWVbdS1_RYw
+        - youtube:FKZysxJawT4
+    links:
+        - https://www.learncbse.in/living-world-cbse-notes-class-11-biology/
+        - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
     books:
         - b1:
             title: Introductory Mycology

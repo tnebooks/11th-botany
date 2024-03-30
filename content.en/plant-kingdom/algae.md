@@ -3,6 +3,12 @@ title: "Algae"
 weight: 3
 references:
   videos:
+       - youtube:VqBDrkzHdNQ
+       - youtube:Q6mSOwLoqvE
+  links:
+      - https://en.wikipedia.org/wiki/Algae
+      - https://testbook.com/biology/plant-kingdom
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Algae

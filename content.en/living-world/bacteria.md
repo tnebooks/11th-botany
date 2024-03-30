@@ -3,6 +3,13 @@ title: "Bacteria"
 weight: 4
 references:
   videos:
+      - youtube:HWVbdS1_RYw
+      - youtube:FKZysxJawT4
+  links:
+      - https://www.aakash.ac.in/blog/bacteria-ncert-class-11-biology-concept-note-for-neet/
+      - https://byjus.com/biology/bacteria/#:~:text=Bacteria%20are%20single%2Dcelled%20microorganisms,Such%20organisms%20are%20called%20extremophiles.
+      - https://www.learncbse.in/living-world-cbse-notes-class-11-biology/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Bacteria

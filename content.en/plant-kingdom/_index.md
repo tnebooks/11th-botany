@@ -1,6 +1,14 @@
 ---
 title: "Plant Kingdom"
 weight: 2
+references:
+  videos:
+       - youtube:VqBDrkzHdNQ
+       - youtube:Q6mSOwLoqvE
+  links:
+      - https://www.britannica.com/plant/angiosperm
+      - https://testbook.com/biology/plant-kingdom
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 **Learning Objectives :**

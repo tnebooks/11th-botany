@@ -1,6 +1,11 @@
 ---
 title: 'Plant and Animal cell'
 weight: 5
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 ### Plant and Animal cell

@@ -3,6 +3,9 @@ title: "Flower"
 weight: 2
 references:
   videos:
+  links:
+      - https://en.wikipedia.org/wiki/Plant_reproductive_morphology#:~:text=Plant%20reproductive%20morphology%20is%20the,indirectly%20concerned%20with%20sexual%20reproduction.
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Flower

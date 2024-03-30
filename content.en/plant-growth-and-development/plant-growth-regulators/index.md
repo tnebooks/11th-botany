@@ -13,6 +13,7 @@ references:
             url: https://amzn.eu/d/4EbJUpv
     links:
       - https://www.vedantu.com/biology/growth-development
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 Plant Growth Regulators (chemical messenger) are defined as organic substances which are synthesized in minute quantities in one part of the plant body and transported to another part where they influence specific physiological processes. Five major groups of hormones _viz._, auxins, gibberellins, cytokinins, ethylene and abscisic acid are presently known to coordinate and regulate growth and development in plants. The term phytohormones is implied to those chemical substances which are synthesized by plants and thus, naturally occurring. On the other hand, there are several manufactured chemicals which often resemble the hormones in physiological action and even in molecular structure. Recently, another two groups, the brassinosteroids and polyamines were also known to behave like hormones. 

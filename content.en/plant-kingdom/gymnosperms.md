@@ -3,6 +3,13 @@ title: "Gymnosperms"
 weight: 6
 references:
   videos:
+       - youtube:VqBDrkzHdNQ
+       - youtube:Q6mSOwLoqvE
+  links:
+      - https://byjus.com/biology/gymnosperms/
+      - https://byjus.com/biology/angiosperms-and-gymnosperms-difference/
+      - https://testbook.com/biology/plant-kingdom
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Gymnosperms

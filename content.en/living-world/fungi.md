@@ -3,6 +3,13 @@ title: "Fungi"
 weight: 5
 references:
   videos:
+      - youtube:HWVbdS1_RYw
+      - youtube:FKZysxJawT4
+  links:
+      - https://byjus.com/question-answer/what-are-fungi/
+      - https://www.pw.live/chapter-biological-classification/kingdom-fungi
+      - https://www.learncbse.in/living-world-cbse-notes-class-11-biology/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Fungi

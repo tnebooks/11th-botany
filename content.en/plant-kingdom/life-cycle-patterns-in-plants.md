@@ -3,6 +3,12 @@ title: "Life Cycle patterns in Plants"
 weight: 2
 references:
   videos:
+       - youtube:VqBDrkzHdNQ
+       - youtube:Q6mSOwLoqvE
+  links:
+      - https://www.ncbi.nlm.nih.gov/books/NBK9980/#:~:text=The%20plant%20life%20cycle%20alternates,only%20by%20the%20haploid%20generation.
+      - https://testbook.com/biology/plant-kingdom
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Life Cycle Patterns in Plants

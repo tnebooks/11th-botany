@@ -3,6 +3,13 @@ title: "Classification of Plants"
 weight: 1
 references:
   videos:
+       - youtube:VqBDrkzHdNQ
+       - youtube:Q6mSOwLoqvE
+  links:
+      - https://www.vedantu.com/biology/classification-of-plants
+      - https://alec.unl.edu/documents/cde/2017/natural-resources/classification-and-naming-of-plants.pdf
+      - https://testbook.com/biology/plant-kingdom
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 # Classification of Plants

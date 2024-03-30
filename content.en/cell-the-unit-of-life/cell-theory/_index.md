@@ -1,6 +1,11 @@
 ---
 title: 'Cell-theory'
 weight: 3
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 
@@ -18,6 +23,11 @@ It is fixed inside the eye p It is a thin transparent glass disc where there div
 
 **Stage Micrometre:** This is a slide with a line into 100 units. The line is about 10mm. The between two adjacent lines is 10 µm. The value of the stage micrometre is transferre measurement can be made using ocular mi The distance between two adjacent line of ocular meter = ( Number of stage divisions / Number of ocular divisions ) * 10 
 
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 These observations led to the formulation of modern cell theory.
