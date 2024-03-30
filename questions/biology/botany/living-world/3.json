@@ -1,0 +1,17 @@
+{
+    "question" : "Identify the Archaebacterium",
+    "explanation" : "",
+    "choices" : [ {
+      "value" : "Acetobacter"
+    }, {
+      "value" : "Erwinia"
+    }, {
+      "value" : "Treponema"
+    }, {
+      "value" : "Methanobacterium",
+      "answer" : true
+    } ]
+  }
+
+
+ 

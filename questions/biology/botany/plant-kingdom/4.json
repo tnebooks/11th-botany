@@ -1,0 +1,18 @@
+{
+    "question": "Endosperm in gymnosperm is formed",
+    "explanation": "",
+    "choices": [{
+        "value": "At the time of fertilization"
+      },
+      {
+        "value": "Before fertilization",
+        "answer": true
+      },
+      {
+        "value": "After fertilization"
+      },
+      {
+        "value": "Along with the development of embryo"
+      }
+    ]
+  }

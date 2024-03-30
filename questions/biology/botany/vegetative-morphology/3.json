@@ -1,0 +1,18 @@
+{
+    "question": "Bryophyllum and Dioscorea are examples of",
+    "explanation": "",
+    "choices": [{
+        "value": "Foliar bud, apical bud",
+        "answer": true
+      },
+      {
+        "value": "Foliar bud, cauline bud"
+      },
+      {
+        "value": "Cauline bud, apical bud"
+      },
+      {
+        "value": "Cauline bud, foliar bud"
+      }
+    ]
+  }

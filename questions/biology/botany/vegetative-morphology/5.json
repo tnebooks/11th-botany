@@ -1,0 +1,18 @@
+{
+    "question": "Select the mismatch pair",
+    "explanation": "",
+    "choices": [{
+        "value": "Musa - Unicostate"
+      },
+      {
+        "value": "Lablab - Trifoliolate"
+      },
+      {
+        "value": "Acalypha - Leaf mosaic",
+        "answer": true
+      },
+      {
+        "value": "Allamanda - Ternate phyllotaxy"
+      }
+    ]
+  }

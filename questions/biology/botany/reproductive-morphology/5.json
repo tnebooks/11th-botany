@@ -1,0 +1,18 @@
+{
+    "question": "A true fruit is the one where",
+    "explanation": "",
+    "choices": [{
+        "value": "Only ovary of the flower develops into fruit",
+        "answer": true
+      },
+      {
+        "value": "Ovary and calyx of the flower develops into fruit"
+      },
+      {
+        "value": "Ovary, calyx and thalamus of the flower develops into fruit"
+      },
+      {
+        "value": "All floral whorls of the flower develops into fruit"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "question" : "Identify the incorrect statement aboutthe Gram positive bacteria",
+    "explanation" : "",
+    "choices" : [ {
+      "value" : " Teichoic acid absent"
+       }, {
+      "value" : "High percentage of peptidoglycan isfound in cell wall"
+    }, {
+      "value" : "Cell wall is single layered"
+    }, {
+      "value" : "Lipopolysaccharide is present in cell wall",
+      "answer" : true
+    } ]
+  }

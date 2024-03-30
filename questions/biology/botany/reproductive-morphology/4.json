@@ -1,0 +1,18 @@
+{
+    "question": "In an inflorescence where flowers are borne laterally in an acropetal succession the position of the youngest floral bud shall be",
+    "explanation": "",
+    "choices": [{
+        "value": "Proximal"
+      },
+      {
+        "value": "Distal",
+        "answer": true
+      },
+      {
+        "value": "Intercalary"
+      },
+      {
+        "value": "Anywhere"
+      }
+    ]
+  }

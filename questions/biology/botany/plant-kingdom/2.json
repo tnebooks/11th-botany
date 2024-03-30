@@ -1,0 +1,18 @@
+{
+    "question": "Which of the following represents gametophytic generation in pteridophytes?",
+    "explanation": "",
+    "choices": [{
+        "value": "Prothallus",
+        "answer": true
+      },
+      {
+        "value": "Thallus"
+      },
+      {
+        "value": "Cone"
+      },
+      {
+        "value": "Rhizophore"
+      }
+    ]
+  }

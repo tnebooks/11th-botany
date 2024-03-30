@@ -1,0 +1,18 @@
+{
+    "question": "Which of the following is the correct statement?",
+    "explanation": "",
+    "choices": [{
+        "value": "In Pisum sativum leaflets modified into tendrils"
+      },
+      {
+        "value": "In Atalantia terminal bud is modified into thorns",
+        "answer": true
+      },
+      {
+        "value": "In Nepenthes midrib is modified into lid"
+      },
+      {
+        "value": "In Smilax inflorescence axis is modified into tendrils"
+      }
+    ]
+  }

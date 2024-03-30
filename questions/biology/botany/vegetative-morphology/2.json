@@ -1,0 +1,18 @@
+{
+    "question": "Roots are",
+    "explanation": "",
+    "choices": [{
+        "value": "Descending, negatively geotropic, positively phototropic"
+      },
+      {
+        "value": "Descending, positively geotropic, negatively phototropic"
+      },
+      {
+        "value": "Ascending, positively geotropic, negatively phototropic"
+      },
+      {
+        "value": "Ascending, negatively geotropic, positively phototropic",
+        "answer": true
+      }
+    ]
+  }
