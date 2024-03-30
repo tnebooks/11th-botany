@@ -23,8 +23,8 @@ Discovery of Penicillin in the year 1928 is a serendipity in the world of medici
 
 The word ‘fungus’ is derived from Latin meaning ‘mushroom’. Fungi are ubiquitous, eukaryotic, achlorophyllous heterotrophic organisms. They exist in unicellular or multicellular forms. The study of fungi is called mycology. (Gr. mykes – mushroom: logos – study). P.A. Micheli is considered as founder of Mycology. Few renowned mycologists include Arthur H.R. Buller, John Webster, D.L.Hawksworth, G.C.Ainsworth, B.B.Mundkur, K.C.Mehta, C.V. Subramanian and T.S. Sadasivan.
 
+> **E.J. Butler (1874-1943)**
 > E.J. Butler is the Father of Indian Mycology. He established Imperial Agricultural Research Institute at Pusa, Bihar. It was later shifted to New Delhi and at present known as Indian Agricultural Research Insitute (IARI). He published a book, ‘Fungi and Disease in Plants’ on Indian plant diseases in the year 1918.
-> ![Alt text](1.27.png) > **E.J. Butler (1874-1943)**
 
 ## General characteristic features
 
@@ -153,7 +153,7 @@ Coenocytic mycelium is present. The cell wall is made up of Glucan and Cellulose
 
 - Sexual reproduction is present but sex organs are absent. Somatogamy or spermatisation results in plasmogamy. Karyogamy is delayed and dikaryotic phase is prolonged. Karyogamy takes place in basidium and it is immediately followed by meiotic division.
 
-- The four nuclei thus formed are transformed into basidiospores which are borne on sterigmata outside the basidium (Exogenous ). The basidium is club shaped with four basidiospores, thus this group of fungi is popularly called “Club fungi”. The fruit body formed is called Basidiocarp**.**
+- The four nuclei thus formed are transformed into basidiospores which are borne on sterigmata outside the basidium (Exogenous ). The basidium is club shaped with four basidiospores, thus this group of fungi is popularly called “Club fungi”. The fruit body formed is called Basidiocarp.
 
 **Deuteromycetes or Fungi Imperfecti**
 The fungi belonging to this group lack sexual reproduction and are called imperfect fungi. A large number of species live as saprophytes in soil and many are plant and animal parasites. Asexual reproduction takes place by the production of conidia, chlamydospores, budding, oidia etc.,
