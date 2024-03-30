@@ -2,7 +2,7 @@
 title: 'Microscopy'
 weight: 2
 ---
-
+# Microscopy
 
 Microscope is an inevitable instrument in studying the cell and subcellular structures. It offers scope in studying microscopic organisms therefore it is named as microscope (mikros – small; skipein – to see) in Greek terminology. Compound microscope was invented by **Z. Jansen**.
 
