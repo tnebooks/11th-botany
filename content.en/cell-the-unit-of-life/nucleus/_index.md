@@ -3,7 +3,7 @@ title: 'Nucleus'
 weight: 7
 ---
 
-
+### Nucleus
 Nucleus is an important unit of cell which controls all activities of the cell. Nucleus holds the hereditary information. It is the largest among all cell organelles. It may be spherical, cuboidal, ellipsoidal or discoidal.
 
 It is surrounded by a double membrane structure called **nuclear envelope**, which has the inner and outer membrane. The inner membrane is smooth without ribosomes and the outer membrane is rough by the presence of ribosomes and it continues with irregular and infrequent intervals with the endoplasmic reticulum. The membrane is perforated by pores known as **nuclear pores** which allows materials such as mRNA, ribosomal units, proteins and other macromolecules to pass in and out of the nucleus. The pores enclosed by circular structures called **annuli**. The pore and annuli form the **pore complex**. The space between two membranes is called **perinuclear space**.
@@ -55,9 +55,7 @@ body separated from main chromosome by a relatively elongated secondary constric
 
 Based on the position of centromere, chromosomes are called **telocentric** (terminal centromere), **acrocentric** (terminal centromere capped by telomere), **sub metacentric** (centromere subterminal) and **metacentric** (centromere median). The eukaryotic chromosome may be rod shaped (telocentric and acrocentric), L-shaped (sub-metacentric) and V-shaped (metacentric) (Figure 6.24).
 
-Based on the functions of chromosome it can be divided into **autosomes** and **sex**  
-
-**chromosomes**. 
+Based on the functions of chromosome it can be divided into **autosomes** and **sex chromosomes**. 
 
 Autosomes are present in all cells controlling somatic characteristics of an organism. In human diploid cell, 44 chromosomes are autosomes whereas two are sex chromosomes. Sex chromosomes are involved in the determination of sex. 
 
