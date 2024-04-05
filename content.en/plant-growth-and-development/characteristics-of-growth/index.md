@@ -4,6 +4,7 @@ weight: 1
 references:
   videos:
     - youtube:3EYZbCbowNE
+    - youtube:KwxDCKqyyWA
   books:
     - b1:
         title: Plant Physiology and Development
