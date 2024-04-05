@@ -15,9 +15,16 @@ references:
     - b2:
         title: A Textbook Of Plant Physiology, Biochemistry And Biotechnology
         url: https://amzn.eu/d/4EbJUpv
+    - b3:
+        title: Microbial Growth Kinetics
+        url: https://www.amazon.in/Microbial-Growth-Kinetics-N-S-Panikov/dp/0412566303
   links:
       - https://www.vedantu.com/biology/growth-development
       - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
+      - https://www.sciencebuddies.org/science-fair-projects/references/measuring-plant-growth
+      - https://www.toppr.com/ask/question/the-given-figure-shows-development-of-an-embryo-that-undergoes-two-phases-a-and-b/
+      - https://synder.com/blog/growth-rate-definition/
+      - https://pubmed.ncbi.nlm.nih.gov/9729604/#:~:text=Growth%20kinetics%2C%20i.e.%2C%20the%20relationship,the%20basic%20tools%20in%20microbiology.
 ---
 
 # Characteristics of Growth
