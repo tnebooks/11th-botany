@@ -18,6 +18,9 @@ references:
     - b3:
         title: Microbial Growth Kinetics
         url: https://www.amazon.in/Microbial-Growth-Kinetics-N-S-Panikov/dp/0412566303
+    - b4:
+        title: Growth Curves 145 (Statistics A Series of Textbooks and Monographs)
+        url: https://www.amazon.in/Growth-Curves-Statistics-Textbooks-Monographs/dp/0824793412
   links:
       - https://www.vedantu.com/biology/growth-development
       - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
