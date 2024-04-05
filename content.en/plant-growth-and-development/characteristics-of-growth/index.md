@@ -5,6 +5,9 @@ references:
   videos:
     - youtube:3EYZbCbowNE
     - youtube:KwxDCKqyyWA
+    - youtube:ojrHnQcVoYc
+    - youtube:AG59w7Y8PR0
+    - youtube:xfYoz-PEIwk
   books:
     - b1:
         title: Plant Physiology and Development
