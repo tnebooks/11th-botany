@@ -1,0 +1,18 @@
+{
+    "question": "The taxonomy which involves the similarities and dissimilarities among the immune system of different taxa is termed as",
+    "explanation": "",
+    "choices": [{
+        "value": "Chemotaxonomy"
+      },
+      {
+        "value": "Molecular systematics"
+      },
+      {
+        "value": "Serotaxonomy",
+        "answer": true
+      },
+      {
+        "value": "Numerical taxonomy"
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+{
+    "question": "Munch hypothesis is based on",
+    "explanation": "",
+    "choices": [{
+        "value": "Translocation of food due to TP gradient and imbibition force"
+      },
+      {
+        "value": "Translocation of food due to TP"
+      },
+      {
+        "value": "Translocation of food due to imbibition force"
+      },
+      {
+        "value": "None of the above"
+      }
+    ]
+  }

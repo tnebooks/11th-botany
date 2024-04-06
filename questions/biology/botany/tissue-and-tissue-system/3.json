@@ -1,0 +1,18 @@
+{
+    "question": "In Gymnosperms, the activity of sieve cells are controlled by",
+    "explanation": "",
+    "choices": [{
+        "value": "Nearby sieve tube members."
+      },
+      {
+        "value": "Phloem parenchyma cells"
+      },
+      {
+        "value": "Nucleus of companion cells.",
+        "answer": true
+      },
+      {
+        "value": "Nucleus of albuminous cells."
+      }
+    ]
+  }

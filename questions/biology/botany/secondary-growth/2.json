@@ -1,0 +1,18 @@
+{
+    "question": "Usually, the monocotyledons do not increase their girth, because",
+    "explanation": "",
+    "choices": [{
+        "value": "They possess actively dividing cambium"
+      },
+      {
+        "value": "They do not possess actively dividing cambium",
+        "answer": true
+      },
+      {
+        "value": "Ceases activity of cambium"
+      },
+      {
+        "value": "All are correct"
+      }
+    ]
+  }

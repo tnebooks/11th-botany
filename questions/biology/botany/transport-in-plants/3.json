@@ -1,0 +1,18 @@
+{
+    "question": "What type of transpiration is possible in the xerophyte Opuntia?",
+    "explanation": "",
+    "choices": [{
+        "value": "Stomatal"
+      },
+      {
+        "value": "Lenticular"
+      },
+      {
+        "value": "Cuticular"
+      },
+      {
+        "value": "All the above",
+        "answer": true
+      }
+    ]
+  }
