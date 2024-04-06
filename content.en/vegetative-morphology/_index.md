@@ -19,15 +19,6 @@ The learner will be able to,
 - Understand the stem modifications and function.
 - Interpret the structure and functions of leaf
 
-**Chapter Outline**
-**3.1** Habit
-**3.2** Plant habitat
-**3.3** Life Span
-**3.4** Parts of a flowering plant
-**3.5** Root System
-**3.6** Shoot system
-**3.7** Leaf
-
 The study of various external features of the organism is known as **Morphology.** **Plant Morphology** is also known as **external morphology that** deals with the study of shape, size and structure of plants and their parts (roots, stems, leaves, flowers, fruits and seeds). Study of Morphology is important in Taxonomy. Morphological features are important in determining productivity of crops. Morphological characters indicate the specific habitats of living as well as the fossil plants and help to correlate the distribution in space and time of fossil plants. Morphological features are also significant for phylogeny. 
 **Plant Morphology can be studied under two broad categories:**
 
