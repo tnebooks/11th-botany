@@ -1,12 +1,9 @@
 ---
-title: "Hatch & Slack Pathway or C4 Cycle 
-or Dicarboxylic Acid Pathway or 
-Dicarboxylation Pathway"
+title: "Hatch & Slack Pathway or C4 Cycle or Dicarboxylic Acid Pathway or  Dicarboxylation Pathway"
 weight: 12
 ---
 
-
-## 13.12 Hatch & Slack Pathway or C4 Cycle or Dicarboxylic Acid Pathway or Dicarboxylation Pathway
+## Hatch & Slack Pathway or C4 Cycle or Dicarboxylic Acid Pathway or Dicarboxylation Pathway
 
 Till 1965, Calvin cycle is the only pathway for CO2 fixation. But in 1965, Kortschak, Hart and **Burr** made observations in sugarcane and found C4 or dicarboxylic acid pathway. Malate and aspartate are the major labelled products. This observation was confirmed by Hatch & Slack in 1967. This alternate pathway for the fixation of CO2 was found in several tropical and sub-tropical grasses and some dicots. C4 cycle is discovered in more than 1000 species. Among them 300 species belong to dicots and rest of them are monocots. C4 plants represent about 5% of Earth’s plant biomass and 1% of its known plant species. Despite this scarcity, they account for about 30% of terrestrial carbon fixation. Increasing the proportion of C4 plants on earth could assist biosequestration of CO2 and represent an important climate change avoidance strategy.
 
@@ -14,18 +11,29 @@ C4 pathway is completed in two phases, first phase takes place in stroma of meso
 
 ![ C4 Cycle](13.19.png)
 
-### 13.12.1 Stage: I Mesophyll Cells
+### Stage: I Mesophyll Cells
 
 ![](stage1.formula.PNG)
 Oxaloacetic acid (OAA) is converted into malic acid or aspartic acid and is transported to the bundle sheath cells through plasmodesmata.
 
-### 13.12.2 Stage: II Bundle Sheath Cells
+### Stage: II Bundle Sheath Cells
 
-![](stage2.formula.PNG)
 Malic acid undergoes decarboxylation and produces a 3 carbon compound Pyruvic acid and CO2. The released CO2 combines with RUBP and follows the calvin cycle and finally sugar is released to the phloem. Pyruvic acid is transported to the mesophyll cells.
+![](stage2.formula.PNG)
 
+>**Activity**
+- Collect the leaves of Paddy (C3) and Sugar cane (C4).
+- Take the cross section.
+- Observe the sections under the microscope.
+- See the difference in their anatomy (Dimorphic chloroplast and Kranz anatomy).
 
-### 13.12.3 Significance of C4 cycle
+>Kranz Anatomy: It is the German term meaning a halo or wreath. In C4 plants vascular bundles are surrounded by a layer of bundle sheath. Bundle sheath is surrounded by a ring of mesophyll cells. The characteristic feature of C4 plants is the presence of dimorphic chloroplast:
+
+>Bundle sheath chloroplast: Larger chloroplast, thylakoids not arranged in granum and rich in starch.
+
+>Mesophyll Chloroplast: Smaller chloroplast, thylakoids arranged in granum and less starch.
+
+### Significance of C4 cycle
 
 1. Plants having C4 cycle are mainly of tropical
    and sub-tropical regions and are able to survive in environment with low CO2 concentration.
@@ -50,3 +58,7 @@ Malic acid undergoes decarboxylation and produces a 3 carbon compound Pyruvic ac
 |    10. RUBP carboxylase enzyme used for fixation    |          10. PEP carboxylase and RUBP carboxylase used           |
 |     11. 18 ATPs used to synthesize one glucose      |           11. Consumes 30 ATPs to produce one glucose.           |
 |     12. Example: Paddy, Wheat, Potato and so on     |  12. Example: Sugar cane, Maize, Sorghum, Amaranthus and so on   |
+
+>**Check your grasp!**
+C4 plants requires 30 ATPs and 12 NADPH 1 H1 to synthesize one glucose, but C3 plants requires only 18 ATPs and 12 NADPH 1 H1 to synthesize one glucose molecule. If then, how can you say C4 plants are more advantageous?
+Solution: C4 plants are more advantageous than C3 plants because most of the energy lost during photo respiration in C3 plants.

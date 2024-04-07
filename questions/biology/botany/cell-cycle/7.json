@@ -1,0 +1,18 @@
+{
+    "question": "In meiosis crossing over is initiated at",
+    "explanation": "",
+    "choices": [{
+        "value": "Diplotene"
+      },
+      {
+        "value": "Pachytene",
+        "answer": true
+      },
+      {
+        "value": "Leptotene"
+      },
+      {
+        "value": "Zygotene"
+      }
+    ]
+  }

@@ -3,6 +3,9 @@ title: "Botanical Gardens"
 weight: 6
 references:
   videos:
+  links:
+      - https://byjus.com/neet/how-is-taxonomy-different-from-systematics/#:~:text=Taxonomy%20is%20the%20study%20of,relationships%20of%20organisms%20through%20time.&text=It%20helps%20in%20the%20naming%20and%20identification%20of%20an%20organism.
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 ## Botanical Gardens
@@ -32,7 +35,8 @@ Botanical garden contains special plant collections such as cacti, succulent, gr
 **Royal Botanic garden, Kew- England**
 
 ![Alt text](5.2.png)
+**Figure 5.2:** Royal Botanic garden, Kew - England 
 
-Royal Botanic garden, Kew - England Royal Botanic garden Kew- England is a non- departmental public body in the United Kingdom. It is the largest botanical garden in the world, established in 1760, but officially opened in the year 1841.
+Royal Botanic garden Kew- England is a non- departmental public body in the United Kingdom. It is the largest botanical garden in the world, established in 1760, but officially opened in the year 1841.
 
 Plant collections include Aquatic garden, Arboretum with 14,000 trees, Bonsai collection, Cacti collection and Carnivorous plant collection.

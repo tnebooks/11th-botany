@@ -1,0 +1,18 @@
+{
+    "question": "Grafting is successful in dicots but not in monocots because the dicots have",
+    "explanation": "",
+    "choices": [{
+        "value": "Vascular bundles arranged in a ring"
+      },
+      {
+        "value": "Cambium for secondary growth",
+        "answer": true
+      },
+      {
+        "value": "Vessels with elements arranged end to end"
+      },
+      {
+        "value": "Cork cambium"
+      }
+    ]
+  }

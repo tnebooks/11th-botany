@@ -1,0 +1,19 @@
+{
+    "question": "Flowers are zygomorphic in",
+    "explanation": "",
+    "choices": [
+        {
+        "value": "Ceropegia",
+        "answer": true
+      },
+      {
+        "value": "Thevetia"
+      },
+      {
+        "value": "Datura"
+      },
+      {
+        "value": "Solanum"
+      }
+    ]
+  }

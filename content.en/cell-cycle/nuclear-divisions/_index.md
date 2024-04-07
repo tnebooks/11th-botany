@@ -3,6 +3,7 @@ title: 'Nuclear Divisions'
 weight: 1
 ---
 
+**Nuclear Division** 
 
 There are two types of nuclear division, as **mitosis** and **meiosis**. In mitosis, the daughter cells formed will have the same number of chromosomes as the parent cell, typically diploid (2n) state. Mitosis is the nuclear division that occurs when cells grow or when cells need to be replaced and when organism reproduces asexually.
 

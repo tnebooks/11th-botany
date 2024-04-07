@@ -3,8 +3,7 @@
   "explanation": "",
   "choices": [
     {
-      "value": "Comparative Anatomy",
-      "answer": true
+      "value": "Comparative Anatomy"
     },
     {
       "value": "Number of flowers produced"
@@ -13,7 +12,8 @@
       "value": "Comparative cytology"
     },
     {
-      "value": "Evolutionary relationships"
+      "value": "Evolutionary relationships",
+      "answer": true
     }
   ]
 }

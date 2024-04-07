@@ -47,6 +47,31 @@ Cell membranes allow water and nonpolar molecules to permeate by simple diffusio
 
 **_ii. Solubility of the molecule_:** Lipid soluble substances easily and rapidly pass through the membrane. But water soluble substances are difficult to pass through the membrane. They must be facilitated to pass the membrane.
 
+```
+Types of Membrane Permeability
+A solution is made up of solute particles 
+dissolved in a solvent and the permeability 
+of the above components depends on the 
+nature of cell membranes, which is given 
+below:
+Impermeable: Inhibit the movement 
+of both solvent and solute molecules. 
+Example: Suberised, cutinised or liginifid 
+cell walls. 
+Permeable: They allow diffusion of 
+both solvent and solute molecules through 
+them. Example: Cellulosic cell wall.
+Semi permeable: Semi permeable 
+allow diffusion of solvent molecules 
+but do not allow the passage of solute 
+molecule. Example: Parchment paper.
+Selectively permeable: All bio 
+membranes allow some solutes to pass 
+in addition to the solvent molecules. 
+Example: Plasmalemma, tonoplast, and 
+membranes of cell organelles.
+```
+
 In facilitated diffusion, molecules cross the cell membrane with the help of special membrane proteins called transport proteins, without the expenditure of ATP.
 
 There are two types of transport proteins present in the cell membrane. They are channel protein and a carrier protein.

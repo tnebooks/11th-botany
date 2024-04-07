@@ -5,7 +5,11 @@ categories:
     - living-world
 references:
     videos:
-        - youtube:v426ufEpbQ
+        - youtube:HWVbdS1_RYw
+        - youtube:FKZysxJawT4
+    links:
+        - https://www.learncbse.in/living-world-cbse-notes-class-11-biology/
+        - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
     books:
         - b1:
             title: Introductory Mycology
@@ -20,20 +24,13 @@ The learner will be able to,
 - Differentiate living and non-living things.
 - Appreciate the attributes of living organisms.
 - Compare the different classifications proposed by biologists.
-- Recognize the general characters,structure and reproduction of Bacteria.\_
-- Identify the characteristic features of Archaebacteria, Cyanobacteria, Mycoplasma and Actinomycetes.\_
-- Describe the characteristic features of fungi.\_
+- Recognize the general characters,structure and reproduction of Bacteria.
+- Identify the characteristic features of Archaebacteria, Cyanobacteria, Mycoplasma and Actinomycetes.
+- Describe the characteristic features of fungi.
 - Outline the classification of fungi.
 - Describe the structure and reproduction in Agaricus.
 - Discuss the structure and uses of Mycorrhizae and Lichens.
 
-# Chapter Outline
-
-**1.1** Attributes of Living organisms
-**1.2** Viruses
-**1.3** Classification of Living world
-**1.4** Bacteria
-**1.5** Fungi
 
 Earth was formed some 4.6 billion years ago. It is the life supporting planet with land forms like mountains, plateaus, glaciers, etc. Life on earth exists within a complex structure called **biosphere**. There exist many mysteries and wonders in the living world some are not visible but the activity of some capture the attention of all. For example the response of sun flower to the sunlight, the twinkling firefly in the dark forest, the rolling water droplets on the surface of lotus leaf, the closure of the leaf of venus fly trap on insect touch and a squid squeezing ink to escape from its predator. From this it is clear that the wonder planet earth harbours both landforms and life forms. Have you thought of DNA molecule? It is essential for the regulation of life and is made up of carbon, hydrogen, oxygen, nitrogen and phosphorus. thus nonliving and living things exist together to make our planet unique.
 

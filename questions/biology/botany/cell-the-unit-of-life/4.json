@@ -1,0 +1,18 @@
+{
+    "question": "Keeping in view the fluid mosaic model for the structure of cell membrane, which one of the following statements is correct with respect to the movement of lipids and proteins from one lipid monolayer to the other?",
+    "explanation": "",
+    "choices": [{
+        "value": "Neither lipid nor proteins can flip-flop"
+      },
+      {
+        "value": "Both lipid and proteins can flip flop"
+      },
+      {
+        "value": "While lipids can rarely flip-flop proteins cannot"
+      },
+      {
+        "value": "While proteins can flip-flop lipids cannot",
+        "answer": true
+      }
+    ]
+  }

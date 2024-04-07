@@ -1,9 +1,15 @@
 ---
 title: 'Plant and Animal cell'
 weight: 5
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
-The word ‘_cell’_ comes from the Latin word ‘_Celle_” which means ‘a small compartment’. The word cell was first used by Robert Hooke (1662) therefore the term ‘_cell_’ is as old as 300 years.
+### Plant and Animal cell
+
 
 **6.5.1 Ultra Structure of an Eukaryotic Cell** 
 
@@ -80,6 +86,7 @@ The cell membrane is also called **cell surface** (or) **plasma membrane**. It i
 It is made up of lipids and proteins together with a little amount of carbohydrate. The lipid membrane is made up of phospholipid. The phospholipid molecule has a hydrophobic tail and hydrophilic head. The hydrophobic tail repels water and hydrophilic head attracts water. The proteins of the membrane are globular proteins which are found intermingled between the lipid bilayer most of which are projecting beyond the lipid bilayer. These proteins are called as **integral proteins**. Few are superficially attached on either surface of the lipid bilayer which are called as **peripheral proteins**. The proteins are involved in transport of molecules across the membranes and also act as enzymes, receptors (or) antigens.
 
 ---
+**DO YOU KNOW ?**
 
 Water-loving polar molecule are called hydrophilic molecule. They have polar phosphate group responsible for attracting water.
 
@@ -88,7 +95,7 @@ Water hating non-polar molecule are called as hydrophobic molecule. They have fa
 ---
 Carbohydrate molecules of cell membrane are short chain polysaccharides. These are either bound with ‘**glycoproteins**’ or ‘**glycolipids**’ and form a ‘**glyocalyx’** (Figure 6.11). 
 
-The movement of membrane lipids from one side of the membrane to the other side by vertical movement is called flip flopping or **flip flop movement. This movement takes** place more slowly than lateral diffusion of lipid molecule. The Phospholipids can have flip flop movement because they have smaller polar regions, whereas the proteins cannot flip flop because the polar region is extensive.  
+The movement of membrane lipids from one side of the membrane to the other side by vertical movement is called **flip flopping** or **flip flop** movement. This movement takes place more slowly than lateral diffusion of lipid molecule. The Phospholipids can have flip flop movement because they have smaller polar regions, whereas the proteins cannot flip flop because the polar region is extensive.  
 
 **Function of Cell Membrane** 
 

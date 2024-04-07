@@ -16,22 +16,6 @@ The learner will be able to.
 
 ---
 
-**Chapter Outline**
-
-**5.1** Taxonomy and Systematics
-**5.2** Taxonomic Hierarchy
-**5.3** Concept of species – Morphological,Biological and Phylogenetic
-**5.4** International Code of Botanical Nomenclature
-**5.5** Taxonomic Aids
-**5.6** Botanical Gardens
-**5.7** Herbarium – Preparation and uses
-**5.8** Classification of Plants
-**5.9** Need for classification
-**5.10** Types of classification
-**5.11** Modern trends in taxonomy
-**5.12** Cladistics
-**5.13** Selected Families of Angiosperms
-
 Plants are the prime companions of human beings in this universe. Plants are the source of food, energy, shelter, clothing, drugs, beverages, oxygen and the aesthetic environment. Taxonomic activity of human is not restricted to living organisms alone. Human beings learn to identify, describe, name and classify food, clothes, books, games, vehicles and other objects that they come across in their life. Every human being thus is a taxonomist from the cradle to the grave.
 
 Taxonomy has witnessed various phases in its early history to the present day modernization. The need for knowledge on plants had been realized since human existence, a man started utilizing plants for food, shelter and as curative agent for ailments.

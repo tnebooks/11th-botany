@@ -1,8 +1,14 @@
 ---
 title: 'Types of Cell'
 weight: 4
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
+# Types of Cell
 
 On the basis of the cellular organization and the nuclear characteristics, the cell can be classified into
 - Prokaryote. 
@@ -27,7 +33,7 @@ Those organisms which have true nucleus are called **Eukaryotes** (_Eu_ – True
 **Endosymbiont theory:** Two eukaryotic organelles believed to be the descendants of the endosymbiotic prokaryotes. The ancestors of the eukaryotic cell engulfed a bacterium and the bacteria continued to function inside the host cell.
 
 ---
-
+**Comparison between types of cellular organisation**
 |Features |Prokaryotes |Mesokaryotes |Eukaryotes |
 |------|------|------|------|
 | Size of the cell | ~1-5µm |~5-10µm |~10-100µm |

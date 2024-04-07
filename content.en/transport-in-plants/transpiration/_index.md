@@ -149,7 +149,8 @@ _Uses:_.
 
 - Antitranspirants reduce the enormous loss of water by transpiration in crop plants.
 
-- Useful for seedling transplantations in nurseries. ### Guttation
+- Useful for seedling transplantations in nurseries. 
+### Guttation
 
 ![ Structure of Hydathode ](11.23.png)
 

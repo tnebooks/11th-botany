@@ -1,0 +1,18 @@
+{
+    "question": "The most basic amino acid is",
+    "explanation": "",
+    "choices": [{
+        "value": "Arginine"
+      },
+      {
+        "value": "Histidine"
+      },
+      {
+        "value": "Glycine"
+      },
+      {
+        "value": "Glutamine",
+        "answer": true
+      }
+    ]
+  }

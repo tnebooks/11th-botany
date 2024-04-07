@@ -3,8 +3,7 @@ title: "Photosynthesis in bacteria"
 weight: 16
 ---
 
-
-## 13.16 Photosynthesis in bacteria
+## Photosynthesis in bacteria
 
 Though we study about bacterial photosynthesis as the last part, bacterial photosynthesis formed first and foremost in evolution. Bacteria does not have specialized structures like chloroplast. It has a simple type of photosynthetic apparatus called chlorosomes and chromatophores (Table 13.6). **Van Neil** (1930) discovered a bacterium that releases sulphur instead of oxygen during photosynthesis. Here, electron donor is hydrogen sulphide (H2S) and only one photosystem is involved (PS I) and the reaction centre is P870. Pigments present in bacteria are bacteriochlorophyll a, b, c, d, e and g and carotenoids. Photosynthetic bacteria are classified into three groups: 
 
@@ -13,15 +12,16 @@ _Chlorobacterium_ and _Chlorobium._
 
 ![Photosynthesis in palnts and bateria](image.8.PNG)
 
-2\. Purple sulphur bacteria. Example: _Thiospirillum and Chromatium._
+2. Purple sulphur bacteria. Example: _Thiospirillum and Chromatium._
 
-3\. Purple non-sulphur bacteria. Example: _Rhodopseudomonas_ and _Rhodospirillum_.
+3. Purple non-sulphur bacteria. Example: _Rhodopseudomonas_ and _Rhodospirillum_.
 
 **Test tube funnel experiment or Experiment to prove oxygen evolved during Photosynthesis** 
-1\. Place _Hydrilla_ plant at the bottom of abeaker containing water. 
-2\. Cover the plant with an inverted funnel. 
-3\. Invert a test tube over the funnel. 
-4\. Keep this setup in sunlight. 
+
+1. Place _Hydrilla_ plant at the bottom of abeaker containing water. 
+2. Cover the plant with an inverted funnel. 
+3. Invert a test tube over the funnel. 
+4. Keep this setup in sunlight. 
 Note your observations (Figure 13.23).
 
 ![ Test tube funnel experiment](13.24.png)

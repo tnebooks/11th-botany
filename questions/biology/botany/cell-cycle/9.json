@@ -1,0 +1,18 @@
+{
+    "question": "The pairing of homologous chromosomes on meiosis is known as",
+    "explanation": "",
+    "choices": [{
+        "value": "Bivalent"
+      },
+      {
+        "value": "Synapsis",
+        "answer": true
+      },
+      {
+        "value": "Disjunction"
+      },
+      {
+        "value": "Synergids"
+      }
+    ]
+  }

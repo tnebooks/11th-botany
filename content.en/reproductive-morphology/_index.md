@@ -18,17 +18,6 @@ The learner will be able to
 
 ---
 
-**Chapter Outline**
-
-**4.1.** Inflorescence
-**4.2.** Flower
-**4.3.** Accessory organs
-**4.4.** Androecium
-**4.5.** Gynoecium
-**4.6.** Construction of floral diagram and floral formula
-**4.7.** Fruits
-**4.8.** Seed
-
 Flowers have been a universal cultural object for millennia. They are an important aesthetic element in everyday life, and have played a highly symbolic role in our culture throughout the ages. Exchange of flowers marks respect, affection, happiness, and love. However, the biological purpose of the flower is very different from the way we use and perceive. Flower helps a plant to reproduce its own kind. This chapter discusses flowers, their arrangement, fruits and seeds which are the reproductive units of a plant.
 
 **Floriculture**

@@ -12,6 +12,7 @@ references:
             title: A Textbook Of Plant Physiology, Biochemistry And Biotechnology
             url: https://amzn.eu/d/4EbJUpv
     links:
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
       - https://www.vedantu.com/biology/growth-development
 ---
 

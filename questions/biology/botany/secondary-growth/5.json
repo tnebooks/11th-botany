@@ -1,0 +1,18 @@
+{
+    "question": "What is the fate of primary xylem in a dicot stem showing extensive secondary growth?",
+    "explanation": "",
+    "choices": [{
+        "value": "It is retained in the centre of the axis",
+        "answer": true
+      },
+      {
+        "value": "It gets crushed"
+      },
+      {
+        "value": "May or may not get crushed"
+      },
+      {
+        "value": "It gets surrounded by primary phloem"
+      }
+    ]
+  }

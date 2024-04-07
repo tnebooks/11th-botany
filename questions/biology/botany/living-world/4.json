@@ -1,0 +1,18 @@
+{
+    "question": "The correct statement regarding Blue green algae is ____________",
+    "explanation": "",
+    "choices": [{
+    "value": "lack of motile structures"
+    },
+    {
+    "value": "presence of cellulose in cell wall"
+    },
+    {
+    "value": "absence of mucilage around the thallus"
+    },
+    {
+    "value": "presence of floridean starch",
+    "answer": true
+    }
+    ]
+    }

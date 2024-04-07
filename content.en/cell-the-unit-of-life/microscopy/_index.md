@@ -2,7 +2,7 @@
 title: 'Microscopy'
 weight: 2
 ---
-
+# Microscopy
 
 Microscope is an inevitable instrument in studying the cell and subcellular structures. It offers scope in studying microscopic organisms therefore it is named as microscope (mikros – small; skipein – to see) in Greek terminology. Compound microscope was invented by **Z. Jansen**.
 
@@ -36,6 +36,11 @@ Where, λ= wavelength of the light and NA is the numerical aperture.
 
 **Magnification:** The optical increase in size of an image is called magnification. It is calculated by the following formula Magnification = size of image seen with the microscope / size of the image seen with normal eye
 
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 There are two kinds of electron microscopes namely: 

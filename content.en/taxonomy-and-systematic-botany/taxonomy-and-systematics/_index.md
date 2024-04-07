@@ -3,13 +3,16 @@ title: "Taxonomy and Systematics"
 weight: 1
 references:
   videos:
+  links:
+      - https://byjus.com/neet/how-is-taxonomy-different-from-systematics/#:~:text=Taxonomy%20is%20the%20study%20of,relationships%20of%20organisms%20through%20time.&text=It%20helps%20in%20the%20naming%20and%20identification%20of%20an%20organism.
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 ## Taxonomy and Systematics
 
-The word taxonomy is derived from Greek words **_“taxis”_** (arrangement) and **_“nomos”_** (rules or laws). Taxonomy is defined as as “the science dealing with the study of **Differences between Taxonomy and Systemat**
+The word taxonomy is derived from Greek words **_“taxis”_** (arrangement) and **_“nomos”_** (rules or laws). Taxonomy is defined as as “the science dealing with the study of **Differences between Taxonomy and Systematics**
 
-| **Taxonomy**                                                                         | **Genus**                                                                               |
+| **Taxonomy**                                                                         | **Systematics**                                                                              |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | - Discipline of classifying organisms into taxa.                                     | Broad field of biology that studies the diversification of species.                     |
 | - Governs the practices of naming,describing, identifying and specimen preservation. | Governs the evolutionary history and phylogenetic relationship in addition to taxonomy. |
@@ -26,7 +29,6 @@ The word taxonomy is derived from Greek words **_“taxis”_** (arrangement) an
 **Class** consists of group of orders which share few similarities.
 
 **Division** is the next level of classification that consists of number of classes.
-
-`Example: Magnoliophyta. classification including the bases, principles, rules and procedures”.`
+Example: Magnoliophyta. classification including the bases, principles, rules and procedures”.`
 
 Simpson (1961) defined Systematics as, “Scientific study of the kinds and diversity of organisms and all relationships among them”. Though there are two terms are used in an interchangeable way, they differ from each other.

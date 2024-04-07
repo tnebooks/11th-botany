@@ -3,6 +3,9 @@ title: "International Code of Botanical Nomenclature"
 weight: 4
 references:
   videos:
+  links:
+      - https://byjus.com/neet/how-is-taxonomy-different-from-systematics/#:~:text=Taxonomy%20is%20the%20study%20of,relationships%20of%20organisms%20through%20time.&text=It%20helps%20in%20the%20naming%20and%20identification%20of%20an%20organism.
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 ## International Code of Botanical Nomenclature (ICBN)
@@ -11,8 +14,7 @@ Assigning name for a plant is known as **Nomenclature.** This is based on the ru
 
 ---
 
-ICBN due to specific reasons and in order to separate plant kingdom from other organisms, is redesignated as ICN. The International Botanical Congress held in Melbourne in July 2011 brought this change. The ICN stands for International Code of Nomenclature for Algae, Fungi and
-Plants.
+ICBN due to specific reasons and in order to separate plant kingdom from other organisms, is redesignated as ICN. The International Botanical Congress held in Melbourne in July 2011 brought this change. The ICN stands for International Code of Nomenclature for Algae, Fungi and Plants.
 
 ---
 
@@ -20,7 +22,7 @@ Plants.
 
 International Code of Nomenclature is based on the following six principles.
 
-1. Botanical nomenclature is independent of zoological and bacteriological nomenclature.
+1. Botanical nomenclature is independen of  zoological and bacteriological nomenclature.
 2. Application of names of taxonomic group is determined by means of nomenclatural types.
 3. Nomenclature of a taxonomic group is based on priority of publication.
 4. Each taxonomic group with a particular circumscription, position and rank can bear only one correct name.
@@ -88,7 +90,7 @@ This refers to valid name of the taxa accompanied by the author’s name who pub
 | Linnaeus             | L.                                |
 | G.Bentham            | Benth.                            |
 | William Hooker       | Hook.                             |
-| Robert Brown         | R .Br                             |
+| Robert Brown         | R .Br.                             |
 | J.P.Lamarck          | Lamk.                             |
 | A .P.de Candolle     | DC.                               |
 | Wallich              | Wall.                             |

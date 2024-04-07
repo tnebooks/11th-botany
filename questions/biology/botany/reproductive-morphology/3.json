@@ -1,0 +1,18 @@
+{
+    "question": "Aggregate fruit develops from",
+    "explanation": "",
+    "choices": [{
+        "value": "Multicarpellary, apocarpous ovary"
+      },
+      {
+        "value": "Multicarpellary, syncarpous ovary"
+      },
+      {
+        "value": "Multicarpellary ovary",
+        "answer": true
+      },
+      {
+        "value": "Whole inflorescence"
+      }
+    ]
+  }

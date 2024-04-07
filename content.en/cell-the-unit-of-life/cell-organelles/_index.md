@@ -1,6 +1,11 @@
 ---
 title: 'Cell organelles'
 weight: 6
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 
@@ -126,7 +131,7 @@ They contain a variety of hydrolytic enzymes, that can digest material within th
 
 ![](6.21.png "")
 
-**Structure of Peroxisome** Peroxisomes were identified as organelles by **Christian de Duve** (1967). Peroxisomes are small spherical bodies and single membrane bound organelle. It takes part in photorespiration and associated with glycolate metabolism. In plants, leaf cells have many peroxisomes. It is also commonly found in liver and kidney of mammals. These are also found in cells of protozoa and yeast (Figure 6.20). 
+Structure of Peroxisomes were identified as organelles by **Christian de Duve** (1967). Peroxisomes are small spherical bodies and single membrane bound organelle. It takes part in photorespiration and associated with glycolate metabolism. In plants, leaf cells have many peroxisomes. It is also commonly found in liver and kidney of mammals. These are also found in cells of protozoa and yeast (Figure 6.20). 
 
 ### Glyoxysomes
 

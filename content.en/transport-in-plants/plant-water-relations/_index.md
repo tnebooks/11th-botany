@@ -80,6 +80,7 @@ Types of Solutions based on concentration
 **_ii. Hypotonic_** (_Hypo_ = low; _tonic_ = solute): This is a weak solution (high solvent /low or zero solute / high **Ψ**) and it **diffuses water** out to other solutions ( Figure 11.7).
 
 **_iii. Isotonic_** (_Iso_ = identical; _tonic_ = soute): It refers to two solutions having same concentration. In this condition the net movement of water molecule will be zero. The term hyper, hypo and isotonic are **relative terms** which can be used only in comparison with another solution.
+![alt text](image.png)
 
 ![Types of solution based on concentration](11.9.png)
 
@@ -101,7 +102,7 @@ Wilting of plants noticed under the condition of water scarcity is an indication
 Plasmolysis is exhibited only by living cells and so it is used to test whether the cell is living or dead.
 
 **3. Deplasmolysis** The effect of plasmolysis can be reversed, by transferring them back into water or **hypotonic solution**. Due to endosmosis, the cell becomes turgid again. It regains its original shape and size. This phenomenon of the revival of the plasmolysed cell is called **deplasmolysis**. Example: Immersion of dry raisin in water.
-
+![alt text](image-1.png)
 **4. Reverse Osmosis**
 Reverse Osmosis follows the same principles of osmosis, but in the reverse direction. In this process movement of water is reversed by applying pressure to force the water against a concentration gradient of the solution. In regular osmosis, the water molecules move from the higher concentration (pure water = hypotonic) to lower concentration (salt water = hypertonic). But in reverse osmosis, the water molecules move from the lower concentration (salt water = hypertonic) to higher concentration (pure water = hypotonic) through a selectively permeable membrane (Figure 11.9).
 

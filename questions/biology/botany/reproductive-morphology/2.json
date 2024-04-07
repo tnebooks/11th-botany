@@ -1,0 +1,18 @@
+{
+    "question": "Gynoecium with united carpels is termed as",
+    "explanation": "",
+    "choices": [{
+        "value": "Apocarpous"
+      },
+      {
+        "value": "Multicarpellary"
+      },
+      {
+        "value": "Syncarpous",
+        "answer": true
+      },
+      {
+        "value": "None of the above"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "question": "The common bottle cork is a product of",
+    "explanation": "",
+    "choices": [{
+        "value": "Phellem",
+        "answer": true
+      },
+      {
+        "value": "Phellogen"
+      },
+      {
+        "value": "Xylem"
+      },
+      {
+        "value": "Vascular cambium"
+      }
+    ]
+  }

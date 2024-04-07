@@ -1,6 +1,11 @@
 ---
 title: 'Flagella'
 weight: 8
+references:
+  videos:
+  links:
+      - https://byjus.com/cbse-notes/cbse-class-11-biology-notes-chapter-8-cell-the-unit-of-life/
+      - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
 
 
@@ -13,7 +18,8 @@ Bacterial flagella are helical appendages helps in motility. They are much thinn
 Flagella is essential to seek out a nutritionally more favourable environment.
 
 ---
-**Structure of flagella in Bacteria** The gram positive bacteria contain only two basal rings. S-ring is attached to the inside of peptidoglycan and M-ring is attached to the cell membrane. In Gram negative bacteria two pairs of rings proximal and distal ring are connected by a central rod. They are L-Lipopolysaccharide ring, P-Peptidoglycan ring, S-Super membrane ring and M-membrane ring. The outer pair L and P rings is attached to cell wall and the inner pair S and M rings attached to cell membrane (Figure 6.27).
+**Structure of flagella in Bacteria** 
+The gram positive bacteria contain only two basal rings. S-ring is attached to the inside of peptidoglycan and M-ring is attached to the cell membrane. In Gram negative bacteria two pairs of rings proximal and distal ring are connected by a central rod. They are L-Lipopolysaccharide ring, P-Peptidoglycan ring, S-Super membrane ring and M-membrane ring. The outer pair L and P rings is attached to cell wall and the inner pair S and M rings attached to cell membrane (Figure 6.27).
 
 ![](6.28.png "")
 
@@ -37,7 +43,8 @@ Outer microtubule doublet is associated with axonemal dynein which generates for
 
 Cilia (plural) are short cellular, numerous microtubule bound projections of plasma membrane. Cilium (singular) is membrane bound structure made up of basal body, rootlets, basal plate and shaft. The shaft or **axoneme** consists of nine pairs of microtubule doublets, arranged in a circle along the periphery with a two central tubules, (**9+2**) arrangement of microtubules is present. Microtubules are made up of tubulin. The motor protein **dynein** connects the outer microtubule pair and links them to the central pair. Nexin links the peripheral doublets of microtubules (Figure 6.29).
 
-**Summary** Cell is the fundamental unit of all organisms which was identified 300 years ago. Microscope offers scope for observing smaller objects and organisms. It works on the principle of light and lenses. Different microscope offers clarity in observing objects depending on the features to be observed. Micrometric techniques are used in measurement of microscopic objects. Electron microscopes are used in understanding the ultra-structural details of cell. Cell theory and doctrine states that all organism are made up of cell and it contains genetic material. Protoplasm theory explains nature and different properties of protoplasm. Cell size and shape differ from type of tissue or organs and organisms. Based on cellular organization and nuclear characters the organisms are classified into prokaryote, eukaryote and mesokaryote.
+**Summary**
+ Cell is the fundamental unit of all organisms which was identified 300 years ago. Microscope offers scope for observing smaller objects and organisms. It works on the principle of light and lenses. Different microscope offers clarity in observing objects depending on the features to be observed. Micrometric techniques are used in measurement of microscopic objects. Electron microscopes are used in understanding the ultra-structural details of cell. Cell theory and doctrine states that all organism are made up of cell and it contains genetic material. Protoplasm theory explains nature and different properties of protoplasm. Cell size and shape differ from type of tissue or organs and organisms. Based on cellular organization and nuclear characters the organisms are classified into prokaryote, eukaryote and mesokaryote.
 
 Key difference between plant cell and animal cell is the cell wall. Protoplasm is the colourless mass includes the cytoplasm, cell organelles and nucleus. Cell wall is the outermost protective covering with three regions primary, secondary wall and middle lamellae. Cell membrane holds the cytoplasmic content called **cytosol**. Cytoplasm includes the matrix and the cell organelles excluding nucleus. Endomembrane system includes endoplasmic reticulum, golgi apparatus, chloroplast, lysosomes, vacuoles, nuclear membrane and plasma membrane. Nucleus is the control unit of the cell, it carries hereditary information. Chromosomes are made up of DNA and associated proteins. Bacterial flagella are made up of helical polymers of a protein called **flagellin**. Proton motive force are involved in flagellar rotation. In Eukaryotes
 

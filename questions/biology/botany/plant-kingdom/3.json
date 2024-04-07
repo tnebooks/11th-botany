@@ -1,0 +1,18 @@
+{
+    "question": "The haploid number of chromosomes for an angiosperm is 14, the number of chromosomes in its endosperm would be",
+    "explanation": "",
+    "choices": [{
+        "value": "7"
+      },
+      {
+        "value": "14"
+      },
+      {
+        "value": "42",
+        "answer": true
+      },
+      {
+        "value": "28"
+      }
+    ]
+  }
