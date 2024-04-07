@@ -1,6 +1,17 @@
 ---
 title: "Definition, Significance and Site of photosynthesis"
 weight: 1
+references:
+    videos:
+        - youtube:hW_gJRHF7lU
+        - youtube:fTXh7A7Uc2M
+    links:
+        - 
+        - 
+    books:
+        - b1:
+            title: Concepts in Photobiology
+            url: https://www.google.co.in/books/edition/Concepts_in_Photobiology/Da39CAAAQBAJ?hl=en&gbpv=0
 ---
 
 ## Definition, Significance and Site of Photosynthesis

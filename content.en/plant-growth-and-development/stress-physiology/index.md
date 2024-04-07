@@ -3,14 +3,14 @@ title: 'Stress physiology'
 weight: 8
 ---
 
-## Stress Physiology
 Like all other organisms, plants are also subjected to various environmental stresses such as water deficit, drought, cold, heat, salinity and air pollution. The study of functioning of plants under adverse environmental conditions is called **stress physiology**. **Jacob Levitt (1972) first used the term biological stress** in relation to plants and according to him stress is “any change in environmental condition that might adversely change the growth and development of a plant”.
-![alt text](15.28.1.png)
-**Figure 15.26: Classification of Stress types in plants**
+
+![Classification of Stress types in plants](15.28.1.png)
+
 
 The reaction of plants facing stress is called **strain**. For example, if a normal plant growing under favourable light conditions is subjected to low light intensity, its photosynthesis is reduced. Thus, low light intensity is referred as stress and reduction of photosynthesis is referred as strain. Biological strains are of two types; Elastic biological strain and Plastic biological strain. If the reaction of plant function is temporary and when it returns to its original state it is called **elastic biological strain**. Example: Temporary wilting. If the reaction is permanent and the plant function does not return to the normal state it is called **plastic biological strain**. Example: Permanent wilting. Some plants get adapted to stress condition and are not adversely affected by stress. Such plants are called **stress resistant** or **stress tolerant** plants. Example: Mangroves. Some plants cannot face stress and they pass their adverse period in dormant state and so they are called **stress enduring plants**. Ephemeral plants are short lived desert plants, which complete their life cycle during the seasonal rains before the onset of dry season. These ephemeral plants are called **stress escapers**. Stress in plants can be classified as given in figure 15.26. 
 
-**1. Biotic Stresses**
+# Biotic Stresses
 These are adverse effects on plants caused by other living organisms such as viruses, bacteria, fungi, parasites, insects, weeds and competing plants. Biotic environmental stress is also caused due to the activity of man by cutting herbs and trees, twigs for fodders, fuels and agricultural purposes. The biotic stresses caused by bacteria, fungi and nematodes that are ever present in the environment are called potential biotic stresses. These are divided into two types. They are: 
 
 **i) Allelopathy** 
@@ -27,7 +27,7 @@ Tree of heaven (_Ailanthus altissima_) is a recent addition to the list of allel
 **ii. Pathogenecity** 
 The effect of microbes that cause diseases in plants. Example: _Xanthomonas citri_ 
 
-**2. Abiotic Stresses** 
+# Abiotic Stresses
 Abiotic stress may occur due to an atmospheric condition (atmospheric stress) or soil condition (edaphic stress). Atmospheric stresses may occur due to excess and deficient levels of light, temperature and air pollutants. 
 
 **i. Light Stress** 
@@ -67,11 +67,8 @@ Xerophytes are well adapted for drought either because,
 i. the protoplasm of such plants does not die when it faces extreme or prolonged desiccation (dehydration) hence, it tolerates or endures such conditions. Example: Creosote bush (_Larrea tridentata_) can survive water content drops upto 30% whereas, in most plants the lethal level is below 50–70% or these plants are able to avoid or postpone the lethal level of desiccation because they have developed structural or physiological adaptations. Plants have developed following mechanisms:
 
 - To avoid or postpone desiccation improved water uptake by developing the roots to deep water source
-
 - Improved water uptake by roots which penetrate deep water source; Increasing and enlarging the conductive tissues.
-
 - Stomata present only on the lower epidermis with by dense trichomes;
-
 - Rolling of leaves and water storage in succulent tissue.
 
 During drought stress an essential protection mechanism that stabilizes the cell structure is induced gene expression of **stress protein (dehydrin and osmotin)**. These proteins protect the macromolecules in the cytoplasm and in the nucleus, the cytoskeleton (biomembranes) against denaturation. High desiccation tolerance implies that the protoplasm rehydrates when water becomes available. Plants growing in deserts and arid regions are usually drought resistant.
@@ -82,7 +79,6 @@ During drought stress an essential protection mechanism that stabilizes the cell
 Presence of high salt concentration in the soil restricts the growth and development of plants. Most commonly the plants which are present near the seashore and estuaries are subjected to salt stress. According to an estimate about one third of irrigated land on earth is affected by salt stress. Na1, Cl2, K1, Ca11 and Mg11 ions usually contribute to soil salinity. Plants growing in such areas face two problems: 
 
 1. Absorption of water from the soil with negative water potential 
-
 2. Interaction with high concentration of toxic sodium carbonate and chloride ions. 
 
 On the basis of salt tolerance, they are grouped into two categories: 
@@ -93,27 +89,20 @@ On the basis of salt tolerance, they are grouped into two categories:
 Halophytes are native to saline soils. The halophytes which can resist a range of salt concentration are called as **euryhaline** and those with narrow range of resistance are called **stenohaline**. Non-halophytes cannot resist salts as the halophytes. _Helianthus annus tolerates high Mn21 ions. Those which_ are present in salt regions face two problems. 
 
 - One is high concentration of salts in soil water leads to decrease in water potential so they grow in opposite direction. Example: _Salicornia._
-
 - Injuries in salt affected plants caused by both osmotic effects and specification effects. Accumulation of chloride ions reduces water absorption and transpiration. 
 
 Salt stress due to deficiency of mineral elements (K, P, S, Fe, Mo, Zn, Mg, Mn) causes physiological disorders which lead to reduced growth and yields. 
 
 1. Salt accumulators absorb and store salts so that the osmotic potential of their cells continues to remain negative throughout the growing region.
-
 2. In some salt hardy plants, the excess salt is excluded on the surface of leaves. Some plants have salt glands which secrete salt (mostly NaCl). The exuded salt absorbs water hygroscopically from the atmosphere.
-
 3. Some plants lose their excess salt by leaching into the soil or by dropping their salt filled leaves.
-
 4. Salt tolerant plants (true halophytes) synthesize large amounts of the amino acid proline, galactosyl glycerol and some organic acids which function in osmotic adjustments.
 
 **Mechanism of salt tolerance** The plants growing in salty habitats like halophytes face the problem of excessive dissolved salts in the solution. Excess of salt creates comparatively more negative osmotic potential so that the plants tend to lose water into surrounding medium. Under such conditions the plants tend to lose water only when their water potential becomes more negative. It is possible only if they absorb excess of salt and accumulate it in their cell saps to maintain the same or higher concentrations as those of outside plants. **The drawbacks:**
 
 1. Salt accumulates in the vacuoles 
-
 2. The plants become succulents 
-
 3. Accumulated salt dehydrates the cytoplasm 
-
 4. Sodium chloride cannot be tolerated in the cytoplasm and it denatures several enzymes
 
 Thus, absorption and accumulation of inorganic salts fail to solve the problem. The plants however tolerate the salt stress by synthesizing organic compounds that can exist at high salt concentrations without denaturing the enzymes. These organic compounds are called **nontoxic organic osmotica**. Examples: Proline and Betalin (osmoregulators).

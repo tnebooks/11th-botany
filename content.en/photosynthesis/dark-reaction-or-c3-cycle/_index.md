@@ -1,6 +1,17 @@
 ---
 title: "Dark Reaction or C3 Cycle or Biosynthetic Phase or Photosynthetic Carbon Reduction (PCR)Cycle"
 weight: 11
+references:
+    videos:
+        - youtube:z_tyLm-KOf8
+        - youtube:ZnXpppgSWhY
+    links:
+        - https://www.brainkart.com/article/Dark-Reaction-or-C3-Cycle-or-Biosynthetic-Phase-or-Photosynthetic-Carbon-Reduction-(PCR)-Cycle_33106/
+        - https://conductscience.com/calvin-cycle/
+    books:
+        - b1:
+            title: Regulation of Photosynthesis
+            url: https://www.google.co.in/books/edition/Regulation_of_Photosynthesis/hoEHCAAAQBAJ?hl=en&gbpv=0
 ---
 
 ## Dark Reaction or C3 Cycle or Biosynthetic Phase or Photosynthetic Carbon Reduction (PCR)Cycle

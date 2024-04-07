@@ -1,0 +1,19 @@
+{
+  "question": "Which chlorophyll molecule does not have a phytol tail?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Chl-a"
+    },
+    {
+      "value": "Chl-b"
+    },
+    {
+      "value": "Chl-c",
+      "answer": true
+    },
+    {
+      "value": "Chl-d"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 ---
 title: "Absorption Spectrum and Action Spectrum"
 weight: 5
+references:
+    videos:
+        - youtube:P4BySl8tf4Y
+        - youtube:J7mHZTKJM1s
+    links:
+        - https://www.embibe.com/exams/absorption-and-action-spectrum/
+        - https://www.savemyexams.com/a-level/biology/cie/22/revision-notes/13-photosynthesis/13-1-photosynthesis-as-an-energy-transfer-process/13-1-5-absorption-spectra--action-spectra/
+    books:
+        - b1:
+            title: Discoveries in Photosynthesis
+            url: https://www.google.co.in/books/edition/Discoveries_in_Photosynthesis/I3gy4r-aBusC?hl=en&gbpv=0
+        
 ---
 
 ## Absorption Spectrum and Action Spectrum

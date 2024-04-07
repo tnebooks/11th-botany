@@ -1,0 +1,19 @@
+{
+  "question": "The correct sequence of flow of electrons in the light reaction is",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "PS II, plastoquinone, cytochrome, PS I, ferredoxin."
+    },
+    {
+      "value": "PS I, plastoquinone, cytochrome, PS II, ferredoxin."
+    },
+    {
+      "value": "PS II, ferredoxin, plastoquinone, cytochrome, PS I.",
+      "answer": true
+    },
+    {
+      "value": "PS II, plastoquinone, cytochrome, PS II, ferredoxin."
+    }
+  ]
+}
