@@ -1,7 +1,18 @@
 ---
 title: 'Nitrogen Fixation'
 weight: 7
----
+references:
+    videos:
+        - MsPZp7lM16A
+        - LbBgPekjiyc 
+    links:
+        - https://www.britannica.com/science/nitrogen-fixation
+        - https://en.wikipedia.org/wiki/Nitrogen_fixation
+    books:
+        - b1:
+            title: Current Developments in Biological Nitrogen Fixation
+            url: https://www.google.co.in/books/edition/Current_Developments_in_Biological_Nitro/mu48AAAAIAAJ?hl=en&gbpv=0
+     ---
 
 #  Nitrogen Fixation
 
