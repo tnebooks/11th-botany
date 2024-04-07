@@ -1,6 +1,17 @@
 ---
 title: 'Classification of Minerals'
 weight: 1
+references:
+    videos:
+        - 09orKVRxiPo
+        - A11b6tORIcM
+    links:
+        - https://www.vedantu.com/chemistry/what-are-minerals
+        - https://www.toppr.com/guides/chemistry/types-of-minerals/
+    books:
+        - b1:
+            title: Crystal Chemical Classification of Minerals
+            url: https://www.google.co.in/books/edition/Crystal_Chemical_Classification_of_Miner/0qfaBwAAQBAJ?hl=en&gbpv=0
 ---
 
 
