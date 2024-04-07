@@ -1,0 +1,19 @@
+{
+  "question": "சரியான கூற்றைக் கண்டறிக",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "I, II சரி",
+      "answer": true
+    },
+    {
+      "value": "I, II, III சரி"
+    },
+    {
+      "value": "I மட்டும் சரி"
+    },
+    {
+      "value": "அனைத்தும் சரி"
+    }
+  ]
+}

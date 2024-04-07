@@ -12,7 +12,7 @@ The learner will be able to,
 ---
 
 ---
-**Do You Know ? **
+**Do You Know ?**
 **Neurons can be replaced!**
 **Stem cells in the human brain** - most neurons are in G 0 and do not divide. As neurons and neuroglia die or injured they are replaced by neural stem cells
 

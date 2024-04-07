@@ -1,0 +1,19 @@
+{
+  "question": "Centromere is required for",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Transcription"
+    },
+    {
+      "value": "Crossing over"
+    },
+    {
+      "value": "Cytoplasmic cleavage"
+    },
+    {
+      "value": "Movement of chromosome towards pole",
+      "answer": true
+    }
+  ]
+}

@@ -1,6 +1,20 @@
 ---
 title: 'Difference between Mitosis and Meiosis'
 weight: 4
+references:
+    videos:
+        - Youtube:PGK2KFDLYRk
+        - Youtube:yRLQKZzFb68
+    links:
+        - https://biologydictionary.net/mitosis-vs-meiosis/
+        - https://www.diffen.com/difference/Meiosis_vs_Mitosis
+    books:
+        - b1:
+            title: All About Mitosis and Meiosis
+            url: https://www.google.co.in/books/edition/All_About_Mitosis_and_Meiosis/ftnHEAAAQBAJ?hl=en    
+        - b2:
+            title: Cells:Molecules and Mechanisms
+            url: https://www.google.co.in/books/edition/Cells_Molecules_and_Mechanisms/09CJORzpF7MC?hl=en&gbpv=0
 ---
 
 
