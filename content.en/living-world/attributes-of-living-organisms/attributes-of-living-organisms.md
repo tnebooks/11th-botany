@@ -89,7 +89,6 @@ The sum of all the chemical reactions taking place in a cell of living organism 
 
 Movement, Nutrition, Respiration and Excretion are also considered as the property of living things. The levels of organization in living organism begin with atoms and end in **Biosphere**. Each level cannot exist in isolation instead they form levels of integration as given in Figure 1.3.
 
-![Alt text](1.4.png)
 ```
                                                                                                                                                    
                                                                                                                                                    
