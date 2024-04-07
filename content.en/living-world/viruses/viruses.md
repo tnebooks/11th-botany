@@ -79,7 +79,7 @@ Among various classifications proposed for viruses the classification given by D
 
 **Viral genome**
 Each virus possesses only one type of nucleic acid either DNA or RNA. The nucleic acid may be in a linear or circular form. Generally nucleic acid is present as a single unit but in wound tumour virus and in influenza virus it is found in segments. The viruses possessing DNA are called **‘Deoxyviruses’** whereas those possessing RNA are called **‘Riboviruses’**. Majority of animal and bacterial viruses are DNA viruses (HIV is the animal virus which possess RNA). Plant viruses generally contain RNA (Cauliflower Mosaic virus possess DNA). The nucleic acids may be single stranded or double stranded. On the basis of nature of nucleic acid viruses are classified into four Categories. They are Viruses with ssDNA (Parvo viruses), dsDNA (Bacteriophages), ssRNA (TMV)and dsRNA(Wound Tumour Virus).
-
+![ QR](qr.1.png)
 **Table 1.2: Different Classes of viruses**
 |Class | Example|
 |------|--------|
