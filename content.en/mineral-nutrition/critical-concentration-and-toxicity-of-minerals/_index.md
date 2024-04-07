@@ -2,6 +2,17 @@
 title: 'Critical Concentration and Toxicity
 of minerals'
 weight: 5
+references:
+    videos:
+        - PnryxkUGzxU
+        - FNbM3BtMBUE
+    links:
+        - https://www.vedantu.com/neet/neet-mineral-nutrition-revision-notes
+        - https://www.learninsta.com/critical-concentration-and-toxicity-of-minerals/
+    books:
+        - b1:
+            title: Mineral nutrition of higher plants
+            url: https://www.google.co.in/books/edition/Mineral_Nutrition_of_Higher_Plants/phnp-H1XeBkC?hl=en&gbpv=0
 ---
 
 
