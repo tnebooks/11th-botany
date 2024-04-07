@@ -1,6 +1,20 @@
 ---
 title: "Comparision of primary structure"
 weight: 7
+references:
+    videos:
+        - youtube: DmNxxJPmerw
+        - youtube: Tl4bQEWN7cQ
+    links:
+        - http://eflorakkl.in/staff/uploads/Bot%20Unit%20II%20Anatomy%20notes.pdf
+        - https://www.hhrc.ac.in/ePortal/Botany/II%20B.Sc%20Bot%20EM%2018UBT4%20M.C.Rajalakshmi-converted.pdf
+    books:
+        - b1:
+            title: Molecular Biology of the Cell
+            url: https://www.google.co.in/books/edition/Molecular_Biology_of_the_Cell/0PhGswEACAAJ?hl=en
+        - b2:
+            title: Plant Anatomy and Embryology
+            url: https://www.google.co.in/books/edition/Plant_Anatomy_and_Embryology/AhfeOTe1r2oC?hl=en&gbpv=0
 ---
 
 
