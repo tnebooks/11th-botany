@@ -17,11 +17,11 @@ Flower is said to be **Complete** when it contains all four whorls. An **Incompl
 
 ## Flower sex
 
-Flower sex refers to the presence or absence of androecium and gynoecium within a flower.
+**Flower sex** refers to the presence or absence of androecium and gynoecium within a flower.
 
-**1. Perfect or bisexual: If a flower contains** both androecium and gynoecium it is called as a perfect flower.
+**1. Perfect or bisexual**: If a flower contains both androecium and gynoecium it is called as a perfect flower.
 
-**2. Imperfect or unisexual:** When the flower contains only one of the essential whorls is called Imperfect flower. It is of two types:
+**2. Imperfect or unisexual:** When the flower contains only one of the essential whorls is called **Imperfect flower**. It is of two types:
 
 **i) Staminate flowers**: Flowers with androecium alone.
 
@@ -45,9 +45,9 @@ Plant sex refers to the presence and distribution of flowers with different sexe
 
 What is the radius of a circle? Cut a paper into round shape, fold it so as to get two equal halves. In how many planes will you get equal halves? In how many planes you can divide a cucumber in two equal halves? A flower is symmetrical when it is divided into equal halves in any plane running through the center. Flower symmetry is an important structural adaptation related to pollination systems.
 
-**1. Actinomorphic (or) radial or polysymmetric: The flower shows two** mirror images when cut in any plane or radius through the centre.Normally there are more than two planes of symmetry. Example: _Hibiscus, Datura_.
+**1. Actinomorphic (or) radial or polysymmetric**: The flower shows two mirror images when cut in any plane or radius through the centre.Normally there are more than two planes of symmetry. Example: _Hibiscus, Datura_.
 ![Alt text](4.12.png)
 
-**2. Zygomorphic (bilateral symmetry**) or monosymmetric: The flower can be divided into 2 equal halves in only one plane. Zygomorphic flower can efficiently transfer pollen grains to visiting pollinators. Example: _Pisum_, Bean.
+**2. Zygomorphic (bilateral symmetry) or monosymmetric**: The flower can be divided into 2 equal halves in only one plane. Zygomorphic flower can efficiently transfer pollen grains to visiting pollinators. Example: _Pisum_, Bean.
 
 **3. Asymmetric (amorphic**): Flower lacks any plane of symmetry and cannot be divided into equal halves in any plane. Parts of such flowers are twisted. Example: _Canna indica_.
