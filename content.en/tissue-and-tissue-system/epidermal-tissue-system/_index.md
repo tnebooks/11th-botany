@@ -1,6 +1,20 @@
 ---
 title: "Epidermal tissue system"
 weight: 4
+references:
+    videos:
+        - youtube: OTljvdC7fVI
+        - youtube: jmB7cLWZ_uQ
+    links:
+        - https://www.aakash.ac.in/important-concepts/biology/epidermal-tissue-system
+        - https://www.geeksforgeeks.org/epidermal-tissue-system/
+    books:
+        - b1:
+            title: Anatomy of Flowering Plants An Introduction to Structure and Development
+            url: https://www.google.co.in/books/edition/Anatomy_of_Flowering_Plants/cSO8HOKyabgC?hl=en&gbpv=0
+        - b2:
+            title: The Vascular Cambium
+            url: https://www.google.co.in/books/edition/The_Vascular_Cambium/yHrwAAAAMAAJ?hl=en&gbpv=0&bsq=Epidermal%20tissue%20system%2011%20class
 ---
 
 
