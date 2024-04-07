@@ -1,0 +1,21 @@
+{
+  "question": "Anaphase promoting complex (APC) is a protein degradation machinery necessary for proper mitosis of animal cells. If APC is defective in human cells, which of the following is expected to occur?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Chromosomes will be fragmented"
+    },
+    {
+      "value": "Chromosomes will not condense"
+    },
+    {
+      "value": "Chromosomes will not segregate",
+      "answer": true
+    },
+    {
+      "value": "Recombination of chromosomes will occur"
+    }
+  ]
+}
+
+

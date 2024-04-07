@@ -1,9 +1,23 @@
 ---
-title: 'செல் சுழறசி'
+title: 'செல் சுழற்சி'
 weight: 7
+references:
+    videos:
+        - Youtube:U8wrPm3y
+        - Youtube:RYhBKl5Pm60
+    links:
+        -https://byjus.com/biology/cell-cycle-and-division/
+        -https://biologydictionary.net/cell-cycle/
+    books:
+        - b1:
+            title: The cell cycle
+            url: https://www.google.co.in/books/edition/The_Cell_Cycle/ScEuiD2V6GoC?hl=en&gbpv=0
+        - b2:
+            title: Cell Cycle Control
+            url: https://www.google.co.in/books/edition/Cell_Cycle_Control/8YRbmRrE6xUC?hl=en&gbpv=0
 ---
 
-(ஜு கற்றல்நோக்கங்கள்‌ 'இப்பாடத்தினை கற்போர்‌.
+( கற்றல்நோக்கங்கள்‌ 'இப்பாடத்தினை கற்போர்‌.
 
 *   வல்கழர்சியற்றும்செல்‌ பதப்பின்பல. நிலைகளைப்‌ பற்றி தெரிந்து கொள்ளுதல்‌.
 

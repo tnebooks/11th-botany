@@ -1,0 +1,19 @@
+{
+  "question": "In S phase of the cell cycle",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Amount of DNA doubles in each cell",
+      "answer": true
+    },
+    {
+      "value": "Amount of DNA remains same in each cell"
+    },
+    {
+      "value": "Chromosome number is increased"
+    },
+    {
+      "value": "Amount of DNA is reduced to half in each cell"
+    }
+  ]
+}

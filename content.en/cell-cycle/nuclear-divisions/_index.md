@@ -1,6 +1,20 @@
 ---
 title: 'Nuclear Divisions'
 weight: 1
+references:
+    videos:
+        - Youtube:whbKW7dZAgo
+        - Youtube:kQu6Yfrr6j0
+    links:
+        - https://byjus.com/biology/difference-between-cell-division-and-nuclear-division/
+        - https://testbook.com/biology/difference-between-cell-division-and-nuclear-division
+    books:
+        - b1:
+            title: Concepts of Biology
+            url: https://www.google.co.in/books/edition/Concepts_of_Biology/sUZRswEACAAJ?hl=en
+        - b2:
+            title: The Nuclear Envelope
+            url: https://www.google.co.in/books/edition/The_Nuclear_Envelope/Pw2zjgEACAAJ?hl=en
 ---
 
 **Nuclear Division** 
