@@ -27,7 +27,6 @@ An appropriate photoperiod in 24 hours’ cycle constitutes one inductive cycle.
 # Site of Photoinductive perception
 ![ Experiment on Cocklebur plant showing photoperiodic stimulus](15.20.png "")
 
-
 Photoperiodic stimulus is perceived by the leaves. Floral hormone is synthesised in leaves and translocated to the apical tip to promote flowering. This can be explained by a simple experiment on Cocklebur (_Xanthium pensylvanicum_), a short day plant.  
 
 Usually Xanthium will flower under short day conditions. If the plant is defoliated and kept under short day conditions it will not flower. Flowering will occur even when all the leaves are removed except one leaf. If a cocklebur plant is defoliated and kept under long day conditions, it will not flower. If one of its leaves is exposed to short day condition and rest are in long day condition, flowering will occur (Figure 15.20). 
@@ -35,7 +34,6 @@ Usually Xanthium will flower under short day conditions. If the plant is defolia
 # Importance of photoperiodism
 
 1. The knowledge of photoperiodism plays an important role in hybridisation experiments.
-
 2. Photoperiodism is an excellent example of physiological pre-conditioning that is using an external factor to induce physiological changes in the plant.
 
 # Phytochrome
