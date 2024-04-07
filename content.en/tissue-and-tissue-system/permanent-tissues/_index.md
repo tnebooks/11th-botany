@@ -1,6 +1,17 @@
 ---
 title: "Permanent tissues"
 weight: 2
+references:
+    videos:
+        - youtube: xSYLJIR6cGY
+        - youtube: 2S5RUWEBBc8
+    links:
+        - https://www.pw.live/chapter-biology-class-9-tissue/permanent-tissue
+        - https://www.toppr.com/guides/biology/tissues/permanent-tissue/
+    books:
+        - b1:
+            title: The Vascular Cambium
+            url: https://www.google.co.in/books/edition/The_Vascular_Cambium/yHrwAAAAMAAJ?hl=en&gbpv=0&bsq=Permanent%20tissues%2011%20class
 ---
 
 The Permanent tissues develop from apical meristem. They lose the power of cell division either permanently or temporarily. They are classified into two types:
