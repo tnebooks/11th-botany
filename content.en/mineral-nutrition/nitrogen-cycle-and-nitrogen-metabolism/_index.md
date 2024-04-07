@@ -2,6 +2,17 @@
 title: 'Nitrogen cycle and nitrogen
 metabolism'
 weight: 8
+references:
+    videos:
+        - uip4Q6t7yfQ 
+        - eAe7gOvwHb0
+    links:
+        - https://www.toppr.com/guides/biology/mineral-nutrition/metabolism-of-nitrogen/
+        - https://www.nature.com/scitable/knowledge/library/the-nitrogen-cycle-processes-players-and-human-15644632/
+    books:
+        - b1:
+            title: Nitrogen Fixation
+            url: https://www.google.co.in/books/edition/Nitrogen_Fixation/eRrt6v3Y2rcC?hl=en&gbpv=0
 ---
 
 #  Nitrogen cycle and nitrogen metabolism
