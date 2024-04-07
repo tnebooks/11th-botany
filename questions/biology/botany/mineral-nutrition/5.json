@@ -1,0 +1,19 @@
+{
+  "question": "Identify the correct statement",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "I, II are correct"
+    },
+    {
+      "value": "I, II, III are correct"
+    },
+    {
+      "value": "I only correct"
+    },
+    {
+      "value": "All are correct",
+      "answer": true
+    }
+  ]
+}

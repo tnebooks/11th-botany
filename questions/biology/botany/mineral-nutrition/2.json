@@ -1,0 +1,20 @@
+
+{
+  "question": "If a plant is provided with all mineral nutrients but, Mn concentration is increased, what will be the deficiency?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Mn prevent the uptake of Fe, Mg but not Ca",
+      "answer": true
+    },
+    {
+      "value": "Mn increase the uptake of Fe, Mg and Ca"
+    },
+    {
+      "value": "Only increase the uptake of Ca"
+    },
+    {
+      "value": "Prevent the uptake Fe, Mg, and Ca"
+    }
+  ]
+}
