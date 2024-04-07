@@ -4,6 +4,18 @@ of absorption and
 deficiency symptoms
 of Micronutrients'
 weight: 3
+references:
+    videos:
+        - EFM71T7sGpo
+        - gbkTGNt-Q2Y
+    links:
+        -https://www.brainkart.com/article/Functions,-mode-of-absorption-and-deficiency-symptoms-of-Micronutrients_33084/#google_vignette 
+        - https://www.agry.purdue.edu/cca/2007/2007/proceedings/raun%20lohry%20-%20cca%20proceedings_kls.pdf
+    books:
+        - b1:
+            title: Combating Micronutrient Deficiencies
+Food-based Approaches
+            url: https://www.google.co.in/books/edition/Combating_Micronutrient_Deficiencies/8lomLWvbgdwC?hl=en&gbpv=0
 ---
 
 #  Functions, mode of absorption and deficiency symptoms of micronutrients
