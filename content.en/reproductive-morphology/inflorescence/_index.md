@@ -104,7 +104,8 @@ Central axis stops growing and ends in a flower, further growth is by means of a
 
 **b. Scorpioid:** Axis develops on alternate sides and often becomes a coiled structure. Example: _Heliotropium_.
 
-**3. Simple dichasium (Biparous**): A central axis ends in a terminal flower; further growth is produced by two lateral buds. Each cymose unit consists of three flowers of which central one is old one. This is true cyme. Example: _Jasminum_. 4. Compound dichasium: It has many flowers. A terminal old flower develops lateral simple dichasial cymes on both sides. Each compound dichasium consists of seven flowers. Example: _Clerodendron_.
+**3. Simple dichasium (Biparous**): A central axis ends in a terminal flower; further growth is produced by two lateral buds. Each cymose unit consists of three flowers of which central one is old one. This is true cyme. Example: _Jasminum_.
+ 4.**Compound dichasium**: It has many flowers. A terminal old flower develops lateral simple dichasial cymes on both sides. Each compound dichasium consists of seven flowers. Example: _Clerodendron_.
 
 A small,simple dichasium is called **cymule**
 
