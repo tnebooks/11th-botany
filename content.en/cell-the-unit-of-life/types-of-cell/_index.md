@@ -3,6 +3,7 @@ title: 'Types of Cell'
 weight: 4
 ---
 
+# Types of Cell
 
 On the basis of the cellular organization and the nuclear characteristics, the cell can be classified into
 - Prokaryote. 
@@ -27,7 +28,7 @@ Those organisms which have true nucleus are called **Eukaryotes** (_Eu_ – True
 **Endosymbiont theory:** Two eukaryotic organelles believed to be the descendants of the endosymbiotic prokaryotes. The ancestors of the eukaryotic cell engulfed a bacterium and the bacteria continued to function inside the host cell.
 
 ---
-
+**Comparison between types of cellular organisation**
 |Features |Prokaryotes |Mesokaryotes |Eukaryotes |
 |------|------|------|------|
 | Size of the cell | ~1-5µm |~5-10µm |~10-100µm |

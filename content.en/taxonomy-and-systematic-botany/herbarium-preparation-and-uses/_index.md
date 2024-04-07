@@ -18,7 +18,7 @@ Preparation of herbarium specimen includes the following steps.
 **2. Documentation of field site data**
 **3. Preparation of plant specimen**
 **4. Mounting herbarium specimen**
-**5. Herbarium labels. **
+**5. Herbarium labels.**
 **6. Protection of herbarium sheets against mold and insects**
 
 **Uses of Herbarium**
@@ -31,17 +31,24 @@ Preparation of herbarium specimen includes the following steps.
 
 **Kew Herbarium**
 
-Kew Garden is situated in South West London that houses the “largest and most diverse botanical and mycological collections in the world” founded in the year 1840. Living collection includes more than 30,000 different kinds of plants. While herbarium which is one of the largest in the world has over seven million preserved plant specimens. The library contains more than 7,50,000 volumes and the
+Kew Garden is situated in South West London that houses the “largest and most diverse botanical and mycological collections in the world” founded in the year 1840. Living collection includes more than 30,000 different kinds of plants. While herbarium which is one of the largest in the world has over seven million preserved plant specimens. The library contains more than 7,50,000 volumes and the illustrations and also a collection of more than 1,75,000 prints, books, photographs, letters, manuscripts, periodicals, maps and botanical illustrations.
 
-**Plant Collection** Plant specimen with flower or fruit is collected
+  **Preparation of herbarium Specimen**
 
-**Documentation of field site data** Certain data are to be recorded at the time of plant collection. It includes date, time, country, state, city, specific locality information, latitude, longitude, elevation and land mark information. These data will be typed onto a herbarium label.
+**Plant Collection**
+ Plant specimen with flower or fruit is collected
 
-**Preparation of plant specimen** Plant specimen collected from the field is pressed immediately with the help of portable field plant press. plant specimen is transferred to a standard plant press (12” x 18”) which between two outer 12” x 18” frames and secured by two straps.
+**Documentation of field site data** 
+Certain data are to be recorded at the time of plant collection. It includes date, time, country, state, city, specific locality information, latitude, longitude, elevation and land mark information. These data will be typed onto a herbarium label.
 
-**Mounting herbarium specimen** The standard size of herbarium sheet is used for mounting the specimen (29cm x 41cm). specimens are affixed to herbarium sheet with standard white glue or solution of Methyl cellulose.
+**Preparation of plant specimen**
+ Plant specimen collected from the field is pressed immediately with the help of portable field plant press. plant specimen is transferred to a standard plant press (12” x 18”) which between two outer 12” x 18” frames and secured by two straps.
 
-**Herbarium label** Herbarium label size is generally 4-5’’ wide and 2-3’’ tall. A typical label contains all in- formation like habit, habitat, vegetation type, land mark information, latitude, longitude, image document, collection number, date of collection and name of the collector.
+**Mounting herbarium specimen** 
+The standard size of herbarium sheet is used for mounting the specimen (29cm x 41cm). specimens are affixed to herbarium sheet with standard white glue or solution of Methyl cellulose.
+
+**Herbarium label** 
+Herbarium label size is generally 4-5’’ wide and 2-3’’ tall. A typical label contains all in- formation like habit, habitat, vegetation type, land mark information, latitude, longitude, image document, collection number, date of collection and name of the collector.
 
 **Protection of herbarium sheets against mold and insects**
 
@@ -73,4 +80,4 @@ World’s smallest water – lily _Nymphaea thermarum_ was saved from extinction
 | 3.        | Jawaharlal Nehru Tropical Botanical Garden and Research Institute Thiruvananthapuram, Kerala | 1979                 | TBGRI       | 30,500                  |
 | 4.        | Presidency College Herbarium, Chennai                                                        | 1844                 | PCM         | 15,000                  |
 
-illustrations and also a collection of more than 1,75,000 prints, books, photographs, letters, manuscripts, periodicals, maps and botanical illustrations.
+
