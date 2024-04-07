@@ -1,0 +1,19 @@
+{
+  "question": "For every CO2 molecule entering the C3 cycle, the number of ATP & NADPH required is",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "2ATP 1 2NADPH"
+    },
+    {
+      "value": "2ATP 1 3NADPH"
+    },
+    {
+      "value": "3ATP 1 2NADPH",
+      "answer": true
+    },
+    {
+      "value": "3ATP 1 3NADPH"
+    }
+  ]
+}
