@@ -1,0 +1,18 @@
+{
+    "question": "Read the following sentences and identify the correctly matched sentences:",
+    "explanation": "i. In exarch condition,the protoxylem lies outside of metaxylem.ii. In endarch condition, the protoxylem lie towords the centre.iii. In centarch condition, metaxylem lies in the middle of the protoxylem. iv. In mesarch condition, protoxylem lies in the middle of the metaxylem.",
+    "choices": [{
+        "value": "i, ii and iii only"
+      },
+      {
+        "value": "ii, iii and iv only"
+      },
+      {
+        "value": "i, ii and iv only",
+        "answer": true
+      },
+      {
+        "value": "All of these"
+      }
+    ]
+  }

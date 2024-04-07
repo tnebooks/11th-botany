@@ -1,0 +1,18 @@
+{
+    "question": "Inner, darker & harder portion of secondary xylem that cannot conduct water in an older dicot stem is called",
+    "explanation": "",
+    "choices": [{
+        "value": "Alburnum"
+      },
+      {
+        "value": "Bast"
+      },
+      {
+        "value": "Wood"
+      },
+      {
+        "value": "Duramen",
+        "answer": true
+      }
+    ]
+  }

@@ -30,8 +30,6 @@ references:
       - https://pubmed.ncbi.nlm.nih.gov/9729604/#:~:text=Growth%20kinetics%2C%20i.e.%2C%20the%20relationship,the%20basic%20tools%20in%20microbiology.
 ---
 
-# Characteristics of Growth
-
 - Growth increases in protoplasm at cellular level.
 - Stem and roots are indeterminate in growth due to continuous cell division and is called **open form of growth**.
 - The primary growth of the plant is due to the activity of apical meristem where, new cells are added to root and shoot apex causing linear growth of plant body.
@@ -41,11 +39,8 @@ references:
 - Monocarpic perennials produce flowers only once during life time but the plants survive for many years. `Example: Bamboo.`
 - Polycarpic perennials produce flowers every year during life time. `Example: Coconut.`
 
-![Bamboos](bamboos.png "w-50 float-end")
 
-![Saguaro Cactus](saguaro-cactus.png "w-50 float-end")
-
-## Kinetics of growth
+# Kinetics of growth
 
 It is an analysis of the motion of cells or expansion.
 
@@ -93,8 +88,6 @@ For example, starting with a single cell after round 1 of cell division there is
 
 The plants single dividing cell would undergo one million rounds of nuclear and undergo one million rounds of nuclear and cellular division. If each round requires one day, this type of arithmetic increase would require one million days or 2739.7 years. This arithmetic rate is capable of producing small number of cells present in very small parts of plants. For example the hair on many leaves and stems consists of just a single row of cells produced by the division of the basal cell, the cell at the bottom of the hair next to other epidermal cells. Hair may contain 5 to 10 cells by the division of the basal cell. So, all its cells could be produced in just five to ten days. In the figure 15.2, on plotting the hight of the plant against time a linear curve is obtained. Mathematically it is expressed as:
 
-![Constant Linear Growth](constant-linear-growth.png "w-50 float-end")
-
 {{< katex block >}}
 
 L_t = L_0 + r_t \newline
@@ -106,13 +99,13 @@ L_o = \text{ length at time zero }\newline
 r = \text{ growth rate of elongation per unit } \newline
 {{< /katex >}}
 
+![Constant Linear Growth](constant-linear-growth.png "w-50 float-end")
+
 ### Geometric growth rate
 
 This growth occurs in many higher plants and plant organs and is measured in size or weight. In plant growth, geometric cell division results if all cells of an organism or tissue are active mitotically. Example: Round three produces 8 cells as {{< katex block >}}2^3 = 8{{< /katex >}} and after round 20 there are {{< katex block >}}2^{20} = \text{1,048,576 cells}{{< /katex >}}
 
 The large plant or animal parts are produced this way. In fact, it is common in animals but rare in plants except when they are young and small. Exponential growth curve can be expressed as,
-
-![Geometric growth](progeny-cells.png "w-50 float-end")
 
 {{< katex block >}}
 
@@ -129,6 +122,8 @@ t = \text{ Time of growth } \newline
 e = \text{ Base of the natural logarithms } \newline \newline
 
 {{< /katex >}}
+
+![Geometric growth](progeny-cells.png "w-50 float-end")
 
 Here ‘_r’_ is the relative growth rate and also a measure of the ability of the plant to produce new plant material, referred to as efficiency index. Hence, the final size of {{< katex block >}}W_1{{< /katex >}} depends on the initial size {{< katex block >}}W_0{{< /katex >}}.
 
@@ -150,6 +145,10 @@ Two leaves A and B are drawn at a particular time. Then {{< katex block >}}A^1{{
 
 The increase in the length of the stem tip can easily be measured by an arc auxanometer which consists of a small pulley to the axis of which is attached a long pointer sliding over a graduated arc. A thread one end of which is tied to the stem tip and another end to a weight passes over the pulley tightly. As soon as the stem tip increases in length, the pulley moves and the pointer slide over the graduated arc. The reading is taken. The actual increase in the length of the stem is then calculated by knowing the length of the pointer and the radius of the pulley. If the distance travelled by the pointer is 10 and the radius of the pulley is 4 inches and the length of the pint is 20 inches, the actual grown is measured as follows: Actual growth in length = (Distance travelled by the pointer × radius of the pulley) / Length of the pointer.
 
-For example, `actual growth in length = (10 × 4 inches)/ 20 inches = 2 inches`
+![Arc auxanometer](auxanometer.png)
 
-![Arc auxanometer](auxanometer.png "w-50 float-end")
+
+  > For example, 
+  actual growth in length = (10 × 4 inches)/ 20 inches = 2 inches
+
+

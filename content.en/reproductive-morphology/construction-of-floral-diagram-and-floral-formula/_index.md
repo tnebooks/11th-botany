@@ -40,27 +40,13 @@ A(9)+1 – stamens ten, two bundles **(diadelphous)** 9 stamens unite to form on
 
 **C**5**A**5—**Epipetalous** represented by an arc. A0 :**Staminode**(sterile stamen) G. Gynoecium or pistil – **G2** – Carpels two,
 
-free **(apocarpous)** G(3) – Carpels three, united **(syncarpous)** G0 – pistillode (sterile carpel)
+free **(apocarpous)**
+ G(3) – Carpels three, united **(syncarpous)**
+  G0 – pistillode (sterile carpel)
 
-**Figure 4.26: (a)** _Hibiscus rosa-sinensis_
 
-**Br Brl K (5) C 5 A(∞)G(5)**
-
-**Br Ebrl**
-
-**Male Flower**
-
-•
-
-**Br Ebrl**
-
-**Br Ebrl**
-
-**Ocng"hnqygt Hgocng"hnqygt**
-
-**Figure 4.26: (c)** _Phyllanthus amarus_
-
-**Br Ebrl P3+3 A (3) G 0 Br Ebrl P3+3A 0 G(3)**
-
-G – superior ovary G inferior ovary G**–** – semiinferior ovary ∞ – Indefinite number of units
 ![Alt text](4.31.png)
+G – superior ovary
+ G inferior ovary
+  G**–** – semiinferior ovary
+   ∞ – Indefinite number of units

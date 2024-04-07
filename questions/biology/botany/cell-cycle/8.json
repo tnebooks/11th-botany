@@ -1,0 +1,18 @@
+{
+    "question": "Colchicine prevents the mitosis of the cells at which of the following stage?",
+    "explanation": "",
+    "choices": [{
+        "value": "Anaphase"
+      },
+      {
+        "value": "Metaphase",
+        "answer": true
+      },
+      {
+        "value": "Prophase"
+      },
+      {
+        "value": "Interphase"
+      }
+    ]
+  }

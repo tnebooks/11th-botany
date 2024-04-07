@@ -1,0 +1,18 @@
+{
+    "question": "Synapsis occur between",
+    "explanation": "",
+    "choices": [{
+        "value": "mRNA and ribosomes"
+      },
+      {
+        "value": "spindle fibres and centromeres"
+      },
+      {
+        "value": "two homologous chromosomes",
+        "answer": true
+      },
+      {
+        "value": "a male and a female gamete"
+      }
+    ]
+  }

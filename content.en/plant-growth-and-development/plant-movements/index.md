@@ -6,13 +6,12 @@ weight: 3
 Plants have the capacity for changing their positions in response to external or internal stimuli, which are known as **plant movements**. Movements are basically of two types: I. Vital movements and II. Physical movements (hygroscopic) (Figure 15.10). 
 
 **I. Vital movements** 
-Vital movements are those which are exhibited by the living cells or plants or 
+Vital movements are those which are exhibited by the living cells or plants or organs and they are always related to the irritability of the protoplasm. These movements are of two types:
+
+1. Movements of locomotion 
+2. Movements of curvature
 
 ![alt text](15.10.1.png)
-
-organs and they are always related to the irritability of the protoplasm. These movements are of two types:
-
-A. Movements of locomotion B. Movements of curvature
 
 **A. Movements of locomotion** 
 These movements include the movement of protoplasm inside the cell or movement of whole unicellular or multicellular plant body as in _Chlamydomonas_, gametes and zoospores. 
@@ -41,7 +40,9 @@ When growth is more on lower surface, petals show curvature on upper side and ul
 
 **2\. Epinasty**: 
 When the growth is more on upper surface, petals show curvature on the lower side and ultimately the flower opens. Such movement is called **epinasty. The flower usually opens at high temperature and remains closed at low temperature (Figure 15.12).
+Plants have the capacity for changing their positions in response to external or internal stimuli, which are known as plant movements. Movements are basically of two types: I. Vital movements and II. Physical movements (hygroscopic) (Figure 15.10).
 
+I. Vital movements Vital movements are those which are exhibited by the living cells or plants or organs and they are always related to the irritability of the protoplasm. These movements are of two types:
 **3\. Nutation**: 
 The growth of the stem apices occurs in a zig-zag manner. It is because the two sides of the stem apex alternatively grow more. Such growth movements are called as nutational movements. In some plants nutational movements allow the shoots apex to grow in helical path in upward direction. This movement is called circumnutation. It is commonly found in the stems of climbers of _Cucurbitaceae_ (Figure 15.13).
 
