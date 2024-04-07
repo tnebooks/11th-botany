@@ -93,7 +93,104 @@ Pili or fimbriae are hair like appendages found on surface of cell wall of gram-
 The Gram staining method to differentiate bacteria was developed by Danish Physician Christian Gram in the year1884. It is a differential staining procedure and it classifies bacteria into two classes - Gram positive and Gram negative. The steps involved in Gram staining procedure is given in Figure 1.10. The Gram positive bacteria retain crystal violet and appear dark violet whereas Gram negative type loose the crystal violet and when counterstained by safranin appear red under a microscope.
 
 Most of the gram positive cell wall contain considerable amount of teichoic acid and teichuronic acid. In addition, they may contain
-![Alt text](<steps involved in gram.png>)
+
+```
+                                                                                                                                                                      
+                                                                                                                                                                      
+   ┌────────────────────────────────────────────────────────────────┐                                                                                                 
+   │                                                                │                                                                                                 
+   │                                                                │                                                                                                 
+   │          Prepare a smear of bacterial culture                  │                                                                                                 
+   │                                                                │                                                                                                 
+   │                                                                │                                                                                                 
+   └─────────────────────────────┬──────────────────────────────────┘                                                                                                 
+                                 │                                                                                                                                    
+                                 │                                                                                                                                    
+  ┌──────────────────────────────▼─────────────────────────────────┐                                                                                                  
+  │                                                                │                                                                                                  
+  │                                                                │                                                                                                  
+  │           Stain with Crystal violet for 30 seconds             │                                                                                                  
+  │                                                                │                                                                                                  
+  │                                                                │                                                                                                  
+  └───────────────────────────────┬────────────────────────────────┘                                                                                                  
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+  ┌───────────────────────────────▼────────────────────────────────┐                                                                                                  
+  │                                                                │                                                                                                  
+  │                                                                │                                                                                                  
+  │              Rinse in distilled water for 2 seconds            │                                                                                                  
+  │                                                                │                                                                                                  
+  │                                                                │                                                                                                  
+  └───────────────────────────────┬────────────────────────────────┘                                                                                                  
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+  ┌───────────────────────────────▼────────────────────────────────┐                                                                                                  
+  │                                                                │                                                                                                  
+  │                                                                │                                                                                                  
+  │                  Grams Iodine for 1 minute                     │                                                                                                  
+  │                                                                │                                                                                                  
+  │                                                                │                                                                                                  
+  └───────────────────────────────┬────────────────────────────────┘                                                                                                  
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+ ┌────────────────────────────────▼───────────────────────────────┐                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ │                       Rinse in distilled water                 │                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ └────────────────────────────────┬───────────────────────────────┘                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+ ┌────────────────────────────────▼───────────────────────────────┐                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ │         Wash in 95% ethanol or acetone for 10 to 30 seconds    │                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ └────────────────────────────────┬───────────────────────────────┘                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+ ┌────────────────────────────────▼───────────────────────────────┐                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ │              Rinse in distilled water                          │                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ └────────────────────────────────┬───────────────────────────────┘                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+┌─────────────────────────────────▼──────────────────────────────┐                                                                                                    
+│                                                                │                                                                                                    
+│                                                                │                                                                                                    
+│              Safranin for 30–60 seconds                        │                                                                                                    
+│                                                                │                                                                                                    
+│                                                                │                                                                                                    
+└─────────────────────────────────┬──────────────────────────────┘                                                                                                    
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+┌─────────────────────────────────▼──────────────────────────────┐                                                                                                    
+│                                                                │                                                                                                    
+│                                                                │                                                                                                    
+│             Rinse in distilled water and blot                  │                                                                                                    
+│                                                                │                                                                                                    
+│                                                                │                                                                                                    
+└─────────────────────────────────┬──────────────────────────────┘                                                                                                    
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+                                  │                                                                                                                                   
+ ┌────────────────────────────────▼───────────────────────────────┐                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ │           Observe under microscope                             │                                                                                                   
+ │                                                                │                                                                                                   
+ │                                                                │                                                                                                   
+ └────────────────────────────────────────────────────────────────┘                                                                                                   
+```
+
 **Figure 1.10:** Steps involved in Gram Staining
 
 polysaccharide molecules. The gram negative cell wall contains three components that lie outside the peptidoglycan layer. 1. Lipoprotein 2. Outer membrane 3.Lipopolysaccharide. Thus the different results in the gram stain
@@ -301,12 +398,11 @@ They are mostly chemoautotrophs. The unique feature of this group is the presenc
 ![ Structure and reproduction in cyanophyceae](1.21.png)
 Stromatolites are deposits formed when colonies of cyanobacteria bind with calcium carbonate. They have a geological age of 2.7 billion years. Their abundance in the fossil record indicates that cyanobacteria helped in raising the level of free oxygen in the atmosphere.
 
-- Pseudomonas putida\_ is a superbug genetically engineered which breakdown hydrocarbons.
-
-- “Pruteen” is a single cell protein derived from _Methylophilus_ _methylotrophus_.
-- Agrobacterium tumefaciens\_ cause crown gall disease in plants but its inherent tumour inducing principle helps to carry the desired gene into the plant through Genetic engineering.
-- Thermus aquaticus\_ is a thermophilic gram negative bacteria which produces Taq Polymerase a key enzyme for Polymerase Chain Reaction (PCR).
-- Methanobacterium  is employed in biogas production. Halobacterium, an extremophilic bacterium grows in high salinity. It is exploited for the production β carotene.
+>- Pseudomonas putida\_ is a superbug genetically engineered which breakdown hydrocarbons.
+>- “Pruteen” is a single cell protein derived from _Methylophilus_ _methylotrophus_.
+>- Agrobacterium tumefaciens\_ cause crown gall disease in plants but its inherent tumour inducing principle helps to carry the desired gene into the plant through Genetic engineering.
+>- Thermus aquaticus\_ is a thermophilic gram negative bacteria which produces Taq Polymerase a key enzyme for Polymerase Chain Reaction (PCR).
+>- Methanobacterium  is employed in biogas production. Halobacterium, an extremophilic bacterium grows in high salinity. It is exploited for the production β carotene.
 
 **Cyanobacteria** are popularly called as 'Blue green algae' or 'Cyanophyceae'. They are photosynthetic, prokaryotic organisms. According to evolutionary record Cyanobacteria are primitive forms and are found in different habitats. Most of them are fresh water and few are marine (_Trichodesmium_ and _Dermacarpa_) _Trichodesmium erythraeum_ a cyanobacterium imparts red colour to Red sea. Species of _Nostoc_, _Anabaena_ lead an endophytic life in the coralloid root of _Cycas_, leaves of aquatic fern _Azolla_ by establishing a symbiotic association and fix atmospheric nitrogen. Members like _Gloeocapsa,_ _Nostoc_, _Scytonema_ are found as phycobionts in lichen thalli.
 
