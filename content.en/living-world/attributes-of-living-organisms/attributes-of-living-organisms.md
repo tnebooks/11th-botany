@@ -15,7 +15,48 @@ references:
 
 The attributes of living organisms are given below and is represented in Figure 1.1.
 
-![ Attributes of living organisms](1.2.png)
+```
+                                                                                                                                                          
+                                                                                                                                                          
+┌───────────────────────────────┐              ┌─────────────────────────────┐                                                                            
+│                               │              │                             │             ┌─────────────────────────────┐                                
+│                               │              │                             │             │                             │                                
+│         Growth                │              │        Nutrition            │             │                             │                                
+│                               │              │                             │             │          Movement           │                                
+│                               │              │                             │             │                             │                                
+└──────────────┬────────────────┘              └───────────────┬─────────────┘             │                             │                                
+               │                                               │                           └─────────────┬───────────────┘                                
+               │                                               │                                         │                                                
+               │                                               │                                         │                                                
+               │                                               │                                         │                                                
+               │                    ┌──────────────────────────┴────────────────────┐                    │                                                
+               └────────────────────┤                                               ├────────────────────┘                                                
+                                    │                                               │                                                                     
+ ┌─────────────────────────────┐    │                                               │      ┌─────────────────────────────┐                                
+ │                             │    │                                               │      │                             │                                
+ │                             │    │         ATTRIBUTES OF LIVING  ORGANISMS       ├──────┤                             │                                
+ │       Metabolism            ├────┤                                               │      │         Reproduction        │                                
+ │                             │    │                                               │      │                             │                                
+ │                             │    │                                               │      │                             │                                
+ └─────────────────────────────┘    │                                               │      └─────────────────────────────┘                                
+                                    │                                               │                                                                     
+                    ┌───────────────┤                                               ├────────────────────────┐                                            
+                    │               └────────────────────────────┬──────────────────┘                        │                                            
+                    │                                            │                                           │                                            
+                    │                                            │                                           │                                            
+                    │                                            │                                           │                                            
+                    │                                            │                                           │                                            
+ ┌──────────────────┴──────────┐              ┌──────────────────┴──────────┐                                │                                            
+ │                             │              │                             │               ┌────────────────┴────────────┐                               
+ │                             │              │                             │               │                             │                               
+ │        Respiration          │              │         Irritability        │               │                             │                               
+ │                             │              │                             │               │        Excretion            │                               
+ │                             │              │                             │               │                             │                               
+ └─────────────────────────────┘              └─────────────────────────────┘               │                             │                               
+                                                                                            └─────────────────────────────┘                               
+                                                                                                                                                          
+```
+**Figure 1.1: Attributes of living organisms**
 
 **Growth**
 Growth is an intrinsic property of all living organisms through which they can increase cells both in number and mass. Unicellular and multicellular organisms grow by cell division. In plants, growth is indefinite and occurs throughout their life. In animals, growth is definite and occurs for some period. Growth in non-living objects is **extrinsic**. Mountains, boulders and sand mounds grow by simple aggregation of material on the surface. Living cells grow by the addition of new protoplasm within the cells. Therefore, growth in living thing is **intrinsic**. In unicellular organisms like Bacteria and Amoeba growth occurs by cell division and such cell division also leads to the growth of their population. Hence, growth and reproduction are mutually inclusive events.
@@ -48,8 +89,96 @@ The sum of all the chemical reactions taking place in a cell of living organism 
 
 Movement, Nutrition, Respiration and Excretion are also considered as the property of living things. The levels of organization in living organism begin with atoms and end in **Biosphere**. Each level cannot exist in isolation instead they form levels of integration as given in Figure 1.3.
 
-![Alt text](1.4.png)
-
+```
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                            ┌────────────────┐                                                                                                     
+                     ▲      │                │                                                                                                     
+                     │      │   Biosphere    │                                                                                                     
+                     │      │                │                                                                                                     
+                     │      └────────▲───────┘                                                                                                     
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐          ┌───────────────┐                                                                          
+                     │      │                │          │               │                                                                          
+                     │      │   Ecosystem    │     III  │ Ecosystem     │                                                                          
+                     │      │                │          │               │                                                                          
+                     │      └────────▲───────┘          └───────────────┘                                                                          
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐                                                                                                     
+                     │      │                │                                                                                                     
+                     │      │   Community    │                                                                                                     
+                     │      │                │                                                                                                     
+                     │      └────────▲───────┘                                                                                                     
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐                                                                                                     
+                     │      │                │                                                                                                     
+                     │      │  Population    │                                                                                                     
+                     │      │                │                                                                                                     
+                     │      └────────▲───────┘                                                                                                     
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐          ┌───────────────┐                                                                          
+                     │      │                │          │               │                                                                          
+                     │      │ Individual     │     II   │ Individual    │                                                                          
+                     │      │       organism │          │  organism     │                                                                          
+┌────────────────┐   │      └────────▲───────┘          └───────────────┘                                                                          
+│                │   │               │                                                                                                             
+│                │   │      ┌────────┴───────┐                                                                                                     
+│   Living       │   │      │                │                                                                                                     
+│                │   │      │   Organ System │                                                                                                     
+│                │   │      │                │                                                                                                     
+└────────────────┘   │      └────────▲───────┘                                                                                                     
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐                                                                                                     
+                     │      │                │                                                                                                     
+                     │      │    Organs      │                                                                                                     
+                     │      │                │                                                                                                     
+                     │      └────────▲───────┘                                                                                                     
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐                                                                                                     
+                     │      │                │                                                                                                     
+                     │      │   Tissues      │                                                                                                     
+                     │      │                │                                                                                                     
+                     │      └────────▲───────┘                                                                                                     
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐         ┌───────────────┐                                                                           
+                     │      │                │         │               │                                                                           
+                     │      │   Living cells │     I   │ Living cells  │                                                                           
+                     │      │                │         │               │                                                                           
+                     │      └────────▲───────┘         └───────────────┘                                                                           
+                     │               │                                                                                                             
+                     │      ┌────────┴───────┐                                                                                                     
+                     │      │                │                                                                                                     
+                     │      │  Organelles    │                                                                                                     
+                            │                │                                                                                                     
+                            └────────▲───────┘                            ┌─────────────────┐                                                      
+                                     │                  ┌────────────┐    │                 │                                                      
+                                     │                  │  Colloids  │    │                 │                                                      
+                                     │       ┌──────────►            │    │                 │                                                      
+                                     │       │          └────────────┘    │                 │                                                      
+                            ┌────────┴───────┤                            │                 │                                                      
+                            │                │          ┌────────────┐    │                 │                                                      
+                            │ Molecules &    ├──────────► Crystals   │    │                 │                                                      
+                            │   Compounds    │          │            │    │ Non Living      │                                                      
+                            └────────▲───┬───┘          └────────────┘    │                 │                                                      
+                                     │   │                                │                 │                                                      
+                                     │   │              ┌────────────┐    │                 │                                                      
+                                     │   └──────────────►  Mixture   │    │                 │                                                      
+                                     │                  │            │    │                 │                                                      
+                                     │                  └────────────┘    └─────────────────┘                                                      
+                             ┌───────┴────────┐                                                                                                    
+                             │                │                                                                                                    
+                             │     Atoms      │                                                                                                    
+                             │                │                                                                                                    
+                             └────────────────┘                                                                                                    
+```
 **Figure 1.3:** The levels of organization and integration in living organism
 
 **Activity 1.1**

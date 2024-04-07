@@ -31,6 +31,7 @@ Discovery of Penicillin in the year 1928 is a serendipity in the world of medici
 The word ‘fungus’ is derived from Latin meaning ‘mushroom’. Fungi are ubiquitous, eukaryotic, achlorophyllous heterotrophic organisms. They exist in unicellular or multicellular forms. The study of fungi is called mycology. (Gr. mykes – mushroom: logos – study). P.A. Micheli is considered as founder of Mycology. Few renowned mycologists include Arthur H.R. Buller, John Webster, D.L.Hawksworth, G.C.Ainsworth, B.B.Mundkur, K.C.Mehta, C.V. Subramanian and T.S. Sadasivan.
 
 > **E.J. Butler (1874-1943)**
+![ E.J. Butler](ej.png)
 > E.J. Butler is the Father of Indian Mycology. He established Imperial Agricultural Research Institute at Pusa, Bihar. It was later shifted to New Delhi and at present known as Indian Agricultural Research Insitute (IARI). He published a book, ‘Fungi and Disease in Plants’ on Indian plant diseases in the year 1918.
 
 ## General characteristic features
@@ -90,7 +91,42 @@ Flagellate cells are present (Gamete/ Zoospore). Nutrition absorptive, mycelium 
 **Division : III Amastigomycota**
 
 Unicellular to multicellular forms are included. The mycelium is septate. Asexual reproduction occurs by budding,
-![Alt text](<outline .png>)
+
+```
+                                                  ┌───────────────────────────────┐                                                                                                        
+                                                  │                               │                                                                                                        
+                                                  │                               │                                                                                                        
+                  ┌───────────────────────────────┤        KINGDOM - MYCETEAE     ├──────────────────────────────┐                                                                         
+                  │                               │                               │                              │                                                                         
+                  │                               │                               │                              │                                                                         
+                  │                               └────────────────┬──────────────┘                              │                                                                         
+                  │                                                │                                             │                                                                         
+                  │                                                │                                             │                                                                         
+                  │                                                │                                             │                                                                         
+                  │                                                │                                             │                                                                         
+┌─────────────────▼──────────────────┐         ┌───────────────────▼────────────────┐        ┌───────────────────▼────────────────┐                                                        
+│                                    │         │                                    │        │                                    │                                                        
+│   DIVISION – GYMNOMYCOTA           │         │   DIVISION - MASTIGOMYCOTA         │        │   DIVISION – AMASTIGOMYCOTA        │                                                        
+│                                    │         │                                    │        │                                    │                                                        
+│                                    │         │                                    │        │                                    │                                                        
+│   SUBDIVISION – 1                  │         │   SUBDIVISION – 1                  │        │   SUBDIVISION -1                   │                                                        
+│                                    │         │                                    │        │   ZYGOMYCOTINA                     │                                                        
+│   ACRASIOGYMNOMYCOTINA             │         │   HAPLOMASTIGOMYCOTINA             │        │   Class – Zygomycetes              │                                                        
+│   CLASS – Acrasiomycetes           │         │   CLASS – Chytridiomycetes         │        │   Class- Trichomycetes             │                                                        
+│                                    │         │   CLASS – Hyphochytridiomycetes    │        │   SUBDIVISION -2                   │                                                        
+│                                    │         │   CLASS – Plasmodiophoromycetes    │        │   ASCOMYCOTINA                     │                                                        
+│    SUBDIVISION – 2                 │         │                                    │        │   CLASS – Ascomycetes              │                                                        
+│    PLASMODIOGYMNOMYCOTINA          │         │                                    │        │   SUBDIVISION -3                   │                                                        
+│                                    │         │   SUBDIVISION – 2                  │        │   BASIDIOMYCOTINA                  │                                                        
+│                                    │         │   DIPLOMASTIGOMYCOTINA             │        │   CLASS – Basidiomycetes           │                                                        
+│    CLASS – Protosteliomycetes      │         │   CLASS - Oomycetes                │        │   SUBDIVISION -4                   │                                                        
+│    CLASS- Myxomycetes              │         │                                    │        │   DEUTEROMYCOTINA                  │                                                        
+│                                    │         │                                    │        │   CLASS - Deuteromycetes           │                                                        
+│                                    │         │                                    │        │                                    │                                                        
+│                                    │         │                                    │        │                                    │                                                        
+│                                    │         │                                    │        │                                    │                                                        
+└────────────────────────────────────┘         └────────────────────────────────────┘        └────────────────────────────────────┘                                                                                                                                                                           
+```
 
 fragmentation,sporangiospores, conidia etc., Meiosis is zygotic. Example : _Peziza_
 
@@ -256,6 +292,8 @@ _Agaricus_ reproduces by sexual method but sex organs are absent. Majority of th
 **Basidiocarp**
 The mature basidiocarp is umbrella shaped and is divided into 3 parts namely stipe, pileus and gill. The stipe is thick, fleshy and cylindrical in structure. The upper part of the stipe possess a membranous structure called annulus. The upper convex surface is called **pileus** which is white or cream in colour (Figure 1.24). The inner surface of pileus shows radially arranged **gills** or lamellae. The gills vary in length. On both the sides of the gills a fertile layer called **hymenium is present. The stipe is hollow from** the centre and the central part is made up of loosely arranged hyphae whereas the periphery is made up of compactly arranged hyphae forming pseudoparenchymatous tissue. The gill region is divided into 3 regions. The central part of gill between two hymenial layers is called **Trama (Figure 1.25). The subhymenial layers** have closely compact tissue . The hymenium is the fertile layer and possess club shaped basidia. The basidium is interspersed with sterile hyphae called paraphysis. Each basidium bears 4 basidiospores, of these two basidiospores belong to (+) strain and other two of them will be (–) strain. The basidiospores are borne on stalk like structures called sterigmata. The basidiospore on germination produces the haploid primary mycelium.
 
+![ Basidiocarp](qr.3.png)
+
 ![ Life Cycle of _Agaricus_](1.35.png)
 
 Thus the life cycle of Agaricus shows a very short diploid phase, haploid phase and a prolonged dikaryotic phase (Figure 1.26).
@@ -296,98 +334,3 @@ The symbiotic association between algae and fungi is called lichens. The algal p
 - If the fungal partner of lichen belongs to ascomycetes, it is called **Ascolichen** and if it is basidiomycetes it is called **Basidiolichen**.
 
 Lichens secrete organic acids like Oxalic acids which corrodes the rock surface and helps in weathering of rocks, thus acting as pioneers in Xerosere. Usnic acid produced from lichens show antibiotic properties. Lichens are sensitive to air pollutants especially to sulphur-di-oxide. Therefore, they are considered as pollution indicators. The dye present in litmus paper used as acid base indicator in the laboratories is obtained from _Roccella montagnei. Cladonia rangiferina_ (Reindeer mose) is used as food for animals living in Tundra regions.
-
-**Summary**
-
-Earth is endowed with living and nonliving things. The attributes of living things include growth, metabolism, reproduction, irritability and so on. Viruses are considered as Biological puzzle and exhibit both living and non living characteristic features. They are ultramicroscopic, obligate parasites and cause disease in plants and animals. They multiply by lytic and lysogenic cycle.
-
-Five Kingdom classification was proposed by Whittaker, which include Monera, Protista, Fungi, Plantae and Animalia. Carl woese divided the living world into 3 domains- Bacteria, Archaeae and Eukarya. The domain Eukarya include Plantae, Animalia and Fungi. A new Kingdom called Chromista was erected to include Diatoms, Cryptomonads and Oomycetes. Bacteria are microscopic, prokaryotic organisms and possess peptidoglycan in their cell wall. Based on Gram Staining method they are classified into Gram positive and Gram negative type. They reproduce asexually by binary fission. Sexual reproduction occurs through conjugation, transformation and transduction. Archaebacteria are prokaryotic and are adapted to thrive in extreme environments.
-
-Cyanobacteria are prokaryotic organisms and are also called Blue Green Algae. The members of this group are ensheathed by mucilage cover. They reproduce by vegetative and asexual methods.
-
-Fungi are eukaryotic, heterotrophic, unicellular or multicellular organisms. The cell wall is made up of chitin. They reproduce asexually by producing sporangiospores, conidia, thallospores, chlamydospores etc., The sexual reproduction is isogamous, ansiogamous and oogamous. In addition, gametic copulation, gametic fusion, spermatisation are also found. They are beneficial to mankind. Some are known to cause disease in plants and human beings.
-
-_Agaricus_ belongs to the class Basidiomycetes. It is a saprophytic fungus. Three types of mycelium, primary, secondary and tertiary mycelium are produced. Sexual reproduction is present. Basidiocarps are produced after the sexual reproduction. It bears basidia on which four basidiospores are produced.
-
-The symbiotic association between the roots of higher plants and fungal mycelium is called mycorrhizae. Lichen thallus includes both phycobiont and mycobiont. It is an example for symbiotic association.
-
-**Evaluation**
-
-1. Which one of the following statement about virus is correct?
-   a. Possess their own
-   metabolic system
-   b. They are facultative parasites
-   c. They contain DNA or RNA
-   d. Enzymes are present
-
-2. Identify the incorrect statement about the Gram positive bacteria
-   a. Teichoic acid absent
-   b. High percentage of peptidoglycan is found in cell wall
-   c. Cell wall is single layered d. Lipopolysaccharide is present in cell wall
-
-3. Identify the Archaebacterium
-   a. _Acetobacter_
-   b. _Erwinia_
-   c. _Treponema_
-   d. _Methanobacterium_
-
-4. The correct statement regarding Blue green algae is \_\_\_
-   a. lack of motile structures
-   b. presence of cellulose in cell wall
-   c. absence of mucilage around the thallus
-   d. presence of floridean starch
-
-5. Identify the correctly matched pair
-   a. Actinomycete – a) Late blight
-   b. Mycoplasma – b) lumpy jaw
-   c. Bacteria – c) Crown gall
-   d. Fungi – d) sandal spike
-
-6. Differentiate homoiomerous and heteromerous lichens.
-
-7. Write the distinguishing features of monera.
-
-8. Why do farmers plant leguminous crops in crop rotations/mixed cropping?
-
-9. Briefly discuss on five Kingdom classification. Add a note on merits and demerits.
-
-10. Give a general account on lichens.
-
-11. Write the outline of the life cycle of _Agaricus_.
-
-12. What is Sterigma?
-
-13. Name the types of mycelium found in _Agaricus_.
-
-14. Differentiate oidium and Chlamydospore.
-
-15. Name the fungal group which possess dolipore septum.
-
-16. Mention the diseases caused by fungi in plants.
-
-17. Give two examples for mycorrhizae forming fungi.
-
-18. Differentiate Gram positive and Gram negative bacteria.
-
-**Bacteria**
-
-Let’s explore the structure and shapes of Bacteria.
-
-**Steps**
-
-- Scan the QR code or go to google play store and type bacteria interactive
-  educational VR 3D
-- Download the app and install it
-- Follow the above steps and explore the interactives of each part and its functions.
-
-**Activity**
-
-- Select structure tap and note the internal structure of bacteria
-- Click cell wall and note the difference between different shapes
-
-```
-URL:
-https://play.google.com/store/apps/details?id=com.rendernet.bacteria&hl=en
-```
-
-- Pictures are indicative only

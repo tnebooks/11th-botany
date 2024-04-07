@@ -42,7 +42,18 @@ R.H.Whittaker, an American taxonomist proposed five Kingdom classification in th
 | **Carl Linnaeus (1735)** |**Ernst Haeckel (1866)** |**C opeland (1956)** |**R.H. Whittaker (1969)** |
 | 1. Plantae 2.Animalia |1. Protista 2. Plantae 3.Animalia |1.Monera 2.Protista 3.Plantae 4.Animalia |1.Monera 2. Protista 3. Fungi 4.Plantae 5. Animalia |
 
-![Alt text](comparsion.png)
+
+
+**Table 1.5: Comparison of Five Kingdoms**
+**Kingdom**
+| Criteria              | Monera                                                                               | Protista                                                                                       | Fungi                                    | Plantae                                                       | Animalia                               |
+|-----------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------|----------------------------------------|
+| Cell type             | Prokaryotic                                                                          | Eukaryotic                                                                                     | Eukaryotic                               | Eukaryotic                                                    | Eukaryotic                             |
+| Level of organization | Mostly Unicellular, rarely multicellur                                               | Unicellular                                                                                    | Multicellular and unicellular            | Tissue/organ                                                  | Tissue/organ/organ system              |
+| Cell wall             | Present (made up of Peptidoglycan and Mucopeptides)                                  | Present in some(made up of cellulose), absent in others                                        | Present (made up of chitin or cellulose) | Present (made up of cellulose)                                | absent                                 |
+| Nutrition             | Autotrophic (Phototrophic,Chemoautotrophic) Heterotrophic(parasitic and saprophytic) | Autotrophic- Photosynthetic Heterotrophic                                                      | Heterotrophicparasitic or Saprophytic    | Autotrophic (Photosynthetic)                                  | Heterotrophic (Holozoic)               |
+| Motility              | Motile or non-motile                                                                 | Motile or non-motile                                                                           | Non-motile                               | Mostly Non-motile Mostly                                      | Mostly motile                          |
+| Organisms             | Archaebacteria,Eubacteria,Cyanobacteria,Actinomycetes and Mycoplasma                 | Chrysophytes,Dinoflagellates,Euglenoids, Slime molds, Amoeba,Plasmodium,Trypanosoma,Paramecium | Yeast, Mushrooms and Molds               | Algae, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms | Sponges, Invertebrates and Vertebrates |
 
 ![Alt text](1.11.png)
 
@@ -62,6 +73,7 @@ R.H.Whittaker, an American taxonomist proposed five Kingdom classification in th
 - Viruses were not included in the system.
 
 Carl Woese and co-workers in the year 1990 introduced three domains of life _viz.,_ **Bacteria**, **Archaea** and **Eukarya** based on the difference in rRNA nucleotide sequence, lipid structure of the cell membrane. A revised six Kingdom classification for living world was proposed by Thomas Cavalier-Smith in the year 1998 and the Kingdom **Monera** is divided in to **Archaebacteria** and **Eubacteria.** Recently Ruggierio _et al_., 2015 published a seven Kingdom classification which is a practical extension of Thomas Cavalier’s six Kingdom scheme. According to this classification there are two Super Kingdoms. (**Prokaryota** and **Eukaryota**) **Prokaryota** includes two Kingdoms namely **Archaebacteria** and **Eubacteria.** Eukaryota includes the **Protozoa, Chromista, Fungi, Plantae** and **Animalia.** A new Kingdom, the **Chromista** was erected and it included all algae whose chloroplasts contain chlorophyll a and c, as well as various colourless forms that are closely related to them.Diatoms, Brown algae, Cryptomonads and Oomycetes were placed under this Kingdom.
+![Alt text](qr.2.png)
 
 **Activity 1.2**
 Visit to a pond and record the names of the biotic components of it with the help of your teacher. Tabulate the data and segregate them according to Five Kingdom Classification.
