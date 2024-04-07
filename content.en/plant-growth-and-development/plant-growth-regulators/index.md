@@ -120,7 +120,6 @@ This curvature can be measured (Figure 15.8).
 
 ![ _Avena_ Curvature Test](15.8.png "")
 
-
 ### Gibberellins 
 
 **1. Discovery**
@@ -208,12 +207,12 @@ It is a derivative of amino acid methionine, linolenic acid and fumaric acid.
 Ethylene can be measured by gas chromatography. This technique helps in the detection of exact amount of ethylene from different plant tissues like lemon and orange. 
 
 **6. Physiological Effects**. 
-- Ethylene stimulates respiration and ripening in fruits. 
-- It breaks the dormancy of buds, seeds and storage organs. 
-- It stimulates formation of abscission zone in leaves, flowers and fruits. This makes the leaves to shed prematurely.
-- Inhibition of stem elongation (shortening the internode).
-- Growth of lateral roots and root hairs. This increases the absorption surface of the plant roots.
-- Ethylene normally reduces flowering in plants except in Pine apple and Mango.
+  - Ethylene stimulates respiration and ripening in fruits. 
+  - It breaks the dormancy of buds, seeds and storage organs. 
+  - It stimulates formation of abscission zone in leaves, flowers and fruits. This makes the leaves to shed prematurely.
+  - Inhibition of stem elongation (shortening the internode).
+  - Growth of lateral roots and root hairs. This increases the absorption surface of the plant roots.
+  - Ethylene normally reduces flowering in plants except in Pine apple and Mango.
 
 ### Abscisic Acid (ABA) (Stress Phyto hormone)
 
@@ -236,11 +235,11 @@ It has carotenoid structure.
 The inhibition of IAA induces straight growth of rice seedling coleoptiles. 
 
 **7. Physiological effects**. 
-- It helps in reducing transpiration rate by closing stomata. 
-- ABA is a powerful growth inhibitor. It causes 50% inhibition of growth in Oat coleoptile.
-- It induces bud and seed dormancy. 
-- It promotes the abscission of leaves, flowers and fruits by forming abscission layers. 
-- ABA plays an important role in plants during water stress and during drought conditions. It results in loss of turgor and closure of stomata.
-- In Cannabis sativa, induces male flower formation on female plants.
-- It promotes sprouting in storage organs like Potato.
-- It inhibits the shoot growth and promotes growth of root system. This character protect the plants from water stress. Hence, ABA is called as **stress hormone.**
+  - It helps in reducing transpiration rate by closing stomata. 
+  - ABA is a powerful growth inhibitor. It causes 50% inhibition of growth in Oat coleoptile.
+  - It induces bud and seed dormancy. 
+  - It promotes the abscission of leaves, flowers and fruits by forming abscission layers. 
+  - ABA plays an important role in plants during water stress and during drought conditions. It results in loss of turgor and closure of stomata.
+  - In Cannabis sativa, induces male flower formation on female plants.
+  - It promotes sprouting in storage organs like Potato.
+  - It inhibits the shoot growth and promotes growth of root system. This character protect the plants from water stress. Hence, ABA is called as **stress hormone.**
