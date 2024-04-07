@@ -11,7 +11,7 @@ We know about several kinds of fruits, but by botanical study we will be surpris
 
 ## Structure of Fruit
 
-Fruit has a fruit wall. It is otherwise called **pericarp. It is differentiated into outer epicarp**, middle **mesocarp** and inner **endocarp. The inner** part of the fruit is occupied by the seed.
+Fruit has a fruit wall. It is otherwise called **pericarp**. It is differentiated into outer **epicarp**, middle **mesocarp** and inner **endocarp**. The inner part of the fruit is occupied by the seed.
 
 ## Types of Fruit
 
@@ -89,7 +89,8 @@ They develop from single ovary where the pericarp is dry and not differentiated 
 
 **d) Regma:** They develop from tricarpellary, syncarpous, superior, trilocular ovary and splits into oneseeded cocci which remain attached to carpophore. Example: _Ricinus._
 
-**Aggregate Fruits** Aggregate fruits develop from a single flower having an apocarpous pistil. each of the free carpel develops into a simple fruitlet. A collection of simple fruitlets makes an **Aggregate fruit**. An individual ovary develops into a drupe, achene, follicle or berry. An aggregate of these fruits borne by a single flower is known as an **etaerio**. Example: _Annona, Polyalthia._
+**Aggregate Fruits**
+ Aggregate fruits develop from a single flower having an apocarpous pistil. each of the free carpel develops into a simple fruitlet. A collection of simple fruitlets makes an **Aggregate fruit**. An individual ovary develops into a drupe, achene, follicle or berry. An aggregate of these fruits borne by a single flower is known as an **etaerio**. Example: _Annona, Polyalthia._
 
 ![](4.36.png)
 
