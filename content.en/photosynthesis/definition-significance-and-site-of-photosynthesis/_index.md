@@ -3,8 +3,8 @@ title: "Definition, Significance and Site of photosynthesis"
 weight: 1
 references:
     videos:
-        - youtube:hW_gJRHF7lU
-        - youtube:fTXh7A7Uc2M
+        - youtube:youtube:hW_gJRHF7lU
+        - youtube:youtube:fTXh7A7Uc2M
     links:
         - 
         - 

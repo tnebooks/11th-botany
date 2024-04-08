@@ -3,8 +3,8 @@ title: "Dark Reaction or C3 Cycle or Biosynthetic Phase or Photosynthetic Carbon
 weight: 11
 references:
     videos:
-        - youtube:z_tyLm-KOf8
-        - youtube:ZnXpppgSWhY
+        - youtube:youtube:z_tyLm-KOf8
+        - youtube:youtube:ZnXpppgSWhY
     links:
         - https://www.brainkart.com/article/Dark-Reaction-or-C3-Cycle-or-Biosynthetic-Phase-or-Photosynthetic-Carbon-Reduction-(PCR)-Cycle_33106/
         - https://conductscience.com/calvin-cycle/

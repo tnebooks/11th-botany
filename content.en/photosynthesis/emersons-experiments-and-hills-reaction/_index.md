@@ -3,8 +3,8 @@ title: " Emerson’s Experiments and Hill’s Reaction"
 weight: 6
 references:
     videos:
-        - youtube:lyUjbbVDQgI
-        - youtube:1j0yz2dszUA
+        - youtube:youtube:lyUjbbVDQgI
+        - youtube:youtube:1j0yz2dszUA
     links:
         - https://www.brainkart.com/article/Emerson-s-Experiments-and-Hill-s-Reaction_33100/
         - https://www.sciencedirect.com/topics/chemistry/hill-reaction

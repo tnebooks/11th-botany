@@ -5,8 +5,8 @@ of Macronutrients'
 weight: 2
 references:
     videos:
-        - ZF-qmkOAqYE
-        - EFM71T7sGpo&t=65s
+        - youtube:ZF-qmkOAqYE
+        - youtube:EFM71T7sGpo&t=65s
     links:
         - https://www.brainkart.com/article/Functions,-mode-of-absorption-and-deficiency-symptoms-of-macronutrients_33083/
         - https://www.vedantu.com/biology/role-of-macronutrients-and-micronutrients

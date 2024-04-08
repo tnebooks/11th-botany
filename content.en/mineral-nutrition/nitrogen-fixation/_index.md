@@ -3,8 +3,8 @@ title: 'Nitrogen Fixation'
 weight: 7
 references:
     videos:
-        - MsPZp7lM16A
-        - LbBgPekjiyc 
+        - youtube:MsPZp7lM16A
+        - youtube:LbBgPekjiyc 
     links:
         - https://www.britannica.com/science/nitrogen-fixation
         - https://en.wikipedia.org/wiki/Nitrogen_fixation

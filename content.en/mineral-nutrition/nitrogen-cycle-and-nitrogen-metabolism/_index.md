@@ -4,8 +4,8 @@ metabolism'
 weight: 8
 references:
     videos:
-        - uip4Q6t7yfQ 
-        - eAe7gOvwHb0
+        - youtube:uip4Q6t7yfQ 
+        - youtube:eAe7gOvwHb0
     links:
         - https://www.toppr.com/guides/biology/mineral-nutrition/metabolism-of-nitrogen/
         - https://www.nature.com/scitable/knowledge/library/the-nitrogen-cycle-processes-players-and-human-15644632/

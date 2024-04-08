@@ -3,10 +3,10 @@ title: 'Special modes of nutrition'
 weight: 9
 references:
     videos:
-        - wcEW_m1wd9s
-        - XbapVFjQpfI
+        - youtube:wcEW_m1wd9s
+        - youtube:XbapVFjQpfI
     links:
-        -https://study.com/learn/lesson/special-modes-of-nutrition-in-plants-overview-types-differences.html 
+        - https://study.com/learn/lesson/special-modes-of-nutrition-in-plants-overview-types-differences.html 
         - https://www.vedantu.com/biology/modes-of-nutrition
     books:
         - b1:

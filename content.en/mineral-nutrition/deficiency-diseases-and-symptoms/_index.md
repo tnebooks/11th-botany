@@ -3,8 +3,8 @@ title: 'Deficiency Diseases and symptoms'
 weight: 4
 references:
     videos:
-        -cFslt2ps634 
-        - z0LAOQyk5hU
+        - youtube:cFslt2ps634 
+        - youtube:z0LAOQyk5hU
     links:
         -https://www.vedantu.com/biology/deficiency-diseases 
         - https://www.pw.live/biology-articles/deficiency-diseases

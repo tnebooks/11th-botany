@@ -3,11 +3,11 @@ title: 'Functions, mode of absorption and deficiency symptoms of Micronutrients'
 weight: 3
 references:
     videos:
-        - EFM71T7sGpo
-        - gbkTGNt-Q2Y
+        - youtube:EFM71T7sGpo
+        - youtube:gbkTGNt-Q2Y
     links:
-        -https://www.brainkart.com/article/Functions,-mode-of-absorption-and-deficiency-symptoms-of-Micronutrients_33084/#google_vignette 
-        - https://www.agry.purdue.edu/cca/2007/2007/proceedings/raun%20lohry%20-%20cca%20proceedings_kls.pdf
+        - https://www.brainkart.com/article/Functions,-mode-of-absorption-and-deficiency-symptoms-of-Micronutrients_33084/#google_vignette 
+        -  https://www.agry.purdue.edu/cca/2007/2007/proceedings/raun%20lohry%20-%20cca%20proceedings_kls.pdf
     books:
         - b1:
             title: Combating Micronutrient Deficiencies Food-based Approaches

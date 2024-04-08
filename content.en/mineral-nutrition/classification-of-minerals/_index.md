@@ -3,8 +3,8 @@ title: 'Classification of Minerals'
 weight: 1
 references:
     videos:
-        - 09orKVRxiPo
-        - A11b6tORIcM
+        - youtube:youtube:09orKVRxiPo
+        - youtube:youtube:A11b6tORIcM
     links:
         - https://www.vedantu.com/chemistry/what-are-minerals
         - https://www.toppr.com/guides/chemistry/types-of-minerals/

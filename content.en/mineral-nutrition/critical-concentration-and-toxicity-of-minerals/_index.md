@@ -4,8 +4,8 @@ of minerals'
 weight: 5
 references:
     videos:
-        - PnryxkUGzxU
-        - FNbM3BtMBUE
+        - youtube:PnryxkUGzxU
+        - youtube:FNbM3BtMBUE
     links:
         - https://www.vedantu.com/neet/neet-mineral-nutrition-revision-notes
         - https://www.learninsta.com/critical-concentration-and-toxicity-of-minerals/
