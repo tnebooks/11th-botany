@@ -45,11 +45,10 @@ iii. Lamina (Epipodium)
 
 **I. Leaf base (hypopodium)**
 
-The part of the leaf attached to the node of the stem is called **leaf base.** Usually it protects the growing buds at its axil. **Pulvinus:** In legumes leaf base become broad and swollen which is known as **pulvinus.** Example: _Clitoria, Lablab, Cassia, Butea_. **Sheathing leafbase: In many monocot families** such as Arecaceae, Musaceae, Zingiberaceae and Poaceae the leafbase extends into a sheath and clasps part or whole of the internode. Such leafbase also leave permanent scars on the stem when they fall.
+The part of the leaf attached to the node of the stem is called **leaf base.** Usually it protects the growing buds at its axil. **Pulvinus:** In legumes leaf base become broad and swollen which is known as **pulvinus.** Example: _Clitoria, Lablab, Cassia, Butea_. **Sheathing leafbase:** In many monocot families such as Arecaceae, Musaceae, Zingiberaceae and Poaceae the leafbase extends into a sheath and clasps part or whole of the internode. Such leafbase also leave permanent scars on the stem when they fall.
 
 **II. Petiole (stipe or mesopodium)** It is the bridge between lamina and stem. Petiole or leaf stalk is a cylindrical or sub cylindrical or flattened structure of a leaf which joins the lamina with the stem. A leaf with petiole are said to be **petiolate.** Example: _Ficus, Hibiscus._ Leaves that do not possess petiole is said to be **sessile**. Example*: Calotropis.*
 ![Alt text](3.12.png)
-**Figure 3.11: (a)** Parts of the leaf **(b)** Pulvinus leaf base **(c)** Sheathing leaf base
 
 **III. Lamina (Leaf blade)** The expanded flat green portion of the leaf is the blade or lamina. It is the seat of photosynthesis,gaseous exchange, transpiration and most of the metabolic reactions of the plant. The lamina is traversed by the midrib from which arise numerous lateral veins and thin veinlets. The lamina shows great variations in its shape, margin, surface, texture, colour, venation and incision.
 

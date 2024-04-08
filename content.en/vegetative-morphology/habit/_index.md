@@ -15,7 +15,7 @@ Herbs are soft stemmed plants with less wood or no wood. Example: _Phyllanthus a
 
 **II. Shrubs**
 
-A shrub is a perennial, woody plant with several main stems arising from the ground level. Example: _Hibiscus rosa sinensis (\_shoe flower_)\_
+A shrub is a perennial, woody plant with several main stems arising from the ground level. Example: Hibiscus rosa sinensis (_shoe flower_)
 
 **III. Climbers (Vine)**
 

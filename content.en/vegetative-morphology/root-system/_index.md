@@ -62,9 +62,9 @@ In some plants roots perform additional functions. These are called **secondary 
 
 ### Modifications of root
 
-I. Tap root modification
+**I. Tap root modification**
 
-a. Storage roots
+**a. Storage roots**
 
 **1. Conical Root**
 

@@ -57,7 +57,7 @@ Majority of angiosperm possess upright, vertically growing erect stem. They may 
 
 **i. Excurrent**
 
-The main axis shows continuous growth and the lateral branches gradually becoming shorter towards the apex which gives a conical appearance to the trees. Example: _Monoon longifolium**(**Polyalthia longifolia), Casuarina._
+The main axis shows continuous growth and the lateral branches gradually becoming shorter towards the apex which gives a conical appearance to the trees. Example: _Monoon longifolium(Polyalthia longifolia), Casuarina._
 
 **ii. Decurrent**
 
@@ -120,10 +120,12 @@ Woody perennial climbers found in tropical forests are lianas. They twine themse
 Tendrils are thread-like coiling structures which help the plants in climbing. Tendrils may be modifications of Stem – as in _Vitis_ and _Cissus quadrangularis;_ Inflorescence axis – _Antigonon;_ Leaf – _Lathyrus;_ Leaflets - _Pisum sativum;_ Petiole _– Clematis;_ Leaftip – _Gloriosa;_ Stipules – _Smilax_. In pitcher plant (_Nepenthes_) the midrib of the leaf often coils around a support like a tendril and holds the pitcher in a vertical position.
 
 **4. Phylloclade** 
-This is a green, flattened cylindrical or angled stem or branch of unlimited growth, consisting of a series of nodes and internodes at long or short intervals. Phylloclade is characteristic adaptation of xerophytes where the leaves often fall off early and modified into spines or scales to reduce transpiration. The phylloclade takes over all the functions of leaves, particularly photosynthesis. The phylloclade is also called as **cladophyll.** Example: _Opuntia, Phyllocactus, Muehlenbeckia_ (flattened phylloclade) _Casuarina, Euphorbia tirucalli, Euphorbia antiquorum_ (cylindrical phylloclade)\_.
+This is a green, flattened cylindrical or angled stem or branch of unlimited growth, consisting of a series of nodes and internodes at long or short intervals. Phylloclade is characteristic adaptation of xerophytes where the leaves often fall off early and modified into spines or scales to reduce transpiration. The phylloclade takes over all the functions of leaves, particularly photosynthesis. The phylloclade is also called as **cladophyll.** Example: _Opuntia, Phyllocactus, Muehlenbeckia_ (flattened phylloclade) _Casuarina, Euphorbia tirucalli, Euphorbia antiquorum_ (cylindrical phylloclade).
 ![Alt text](3.8.png)
 
 **5. Cladode** Cladode is a flattened or cylindrical stem similar to Phylloclade but with one or two internodes only. Their stem nature is evident by the fact that they bear buds, scales and flowers. Example: _Asparagus_ (cylindrical cladode)_, Ruscus_ (flattened cladode)_._
+
+![Figure 3.12](3.12.png)
 
 **6. Thorns** Thorn is a woody and sharp pointed modified stem. Either the axillary bud or the terminal bud gets modified into thorns. In _Citrus_ and _Atalantia_ axillary bud is modified into thorns.
 
