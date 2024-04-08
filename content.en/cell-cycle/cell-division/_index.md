@@ -1,6 +1,20 @@
 ---
 title: 'Cell Division'
 weight: 3
+references:
+    videos:
+        - Youtube:XKZhcYetvsc
+        - Youtube:DwAFZb8juMQ
+    links:
+        - https://byjus.com/biology/cell-division/
+        - https://biologydictionary.net/cell-division/
+    books:
+        - b1:
+            title: Cell Growth and Cell Division
+            url: https://www.google.co.in/books/edition/Cell_Growth_and_Cell_Division/Ok6eBQAAQBAJ?hl=en&gbpv=0
+        - b2:
+            title: Cell Division & Genetics
+            url: https://www.google.co.in/books/edition/Cell_Division_Genetics/lz4SwxqZtuwC?hl=en&gbpv=0&bsq=cell%20division
 ---
 
 
