@@ -6,7 +6,7 @@ references:
         - youtube:cFslt2ps634 
         - youtube:z0LAOQyk5hU
     links:
-        -https://www.vedantu.com/biology/deficiency-diseases 
+        - https://www.vedantu.com/biology/deficiency-diseases 
         - https://www.pw.live/biology-articles/deficiency-diseases
     books:
         - b1:
