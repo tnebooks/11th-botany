@@ -111,6 +111,8 @@ there becomes new cell wall. The first stage of cell wall construction is a line
 ---
 **Activity**
 
+---
+
 Squash preparation of onion root tip to visualize and study various stages of mitosis.
 
 ---
@@ -124,8 +126,7 @@ Length of the S period = 0.5 × 16 hours = 8 hours
 
 ---
 
----
-**Do You Know ?**
+>Do You Know ?
 Skin cells and the cells lining our gut are constantly dying and are being replaced by identical cells.
 
 ---
