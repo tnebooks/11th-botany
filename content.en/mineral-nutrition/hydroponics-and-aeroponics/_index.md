@@ -11,7 +11,7 @@ references:
     books:
         - b1:
             title: Aeroponics
-            url:https://www.google.co.in/books/edition/Aeroponics/wYbiDwAAQBAJ?hl=en&gbpv=0 
+            url: https://www.google.co.in/books/edition/Aeroponics/wYbiDwAAQBAJ?hl=en&gbpv=0 
 ---
 
 #  Hydroponics and Aeroponics 
