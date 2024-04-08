@@ -52,6 +52,47 @@ Root developing from any part of the plant other than radicle is called **advent
 ![Alt text](<Root Zones.png>)
 roots arise from various regions of the plant body. These are bunch of thread-like roots nearly equal in size which are collectively called **fibrous** root system generally found in grasses. Example: _Oryza sativa, Eleusine coracana_.
 
+
+
+
+
++-------------------+
+| Root Modification  |
++-------------------+
+          |
+          v
++---------+---------+
+| Tap Root | Adv. Root|
++---------+---------+
+          |
+          v
++----------------------+
+| Modification Type      |
++----------------------+
+          |
+          v
+  Select Modification ->
+          |
+          v
++-------------------------+  +-----------------------+
+| Conical (Carrot)        |  | Storage (Sweet Potato) |
+| Fusiform (Radish)       |  | Breathing (Mangrove)   |
+| Napiform (Turnip)       |  | Prop (Maize)            |
++-------------------------+  |  Stilt (Screwpine)      |
+                             |  Buttress (Banyan)     |
+                             |  Climbing (Ivy)        |
+                             |  Suckering (Banana)   |
+                             |  Foliar (Orchid)       |
+                             |  Photosynthetic        |
+                             |  Annulated             |
+                             +-----------------------+  
+
+
+
+
+
+
+
 ### Functions of root
 
 Root performs two kinds of functions namely primary and secondary functions.
