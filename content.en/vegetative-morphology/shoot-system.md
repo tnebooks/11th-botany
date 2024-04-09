@@ -131,43 +131,43 @@ This is a green, flattened cylindrical or angled stem or branch of unlimited gro
 **5. Cladode** Cladode is a flattened or cylindrical stem similar to Phylloclade but with one or two internodes only. Their stem nature is evident by the fact that they bear buds, scales and flowers. Example: _Asparagus_ (cylindrical cladode)_, Ruscus_ (flattened cladode)_._
 
 
-```mermaid
-graph LR
-  A[Stem modification]
-  A --> B1(Sub-Aerial modification)
-  A --> B2(Aerial modification)
-  A -->B3(Underground modification)
-  C1[Runner]
-  C13 --> B4[Procumbent,
-  Decumbent,
-  Diffuse]
-  C2[Stolon] 
-  C3[Sucker] 
-  C4[Offset] 
-  B1 --> C1 
-  B1 --> C2 
-  B1 --> C3 
-  B1 --> C4 
-  A --> C15[ ]
-  C15 --> C5[Climber] 
-  C15 --> C13[Trailer]
-  C15 --> C14[Creepers]
-  C15 --> C6[Phylloclade] 
-  C15 --> C7[Cladode] 
-  C15 --> C8[Thorns] 
-  B3 --> C9[Bulb] 
-  B3 --> C10[Corm] 
-  B3 --> C11[Rhizome] 
-  B3 --> C12[Tuber] 
-  C5 --> D4[Root Climber,
-  Stem Climber Twiner,
-  Tendril Climber,
-  Hook climber,
-  Lianas,
-  Thorn climber] 
+{{< mermaid >}}
+stateDiagram-v2
+    [*] --> StemModification
+    StemModification --> SubAerialModification : Select
+    StemModification --> AerialModification : Select
+    StemModification --> UndergroundModification : Select
+    
+    SubAerialModification --> Runner
+    SubAerialModification --> Stolon
+    SubAerialModification --> Sucker
+    SubAerialModification --> Offset
+    
+    UndergroundModification --> Bulb
+    UndergroundModification --> Corm
+    UndergroundModification --> Rhizome
+    UndergroundModification --> Tuber
+    
+    SubAerialModification --> Others
+    
+    Others --> Climber
+    Others --> Trailer
+    Others --> Creepers
+    Others --> Phylloclade
+    Others --> Cladode
+    Others --> Thorns
+    
+    Climber --> RootClimber
+    Climber --> StemClimber
+    Climber --> TendrilClimber
+    Climber --> HookClimber
+    Climber --> Lianas
+    Climber --> ThornClimber
+  
+{{< /mermaid >}}
 
 
-```
+
 
 **6. Thorns** Thorn is a woody and sharp pointed modified stem. Either the axillary bud or the terminal bud gets modified into thorns. In _Citrus_ and _Atalantia_ axillary bud is modified into thorns.
 
