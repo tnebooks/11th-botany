@@ -35,7 +35,8 @@ Pericycle is generally a single layer of parenchymatous cells found inner to the
 **Vascular System**
 Vascular tissues are in **radial arrangement**. The tissue by which xylem and phloem are separated is called **conjunctive tissue**. In bean, the conjuctive tissue is composed of parenchyma tissue. Xylem is in **exarch condition**. The number of protoxylem points is four and so the xylem is called **tetrach**. Each phloem patch consists of sieve tubes, companion cells and phloem parenchyma. Metaxylem vessels are generally polygonal in shape. But in monocot roots they are circular.
 
-**Primary Structure of Monocot Root-maize Root**
+**Primary Structure of Monocot** 
+**Root-maize Root**
 
 The transverse section of the monocot root (maize) shows the following plan of arrangement of tissues from the periphery to the centre.
 
@@ -85,7 +86,7 @@ Inner to the hypodermis, a few layers of chlorenchyma cells are present with con
 The central part of the stem inner to the endodermis is known as **stele**. It consists of pericyle, vascular bundles and pith. In dicot stem, vascular bundles are arranged in a ring around the pith. This type of stele is called **eustele.**
 
 **Pericycle**
-Pericycle is the layers of cells that occur between the endodermis and vascular bundles. In the stem of **sunflower (Helianthus),**a few layers of sclerenchyma cell occur in patches outside the phloem in each vascular bundle. This patch of sclerenchyma cell is called **Bundle cap or Hardbast**. The bundle caps and the parenchyma cells between them constitute the pericycle in the stem of sunflower.
+Pericycle is the layers of cells that occur between the endodermis and vascular bundles. In the stem of sunflower(Helianthus),a few layers of sclerenchyma cell occur in patches outside the phloem in each vascular bundle. This patch of sclerenchyma cell is called **Bundle cap or Hardbast**. The bundle caps and the parenchyma cells between them constitute the pericycle in the stem of sunflower.
 
 **Vascular Bundles**
 The vascular bundles consist of xylem, phloem and cambium. Xylem and phloem in the stem occur together and form the vascular bundles. These vascular bundles are **Wedge shaped**. They are arranged in the form of a ring. Each vascular bundle is **conjoint, collateral, open and endarch**.
@@ -121,7 +122,14 @@ Towards the centre, the cells are loosely arranged, rounded in shape and bigger 
 **Vascular Bundles**
 Vascular bundles are **scattered ( atactostele)** in the parenchymatous ground tissue. Each vascular bundle is surrounded by a sheath of sclerenchymatous fibres called **bundle sheath**. The vascular bundles are **conjoint, collateral, endarch** and **closed**.Vascular
 
-![Anatomical differences between dicot stem and monocot stem](monocotstem.png)
+| S.No. | Characters                  | Dicot Stem                                      | Monocot Stem                                   |
+|-------|----------------------------|-------------------------------------------------|------------------------------------------------|
+| 1     | Hypodermis                 | Collenchymatous                                 | Sclerenchymatous                               |
+| 2     | Ground tissue              | Differentiated into cortex, endodermis and pericycle and pith   | Not differentiated, but it is a continuous mass of parenchyma. |
+| 3     | Starch Sheath              | Present                                         | Absent                                         |
+| 4     | Medullary rays             | Present                                         | Absent                                         |
+| 5     | Vascular bundles           | - (a) Collateral and open <br> - (b) Arranged in a ring <br> - (c) Secondary growth occurs   | - (a) Collateral and closed <br> - (b) Scattered in ground tissue <br> - (c) Secondary growth usually does not occur |
+
 
 bundles are numerous, small and closely arranged in the peripheral portion. Towards the centre, the bundles are comparatively large in size and loosely arranged. Vascular bundles are **skull or oval shaped.**
 
