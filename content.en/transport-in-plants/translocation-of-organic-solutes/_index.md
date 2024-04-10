@@ -1,6 +1,17 @@
 ---
 title: "Translocation of Organic Solutes"
 weight: 7
+references:
+    videos:
+        - hZAxvlXDiqA
+        - la92f3Lh55Y
+    links:
+        - https://www.toppr.com/ask/question/translocation-of-organic-materials-is-best-explained-by/
+        - https://www.biologydiscussion.com/plants/translocation/translocation-of-organic-solutes-with-diagram-plants/23272
+    books:
+        - b1:
+            title: The Translocation of Solutes in Plants
+            url: https://www.google.co.in/books/edition/The_Translocation_of_Solutes_in_Plants/so7PAAAAMAAJ?hl=en&gbpv=0&bsq=translocation%20of%20organic%20solutes
 ---
 
 
