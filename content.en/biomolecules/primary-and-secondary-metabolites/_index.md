@@ -1,6 +1,18 @@
 ---
 title: "Primary and Secondary Metabolites"
 weight: 2
+references:
+    videos:
+        - youtube:hueox9DmgRU
+        - youtube:TRNUURm0agM
+    links:
+        - https://byjus.com/biology/metabolites/
+        - https://unacademy.com/content/neet-ug/study-material/biology/difference-between-primary-and-secondary-metabolites/#:~:text=Primary%20Metabolites%20are%20a%20type,ecological%20functions%20within%20the%20body.
+    books:
+        - b1:
+            title: Fungal Primary and Secondary Metabolism and its Importance for Virulence and Biomedical Applications
+            url: https://www.google.co.in/books/edition/Fungal_Primary_and_Secondary_Metabolism/FWo0EAAAQBAJ?hl=en&gbpv=0
+        
 ---
 **Primary and Secondary Metabolites** 
 
