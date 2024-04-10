@@ -1,6 +1,18 @@
 ---
 title: "Ascent of Sap"
 weight: 5
+references:
+    videos:
+        - XpFpUFKIe28
+        - QoL09i9BASU
+    links:
+        - https://en.wikipedia.org/wiki/Ascent_of_sap
+        - https://sajaipuriacollege.ac.in/pdf/pdf/botany/Botany-G-SEM-4-ASCENT-OF-SAP-IDas.pdf
+    books:
+        - b1:
+            title: Xylem Structure and the Ascent of Sap
+            url: https://www.google.co.in/books/edition/Xylem_Structure_and_the_Ascent_of_Sap/wnv1CAAAQBAJ?hl=en&gbpv=0
+
 ---
 
 

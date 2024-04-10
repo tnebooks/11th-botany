@@ -1,6 +1,17 @@
 ---
 title: "Anomalous Secondary Growth"
 weight: 3
+references:
+    videos:
+        - youtube: YE2UTzXRysk
+        - youtube: BrkfpPQAxJE
+    links:
+        - https://plantlet.org/anomalous-secondary-growth/
+        - https://www.slideshare.net/hunter515/anamalous-secondary-growth
+    books:
+        - b1:
+            title: Comparative Wood Anatomy
+            url: https://www.google.co.in/books/edition/Comparative_Wood_Anatomy/oHz1CAAAQBAJ?hl=en&gbpv=0
 ---
 
 

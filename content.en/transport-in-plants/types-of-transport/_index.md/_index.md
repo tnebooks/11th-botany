@@ -1,6 +1,17 @@
 ---
 title: "Types of Transport"
 weight: 1
+references:
+    videos:
+        - bvPM6sfidY4 
+        - DhyYtT1K844
+    links:
+        - https://bio.libretexts.org/Courses/Clinton_College/BIO_403%3A_Microbiology_(Neely)/02%3A_Bacteria_Archaea_and_Eukaryotic_Microorganisms/2.03%3A_Cell_Membranes/2.3.03%3A_Kinds_of_Transport
+        - https://byjus.com/biology/transport-across-cell-membrane/
+    books:
+        - b1:
+            title: Molecular Biology of the Cell
+            url: https://www.google.co.in/books/edition/Molecular_Biology_of_the_Cell/0PhGswEACAAJ?hl=en
 ---
 
 # 11.1 Types of Transport
