@@ -1,0 +1,20 @@
+{
+  "question": "Proteins perform many physiological functions. For example, some function as enzymes. One of the following represents an additional function that some proteins discharge:",
+  "explanation": "",
+  "choices": 
+  [
+    {
+      "value": "Antibiotics"
+    },
+    {
+      "value": "Pigment conferring color to skin"
+    }, 
+    {
+      "value": "Pigments making colors of flowers"
+    }, 
+    {
+      "value": "Hormones",
+      "answer": true
+    }
+  ]
+}

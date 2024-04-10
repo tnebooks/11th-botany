@@ -1,6 +1,18 @@
 ---
 title: "Proteins"
 weight: 5
+references:
+    videos:
+        - youtube:HSCUAjZQhXI
+        - youtube:kMg517MHDJs
+    links:
+        - https://www.toppr.com/guides/biology/biomolecules/proteins/
+        - https://byjus.com/biology/proteins-structure-and-functions/
+    books:
+        - b1:
+            title: NMR of Proteins and Small Biomolecules
+            url: https://www.google.co.in/books/edition/NMR_of_Proteins_and_Small_Biomolecules/1gv-u6MnElIC?hl=en&gbpv=0
+        
 ---
 
 

@@ -1,0 +1,20 @@
+{
+  "question": "An example of feedback inhibition is",
+  "explanation": "",
+  "choices":
+  [
+    {
+      "value": "Cyanide action on cytochrome b"
+    }, 
+    {
+      "value": "Sulpha drug on folic acid synthesiser bacteria"
+    },
+    {
+      "value": "Allosteric inhibition of hexokinase by glucose-6-phosphate"
+    }, 
+    {
+      "value": "The inhibition of succinic dehydrogenase by malonate",
+      "answer": true
+    }
+  ]
+}

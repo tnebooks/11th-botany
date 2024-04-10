@@ -1,13 +1,24 @@
 ---
-title: "Meristematic tissue"
+title: "Meristematic tissue "
 weight: 1
+references:
+    videos:
+        - youtube: NRF70bKapgU
+        - youtube: lLnjo4Pf2JM
+    links:
+        - https://www.geeksforgeeks.org/meristematic-tissues-class-11-biology/
+        - https://www.vedantu.com/biology/meristemati-tissue
+    books:
+        - b1:
+            title: Plant Patterning Structural And Molecular Genetic Aspects
+            url: https://www.google.co.in/books/edition/Plant_Patterning_Structural_And_Molecula/yqrICgAAQBAJ?hl=en&gbpv=0
 ---
 
 
 ### Characteristics and classification
 
 The characters of meristematic tissues:
-(Gr\*. Meristos-**\*Divisible**)
+(Gr\. Meristos-**Divisible**)
 
 ![Different types of meristems on the basis of position in plant body](9.3.png)
 
@@ -80,4 +91,4 @@ Korper Kappe theory is proposed by **Schuepp**. There are two zones in root apex
 2. **Kappe zone** forms the cap. This theory is equivalent to tunica corpus theory of shoot apex.The two divisions are distinguished by the type of T (also called Y) divisions. Korper is characterised by inverted T divisions and kappe by straight T divisions.
 
 **Quiescent Centre Concept**
-Quiescent centre concept was proposed by **Clowes** (1961) to explain root apical meristem activity. This centre is located between root cap and differentiating cells of the roots. The apparently inactive region of cells in root promeristem is called quiescent centre. It is the site of hormone synthesis and also the ultimate source of all meristematic cells of the meristem.
+Quiescent centre concept was proposed by **Clowes** (1961) to explain root apical meristem activity. This centre is located between root cap and differentiating cells of the roots. The apparently inactive region of cells in root promeristem is called quiescent centre. It is the site of hormone synthesis and also the ultimate source of all meristematic cells of the meristem. 

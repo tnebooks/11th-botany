@@ -1,6 +1,20 @@
 ---
 title: "Epidermal tissue system"
 weight: 4
+references:
+    videos:
+        - youtube: OTljvdC7fVI
+        - youtube: jmB7cLWZ_uQ
+    links:
+        - https://www.aakash.ac.in/important-concepts/biology/epidermal-tissue-system
+        - https://www.geeksforgeeks.org/epidermal-tissue-system/
+    books:
+        - b1:
+            title: Anatomy of Flowering Plants An Introduction to Structure and Development
+            url: https://www.google.co.in/books/edition/Anatomy_of_Flowering_Plants/cSO8HOKyabgC?hl=en&gbpv=0
+        - b2:
+            title: The Vascular Cambium
+            url: https://www.google.co.in/books/edition/The_Vascular_Cambium/yHrwAAAAMAAJ?hl=en&gbpv=0&bsq=Epidermal%20tissue%20system%2011%20class
 ---
 
 
@@ -17,6 +31,12 @@ Stomata are minute pores surrounded by two guard cells. The stomata occur mainly
 
 **Epidermal Outgrowths**
 There are many types of epidermal outgrowths in stems. The unicellular or multicellular appendages that originate from the epidermal cells are called **trichomes**. Trichomes may be branched or unbranched and are one or more one celled thick. They assume many shapes and sizes. They may also be glandular (Example: _Rose, Ocimum_) or non-glandular.
+
+>**Do You Know** The trichomes on the 
+leaves of insectivorous 
+plants secrete 
+mucopolysaccharides 
+that trap insects
 
 Piliferous layer of the root has two types of epidermal cells, long cells and short cells. The short cells are called **trichoblasts**. Trichoblasts are elongate into root hairs. Epidermal hairs can also be in the form of stellate hairs (star shaped) present in plants. Example: styrax, many members of Malvaceae and Solanaceae.
 

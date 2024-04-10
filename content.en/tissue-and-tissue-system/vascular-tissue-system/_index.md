@@ -1,6 +1,17 @@
 ---
 title: "Vascular tissue system"
 weight: 6
+references:
+    videos:
+        - youtube: IMaJlnbho
+        - youtube: gvKpJORpIKo
+    links:
+        - https://www.toppr.com/ask/question/explain-the-vascular-tissue-system/
+        - https://www.vedantu.com/question-answer/explain-the-vascular-tissue-system-class-11-biology-cbse-5f618f0842336d43bc76df47
+    books:
+        - b1:
+            title: Regulation of Tissue Oxygenation, Second Edition
+            url: https://www.google.co.in/books/edition/Regulation_of_Tissue_Oxygenation_Second/w_XwDAAAQBAJ?hl=en&gbpv=0
 ---
 
 
