@@ -1,0 +1,22 @@
+{
+  "question": "In the diagram of lenticel, identify the parts marked as A,B,C,D.",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "A. Phellem, B. Complementary tissue, C. Phelloderm, D. Phellogen.",
+      "answer": false
+    },
+    {
+      "value": "A. Complementary tissue, B. Phellem, C. Phellogen, D. Phelloderm.",
+      "answer": false
+    },
+    {
+      "value": "A. Phellogen, B. Phellem, C. Phelloderm, D. Complementary tissue.",
+      "answer": true
+    },
+    {
+      "value": "A. Phelloderm, B. Phellem, C. Complementary tissue, D. Phellogen.",
+      "answer": false
+    }
+  ]
+}
