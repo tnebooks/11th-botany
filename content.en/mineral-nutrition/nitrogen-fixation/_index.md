@@ -7,8 +7,19 @@ weight: 7
 
  Inspiring act of nature is self-regulation. As all living organisms act as tools for biogeochemical cycles, nitrogen cycle is highly regulated. Life on earth depends on nitrogen cycle. Nitrogen occurs in atmosphere in the form of N2 (N≡N), two nitrogen atoms joined together by strong triple covalent bonds. The process of converting atmospheric nitrogen (N2) into ammonia is termed as nitrogen fixation. Nitrogen fixation can occur by two methods: 1. Biological; 2. Non-Biological (Figure 12.5).
 
-![ Nitrogen fixation](1111.png "")
-
+```mermaid
+graph LR
+    subgraph figure 12.5 Nitrogen fixation
+        a(Nitrogen fixation)-->b(Non-Biological)
+        a-->c(Biological)
+        b-->e(Industrial)
+        b-->f(Lightering)
+        c-->g(Non-symbiotic)
+        c-->k(Symbiotic)
+        k-->s(Legume)
+        k-->w(Non legume)
+end
+```
 
 ##  Non – Biological nitrogen fixation
 
