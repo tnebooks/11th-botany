@@ -37,21 +37,21 @@ Occsionally Parenchyma cells which store resin, tannins, crystals of calcium car
 
 ![Parenchyma](9.8.png)
 
-**Collenchyma (Gk. Colla-glue; enchyma – an infusion** Collenchyma is a simple, living mechanical tissue. Collenchyma generally occurs in hypodermis of dicot stem. It is absent in the roots and also occurs in petioles and pedicels. The cells are elongated and appear polygonal in cross section. The cell wall is unevenly thickened.It contains more of hemicellulose and pectin besides cellulose. It provides mechanical support and elasticity to the growing parts of the plant. Collenchyma consists of narrow cells. It has only a few small chloroplast or none. Tannin maybe present in collenchyma.Based on pattern of pectinisation of the cell wall, there are three types of collenchyma.
+**Collenchyma (Gk. Colla-glue; enchyma – an infusion** Collenchyma is a simple, living mechanical tissue. Collenchyma generally occurs in hypodermis of dicot stem. It is absent in the roots and also occurs in petioles and pedicels. The cells are elongated and appear polygonal in cross section. The cell wall is unevenly thickened .It contains more of hemicellulose and pectin besides cellulose. It provides mechanical support and elasticity to the growing parts of the plant. Collenchyma consists of narrow cells. It has only a few small chloroplast or none. Tannin maybe present in collenchyma.Based on pattern of pectinisation of the cell wall, there are three types of collenchyma.
 
 **Types of Collenchyma**
 
-**1. Angular collenchyma** It is the most common type of collenchyma with irregular arrangement and thickening at the angles where cells meet. Example: Hypodermis of _Datura_ and _Nicotiana_
+>**1. Angular collenchyma** It is the most common type of collenchyma with irregular arrangement and thickening at the angles where cells meet. Example: Hypodermis of _Datura_ and _Nicotiana_
 
-**2. Lacunar collenchyma** The collenchyma cells are irregularly arranged. Cell wall is thickened on the walls bordering intercellular spaces. Example: Hypodermis of _Ipomoea_
+>**2. Lacunar collenchyma** The collenchyma cells are irregularly arranged. Cell wall is thickened on the walls bordering intercellular spaces. Example: Hypodermis of _Ipomoea_
 
-**3. Lamellar collenchyma** The collenchyma cells are arranged compactly in layers(rows). The Cell wall is thickened only at tangential wall. devoid of thickened at radial walls. These thickening appear as successsive tangential layers. Example: Hypodermis of Helianthus
+>**3. Lamellar collenchyma** The collenchyma cells are arranged compactly in layers(rows). The Cell wall is thickened only at tangential wall. devoid of thickened at radial walls. These thickening appear as successsive tangential layers. Example: Hypodermis of Helianthus
 
 **Diagramatic structures**
 
 ![Types of Collenchyma](9.9.png)
 
-**Annular Collenchyma:** Duchaigne (1955) reported another type called Annular collenchyma in petiole of Nerium. The lumen is more or less circular in shape.
+>**Annular Collenchyma:** Duchaigne (1955) reported another type called Annular collenchyma in petiole of Nerium. The lumen is more or less circular in shape.
 
 **Sclerenchyma (Gk. Sclerous- hard: enchyma-an infusion)**
 The sclerenchyma is dead cell and lacks protoplasm. The cells are long or short, narrow thick walled and lignified secondary walls. The cell walls of these cells are uniformly and strongly thickened. sclerenchymatous cells are of two types:
@@ -73,6 +73,11 @@ Sclereids are dead cells, usually these are isodiametric but some are elongated 
 **Fibres**
 Fibres are very much elongated sclerenchyma cells with pointed tips. Fibres are dead cells and have lignified walls with narrow lumen. They have simple pits. They provide mechanical strength and protect them from the strong wind. It is also called supporting tissues. Fibres have a great commercial value in cottage and textile industries.
 
+>**Do You Know** Fibres are the longest 
+plant cells. Longest Fibres 
+occur in Boehmeria
+(Ramie fibre) 55 cm long
+
 **Fibres are of five types**
 
 1. **Wood Fibres or Xylary Fibres**
@@ -90,7 +95,7 @@ Fibres are very much elongated sclerenchyma cells with pointed tips. Fibres are 
    Fibres obtained from the mesocarp of drupes like coconut.
 
 5. **Leaf Fibres**
-   Fibres obtained from the leaf of \_Musa, Agave and Sensciveria.
+   Fibres obtained from the leaf of Musa, Agave and Sensciveria.
 
 **Fibres in Our Daily Life**
 Economically fibres may be grouped as follows
@@ -141,12 +146,18 @@ There are different types of cell wall thickenings due to the deposition of seco
 **Vessels or Trachea**
 Vessels are elongated tube like structure. They are dead cells formed from a row of vessel elements placed end to end. They are perforated at the end walls. Their lumen is wider than Tracheids. Due to the dissolution of entire cell wall, a single pore is formed at the perforation plate. It is called **simple perforation plate**, Example: _Mangifera_. If the perforation plate has many pores, it is called **multiple perforation plate**. Example _Liriodendron._
 
-The secondary wall thickening of vessels are annular, spiral, scalariform, reticulate, or pitted as in tracheids, Vessels are chief water conducting elements in Angiosperms and absent in Pteridophytes and Gymnosperms. In G*netum* of Gymnosperm*,* vessels occur. The main function is conduction of water, minerals and also offers mechanical strength.
+The secondary wall thickening of vessels are annular, spiral, scalariform, reticulate, or pitted as in tracheids, Vessels are chief water conducting elements in Angiosperms and absent in Pteridophytes and Gymnosperms. In G*netum* of Gymnosperm, vessels occur. The main function is conduction of water, minerals and also offers mechanical strength.
 
 **Xylem Fibre**
 The fibres of sclerenchyma associated with the xylem are known as xylem fibres. Xylem fibres are dead cells and have lignified walls with narrow lumen. They cannot conduct water but being stronger provide mechanical strength. They are present in both primary and secondary xylem. Xylem fibres are also called libriform fibres.
 
 The fibres are abundantly found in many plants. They occur in patches, in continuous bands and sometimes singly among other cells. Between fibres and normal tracheids, there are many transitional forms which are neither typical fibres nor typical tracheids. The transitional types are designated as **fibre- tracheids**. The pits of fibre-tracheids are smaller than those of vessels and typical tracheids.
+
+>**Do You Know** Vessels are found in 
+Gymnosperms like Ephedra, 
+Gnetum and Welwitschia
+Vesselless angiospermic families Winteraceae, 
+Tetracentraceae and Trochodendracae.
 
 **Xylem Parernchyma**
 The parenchyma cells associated with the xylem are known as xylem parenchyma. These are the only living cells in xylem tissue. The cell wall is thin and made up of cellulose. Parenchyma arranged longitudinally along the long axis is called **axial parenchyma**.
@@ -190,7 +201,17 @@ The fibres of sclerenchyma associated with phloem are called phloem fibres or ba
 
 ![plant tissue](planttissues.png)
 
-![![different types of tissues]](differenttypesoftissues.png)
+## Table 9.1: Different types of tissues
+
+| Tissue       | Distribution                       | Main functions       | Nature | Cell shape  | Wall materials  |
+|--------------|------------------------------------|-----------------------|--------|--------------|-----------------|
+| Parenchyma   | Cortex, Pith, medullary rays, vascular system | Packing, support, gaseous exchange, food storage | Living | Usually isodiametric | Mainly cellulose and pectin |
+| Collenchyma  | Outer region of cortex (angles of stems, mid-rib of leaves) | Mechanical support | Living | Elongated, polygonal | Mainly cellulose, pectin, and hemicellulose |
+| Sclerenchyma (a) Fibre  | Outer region of cortex, pericycle of stems, vascular bundles | Mechanical support | Dead   | Elongated and polygonal with tapering ends | Mainly lignin |
+| (b) Sclereids | Cortex, Pith, Phloem, shells and stones of fruits and seed coats | Mechanical support, protection | Dead   | Roughly isodiametric with much variation | Mainly lignin |
+| Tracheids and Vessels | Vascular System               | Translocation of water and mineral salts | Dead | Elongated and tubular | Mainly lignin |
+| Phloem Sieve tubes | Vascular System               | Translocation of organic solutes | Living | Elongated and tubular | Cellulose, pectin, and hemicellulose |
+| Companion Cells | Vascular System               | Work in association with sieve tubes | Living | Elongated and narrow | Cellulose, pectin, and hemicellulose |
 
 **Difference Between Meristematic Tissue and Permanent Tissue**
 
@@ -244,4 +265,3 @@ The fibres of sclerenchyma associated with phloem are called phloem fibres or ba
 | They are elongated cells and are quite long with tapering end walls | They consist of vertical cells placed one above the other forming long tubes connected at the walls by sieve pores |
 |                 The sieve are smaller and numerou.                  |                                        The sieve pores are longer and fewe.                                        |
 |               Found in Pteridophytes and Gymnosperms                |                                                Found in Angiosperms                                                |
-
