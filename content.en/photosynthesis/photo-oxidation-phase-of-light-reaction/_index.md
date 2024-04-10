@@ -1,11 +1,23 @@
 ---
 title: "Photo-Oxidation Phase of Light Reaction"
 weight: 8
+references:
+    videos:
+        - youtube:4xHPDxVrJqc
+        - youtube:Hup5U-sXn0E
+    links:
+        - https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/a/light-dependent-reactions
+        - https://www.brainkart.com/article/Photo-Oxidation-Phase-of-Light-Reaction_33102/#google_vignette
+    books:
+        - b1:
+            title: Photosynthetic Reaction Center
+            url: https://www.google.co.in/books/edition/Photosynthetic_Reaction_Center/gRh-0dtTnf8C?hl=en&gbpv=0
+
 ---
 
-## Photo-Oxidation Phase of Light
+## Photo-Oxidation Phase of Light Reaction
 
-**Reaction** The action of photon plays a vital role in excitation of pigment molecules to release an electron. When the molecules absorb a photon, it is in excited state. When the light source turned off, the high energy electrons return to their normal low energy orbitals as the excited molecule goes back to its original stable condition known as **ground state**. When molecules absorb or emit light they change their electronic state. Absorption of blue light excites the chlorophyll to higher energy state than absorption of Red light, because the energy of photon is higher when their wavelength is shorter. When the pigment molecule is in an excited state, this excitation energy is utilised for the phosphorylation. Phosphorylation takes place with the help of light generated electron and hence it is known as **photophosphorylation**.
+The action of photon plays a vital role in excitation of pigment molecules to release an electron. When the molecules absorb a photon, it is in excited state. When the light source turned off, the high energy electrons return to their normal low energy orbitals as the excited molecule goes back to its original stable condition known as **ground state**. When molecules absorb or emit light they change their electronic state. Absorption of blue light excites the chlorophyll to higher energy state than absorption of Red light, because the energy of photon is higher when their wavelength is shorter. When the pigment molecule is in an excited state, this excitation energy is utilised for the phosphorylation. Phosphorylation takes place with the help of light generated electron and hence it is known as **photophosphorylation**.
 
 ### Photosystem and Reaction Centre
 
@@ -14,16 +26,6 @@ weight: 8
 - PS I is in unstacked region of granum facing stroma of chloroplast.
 
 - PS II is found in stacked region of thylakoid membrane facing lumen of thylakoid.
-
-**Table 13.2: Differences between Photosystem I and Photosystem II**
-| Photosystem I | Photosystem II |
-| :-----------: | :------------: |
-| 1. The reaction centre is P700 | 1. Reaction centre is P680 |
-| 2. PS I is involved in both cyclic and non-cyclic. | 2. PS II participates in Non-cyclic pathway |
-| 3. Not involved in photolysis of water and evolution of oxygen | 3. Photolysis of water and evolution of oxygen |
-| 4. It receives electrons from PS II during non-cyclic photophosphorylation | 4. It receives electrons by photolysis of water |
-| 5. Located in unstacked region granum facing chloroplast stroma | 5. Located in stacked region of thylakoid membrane facing lumen of thylakoid. |
-| 6. Chlorophyll and Carotenoid ratio is 20 to 30:1 take place. | 6. Chlorophyll and Carotenoid ratio is 3 to 7:1 |
 
 - Each Photosystem consists of central core complex (CC) and light harvesting Complex (LHC) or Antenna molecules (Figure 13.10).
 
@@ -36,5 +38,16 @@ weight: 8
 - Light Harvesting Complex consists of several chlorophylls, carotenoids and xanthophyll molecules.
 
 - The main function of LHC is to harvest light energy and transfer it to their respective reaction centre.
+
+
+**Table 13.2: Differences between Photosystem I and Photosystem II**
+| Photosystem I | Photosystem II |
+| :-----------: | :------------: |
+| 1. The reaction centre is P700 | 1. Reaction centre is P680 |
+| 2. PS I is involved in both cyclic and non-cyclic. | 2. PS II participates in Non-cyclic pathway |
+| 3. Not involved in photolysis of water and evolution of oxygen | 3. Photolysis of water and evolution of oxygen |
+| 4. It receives electrons from PS II during non-cyclic photophosphorylation | 4. It receives electrons by photolysis of water |
+| 5. Located in unstacked region granum facing chloroplast stroma | 5. Located in stacked region of thylakoid membrane facing lumen of thylakoid. |
+| 6. Chlorophyll and Carotenoid ratio is 20 to 30:1 take place. | 6. Chlorophyll and Carotenoid ratio is 3 to 7:1 |
 
 ![ Photosystem](13.11.png)
