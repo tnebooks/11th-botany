@@ -1,6 +1,17 @@
 ---
 title: "Secondary Growth in Dicot Root"
 weight: 2
+references:
+    videos:
+        - youtube: M81nKLbhvu8
+        - youtube: yVzrhhv6gIo
+    links:
+        - https://www.toppr.com/ask/question/with-the-help-of-diagram-explain-secondary-growth-in-dicot/
+        - https://www.embibe.com/exams/secondary-growth-in-dicot-root/
+    books:
+        - b1:
+            title: Vascular Transport in Plants
+            url: https://www.google.co.in/books/edition/Vascular_Transport_in_Plants/nAW5uIi_tQgC?hl=en&gbpv=0
 ---
 
 
