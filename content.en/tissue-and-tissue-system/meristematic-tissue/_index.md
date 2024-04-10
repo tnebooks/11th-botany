@@ -1,6 +1,17 @@
 ---
-title: "Meristematic tissue"
+title: "Meristematic tissue "
 weight: 1
+references:
+    videos:
+        - youtube: NRF70bKapgU
+        - youtube: lLnjo4Pf2JM
+    links:
+        - https://www.geeksforgeeks.org/meristematic-tissues-class-11-biology/
+        - https://www.vedantu.com/biology/meristemati-tissue
+    books:
+        - b1:
+            title: Plant Patterning Structural And Molecular Genetic Aspects
+            url: https://www.google.co.in/books/edition/Plant_Patterning_Structural_And_Molecula/yqrICgAAQBAJ?hl=en&gbpv=0
 ---
 
 

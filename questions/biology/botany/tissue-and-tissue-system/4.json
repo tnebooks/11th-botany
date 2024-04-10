@@ -1,0 +1,26 @@
+{
+  "question": "When a leaf trace extends from a vascular bundle in a dicot stem, what would be the arrangement of vascular tissues in the veins of the leaf?",
+  "explanation": "",
+  "choices": [
+  {
+  "value": "Xylem would be on top and the phloem on the bottom",
+  "answer": false
+  },
+  {
+  "value": "Phloem would be on top and the xylem on the bottom",
+  "answer": true
+  },
+  {
+  "value": "Xylem would encircle the phloem",
+  "answer": false
+  },
+  {
+  "value": "Phloem would encircle the xylem",
+  "answer": false
+  }
+  ]
+  }
+  
+  
+  
+  

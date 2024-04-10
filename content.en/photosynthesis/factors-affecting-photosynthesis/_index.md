@@ -1,12 +1,41 @@
 ---
 title: "Factors affecting Photosynthesis"
 weight: 15
+references:
+    videos:
+        - youtube:J0KxRX3fyoI
+        - youtube:DT9X5G-POdc
+    links:
+        - https://unacademy.com/content/neet-ug/study-material/biology/factor-affecting-photosynthesis/
+        - https://testbook.com/biology/factors-affecting-photosynthesis
+    books:
+        - b1:
+            title: Photosynthesis, Productivity, and Environmental Stress
+            url: https://www.google.co.in/books/edition/Photosynthesis_Productivity_and_Environm/YMWxDwAAQBAJ?hl=en&gbpv=0
+
 ---
 
 ## Factors affecting Photosynthesis
 
 In 1860, **Sachs** gave three cardinal points theory explaining minimum, optimum and maximum factors that control photosynthesis.
-![](image.10.PNG)
+
+Table 13.5: Differences between Photorespiration and Dark Respiration
+Photorespiration
+
+| Photorespiration                                          | Dark respiration                                 |
+|-----------------------------------------------------------|--------------------------------------------------|
+| 1. It takes place in photosynthetic green cells           | 1. It takes place in all living cells            |
+| 2. It takes place only in the presence of light           | 2. It takes place all the time                   |
+| 3. It involves chloroplast, peroxisome and mitochondria   | 3. It involves only mitochondria                 |
+| 4. It does not involve Glycolysis, Kreb's Cycle, and ETS  | 4. It involves glycolysis, Kreb's Cycle and ETS  |
+| 5. Substrate is glycolic acid                             | 5. Substrate is carbohydrates, protein or fats   |
+| 6. It is not essential for survival                       | 6. Essential for survival                        |
+| 7. No phosphorylation and yield of ATP                    | 7. Phosphorylation produces ATP energy           |
+| 8. NADH, is oxidised to NAD+                              | 8. NAD+ is reduced to NADH,                      |
+| 9. Hydrogen peroxide is produced                          | 9. Hydrogen peroxide is not produced             |
+| 10. End products are CO, and PGA                          | 10. End products are CO, and water               |
+
+
 
 In 1905, **Blackman** put forth the importance of smallest factor. **Blackman’s law of limiting factor is actually a modified Law proposed** by **Liebig’s Law of minimum**. According to Blackman, _“When a process is conditioned as to its rapidity by a number of separate factors, the rate of the process is limited by the pace of the lowest factor”._ To conclude in an easy way _“at any given point of time the lowest factor among essentials will limit the rate of photosynthesis”._ For example, when even sufficient light intensity is available, photosynthesis may be low due to low CO2 in the atmosphere. Here, CO2 acts as a limiting factor. If CO2 is increased in the atmosphere the rate of photosynthesis also increases. Further increase in photosynthesis is possible only if the available light intensity is also increased proportionately (Figure 13.21).
 

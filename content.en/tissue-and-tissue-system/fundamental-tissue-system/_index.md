@@ -1,6 +1,17 @@
 ---
 title: "Fundamental tissue system"
 weight: 5
+references:
+    videos:
+        - youtube: QRymx-cB-ag
+        - youtube: sE8_dWAYH6c
+    links:
+        - https://www.pw.live/chapter-anatomy-of-flowering-plants/tissue-system
+        - https://www.toppr.com/guides/biology/anatomy-of-flowering-plants/tissue-systems/
+    books:
+        - b1:
+            title: Anatomy of Flowering Plants
+            url: https://www.google.co.in/books/edition/Anatomy_of_Flowering_Plants/cSO8HOKyabgC?hl=en&gbpv=0
 ---
 
 
