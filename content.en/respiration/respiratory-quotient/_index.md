@@ -1,6 +1,18 @@
 ---
 title: 'Respiratory Quotient'
 weight: 6
+references:
+    videos:
+        - youtube:TTSYaqjYpm8
+        - youtube:61qmma0RFMY
+    links:
+        - https://www.ncbi.nlm.nih.gov/books/NBK531494/
+        - https://www.sciencedirect.com/topics/neuroscience/respiratory-quotient
+    books:
+        - b1:
+            title: Essential Equations for Anaesthesia
+            url: https://www.google.co.in/books/edition/Essential_Equations_for_Anaesthesia/2qFcAwAAQBAJ?hl=en&gbpv=0
+
 ---
 
 # Respiratory Quotient (RQ)
