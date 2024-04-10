@@ -1,6 +1,18 @@
 ---
 title: "Carbohydrates"
 weight: 3
+references:
+    videos:
+        - youtube:JxK5rZxbyQY&t
+        - youtube:PADu-fA7vfA&t
+    links:
+        - https://www.toppr.com/guides/chemistry/biomolecule/carbohydrates/
+        - https://courses.lumenlearning.com/wm-biology1/chapter/reading-types-of-carbohydrates/
+    books:
+        - b1:
+            title: Storage Carbohydrates in Vascular Plants
+            url: https://www.google.co.in/books/edition/Storage_Carbohydrates_in_Vascular_Plants/RVA9AAAAIAAJ?hl=en&gbpv=0
+        
 ---
 
 
@@ -10,7 +22,50 @@ Carbohydrates are organic compounds made of carbon and water. Thus one molecule 
 
 **Monosaccharides** are relatively small molecules constituting single sugar unit.
 
-![Classification of Carbohydratest](classificationofcarbohydrates.png)
+```mermaid
+graph LR
+    subgraph Carbohydrates
+        A[Carbohydrates] --> B{Monosaccharides}
+        B --> C1{Fuctional group }
+        B --> C2{Number of corban atoms}
+        C1 --> E[Aldoses - Glucose]
+        C1 --> F[Ketose - Fructose]
+        C2 --> I[Trioses - Glyceraldemhyde]
+        C2 --> J[Tetroses - Erythrose]
+        C2 --> K[Pentoses - Ribose]
+        C2 --> L[Hexose - Glucose]
+    end
+    subgraph Carbohydrates[Continued]
+        A --> Q{Oligosaccharides}
+        Q --> R[Disaccharides]
+        Q --> S[Trisaccharides]
+        Q --> T[Tetrasaccharides]
+        Q --> U[Pentasaccharides]
+        R --> V[Maltose]
+        R --> W[Lactose]
+        R --> X[Sucrose]
+        S --> Y[Raffinose]
+        T --> Z[Stachyose]
+        U --> AA[Verbascose]
+    
+    end
+    subgraph Carbohydrates[Continued]
+        A --> BB{Polysaccharides}
+        BB --> CC{Homopolysaccharides}
+        BB --> DD{Heteropolysaccharides}
+        CC --> EE[Glycogen]
+        CC --> FF[Starch]
+        CC --> GG[Cellulose]
+        CC --> HH[Chitin]
+        CC --> II[Inulin]
+        DD --> JJ[Peptidoglycan]
+        DD --> KK[Agar-agar]
+        DD --> LL[Hyaluronic Acid]
+        DD --> MM[Chondroitin Sulfate]
+        DD --> NN[Keratan Sulphate]
+    end
+
+```
 
 Glucose has a chemical formula of C6H12O6. It is a six carbon molecule and hence is called as **hexose.**
 
