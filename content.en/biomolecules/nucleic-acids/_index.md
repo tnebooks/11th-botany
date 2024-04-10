@@ -1,6 +1,18 @@
 ---
 title: "Nucleic Acids"
 weight: 7
+references:
+    videos:
+        - youtube:6NhDY3IDp00
+        - youtube:SeOrvA9ikW8
+    links:
+        - https://byjus.com/chemistry/function-nucleic-acids/
+        - https://www.britannica.com/science/nucleic-acid
+    books:
+        - b1:
+            title: Principles of Nucleic Acid Structure
+            url:  https://www.google.co.in/books/edition/Principles_of_Nucleic_Acid_Structure/gaoJCAAAQBAJ?hl=en&gbpv=0
+
 ---
 
 **Nucleic Acids** 
@@ -14,6 +26,16 @@ A characteristic feature that differentiates DNA from RNA is that DNA contains n
 
 ![Structure of nucleic acid component](8.29.png)
 
+---
+**DO YOU KNOW ?**
+
+Telomerase - 
+A ribonucleic 
+Protein.
+T e l o m e r e protects the end of the chromosomes from damage.Telomerase is a ribonucleo protein also called as terminal transferase
+
+---
+
 ### Formation of Dinucleotide and Polynucleotide
 
 Two nucleotides join to form **dinucleotide** that are linked through 3′-5′ phosphodiester linkage by condensation between phosphate groups of one with sugar of other. This is repeated many times to make **polynucleotide**.
@@ -21,11 +43,17 @@ Two nucleotides join to form **dinucleotide** that are linked through 3′-5′ 
 | Nucleoside                            | Nucleotide                                           |
 | ------------------------------------- | ---------------------------------------------------- |
 | It is a combination ofbase and sugar. | It is a combinationof nucleoside andphosphoric acid. |
-| Examples                              | Examples                                             |
+| **Examples**                             | **Examples**                                             |
 | Adenosine = Adenine+ Ribose           | Adenylic acid =Adenosine +Phosphoric acid            |
 | Guanosine = Guanine + Ribose          | Guanylic acid =Guanosine +Phosphoric acid            |
 | Cytidine = Cytosine+ Ribose           | Cytidylic acid =Cytidine +Phosphoric acid            |
 | Deoxythymidine= Thymine +Deoxyribose  | Uridylic acid =Uridine +Phosphoric acid              |
+
+---
+**DO YOU KNOW ?**
+**Friedrich** Miescher was the first to isolate a non-protein substance in nuclei of pus cells and named it as **‘Nuclein’**.
+
+---
 
 ![Basic component of DNA and RNA](8.31.png)
 
@@ -43,6 +71,13 @@ As published by **Erwin Chargaff** in 1949, a purine pairs with pyrimidine and v
 
 ![Alt text](8.33.png)
 
+---
+**DO YOU KNOW ?**
+
+In 1950s, **Maurice Wilkins and Rosalind Franklin** of Kings College, London studied the X-ray crystallography and revealed experimental data on the structure of DNA
+
+
+---
 ### Features of DNA
 
 - If one strand runs in the 5′-3′ direction,the other runs in 3′-5′ direction and thus are antiparallel (they run in opposite direction). The 5′ end has the phosphate group and 3’end has the OH group.
