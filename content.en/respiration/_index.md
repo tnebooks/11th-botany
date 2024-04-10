@@ -1,6 +1,18 @@
 ---
 title: "Respiration"
 weight: 14
+references:
+    videos:
+        - youtube:v_j-LD2YEqg
+        - youtube:GjfD55C9v38
+    links:
+        - https://www.britannica.com/science/cellular-respiration
+        - https://biologydictionary.net/cellular-respiration/
+    books:
+        - b1:
+            title: Plant Respiration
+            url: https://www.google.co.in/books/edition/Plant_Respiration/-bjgoEnn2usC?hl=en&gbpv=0
+
 ---
 
 # Chapter Outline

@@ -1,6 +1,18 @@
 ---
 title: 'Structure of ATP'
 weight: 2
+references:
+    videos:
+        - youtube:cSXpH8eX_14
+        - youtube:hA4sRESz6Uw
+    links:
+        - https://biologydictionary.net/atp/
+        - https://www.britannica.com/science/adenosine-triphosphate
+    books:
+        - b1:
+            title: Molecular Biology of the Cell
+            url: https://www.google.co.in/books/edition/Molecular_Biology_of_the_Cell/0PhGswEACAAJ?hl=en
+
 ---
 
 # Structure of ATP
