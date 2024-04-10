@@ -19,7 +19,21 @@ references:
 ## 11.2 Cell to Cell Transport
 
 Cell to cell or short distance transport covers the limited area and consists of few cells. They are the facilitators or tributaries to the long- distance transport. The driving force for the cell to cell transport can be passive or active (Figure 11.1). The following chart illustrate the various types of cell to cell transport
-![Cell to cell transport](11.1B.png)
+```mermaid 
+graph LR
+    subgraph figure 11.1 cell to cell Transport
+        a(cell  to cell Transport)-->b(passive Transport)
+        a-->c(Active Transport)
+        b-->e(Diffusion)
+        b-->f(Faciliated Diffusion)
+        c-->d(Changed Protein
+        carrier Protein
+        pumps)
+        f-->g(Channel proteins)
+        f-->h(Carrier protien)
+        end
+```
+
 
 ### 11.2.1 Passive Transport
 
