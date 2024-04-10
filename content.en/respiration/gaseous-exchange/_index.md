@@ -1,6 +1,18 @@
 ---
 title: 'Gaseous exchange'
 weight: 1
+references:
+    videos:
+        - youtube:qDrV33rZlyA
+        - youtube:mZvzl8KH6iI
+    links:
+        - https://humanbiology.pressbooks.tru.ca/chapter/15-4-gas-exchange/
+        - https://bio.libretexts.org/Courses/Lumen_Learning/Anatomy_and_Physiology_II_(Lumen)/08%3A_Module_6-_The_Respiratory_System/8.05%3A_Gas_Exchange
+    books:
+        - b1:
+            title: The Respiratory System
+            url: https://www.google.co.in/books/edition/The_Respiratory_System/mVgnAgAAQBAJ?hl=en&gbpv=0
+
 ---
 
 # Gaseous Exchange 
@@ -12,10 +24,15 @@ The term respiration was coined by **Pepys** (1966). Respiration is a biological
 
 of complex organic compounds through oxidation within the cells leads to energy release. The energy released during respiration is stored in the form of **ATP** (Adenosine Tri Phosphate) as well as liberated heat. Respiration occurs in all the living cells of organisms. The overall process of respiration corresponds to a reversal of photosynthesis.
 
-`formulae`
-`C6H12O6 1 6O2 → 6CO2 1 6H2O 1 Energy (686 K cal or 2868 KJ)`
 
-`(1K cal = 4.184 KJ)`
+```math
+C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + \text{Energy (686 K cal or 2868 KJ)}
+```
+
+```math
+\text{(1K cal = 4.184 KJ)}
+```
+
 
 Depending upon the nature of respiratory substrate, **Blackman** divided respiration into,
 
