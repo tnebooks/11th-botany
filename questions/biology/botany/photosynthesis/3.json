@@ -1,0 +1,22 @@
+{
+  "question": "What is the correct sequence of electron flow in the light-dependent reactions of photosynthesis?",
+  "explanation": "The light-dependent reactions, also known as the Z-scheme, involve the transfer of electrons between protein complexes embedded in the thylakoid membrane. Here's the correct flow:",
+  "choices": [
+  {
+  "value": "a. PS II, plastoquinone, cytochrome, PS I, ferredoxin (Correct)",
+  "answer": true
+  },
+  {
+  "value": "b. PS I, plastoquinone, cytochrome, PS II ferredoxin",
+  "answer": false
+  },
+  {
+  "value": "c. PS II, ferredoxin, plastoquinone, cytochrome, PS I",
+  "answer": false
+  },
+  {
+  "value": "d. PS II, plastoquinone, cytochrome, PS II, ferredoxin",
+  "answer": false
+  }
+  ]
+  }

@@ -1,0 +1,22 @@
+{
+  "question": "Which chlorophyll molecule does not have a phytol tail?",
+  "explanation": "Chlorophyll a, b, and d all possess a phytol tail, which helps anchor them within the thylakoid membrane. Chlorophyll c is the exception and lacks this tail.",
+  "choices": [
+  {
+  "value": "a. Chl-a",
+  "answer": false
+  },
+  {
+  "value": "b. Chl-b",
+  "answer": false
+  },
+  {
+  "value": "c. Chl-c",
+  "answer": true
+  },
+  {
+  "value": "d. Chl-d",
+  "answer": false
+  }
+  ]
+  }

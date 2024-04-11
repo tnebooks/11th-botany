@@ -1,0 +1,18 @@
+{
+  "question": "C3 சுழற்சியில் நுழையும் ஒவ்வொரு CO2 மூலக்கூறுகளுக்கும் தேவைப்படும் ATP மற்றும் NADPH எண்ணிக்கை என்ன?",
+  "choices": [
+    {
+      "value": "2 ATP + 2 NADPH"
+    },
+    {
+      "value": " 2 ATP + 3 NADPH",
+      "answer":true
+    },
+    {
+      "value": "3 ATP + 2 NADPH"
+    },
+    {
+      "value": "3 ATP + 3 NADPH"
+    }
+  ]
+}

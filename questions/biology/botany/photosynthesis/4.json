@@ -1,0 +1,22 @@
+{
+  "question": "How many ATP and NADPH molecules are required for each CO2 molecule entering the Calvin cycle in C3 plants?",
+  "explanation": "In the Calvin cycle of C3 photosynthesis, for every CO2 molecule fixed, the following number of ATP and NADPH molecules are required:",
+  "choices": [
+  {
+  "value": "a. 2 ATP & 2 NADPH",
+  "answer": false
+  },
+  {
+  "value": "b. 2 ATP & 3 NADPH",
+  "answer": false
+  },
+  {
+  "value": "c. 3 ATP & 2 NADPH (Correct)",
+  "answer": true
+  },
+  {
+  "value": "d. 3 ATP & 3 NADPH",
+  "answer": false
+  }
+  ]
+  }

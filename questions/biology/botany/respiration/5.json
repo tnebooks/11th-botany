@@ -1,0 +1,9 @@
+{
+  "question": "Which of the following reaction is not involved in the Krebs cycle.",
+  "choices": [
+    { "value": "Shifting of phosphate from 3C to 2C", "answer": true },
+    { "value": "Splitting of Fructose 1,6 bisphosphate into two molecules of 3C compounds.", "answer": false },
+    { "value": "Dephosphorylation from the substrates", "answer": false },
+    { "value": "All of these", "answer": false }
+  ]
+}

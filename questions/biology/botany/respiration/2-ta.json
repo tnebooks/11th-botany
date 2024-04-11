@@ -1,0 +1,9 @@
+{
+  "question": "இரண்டு மூலக்கூறு சைட்டோசோலிக் NADH + H+ ஆக்சிஜனேற்றமடையும் போது தாவரங்களில் உருவாகும் ATP மூலக்கூறுகளின் எண்ணிக்கை",
+  "choices": [
+    { "value": "3", "answer": false },
+    { "value": "4", "answer": true },
+    { "value": "6", "answer": false },
+    { "value": "8", "answer": false }
+  ]
+}
