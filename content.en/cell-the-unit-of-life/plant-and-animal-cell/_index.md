@@ -1,6 +1,17 @@
 ---
 title: 'Plant and Animal cell'
 weight: 5
+references:
+    videos:
+        - ApvxVtBJxd0
+        - 32AfnHDpgpw
+    links:
+        - https://www.toppr.com/guides/biology/difference-between/plant-cell-and-animal-cell/
+        - https://www.thoughtco.com/animal-cells-vs-plant-cells-373375
+    books:
+        - b1:
+            title: Plant Cells Vs Animal Cells
+            url: https://www.google.co.in/books/edition/Plant_Cells_Vs_Animal_Cells/MfSZzQEACAAJ?hl=en
 ---
 
 ### Plant and Animal cell
@@ -81,11 +92,10 @@ The cell membrane is also called **cell surface** (or) **plasma membrane**. It i
 It is made up of lipids and proteins together with a little amount of carbohydrate. The lipid membrane is made up of phospholipid. The phospholipid molecule has a hydrophobic tail and hydrophilic head. The hydrophobic tail repels water and hydrophilic head attracts water. The proteins of the membrane are globular proteins which are found intermingled between the lipid bilayer most of which are projecting beyond the lipid bilayer. These proteins are called as **integral proteins**. Few are superficially attached on either surface of the lipid bilayer which are called as **peripheral proteins**. The proteins are involved in transport of molecules across the membranes and also act as enzymes, receptors (or) antigens.
 
 ---
-**DO YOU KNOW ?**
-
+>**DO YOU KNOW ?**
 Water-loving polar molecule are called hydrophilic molecule. They have polar phosphate group responsible for attracting water.
 
-Water hating non-polar molecule are called as hydrophobic molecule. They have fatty acid which is non-polar which cannot attract water
+>Water hating non-polar molecule are called as hydrophobic molecule. They have fatty acid which is non-polar which cannot attract water
 
 ---
 Carbohydrate molecules of cell membrane are short chain polysaccharides. These are either bound with ‘**glycoproteins**’ or ‘**glycolipids**’ and form a ‘**glyocalyx’** (Figure 6.11). 
