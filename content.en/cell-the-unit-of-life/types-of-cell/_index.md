@@ -1,6 +1,17 @@
 ---
 title: 'Types of Cell'
 weight: 4
+references:
+    videos:
+        - 192M4oDLTdc
+        - nNv45-0ocaU
+    links:
+        - https://www.medicalnewstoday.com/articles/320878
+        - https://www.britannica.com/science/cell-biology
+    books:
+        - b1:
+            title: Molecular Biology of the Cell
+            url: https://www.google.co.in/books/edition/Molecular_Biology_of_the_Cell/0PhGswEACAAJ?hl=en
 ---
 
 # Types of Cell
@@ -25,7 +36,7 @@ Those organisms which have true nucleus are called **Eukaryotes** (_Eu_ – True
 **Origin of Eukaryotic cell:**
 
 ---
-**Endosymbiont theory:** Two eukaryotic organelles believed to be the descendants of the endosymbiotic prokaryotes. The ancestors of the eukaryotic cell engulfed a bacterium and the bacteria continued to function inside the host cell.
+>**Endosymbiont theory:** Two eukaryotic organelles believed to be the descendants of the endosymbiotic prokaryotes. The ancestors of the eukaryotic cell engulfed a bacterium and the bacteria continued to function inside the host cell.
 
 ---
 **Comparison between types of cellular organisation**
