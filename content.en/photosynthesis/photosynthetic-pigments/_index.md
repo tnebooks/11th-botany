@@ -19,7 +19,7 @@ references:
 
 A photosynthetic pigment is a pigment that is present in chloroplasts or photosynthetic bacteria which captures the light energy necessary for photosynthesis (Table 13.1).
 
-![](image-5.PNG)
+
 
 
 
