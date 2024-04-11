@@ -1,0 +1,22 @@
+{
+  "question": "Identify the true statement regarding the light reaction of photosynthesis:",
+  "explanation": "The light-dependent reactions of photosynthesis involve Photosystem I (PSI) and Photosystem II (PSII) working together.",
+  "choices": [
+  {
+  "value": "a. Splitting of water molecule is associated with PS I (False)",
+  "answer": false
+  },
+  {
+  "value": "b. PS I and PS II involved in the formation of NADPH (True)",
+  "answer": true
+  },
+  {
+  "value": "c. The reaction center of PS I is Chlorophyll a with absorption peak at 680 nm (True)",
+  "answer": true
+  },
+  {
+  "value": "d. The reaction center of PS II is Chlorophyll a with absorption peak at 700 nm (True)",
+  "answer": true
+  }
+  ]
+  }

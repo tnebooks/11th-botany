@@ -1,0 +1,9 @@
+{
+  "question": "The compound which links glycolysis and Krebs cycle is",
+  "choices": [
+    { "value": "succinic acid", "answer": false },
+    { "value": "pyruvic acid", "answer": true },
+    { "value": "acetyl CoA", "answer": false },
+    { "value": "citric acid", "answer": false }
+  ]
+}

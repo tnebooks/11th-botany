@@ -1,6 +1,17 @@
 ---
 title: "Mineral Nutrition"
 weight: 12
+references:
+    videos:
+        - sxJov-ae558&list=PLKlDmF-iIyAljqtM4XB1ojpOC_iw1s3fN
+        - OI7wkqnj_BE&list=PLKlDmF-iIyAljqtM4XB1ojpOC_iw1s3fN&index=3
+    links:
+        - https://en.wikipedia.org/wiki/Mineral_(nutrient)
+        - https://unacademy.com/content/wp-content/uploads/sites/2/2022/10/Mineral-Nutrition-in-Plants.pdf
+    books:
+        - b1:
+            title: Mineral Nutrition of Tropical Plants
+            url: https://www.google.co.in/books/edition/Mineral_nutrition_of_tropical_plants/Nys4EAAAQBAJ?hl=en&gbpv=0
 ---
 
 As a traveller you would have got a chance to observe the plants. It is an interesting fact that all plants are not alike. Just spend some time to observe the nature. You can notice plants with attractive leaves, flowers and fruits.
@@ -45,7 +56,13 @@ Calcium, Sulphur, Iron, Boron and Copper shows deficiency symptoms first that ap
   
 on young leaves due to the immobile nature of minerals
 
-![ Mobility of Minerals](12.1.png "")
+`table` 12.1
+| Classification                 | Description                                          | Example                                         |
+|------------------------------|-------------------------------------------------------|-------------------------------------------------|
+| Macro nutrients (Primary)      | Elements required by plants in large amounts          |  C, H, O, N, P, K, Ca, Mg and S                  |
+| Micro nutrients (Secondary)  | Elements required by plants in small amounts         | Fe, Mn, Cu, Mo, Zn, B, Cl and Ni                |
+| Unclassified minerals         | Required for some plants in trace amounts and have some specific functions |  Sodium, Cobalt, Silicon and Selenium           |
+
 
 ### 12.1.3 Classification of minerals based on their functions
 
@@ -161,7 +178,22 @@ It is involved in Anion – Cation balance, cell division, photolysis of water. 
 # 12.4 Deficiency diseases and symptoms
  The following table (Table 12.2) gives you an idea Minerals and their Deficiency symptoms:
 
-![](2.png)
+`table`
+| Name of deficiency disease and symptoms | Deficiency minerals |
+|---|---|
+| Chlorosis (Overall) | Nitrogen, Potassium, Magnesium, Sulphur, Iron, Manganese, Zinc and Molybdenum. |
+|  a. Interveinal chlorosis | Magnesium, Iron, Manganese and Zinc |
+|  b. Marginal chlorosis | Potassium |
+| Necrosis (Death of the tissue) | Magnesium, Potassium, Calcium, Zinc, Molybdenum and Copper. |
+| Stunted growth | Nitrogen, Phosphorus, Calcium, Potassium and Sulphur. |
+| Anthocyanin formation | Nitrogen, Phosphorus, Magnesium and Sulphur |
+| Delayed flowering | Nitrogen, Sulphur and Molybdenum |
+| Die back of shoot, Reclamation disease, Exanthema in citrus (gums on bark) | Copper |
+| Hooked leaf tip | Calcium |
+| Little Leaf | Zinc |
+| Brown heart of Beet root and Internal cork of apple | Boron |
+| Whiptail of cauliflower and cabbage | Molybdenum |
+| Curled leaf margin | Potassium |
 
 
 # 12.5 Critical concentration and toxicity of minerals
@@ -200,7 +232,19 @@ developed a method of growing plants in nutrient solution. The commonly used nut
 
  Inspiring act of nature is self-regulation. As all living organisms act as tools for biogeochemical cycles, nitrogen cycle is highly regulated. Life on earth depends on nitrogen cycle. Nitrogen occurs in atmosphere in the form of N2 (N≡N), two nitrogen atoms joined together by strong triple covalent bonds. The process of converting atmospheric nitrogen (N2) into ammonia is termed as nitrogen fixation. Nitrogen fixation can occur by two methods: 1. Biological; 2. Non-Biological (Figure 12.5).
 
-![ Nitrogen fixation](1111.png "")
+```mermaid
+graph LR
+    subgraph figure 12.5 Nitrogen fixation
+        a(Nitrogen fixation)-->b(Non-Biological)
+        a-->c(Biological)
+        b-->e(Industrial)
+        b-->f(Lightering)
+        c-->g(Non-symbiotic)
+        c-->k(Symbiotic)
+        k-->s(Legume)
+        k-->w(Non legume)
+end
+```
 
 ##  12.7.1 Non – Biological nitrogen fixation
 
@@ -271,7 +315,19 @@ Aluminium toxicity causes precipitation of nucleic acid, inhibition of ATPase, i
 
  Inspiring act of nature is self-regulation. As all living organisms act as tools for biogeochemical cycles, nitrogen cycle is highly regulated. Life on earth depends on nitrogen cycle. Nitrogen occurs in atmosphere in the form of N2 (N≡N), two nitrogen atoms joined together by strong triple covalent bonds. The process of converting atmospheric nitrogen (N2) into ammonia is termed as nitrogen fixation. Nitrogen fixation can occur by two methods: 1. Biological; 2. Non-Biological (Figure 12.5).
 
-![ Nitrogen fixation](1111.png "")
+```mermaid
+graph LR
+    subgraph figure 12.5 Nitrogen fixation
+        a(Nitrogen fixation)-->b(Non-Biological)
+        a-->c(Biological)
+        b-->e(Industrial)
+        b-->f(Lightering)
+        c-->g(Non-symbiotic)
+        c-->k(Symbiotic)
+        k-->s(Legume)
+        k-->w(Non legume)
+end
+```
 
 
 ##  12.7.1 Non – Biological nitrogen fixation

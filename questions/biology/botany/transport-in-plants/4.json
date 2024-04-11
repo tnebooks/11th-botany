@@ -1,0 +1,19 @@
+{
+  "question": "Stomata of a plant open due to",
+  "explanation": "",
+  "choices": [
+  {
+  "value": "a. Influx of K+"
+  },
+  {
+  "value": "b. Efflux of K+"
+  },
+  {
+  "value": "c. Influx of Cl–"
+  },
+  {
+  "value": "d. Influx of OH",
+  "answer": true
+  }
+  ]
+  }

@@ -1,0 +1,19 @@
+{
+  "question": "If mitotic division is restricted in G1 phase of the cell cycle then the condition is known as?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "S Phase"
+    },
+    {
+      "value": "G2 Phase"
+    },
+    {
+      "value": "M Phase"
+    },
+    {
+      "value": "G0 Phase",
+      "answer": true
+    }
+  ]
+}

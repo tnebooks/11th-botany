@@ -1,6 +1,17 @@
 ---
 title: 'திசு மறறும் திசுத்தோகுப்பு'
 weight: 9
+references:
+    videos:
+        - youtube: DmNxxJPmerw
+        - youtube: 6lzEnsnoPoU&t=29s
+    links:
+        - http://eflorakkl.in/staff/uploads/Bot%20Unit%20II%20Anatomy%20notes.pdf
+        - https://www.hhrc.ac.in/ePortal/Botany/II%20B.Sc%20Bot%20EM%2018UBT4%20M.C.Rajalakshmi-converted.pdf
+    books:
+        - b1:
+            title: Anatomy of Flowering Plants An Introduction to Structure and Development
+            url: https://www.google.co.in/books/edition/Anatomy_of_Flowering_Plants/cSO8HOKyabgC?hl=en&gbpv=0
 ---
 
 திசுமற்‌

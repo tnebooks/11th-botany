@@ -1,6 +1,20 @@
 ---
 title: 'Cell Cycle'
 weight: 7
+references:
+    videos:
+        - Youtube:U8wrPm3y
+        - Youtube:RYhBKl5Pm60
+    links:
+        - https://byjus.com/biology/cell-cycle-and-division/
+        - https://biologydictionary.net/cell-cycle/
+    books:
+        - b1:
+            title: The cell cycle
+            url: https://www.google.co.in/books/edition/The_Cell_Cycle/ScEuiD2V6GoC?hl=en&gbpv=0
+        - b2:
+            title: Cell Cycle Control
+            url: https://www.google.co.in/books/edition/Cell_Cycle_Control/8YRbmRrE6xUC?hl=en&gbpv=0
 ---
 
 ---
@@ -12,7 +26,7 @@ The learner will be able to,
 ---
 
 ---
-**Do You Know ? **
+>**Do You Know ?**
 **Neurons can be replaced!**
 **Stem cells in the human brain** - most neurons are in G 0 and do not divide. As neurons and neuroglia die or injured they are replaced by neural stem cells
 

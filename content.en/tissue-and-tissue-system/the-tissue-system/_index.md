@@ -1,6 +1,17 @@
 ---
 title: "The tissue system"
 weight: 3
+references:
+    videos:
+        - youtube: oVny7tuqiyM
+        - youtube: aU--ACCi_BQ
+    links:
+        - https://www.aakash.ac.in/important-concepts/biology/tissue-system-and-types#:~:text=The%20three%20tissue%20systems%20that,of%20cells%20in%20any%20plant.
+        - https://www.pw.live/chapter-anatomy-of-flowering-plants/tissue-system
+    books:
+        - b1:
+            title: Anatomy of Flowering Plants An Introduction to Structure and Development
+            url: https://www.google.co.in/books/edition/Anatomy_of_Flowering_Plants/cSO8HOKyabgC?hl=en&gbpv=0
 ---
 
 
@@ -16,5 +27,17 @@ A group of tissues performing a similar function, irrespective of its position i
 
 3. Vascular tissue system (derived from procambium)
 
-![Types and characteristics of tissue systems](typesandcharacteristicsoftissuesystems.png)
+>**Do You Know** Histology
+(Greek. histos – web, 
+logos – science) It is 
+the study of tissues, 
+their composition, and 
+structure as observed with the help of 
+microscope.
+
+| S.No. | Types/Characters | Epidermal tissue system | Ground or fundamental tissue system | Vascular or conduction tissue system |
+|-------|------------------|------------------------|------------------------------------|-------------------------------------|
+| 1.    | Formation        | Forms the outermost covering (protoderm) | Forms the ground meristem | Forms the procambial bundles  |
+| 2.    | Components       | Epidermal cells, stomata, and epidermal outgrowths | Simple permanent tissues – Parenchyma and Collenchyma | Xylem and Phloem |
+| 3.    | Functions        | Protection of plant body; absorption of water in roots; gas exchange for photosynthesis and respiration; transpiration in shoots | Gives mechanical support to the organs; prepares and stores food in leaf and stem | Conducts water and food; gives mechanical strength |
 

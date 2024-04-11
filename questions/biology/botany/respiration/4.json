@@ -1,0 +1,9 @@
+{
+  "question": "Assertion (A): Oxidative phosphorylation takes place during the electron transport chain in mitochondria. Reason (R): Succinyl CoA is phosphorylated into succinic acid by substrate phosphorylation. ",
+  "choices": [
+    { "value": "A and R is correct. R is the correct explanation of A", "answer": true },
+    { "value": "A and R is correct but R is not the correct explanation of A", "answer": false },
+    { "value": "A is correct but R is wrong", "answer": false },
+    { "value": "A and R is wrong.", "answer": false }
+  ]
+}

@@ -1,6 +1,17 @@
 ---
 title: "Transport in Plants"
 weight: 11
+references:
+    videos:
+        - bvPM6sfidY4
+        - fTEAhLooq_c
+    links:
+        - https://www.toppr.com/guides/science/transportation-in-animals-and-plants/transportation-in-plants/
+        - https://www.nature.com/scitable/knowledge/library/water-uptake-and-transport-in-vascular-plants-103016037/
+    books:
+        - b1:
+            title: Vascular Transport in Plants
+            url: https://www.google.co.in/books/edition/Vascular_Transport_in_Plants/nAW5uIi_tQgC?hl=en&gbpv=0
 ---
 
 # Chapter Outline

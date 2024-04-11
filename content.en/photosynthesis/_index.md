@@ -1,6 +1,18 @@
 ---
 title: "Photosynthesis"
 weight: 13
+references:
+    videos:
+        - youtube:E22APTvfwyE
+        - youtube:68b1HAIfX08
+    links:
+        - https://www.britannica.com/science/photosynthesis
+        - https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Concepts_in_Biology_(OpenStax)/05%3A_Photosynthesis/5.01%3A_Overview_of_Photosynthesis
+    books:
+        - b1:
+            title: Photosynthesis
+            url: https://www.google.co.in/books/edition/Photosynthesis_Structures_Mechanisms_and/mTckDwAAQBAJ?hl=en&gbpv=0 
+
 ---
 
 # Chapter Outline

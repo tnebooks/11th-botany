@@ -1,6 +1,17 @@
 ---
 title: "Cell to Cell Transport"
 weight: 2
+references:
+    videos:
+        - Ptmlvtei8hw
+        - PRi6uHDKeW4
+    links:
+        - https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Biology_(Wakim_and_Grewal)/05%3A_Cells/5.07%3A_Cell_Transport
+        - https://www.vedantu.com/biology/cell-transport-and-its-types
+    books:
+        - b1:
+            title: Molecular Biology of the Cell
+            url: https://www.google.co.in/books/edition/Molecular_Biology_of_the_Cell/0PhGswEACAAJ?hl=en
 ---
 
 
@@ -8,7 +19,21 @@ weight: 2
 ## 11.2 Cell to Cell Transport
 
 Cell to cell or short distance transport covers the limited area and consists of few cells. They are the facilitators or tributaries to the long- distance transport. The driving force for the cell to cell transport can be passive or active (Figure 11.1). The following chart illustrate the various types of cell to cell transport
-![Cell to cell transport](11.1B.png)
+```mermaid 
+graph LR
+    subgraph figure 11.1 cell to cell Transport
+        a(cell  to cell Transport)-->b(passive Transport)
+        a-->c(Active Transport)
+        b-->e(Diffusion)
+        b-->f(Faciliated Diffusion)
+        c-->d(Changed Protein
+        carrier Protein
+        pumps)
+        f-->g(Channel proteins)
+        f-->h(Carrier protien)
+        end
+```
+
 
 ### 11.2.1 Passive Transport
 
@@ -79,4 +104,19 @@ There are 3 types of carrier proteins classified on the basis of handling of mol
 
 The main disadvantage of passive transport processes like diffusion is the lack of control over the transport of selective molecules. There is a possibility of harmful substances entering the cell by a concentration gradient in the diffusion process. But selective permeability of cell membrane has a great control over entry and exit of molecules. Active transport is the entry of molecules against a concentration gradient and an uphill process and it needs energy which comes from ATP. Passive transport uses kinetic energy of molecules moving down a gradient whereas, active transport uses cellular energy to move them against a gradient. The transport proteins discussed in facilitated diffusion can also transport ions or molecules against a concentration gradient with the expenditure of cellular energy as an active process. Pumps use a source of free energy such as ATP or light to drive the thermodynamically uphill transport of ions or molecules. The pump action is an example of active transport. Example: Na+-K+-ATPase pump (Table 11.1).
 
-![Alt text](transportmechanisms.png)
+table 11.1 comparison of different transport mechanisms
+
+| Property  | Passive transport  | Facilitated diffusion               | Active transport |
+|---|---|---|---|
+| Nature of process            | Physical           | Biological              | Biological  |
+| Requirement                  | No                              | Yes                                 | Yes |
+| for presence of membrane protein |
+| Selectivity of               | No                              | Yes                                 | Yes |
+| molecule |
+| Saturation of                | No                              | Yes                                 | Yes |
+| transport |
+| Uphill transport             | No                               | No                                 | Yes |
+| Energy                       | No                               | No                                 | Yes |
+| requirement (ATP) |
+| Sensitivity to               | No                              | Yes                                 | Yes |
+| inhibitors |

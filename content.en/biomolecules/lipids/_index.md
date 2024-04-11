@@ -1,6 +1,18 @@
 ---
 title: "Lipids"
 weight: 4
+references:
+    videos:
+        - youtube:dKT_9AjO9BE
+        - youtube:5BBYBRWzsLA
+    links:
+        - https://byjus.com/biology/lipids/
+        - https://www.britannica.com/science/lipid
+    books:
+        - b1:
+            title: Lipid Hydroperoxide-Derived Modification of Biomolecules
+            url: https://www.google.co.in/books/edition/Lipid_Hydroperoxide_Derived_Modification/z13FBAAAQBAJ?hl=en&gbpv=0
+        
 ---
 
 

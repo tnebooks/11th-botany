@@ -1,6 +1,18 @@
 ---
 title: "Photosynthesis in bacteria"
 weight: 16
+references:
+    videos:
+        - youtube:J5Nz4cQJ2u8
+        - youtube:uTZsReuuGX8
+    links:
+        - https://openstax.org/books/microbiology/pages/8-6-photosynthesis
+        - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/photosynthetic-bacteria
+    books:
+        - b1:
+            title: Microbial Photosynthesis
+            url: https://www.google.co.in/books/edition/Microbial_Photosynthesis/O07iDwAAQBAJ?hl=en&gbpv=0
+
 ---
 
 ## Photosynthesis in bacteria
@@ -10,11 +22,24 @@ Though we study about bacterial photosynthesis as the last part, bacterial photo
 1. Green sulphur bacteria. Example:
 _Chlorobacterium_ and _Chlorobium._
 
-![Photosynthesis in palnts and bateria](image.8.PNG)
-
 2. Purple sulphur bacteria. Example: _Thiospirillum and Chromatium._
 
 3. Purple non-sulphur bacteria. Example: _Rhodopseudomonas_ and _Rhodospirillum_.
+
+
+Table 13.6: Difference between photosynthesis in plants and photosynthesis in bacteria
+
+| Feature | Photosynthesis in Plants | Photosynthesis in Bacteria |
+|---|---|---|
+| Phosphorylation | Cyclic and non-cyclic phosphorylation takes place | Only cyclic phosphorylation takes place |
+| Photosystems | Photosystem I and II involved | Photosystem I only involved |
+| Electron donor | Water | H₂S |
+| Oxygen evolved | Yes | No |
+| Reaction centers | P700 and P680 | P870 |
+| Reducing agent | NADPH + H+ | NADH + H+ |
+| PAR | 400 to 700 nm | Above 700 nm |
+| Pigments | Chlorophyll, carotenoid and xanthophyll | Bacterio chlorophyll and bacterio viridin |
+| Location | Chloroplast | Chlorosomes and chromatophores |
 
 **Test tube funnel experiment or Experiment to prove oxygen evolved during Photosynthesis** 
 

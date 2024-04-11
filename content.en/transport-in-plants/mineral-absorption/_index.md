@@ -1,6 +1,17 @@
 ---
 title: " Mineral Absorption"
 weight: 8
+references:
+    videos:
+        - s5PtgptP1yc
+        - msESzqN7g98
+    links:
+        - https://en.wikipedia.org/wiki/Mineral_absorption  
+        - https://www.sciencedirect.com/science/article/pii/S0022030218300614
+    books:
+        - b1:
+            title: Mineral Absorption in the Monogastric GI Tract
+            url: https://www.google.co.in/books/edition/Mineral_Absorption_in_the_Monogastric_GI/rabqBwAAQBAJ?hl=en&gbpv=0
 ---
 
 

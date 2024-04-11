@@ -1,14 +1,24 @@
 ---
 title: "Enzymes"
 weight: 6
+references:
+    videos:
+        - youtube:ozdO1mLXBQE&t
+        - youtube:8NQKEaS9Zl8&t
+    links:
+        - https://byjus.com/biology/enzymes/
+        - https://www.toppr.com/guides/biology/biomolecules/enzymes/
+    books:
+        - b1:
+            title: BIOMOLECULES & ENZYMES
+            url: https://www.google.co.in/books/edition/BIOMOLECULES_ENZYMES/9eqKEAAAQBAJ?hl=en&gbpv=0
+       
 ---
 
 
 Enzymes are globular proteins that catalyse the many thousands of metabolic reactions taking place within cells and organism. The molecules involved in such reactions are metabolites. Metabolism consists of chains and cycles of enzyme-catalysed reactions, such as respiration, photosynthesis, protein synthesis and other pathways. These reactions are classified a.
 
-- **anabolic** (building up of organic
-
-molecules). Synthesis of proteins from amino acids and synthesis of polysaccharides from simple sugars are examples of anabolic reactions.
+- **anabolic** (building up of organic molecules). Synthesis of proteins from amino acids and synthesis of polysaccharides from simple sugars are examples of anabolic reactions.
 
 - **catabolic** (breaking down of larger molecules). Digestion of complex foods and the breaking down of sugar in respiration are examples of catabolic reactions (Figure 8.16).
 
@@ -24,6 +34,11 @@ Enzymes can be extracellular enzymesecreted and work externally exported from ce
 - They are highly specific.
 - They have an active site where the reaction takes place.
 - Enzymes lower activation energy of the reaction they catalyse.
+---
+**DO YOU KNOW ?**
+**RUBISCO** is the abundant protein in the whole biospher
+
+---
 
 As molecules react, they become unstable, high energy intermediates. But they are in this transition state only momentarily. Energy is required to raise molecules to this transition state and this minimum energy needed is called the **activation energy**. This could be explained schematically by ‘boulder on hillside’ model of activation energy (Figure 8.17).
 

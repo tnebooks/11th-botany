@@ -1,11 +1,23 @@
 ---
 title: "Hatch & Slack Pathway or C4 Cycle or Dicarboxylic Acid Pathway or  Dicarboxylation Pathway"
 weight: 12
+references:
+    videos:
+        - youtube:_wbcO1jSr_Q
+        - youtube:Lhd7WbWV8aw
+    links:
+        - https://www.biologydiscussion.com/photosynthesis/c4-dicarboxylic-acid-pathway-hatchslack-pathway-photosynthesis/23026
+        - https://www.brainkart.com/article/Hatch---Slack-Pathway-or-C4-Cycle-or-Dicarboxylic-Acid-Pathway-or-Dicarboxylation-Pathway_33107/
+    books:
+        - b1:
+            title: The Path of Carbon in Photosynthesis
+            url: https://www.google.co.in/books/edition/The_Path_of_Carbon_in_Photosynthesis/P4-Yq-dgVtEC?hl=en&gbpv=0
+
 ---
 
 ## Hatch & Slack Pathway or C4 Cycle or Dicarboxylic Acid Pathway or Dicarboxylation Pathway
 
-Till 1965, Calvin cycle is the only pathway for CO2 fixation. But in 1965, Kortschak, Hart and **Burr** made observations in sugarcane and found C4 or dicarboxylic acid pathway. Malate and aspartate are the major labelled products. This observation was confirmed by Hatch & Slack in 1967. This alternate pathway for the fixation of CO2 was found in several tropical and sub-tropical grasses and some dicots. C4 cycle is discovered in more than 1000 species. Among them 300 species belong to dicots and rest of them are monocots. C4 plants represent about 5% of Earth’s plant biomass and 1% of its known plant species. Despite this scarcity, they account for about 30% of terrestrial carbon fixation. Increasing the proportion of C4 plants on earth could assist biosequestration of CO2 and represent an important climate change avoidance strategy.
+Till 1965, Calvin cycle is the only pathway for CO2 fixation. But in 1965, **Kortschak**, **Hart** and **Burr** made observations in sugarcane and found C4 or dicarboxylic acid pathway. Malate and aspartate are the major labelled products. This observation was confirmed by **Hatch** & **Slack** in 1967. This alternate pathway for the fixation of CO2 was found in several tropical and sub-tropical grasses and some dicots. C4 cycle is discovered in more than 1000 species. Among them 300 species belong to dicots and rest of them are monocots. C4 plants represent about 5% of Earth’s plant biomass and 1% of its known plant species. Despite this scarcity, they account for about 30% of terrestrial carbon fixation. Increasing the proportion of C4 plants on earth could assist biosequestration of CO2 and represent an important climate change avoidance strategy.
 
 C4 pathway is completed in two phases, first phase takes place in stroma of mesophyll cells, where the CO2 acceptor molecule is 3-Carbon compound, phospho enol pyruvate (PEP) to form 4-carbon Oxalo acetic acid (OAA). The first product is a 4-carbon and so it is named as C4 cycle. oxalo acetic acid is a dicarboxylic acid and hence this cycle is also known as **dicarboxylic acid pathway** (Figure 13.18). Carbon dioxide fixation takes place in two places one in mesophyll and another in bundle sheath cell (di carboxylation pathway). It is the adaptation of tropical and sub tropical plants growing in warm and dry conditions. Fixation of CO2 with minimal loss is due to absence of photorespiration. C4 plants require 5 ATP and 2 NADPH 1 H1 to fix one molecule of CO2.
 
@@ -28,10 +40,8 @@ Malic acid undergoes decarboxylation and produces a 3 carbon compound Pyruvic ac
 - See the difference in their anatomy (Dimorphic chloroplast and Kranz anatomy).
 
 >Kranz Anatomy: It is the German term meaning a halo or wreath. In C4 plants vascular bundles are surrounded by a layer of bundle sheath. Bundle sheath is surrounded by a ring of mesophyll cells. The characteristic feature of C4 plants is the presence of dimorphic chloroplast:
-
->Bundle sheath chloroplast: Larger chloroplast, thylakoids not arranged in granum and rich in starch.
-
->Mesophyll Chloroplast: Smaller chloroplast, thylakoids arranged in granum and less starch.
+Bundle sheath chloroplast: Larger chloroplast, thylakoids not arranged in granum and rich in starch.
+Mesophyll Chloroplast: Smaller chloroplast, thylakoids arranged in granum and less starch.
 
 ### Significance of C4 cycle
 

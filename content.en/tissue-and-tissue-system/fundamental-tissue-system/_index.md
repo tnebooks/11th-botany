@@ -1,6 +1,17 @@
 ---
 title: "Fundamental tissue system"
 weight: 5
+references:
+    videos:
+        - youtube: QRymx-cB-ag
+        - youtube: sE8_dWAYH6c
+    links:
+        - https://www.pw.live/chapter-anatomy-of-flowering-plants/tissue-system
+        - https://www.toppr.com/guides/biology/anatomy-of-flowering-plants/tissue-systems/
+    books:
+        - b1:
+            title: Anatomy of Flowering Plants
+            url: https://www.google.co.in/books/edition/Anatomy_of_Flowering_Plants/cSO8HOKyabgC?hl=en&gbpv=0
 ---
 
 
@@ -32,5 +43,5 @@ Pericycle is single or few layered parenchymatous found inner to the endodermis.
 **Pith or Medulla**
 The central part of the ground tissue is known as pith or medulla. Generally this is made up of thin walled parenchyma cells with intercellular spaces. The cells in the pith generally stores starch, fatty substances, tannins, phenols, calcium oxalate crystals, etc.
 
-**Albuminous Cells: The cytoplasmic:** nucleated parenchyma, is associated with the sieve cells of Gymnosperms. Albuminous cells in _Conifers_ are analogous to companion cells of Angiosperms. It also called as strasburger cells.
+>**Albuminous Cells: The cytoplasmic:** nucleated parenchyma, is associated with the sieve cells of Gymnosperms. Albuminous cells in _Conifers_ are analogous to companion cells of Angiosperms. It also called as strasburger cells.
 

@@ -1,6 +1,17 @@
 ---
 title: "Absorption of Water"
 weight: 4
+references:
+    videos:
+        - HAyF45aGHy8
+        - OU9CXqMTQIc
+    links:
+        - https://en.wikipedia.org/wiki/Absorption_of_water
+        - https://marwaricollege.ac.in/study-material/99006455Absorption%20of%20water.pdf
+    books:
+        - b1:
+            title: Light Absorption in Sea Water
+            url: https://www.google.co.in/books/edition/Light_Absorption_in_Sea_Water/C5kRs1z_CYoC?hl=en&gbpv=0
 ---
 
 

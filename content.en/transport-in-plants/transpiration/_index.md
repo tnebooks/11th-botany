@@ -1,6 +1,17 @@
 ---
 title: "Transpiration"
 weight: 6
+references:
+    videos:
+        - 5jJLfwTkGe8
+        - 0JaUakwQCx4
+    links:
+        - https://en.wikipedia.org/wiki/Transpiration#:~:text=Transpiration%20is%20the%20process%20of,mass%20flow%20of%20mineral%20nutrients.
+        - https://www.britannica.com/science/transpiration
+    books:
+        - b1:
+            title: Research in Plant Transpiration, 1961
+            url: https://www.google.co.in/books/edition/Research_in_Plant_Transpiration_1961/bXo-AAAAYAAJ?hl=en&gbpv=0
 ---
 
 

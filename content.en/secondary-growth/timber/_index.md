@@ -1,6 +1,17 @@
 ---
 title: "Timber"
 weight: 4
+references:
+    videos:
+        - youtube: YE2UTzXRysk&t
+        - youtube: z2wzATVfpg4
+    links:
+        - https://civiltoday.com/civil-engineering-materials/timber/224-timber-lumber-definition-types
+        - https://www.brainkart.com/article/Timber---Secondary-Growth_33052/
+    books:
+        - b1:
+            title: Timber Its Nature and Behaviour
+            url: https://www.google.co.in/books/edition/Timber/K02uDwAAQBAJ?hl=en&gbpv=0
 ---
 
 
@@ -17,5 +28,13 @@ It is the process in which moisture content from the wood is removed. There are 
 ### Grain, Texture, and Figure of Wood
 
 **Grain**refers to the structural arrangement of wood, while **texture** shows the relative size and quality of the various types of wood. **Figure of wood** refers to the pattern formed by grains in wood when the wood is cut in the longitudinal direction. It depends on the grain and texture and their exposure by direction of sawing.
+
+>**Do You Know** 
+**Ply wood:** 
+It is manufactured by 
+gluing together 3 to 9 thin 
+layers or piles of wood 
+veneers. It is used in flooring, walls, false 
+roof and vehicle interiors
 
 ![Alt text](10.23.png)
