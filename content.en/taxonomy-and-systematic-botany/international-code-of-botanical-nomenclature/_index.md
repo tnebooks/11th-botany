@@ -2,7 +2,16 @@
 title: "International Code of Botanical Nomenclature"
 weight: 4
 references:
-  videos:
+    videos:
+        - 4qScbK-IEXc
+        - sMg_3NY76UE
+    links:
+        - https://jagiroadcollegelive.co.in/attendence/classnotes/files/1587290512.pdf
+        - https://en.wikipedia.org/wiki/International_Code_of_Nomenclature_for_algae,_fungi,_and_plants
+    books:
+        - b1:
+            title: International Code of Botanical Nomenclature
+            url: https://www.google.co.in/books/edition/International_Code_of_Botanical_Nomencla/5xQlAQAAMAAJ?hl=en&gbpv=0&bsq=International%20Code%20of%20Botanical%20Nomenclature
 ---
 
 ## International Code of Botanical Nomenclature (ICBN)
@@ -28,7 +37,7 @@ International Code of Nomenclature is based on the following six principles.
 
 **Codes of Nomenclature**
 
-ICN has formulated a set of rules and recommendations dealing with the botanical name of plants. International Botanical Congress is held at different places every six years. Proposals for nomenclatural changes and changes in rules are discussed and implemented. Changes are published in their website.
+>ICN has formulated a set of rules and recommendations dealing with the botanical name of plants. International Botanical Congress is held at different places every six years. Proposals for nomenclatural changes and changes in rules are discussed and implemented. Changes are published in their website.
 
 18th International Botanical Congress held in 2011at Melbourne, Australia made the following major changes.
 
@@ -40,8 +49,7 @@ ICN has formulated a set of rules and recommendations dealing with the botanical
 
 ---
 
-**Anamorph** – Asexual reproductive stage of fungus.
-
+>**Anamorph** – Asexual reproductive stage of fungus.   
 **Teleomorph** – Sexual reproductive stage of fungus.
 
 ---
@@ -56,7 +64,7 @@ Vernacular names are known as **common names.** They are very often descriptive 
 
 ---
 
-**Activity** Write common name and scientific name of 10 different plants around your home.
+>**Activity** Write common name and scientific name of 10 different plants around your home.
 
 ---
 
