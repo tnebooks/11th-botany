@@ -1,6 +1,18 @@
 ---
 title: 'Cell organelles'
 weight: 6
+references:
+    videos:
+        - eS-kn6zfOgA
+        - URUJD5NEXC8
+    links:
+        - https://www.genome.gov/genetics-glossary/Organelle#:~:text=An%20organelle%20is%20a%20subcellular,and%20ribosomes%2C%20which%20assemble%20proteins.
+        - https://www.khanacademy.org/test-prep/mcat/cells/eukaryotic-cells/a/organelles-article
+    books:
+        - b1:
+            title: Cell Organelles
+            url: https://www.google.co.in/books/edition/Cell_Organelles/kAf9CAAAQBAJ?hl=en&gbpv=0
+
 ---
 
 
