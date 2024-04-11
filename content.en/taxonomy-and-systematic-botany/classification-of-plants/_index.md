@@ -2,7 +2,16 @@
 title: "Classification of Plants"
 weight: 8
 references:
-  videos:
+    videos:
+        - VfKGU4ZaO8k
+        - 2mXkTLTQ5Zk
+    links:
+        - https://www.aakash.ac.in/important-concepts/biology/chapter-plant-kingdom-old#:~:text=Classification%20of%20Plant%20kingdom,consist%20of%20Gymnosperms%20and%20Angiosperms.
+        - https://www.vedantu.com/biology/classification-of-plants
+    books:
+        - b1:
+            title: Plant Classification
+            url: https://www.google.co.in/books/edition/Plant_Classification/KLQoHAAACAAJ?hl=en
 ---
 
 # Classification of Plants
@@ -22,7 +31,8 @@ Classification paves way for the arrangement of organisms into groups on the bas
 On 13 February 1890, a survey was formally constituted and designated as the Botanical Survey of India. After independence, the need was felt for a more comprehensive documentation of the country’s plant resources to boost the economy. Padmashree **Dr.E.K.Janaki Ammal** was appointed as officer on special Duty on 14th Oct 1952. Then reorganization plan was finally approved by the Govt. of India on 29 March 1954, with Calcutta as the headquarters of BSI. Jammu Tavi Botanical Garden has been named after Dr. E. K. Janaki Ammal.
 
 ![ Dr. E.K. Janaki Ammal](5.4.png)
-**Figure 5.3:** Dr.E.K.Janaki Ammal
+  
+  **Figure 5.3:** Dr.E.K.Janaki Ammal
 
 ---
 
