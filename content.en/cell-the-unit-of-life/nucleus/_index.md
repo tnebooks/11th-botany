@@ -1,6 +1,17 @@
 ---
 title: 'Nucleus'
 weight: 7
+references:
+    videos:
+        - fV-sG3od1k0
+        - gGeC0ntvxR8
+    links:
+        - https://www.cancer.gov/publications/dictionaries/cancer-terms/def/nucleus
+        - https://www.genome.gov/genetics-glossary/Nucleus
+    books:
+        - b1:
+            title: The Nucleus
+            url: https://www.google.co.in/books/edition/The_Nucleus/NhmocQAACAAJ?hl=en
 ---
 
 ### Nucleus
@@ -9,7 +20,7 @@ Nucleus is an important unit of cell which controls all activities of the cell. 
 It is surrounded by a double membrane structure called **nuclear envelope**, which has the inner and outer membrane. The inner membrane is smooth without ribosomes and the outer membrane is rough by the presence of ribosomes and it continues with irregular and infrequent intervals with the endoplasmic reticulum. The membrane is perforated by pores known as **nuclear pores** which allows materials such as mRNA, ribosomal units, proteins and other macromolecules to pass in and out of the nucleus. The pores enclosed by circular structures called **annuli**. The pore and annuli form the **pore complex**. The space between two membranes is called **perinuclear space**.
 
 ---
-**Do You Know ?**
+>**Do You Know ?**
 **Chromatin** is a viscous gelatinous substance that contains DNA, histone & non–histone proteins and RNA. H1, H2A, H2B, H3 and H4 are the different histones found in chromatin. It is formed by a series of repeated units called nucleosomes. Each nucleosome has a core of eight histone subunits.
 
 ---
@@ -43,9 +54,10 @@ body separated from main chromosome by a relatively elongated secondary constric
 **Telomere** is the terminal part of chromosome. It offers stability to the chromosome. DNA of the telomere has specific sequence of nucleotides. Telomere in all eukaryotes are composed of many repeats of short DNA sequences (**5’TTAGGG3’** sequence in _Neurospora crassa_ and human beings). Maintenance of telomeres appears to be an important factor in determining the life span and reproductive capacity of cells, so studies of telomeres and telomerase have the promise of providing new insights into conditions such as ageing and cancer. Telomeres prevent the fusion of chromosomal ends with one another.
 
 ---
+>**Do you know?**   
 **Chromonema fibre**: A chromatin fibre, 100 – 130 nm in diameter, an element of higher order packing within the chromosome. During prophase the chromosomal material becomes visible as very thin filament called chromonemata, which is called as chromatids in early stages of condensation. Chromatid and chromonema are the two names for the same structure a single linear DNA molecule with its associated proteins
 
-**Chromomeres**: Chromomeres are bead like accumulations of chromatin material which are visible along interphase chromosomes. They can be seen in polytene chromosomes. At metaphase they are not visible.
+>**Chromomeres**: Chromomeres are bead like accumulations of chromatin material which are visible along interphase chromosomes. They can be seen in polytene chromosomes. At metaphase they are not visible.
 
 ---
 **Types of Chromosomes**
