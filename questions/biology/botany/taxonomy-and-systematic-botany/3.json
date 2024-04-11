@@ -1,0 +1,14 @@
+{
+  "question": "Which of the following is a flowering plant with nodules containing filamentous nitrogen fixing micro-organisms?",
+  "explanation": "",
+  "choices": [{
+  "value": "Crotalaria juncea"
+  }, {
+  "value": "Cycas revoluta"
+  }, {
+  "value": "Cicer arietinum"
+  }, {
+  "value": "Casuarina equisetifolia",
+  "answer": true
+  }]
+  }
