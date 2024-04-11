@@ -2,7 +2,16 @@
 title: "Selected Families of Angiosperms"
 weight: 13
 references:
-  videos:
+    videos:
+        - 67RKWdWTnPA
+        - PL4m_gOeQ128tz5yjVb4-IJvSndHltjQhZ
+    links:
+        - https://bio.libretexts.org/Bookshelves/Botany/Botany_in_Hawaii_(Daniela_Dutra_Elliott_and_Paula_Mejia_Velasquez)/09%3A_Angiosperms/9.03%3A_Angiosperms_families
+        - https://study.com/academy/lesson/angiosperm-families-types-descriptions.html#:~:text=One%20example%20of%20an%20angiosperm,the%20Asteraceae%20family%2C%20the%20sunflower.
+    books:
+        - b1:
+            title: Angiosperms
+            url: https://www.google.co.in/books/edition/Angiosperms/2oMRAAAACAAJ?hl=en
 ---
 
 # Selected Families of Angiosperms
@@ -86,9 +95,18 @@ Seed: Endospermic or non- endospermic (_Pisum sativum_), mostly **reniform**.
 
 **Seed:** Non-endospermous, reniform. Floral Formula: **Dt0.Dtn0.'.""."M\*7+.E7.C\*;+-3.I3**
 **Economic Impotence**
-![alt text](pluses.png)
-| Economic importance | Binomial                                                                                                                      | Useful part                    | Uses                                                                                                                             |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+
+
+| Economic Importance | Binomial                           | Useful Part | Uses                                 |
+|---------------------|-----------------------------------|-------------|--------------------------------------|
+| Pulses              | Cajanus cajan (Pigeon Pea)         | Seeds       | Sources of protein and starch in food |
+|                     | Phaseolus vulgaris (French bean)   |             |                                      |
+|                     | Cicer arietinum (Chick pea)        |             |                                      |
+|                     | Vigna mungo (black gram)           |             |                                      |
+|                     | Vigna radiata (green gram)         |             |                                      |
+|                     | Vigna unguiculata (cow pea)         |             |                                      |
+|                     | Glycine max (soya bean)            |             |                                      |
+|                     | Macrotyloma uniflorum (Horse gram) |             |                                      ||
 | Food plants         | Lablab purpureus (field bean)Sesbania grandiflora (agathi)Cyamopsis tetragonoloba(cluster bean)                               | TenderfruitsLeavesTenderfruits | VegetableGreensVegetable                                                                                                         |
 | Oil Plants          | Arachis hypogea (ground nut)Pongamia pinnata (pungam)                                                                         | SeedsSeeds                     | Oil extracted from the seeds is edible andused for cooking.Pongam oil has medicinal value and is usedin the preparation of soap. |
 | TimberPlants        | Dalbergia latifolia (rose wood)Pterocarpus santalinus(red sandalwood)P.marsupium (வேங்கை)                                     | Timber                         | Timber is used for making furniture, cabi-net articles and as building materials.                                                |
@@ -180,9 +198,30 @@ This family is represented by 345 genera, 4,675 species. Mostly tropical and sub
 **Fruit:** A pair of elongated follicles. Floral Formula: **Ebr.,Ebrl., , ,K (5),C(5),A5,G(2)**
 
 **Economic importance of the family Apocynace**
-![alt text](s.no.png)
+
+Sure, here is the Hugo table format for the information in the image:
+
+| S.No | Economic Importance | Binomial Name (Latin) | Useful Part | Uses |
+|---|---|---|---|---|
+| 1 | Food plant | Carissa carandas (பெரும்களா) | Fruits | Edible and used in pickles |
+|  |  | Carissa spinarum (A) |  |  |  
+| 2 | Medicinal plant | Rauvolfia serpentina (Indian snake root/sarpagandha) | Shoot | To treat hypertension and mental disorders |
+|  |  |  | Dried roots | Alkaloid (reserpine) obtained from the dried roots, of the plant can lower the blood pressure and used as sedative for patients suffering from Schizophrenia. |
+| 2 | Medicinal plants | Thevetia peruviana (lucky nut/ தங்கஅலரி) | Seeds | Used in rheumatism |
+|  |  | Vallaris solanacea | Latex | Useful in toothache and to treat inflated gums. |
+|  |  | Alstonia scholaris | Bark | Used in malaria and dysentery. |
+|  |  | Wrightia tomentosa (பாலை) | Bark and Roots | Used as antidote to snakebite. |
+|  |  | Catharanthus roseus | Aerial parts | Used to treat muscle pain, the alkaloids like vinblastine and vincristine are mainly used to treat various human cancers. |
+| 3 | Dye yielding plant | Wrightia tinctoria | Seeds | An indigo-like dye is obtained from the seeds. |
+| 4 | Ornamental plant | Allamanda nerifolia (golden trumpet), | Plant | Grown as ornamentals plants. |
+|  |  | Alstonia scholaris, |  |  |
+|  |  | Catharanthus roseus, |  |  |
+|  |  | Nerium indicum |  |  |
+|  |  | Plumeria alba. |  |  |
+ 
+
 ![Alt text](5.18.png)
-![alt text](Eon.png)
+
 
 ## Family: Solanaceae (Potato Family / Night shade family)
 
@@ -273,7 +312,25 @@ somnifera).
 
 ![Alt text](5.20.png)
 **Economic importence**
-![alt text](Eco2.png)
+I don't have direct access to images, but based on your description of the image, here's the Hugo table format for the information it contains:
+
+| S.No | Economic Importance | Binomial Name (Latin) | Useful Part | Uses |
+|---|---|---|---|---|
+| 1 | Food plant | Solanum tuberosum (potato) | Underground stem tubers & Ripened fruits | Used as vegetables and also used for the production of starch.  |
+|  |  | Lycopersicon esculentum (tomato) |  | Used as delicious vegetable and eaten raw. |
+|  |  | Solanum melongena (brinjal) | Tender fruits | Cooked and eaten as vegetable. |
+|  |  | Capsicum annuum (bell peppers & chilli peppers) | C. frutescens (மிளகாய்) | Fruits | Used as vegetables and powdered chilli is the dried pulverized fruit which is used as spice to add pungency or piquancy and flavour to dishes. |  
+|  |  | Physalis peruviana (cape gooseberry / தக்காளி) | Fruit | Used as delicious fruit. |
+| 2 | Medicinal plant | Atropa belladonna (deadly nightshade) | Roots | A powerful alkaloid 'atropine' obtained from root is used in belladonna plasters, tinctures etc. for relieving pain and also for dialating pupils of eyes for eye-testing. |
+|  |  | Datura stramonium (ஊமத்தை) | Leaves and roots | Stramonium drug obtained from the leaves and roots of this is used to treat asthma and whooping cough. Used to treat cough. |
+|  |  | Solanum trilobatum (தூதுவளை) | Leaves, flowers and berries, Roots |  |
+|  |  | Withania somnifera (Ashwagandha/அமுக்காரா) |  | Used in curing cough and rheumatism. |
+| 3 | Tobacco | Nicotiana tabaccum (tobacco/புகையிலை) | Leaves | Used in cigarette, beedi, hukkah, pipes as well as tobacco for chewing and snuffing, alkaloids like nicotine, nornicotine and anabasin are present in tobacco. |
+| 4 | Ornamental plants | Cestrum diurnum (Day Jasmine) | Plant | Grown in garden as ornamental plants for their aesthetic nature. |
+|  |  | Cestrum nocturnum (Night Jasmine) Nicotiana alata |  |  |
+|  |  | Petunia hybrida, Schizanthus pinnatus |  |  | 
+|  |  | Solanum betaceum (Tree tomato) |  | | 
+
 
 
 ## Family: Euphorbiaceae (Castor Family / Spurge Family)
@@ -368,6 +425,7 @@ germination.
 **Female flower: Br.,Ebrl., , ,P(3),A 0,G(3)**
 
 **Economic impotence of the family Euphobiaceae**
+
 ![alt text](371.png)
 
 ## Monocot Family 
@@ -464,7 +522,20 @@ Bisexual flower:
 ![Alt text](5.26.png)
 
 **Economic Impotence of the Family Musceae**
-![alt text](Economic.png)
+
+| S.No | Economic Importance | Binomial Name | Useful Part | Uses |
+|---|---|---|---|---|
+| 1 | Food Plant | Musa paradisiaca | The raw (tender green) bananas, the shaft and male buds. Leaves | Cooked and eaten as vegetable. Commonly used as plates on festive occasions and are widely used to wrap food items when cooking. Fruit | Crunchy and salty fried plantain chips are delicious. |
+| |  | Ensete ventricosum | Flower stalk (Shaft) | Edible after cooking. |
+| |  | Musa chinensis (Chinea kela) | Fruits | Edible bananas which are sweet, rich in starch and vitamins. |  |
+| 2 | Medicinal plant | Musa spp. | Sap obtained from the sheathy leaf base. | Considered to be an antidote for cobra bite. |
+| 3 | Starch | Ensete ventricosum (Ethiopian banana) | The swollen basal parts of leaf sheaths | Used as a source of starch and vitamins. |
+| 4 | Fibre yielding plant | Musa textilis (Manila hemp) | Fibre | Fibre is woven and made into abaca cloth, also used for twine, bagging and wrapping paper. |
+| 5 | Ornamental plant | Musa coccinea (a wild banana species) | Plant | Have ornamental scarlet flowers. |  |
+| |  | M. acuminata, M. velutina and M. ornata |  | Cultivated as ornamentals |
+| |  | Ensete ventricosum |  |  |
+| |  | *Ravenala madagascariensis (traveller's palm), *Strelitzia reginae (bird of paradise) and Heliconia spp. | Plant | Grown as ornamental plants |
+
 
 ## Family:Liliaceae(Lily Family)
 **Systemetic position**
