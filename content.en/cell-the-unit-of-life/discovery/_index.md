@@ -1,6 +1,17 @@
 ---
 title: 'Discovery'
 weight: 1
+references:
+    videos:
+        - L-Xq1nyVLVQ
+        - 4OpBylwH9DU
+    links:
+        - https://education.nationalgeographic.org/resource/history-cell-discovering-cell/
+        - https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Biology_(Wakim_and_Grewal)/05%3A_Cells/5.02%3A_Discovery_of_Cells_and_Cell_Theory#:~:text=The%20first%20time%20the%20word,living%20things%20under%20a%20microscope.
+    books:
+        - b1:
+            title: The Logic of Scientific Discovery
+            url: https://www.google.co.in/books/edition/The_Logic_of_Scientific_Discovery/LWSBAgAAQBAJ?hl=en&gbpv=0
 ---
 
 # Discovery
