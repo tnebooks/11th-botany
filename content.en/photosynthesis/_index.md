@@ -11,7 +11,7 @@ references:
     books:
         - b1:
             title: Photosynthesis
-            url:https://www.google.co.in/books/edition/Photosynthesis_Structures_Mechanisms_and/mTckDwAAQBAJ?hl=en&gbpv=0 
+            url: https://www.google.co.in/books/edition/Photosynthesis_Structures_Mechanisms_and/mTckDwAAQBAJ?hl=en&gbpv=0 
 
 ---
 
