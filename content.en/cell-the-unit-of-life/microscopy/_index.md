@@ -1,6 +1,17 @@
 ---
 title: 'Microscopy'
 weight: 2
+references:
+    videos:
+        - URUJD5NEXC8&t
+        - IL2qtSOUiTY
+    links:
+        - https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/for-patients-study-participants/tell-me-more-about-my-scan/what-is-microscopy#:~:text=Microscopy%20is%20the%20technical%20field,range%20of%20the%20normal%20eye).
+        - https://en.wikipedia.org/wiki/Microscopy
+    books:
+        - b1:
+            title: Springer Handbook of Microscopy
+            url: https://www.google.co.in/books/edition/Springer_Handbook_of_Microscopy/1JK7DwAAQBAJ?hl=en&gbpv=0
 ---
 # Microscopy
 
@@ -26,15 +37,15 @@ Electron Microscope was first introduced by **Ernest Ruska** (1931) and develope
 The specimen to be viewed under electron microscope is dehydrated and impregnated with electron opaque chemicals like gold or palladium. This is essential for withstanding electrons and also for contrast of the image.
 
 ---
-**Resolution:** The term resolving power or resolution refers to the ability of lenses to show the details of object lying between two points. It is the finest detail available from an object. It can be calculated using the following formula.
+>**Resolution:** The term resolving power or resolution refers to the ability of lenses to show the details of object lying between two points. It is the finest detail available from an object. It can be calculated using the following formula.
 
-Resolution = 0.61λ / _NA_
+>Resolution = 0.61λ / _NA_
 
-Where, λ= wavelength of the light and NA is the numerical aperture. 
+>Where, λ= wavelength of the light and NA is the numerical aperture. 
 
-**Numerical Aperture:** It is an important optical constant associated with the optical lens denoting the ability to resolve. Higher the NA value greater will be the resolving power of the microscope. 
+>**Numerical Aperture:** It is an important optical constant associated with the optical lens denoting the ability to resolve. Higher the NA value greater will be the resolving power of the microscope. 
 
-**Magnification:** The optical increase in size of an image is called magnification. It is calculated by the following formula Magnification = size of image seen with the microscope / size of the image seen with normal eye
+>**Magnification:** The optical increase in size of an image is called magnification. It is calculated by the following formula Magnification = size of image seen with the microscope / size of the image seen with normal eye
 
 ---
 
