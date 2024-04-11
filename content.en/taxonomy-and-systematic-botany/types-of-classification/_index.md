@@ -104,7 +104,26 @@ The publication of the **_Origin of Species_** (1859) by **Charles Darwin** has 
 
 One of the earliest phylogenetic system of classification of the entire plant Kingdom was jointly proposed by two German botanists **Adolph Engler** ( 1844 -1930) and **Karl A Prantl** (1849 - 1893). They published their
 
-![Alt text](OUTLINE.png)
+```mermaid
+graph LR
+    subgraph Embryophyta
+        A[Embryophyta] --> B{Sub-division}
+            B --> C{Gymnospermae}
+            B --> D{Angiospermae}
+        D --> E{Class}
+            E --> F[Monocotyledonae]
+            E --> G[Dicotyledonae]
+                G --> H(Archichlamydeae)
+                G --> I[Metachlamydeae]
+                H --> J(1.Corolla polypetalous)
+                J --> K(2.Perianth single or double)
+                K--> L(3.Includes 3 ordes 201 families)
+                I--> M(1.Corolla gamopetalous)-->N(2.Perianth in two whorls)-->P(3.Includes 11 orders 57 families)
+
+                
+    end
+```
+
 classification in a monumental work “**_Die Naturelichen Pflanzen Familien_**” in 23 volumes (1887-1915)
 
 In this system of classification the plant kingdom was divided into 13 divisions. The first 11 divisions are Thallophytes, twelfth division is **Embryophyta Asiphonogama** (plants with embryos but no pollen tubes; Bryophytes and Pteridophytes) and the thirteenth division is **Embryophyta Siphonogama** (plants with embryos and pollen tubes) which includes seed plants.
