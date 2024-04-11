@@ -2,7 +2,16 @@
 title: "Modern trends in taxonomy"
 weight: 11
 references:
-  videos:
+    videos:
+        - K3xomfeilb8
+        - gNe2167SjF0
+    links:
+        - https://www.brainkart.com/article/Modern-trends-in-taxonomy_32977/
+        - https://scialert.net/fulltext/?doi=ajps.2005.184.206
+    books:
+        - b1:
+            title: Modern Trends in Plant Taxonomy
+            url: https://www.google.co.in/books/edition/Modern_Trends_in_Plant_Taxonomy/YA_lswEACAAJ?hl=en
 ---
 
 # Modern trends in taxonomy
