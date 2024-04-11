@@ -32,6 +32,12 @@ Stomata are minute pores surrounded by two guard cells. The stomata occur mainly
 **Epidermal Outgrowths**
 There are many types of epidermal outgrowths in stems. The unicellular or multicellular appendages that originate from the epidermal cells are called **trichomes**. Trichomes may be branched or unbranched and are one or more one celled thick. They assume many shapes and sizes. They may also be glandular (Example: _Rose, Ocimum_) or non-glandular.
 
+>**Do You Know** The trichomes on the 
+leaves of insectivorous 
+plants secrete 
+mucopolysaccharides 
+that trap insects
+
 Piliferous layer of the root has two types of epidermal cells, long cells and short cells. The short cells are called **trichoblasts**. Trichoblasts are elongate into root hairs. Epidermal hairs can also be in the form of stellate hairs (star shaped) present in plants. Example: styrax, many members of Malvaceae and Solanaceae.
 
 ![Types of Trichomes](9.16.png)

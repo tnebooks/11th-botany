@@ -10,8 +10,12 @@ weight: 1
 
 Essential elements are classified as **Macro-nutrients Micronutrients** and **Unclassified minerals** based on their 
 
-`table`
-![](1.png)
+`table` 12.1
+| Classification                 | Description                                          | Example                                         |
+|------------------------------|-------------------------------------------------------|-------------------------------------------------|
+| Macro nutrients (Primary)      | Elements required by plants in large amounts          |  C, H, O, N, P, K, Ca, Mg and S                  |
+| Micro nutrients (Secondary)  | Elements required by plants in small amounts         | Fe, Mn, Cu, Mo, Zn, B, Cl and Ni                |
+| Unclassified minerals         | Required for some plants in trace amounts and have some specific functions |  Sodium, Cobalt, Silicon and Selenium           |
 
 requirements. Essential minerals which are required in higher concentration are called Macronutrients. Essential minerals which are required in less concentration called are as Micronutrients.
 

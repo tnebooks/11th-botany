@@ -1,6 +1,18 @@
 ---
 title: "Spectrum of Electromagnetic Radiation"
 weight: 3
+references:
+    videos:
+        - youtube:pj_ya0e20vE
+        - youtube:m4t7gTmBK3g
+    links:
+        - https://www.britannica.com/science/electromagnetic-spectrum
+        - https://www.geeksforgeeks.org/electromagnetic-spectrum/
+    books:
+        - b1:
+            title: Tour of the Electromagnetic Spectrum
+            url: https://www.google.co.in/books/edition/Tour_of_the_Electromagnetic_Spectrum/DfLPpxogdM4C?hl=en&gbpv=0
+
 ---
 
 ## Spectrum of Electromagnetic Radiation

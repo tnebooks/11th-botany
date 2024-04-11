@@ -1,6 +1,18 @@
 ---
 title: "Plant Water Relations"
 weight: 3
+references:
+    videos:
+        - 4to_4guDx50
+        - ILHArFnumUg
+    links:
+        - https://www.vedantu.com/biology/plant-water-relations
+        - https://ainfo.cnptia.embrapa.br/digital/bitstream/item/59779/1/InTech-Plant-water-relations-absorption-transport-and-control-mechanisms.pdf
+    books:
+        - b1:
+            title: Principles of Soil and Plant Water Relations
+            url: https://www.google.co.in/books/edition/Principles_of_Soil_and_Plant_Water_Relat/Y5r8AgAAQBAJ?hl=en&gbpv=0
+
 ---
 
 

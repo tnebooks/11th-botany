@@ -43,5 +43,5 @@ Pericycle is single or few layered parenchymatous found inner to the endodermis.
 **Pith or Medulla**
 The central part of the ground tissue is known as pith or medulla. Generally this is made up of thin walled parenchyma cells with intercellular spaces. The cells in the pith generally stores starch, fatty substances, tannins, phenols, calcium oxalate crystals, etc.
 
-**Albuminous Cells: The cytoplasmic:** nucleated parenchyma, is associated with the sieve cells of Gymnosperms. Albuminous cells in _Conifers_ are analogous to companion cells of Angiosperms. It also called as strasburger cells.
+>**Albuminous Cells: The cytoplasmic:** nucleated parenchyma, is associated with the sieve cells of Gymnosperms. Albuminous cells in _Conifers_ are analogous to companion cells of Angiosperms. It also called as strasburger cells.
 

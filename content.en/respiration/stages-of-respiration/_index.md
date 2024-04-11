@@ -1,6 +1,18 @@
 ---
 title: 'Stages of Respiration'
 weight: 5
+references:
+    videos:
+        - youtube:00jbG_cfGuQ
+        - youtube:3Hxwzf7Alcw
+    links:
+        - https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Biology_(Wakim_and_Grewal)/05%3A_Cells/5.09%3A_Cellular_Respiration
+        - https://www.britannica.com/science/cellular-respiration
+    books:
+        - b1:
+            title: Cell ATP
+            url: https://www.google.co.in/books/edition/Cell_ATP/vlYXAQAAIAAJ?hl=en&gbpv=0&bsq=Stages%20of%20Respiration
+
 ---
 
 # Stages of Respiration
@@ -29,8 +41,10 @@ weight: 5
 ![Glycolysis or EMP pathway](14.7.png "")
 
 
-or **direct phosphorylation** or **trans phosphorylation**. During the reaction at step 9, 2 phospho glycerate dehydrated into Phospho enol pyruvate. A water molecule is removed by the enzyme enolase. As a result, enol group is formed within the molecule. This process is called **Enolation. 
-3. Energy Budget** In the pay off phase totally 4ATP and 2NADH 1 H1 molecules are produced. Since 2ATP molecules are already consumed in the preparatory phase, the net products in glycolysis are 2ATPs and 2NADH + H1+.
+or **direct phosphorylation** or **trans phosphorylation**. During the reaction at step 9, 2 phospho glycerate dehydrated into Phospho enol pyruvate. A water molecule is removed by the enzyme enolase. As a result, enol group is formed within the molecule. This process is called **Enolation**.
+
+**3. Energy Budget**
+In the pay off phase totally 4ATP and 2NADH 1 H1 molecules are produced. Since 2ATP molecules are already consumed in the preparatory phase, the net products in glycolysis are 2ATPs and 2NADH + H1+.
 
 The overall net reaction of glycolysis 
 
@@ -115,7 +129,8 @@ This complex oxidises reduced ubiquinone (ubiquinol) and transfers the electrons
 
 `UQ12Cyt c reduced12H1`
 
->Ubiquinone and cytochrome bc1 complex are structurally and functionally similar to plastoquinone and cytochrome b6,f complex respectively in the photosynthetic electron transport chain.
+>**Do You Know ?**
+Ubiquinone and cytochrome bc1 complex are structurally and functionally similar to plastoquinone and cytochrome b6,f complex respectively in the photosynthetic electron transport chain.
 
 **4. Complex IV (Cytochome c oxidase)** 
 This complex contains two copper centers (A and B) and cytochromes a and a3. Complex IV is the terminal oxidase and brings about the reduction of 1/2 O2 to H2O. Two protons are needed to form a molecule of H2O (terminal oxidation).
@@ -127,7 +142,8 @@ This complex contains two copper centers (A and B) and cytochromes a and a3. Com
 
 The transfer of electrons from reduced coenzyme NADH to oxygen _via_ complexes I to IV is coupled to the synthesis of ATP from ADP and inorganic phosphate (Pi) which is called **Oxidative phosphorylation**. The F0F1-ATP synthase (also called complex V) consists of F0 and F1. F1 converts ADP and Pi to ATP and is attached to the matrix side of the inner membrane. F0 is present in inner membrane and acts as a channel through which protons come into matrix.
 
->The synthesis of glucose from certain noncarbohydrate carbon substrates such as proteins and lipids are called **gluconeogenesis.**
+>**Do You Know ?**
+The synthesis of glucose from certain noncarbohydrate carbon substrates such as proteins and lipids are called **gluconeogenesis.**
 
 Oxidation of one molecule of NADH 1 H1 gives rise to 3 molecules of ATP and oxidation of one molecule FADH2 produces 2 molecules of ATP within a mitochondrion. But cytoplasmic NADH 1 H1 yields only two ATPs through external NADH d e h y d r o g e n a s e . Therefore, two reduced coenzyme (NADH 1 H1) molecules from glycolysis being extra mitochondrial will yield 2 3 2 5 4 ATP molecules instead of 6 ATPs (Figure 14.10). 
 ![ Electron Transport Chain and Terminal Oxidation](14.11.png "")
@@ -135,11 +151,21 @@ The Mechanism of mitochondrial ATP synthesis is based on Chemiosmotic hypothesis
 
 Complete oxidation of a glucose molecule in aerobic respiration results in the net gain
 
-![](two.png)
+
+Table 14.2: Net Products gained during aerobic respiration per glucose molecule.
+
+| Stages | CO₂ | ATP | Reduced NAD+ | Reduced FAD | Total ATP Production |
+|---|---|---|---|---|---|
+| Glycolysis | 0 | 2 | 2 (2×2=4) | 0 | 6 |
+| Link reaction | 2 | 0 | 2 (2×3=6) | 0 | 6 |
+| Krebs cycle | 4 | 2 | 6 (6×3=18) | 2 (2×2=4) | 24 |
+| Total | 6 | 4ATPs | 28 ATPs | 4 ATPs | 36 ATPs |
+
 
 of **36 ATP** **molecules in plants** as shown in table 14.2. Since huge amount of energy is generated in mitochondria in the form of ATP molecules they are called **‘power house of the cell’.** In the case of aerobic prokaryotes due to lack of mitochondria each molecule of glucose produces 38 ATP molecules.
 
->Abnormal rise in respiratory rate of ripening in fruits is called **Climacteric.** Examples are apple, banana, mango, papaya, pear.
+>**Do You Know ?**
+Abnormal rise in respiratory rate of ripening in fruits is called **Climacteric.** Examples are apple, banana, mango, papaya, pear.
 
 **Recent view** 
 When the cost of transport of ATPs from matrix into the cytosol is considered, the number will be ## ATPs for each NADH
@@ -147,6 +173,7 @@ When the cost of transport of ATPs from matrix into the cytosol is considered, t
 
 Therefore, in plant cells net yield of 30 ATP molecules for complete aerobic oxidation of one molecule of glucose. But in those animal cells (showing malate shuttle mechanism) net yield will be 32 ATP molecules.
 
->Cyanide resistant respiration is believed to be responsible for the climacteric in fruits Cyanide resistant respiration is known to generate heat in thermogenic tissues. The amount of heat produced in thermogenic tissues may be as high as 51°C.
+>**Do You Know ?**
+Cyanide resistant respiration is believed to be responsible for the climacteric in fruits Cyanide resistant respiration is known to generate heat in thermogenic tissues. The amount of heat produced in thermogenic tissues may be as high as 51°C.
 
 >Peter Mitchel, a British Biochemist received Nobel prize for Chemistry in 1978 for his work on the coupling of oxidation and phosphorylation in mitochondria.
