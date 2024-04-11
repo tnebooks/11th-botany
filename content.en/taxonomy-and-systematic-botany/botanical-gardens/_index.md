@@ -2,7 +2,18 @@
 title: "Botanical Gardens"
 weight: 6
 references:
-  videos:
+    videos:
+        - 8IAe5-STF5o
+        - rxdRSf1KWl8
+    links:
+        - https://www.shaalaa.com/question-bank-solutions/write-short-notes-importance-of-botanical-garden-what-is-living_166494
+        - https://www.toppr.com/ask/question/write-short-note-on-botanical-garden/
+    books:
+        - b1:
+            title: Botanic Gardens
+            url: https://www.google.co.in/books/edition/Botanic_Gardens/BVDDCwAAQBAJ?hl=en&gbpv=0 
+
+
 ---
 
 ## Botanical Gardens
@@ -32,6 +43,7 @@ Botanical garden contains special plant collections such as cacti, succulent, gr
 **Royal Botanic garden, Kew- England**
 
 ![Alt text](5.2.png)
+
 **Figure 5.2:** Royal Botanic garden, Kew - England 
 
 Royal Botanic garden Kew- England is a non- departmental public body in the United Kingdom. It is the largest botanical garden in the world, established in 1760, but officially opened in the year 1841.
