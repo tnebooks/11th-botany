@@ -1,6 +1,17 @@
 ---
 title: 'Flagella'
 weight: 8
+references:
+    videos:
+        - eKnFlbrLNOw
+        - eY2vjUMAPDc
+    links:
+        - https://www.ncbi.nlm.nih.gov/books/NBK6250/#:~:text=Flagella%20are%20the%20organelles%20for,1).
+        - https://en.wikipedia.org/wiki/Flagellum
+    books:
+        - b1:
+            title: The Bacterial Flagellum
+            url: https://www.google.co.in/books/edition/The_Bacterial_Flagellum/_fFtuQEACAAJ?hl=en
 ---
 
 
@@ -8,9 +19,9 @@ weight: 8
 Bacterial flagella are helical appendages helps in motility. They are much thinner than flagella or cilia of eukaryotes. The filament contains a protein called **flagellin**. The structure consists of a basal body associated with cytoplasmic membrane and cell wall with short hook and helical filament. Bacteria rotates their helical flagella and propels rings present in the basal body which are involved in the rotary motor that spins the flagellum.
 
 ---
-**Check your grasp ?** When E.coli are cultured in medium rich in glucose they lack flagella. When grown in nutritionally poor medium they possess flagella. What does this indicate about the value of flagella?
+>**Check your grasp ?** When E.coli are cultured in medium rich in glucose they lack flagella. When grown in nutritionally poor medium they possess flagella. What does this indicate about the value of flagella?
 
-Flagella is essential to seek out a nutritionally more favourable environment.
+>Flagella is essential to seek out a nutritionally more favourable environment.
 
 ---
 **Structure of flagella in Bacteria** 
