@@ -2,7 +2,16 @@
 title: "Herbarium – Preparation and uses"
 weight: 7
 references:
-  videos:
+    videos:
+        - vx5g9vkVfS0
+        - ZtteT152JMI
+    links:
+        - https://www.geeksforgeeks.org/herbarium/
+        - https://www.vedantu.com/biology/herbarium
+    books:
+        - b1:
+            title: Preparing Herbarium Specimens
+            url: https://www.google.co.in/books/edition/Preparing_Herbarium_Specimens/3BslAQAAMAAJ?hl=en&gbpv=0&bsq=Herbarium%20%E2%80%93%20Preparation%20and%20uses
 ---
 
 # Herbarium – Preparation and uses
@@ -35,24 +44,24 @@ Kew Garden is situated in South West London that houses the “largest and most 
 
   **Preparation of herbarium Specimen**
 
-**Plant Collection**
+1. **Plant Collection**
  Plant specimen with flower or fruit is collected
 
-**Documentation of field site data** 
+2. **Documentation of field site data** 
 Certain data are to be recorded at the time of plant collection. It includes date, time, country, state, city, specific locality information, latitude, longitude, elevation and land mark information. These data will be typed onto a herbarium label.
 
-**Preparation of plant specimen**
+3. **Preparation of plant specimen**
  Plant specimen collected from the field is pressed immediately with the help of portable field plant press. plant specimen is transferred to a standard plant press (12” x 18”) which between two outer 12” x 18” frames and secured by two straps.
 
-**Mounting herbarium specimen** 
+4. **Mounting herbarium specimen** 
 The standard size of herbarium sheet is used for mounting the specimen (29cm x 41cm). specimens are affixed to herbarium sheet with standard white glue or solution of Methyl cellulose.
 
-**Herbarium label** 
+5. **Herbarium label** 
 Herbarium label size is generally 4-5’’ wide and 2-3’’ tall. A typical label contains all in- formation like habit, habitat, vegetation type, land mark information, latitude, longitude, image document, collection number, date of collection and name of the collector.
 
-**Protection of herbarium sheets against mold and insects**
-
+6. **Protection of herbarium sheets against mold and insects**
 Apply cation of 2% Mercuric chloride, Naphthalene, DDT, carbon disulphide. Fu- migation using formaldehyde. Presently deep freezing(**\-20oC**) method is followed through- out the world.
+
 ![Alt text](5.3-1.png)
 
 ---
