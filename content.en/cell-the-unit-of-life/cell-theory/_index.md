@@ -1,22 +1,33 @@
 ---
 title: 'Cell-theory'
 weight: 3
+references:
+    videos:
+        - i4tdiDRMyhI
+        - 4OpBylwH9DU
+    links:
+        - https://en.wikipedia.org/wiki/Cell_theory
+        - https://www.britannica.com/science/cell-theory
+    books:
+        - b1:
+            title: Cell Theory   The Structure and Function of Cells
+            url: https://www.google.co.in/books/edition/Cell_Theory/kPSCDwAAQBAJ?hl=en&gbpv=0
 ---
 
 
 In 1833, German botanist **Matthias Schleiden** and German zoologist **Theodor Schwann** proposed that all plants and animals are composed of cells and that cells were the basic building blocks of life.
 
 ---
-**Do You Know ?**
+>**Do You Know ?**
 **Microscopic measurement** The microscope also has to measure microscopic through a technique ‘**micrometry**’. There are two Scales involved for measuring. 
-1. Ocular Micrometre 
-2. Stage Micrometre 
+>1. Ocular Micrometre 
+>2. Stage Micrometre 
 
-**Ocular Micrometre:** 
+>**Ocular Micrometre:** 
 
-It is fixed inside the eye p It is a thin transparent glass disc where there divided into 100 equal units. The scale has no values 
+>It is fixed inside the eye p It is a thin transparent glass disc where there divided into 100 equal units. The scale has no values 
 
-**Stage Micrometre:** This is a slide with a line into 100 units. The line is about 10mm. The between two adjacent lines is 10 µm. The value of the stage micrometre is transferre measurement can be made using ocular mi The distance between two adjacent line of ocular meter = ( Number of stage divisions / Number of ocular divisions ) * 10 
+>**Stage Micrometre:** This is a slide with a line into 100 units. The line is about 10mm. The between two adjacent lines is 10 µm. The value of the stage micrometre is transferre measurement can be made using ocular mi The distance between two adjacent line of ocular meter = ( Number of stage divisions / Number of ocular divisions ) * 10 
 
 ---
 
@@ -64,13 +75,14 @@ Cell greatly vary in size, shape and also in function. Group of cells with simil
 **Shape** The shape of cell vary greatly from organism to organism and within the organism itself. In bacteria, cell shape vary from round (**cocci**) to rectangular (**rod**). In virus, shape of the envelope varies from round to hexagonal or ‘**T**’ shaped. In fungi, globular to elongated cylindrical cells and the spores of fungi vary
 
 ---
-1 cm                        = 1 / 100 meter 
+>**Do you know ?**            
+ 1 cm                        = 1 / 100 meter 
 1 mm = 1 / 10 cm            = 1/10 cm
 1 µm = 1/1000,000 metre     = 1/10,000 cm
 1 nm = 1/1,000,000,000 metre = 1/10,000,000 cm
 1 Aº = 1/10,000,000,000 metre =1/100,000,000 cm
 
-1 m = 10 ^2 cm = 10^3 mm = 10^6 µm = 10^9 nm = 10^10 Aº
+>1 m = 10 ^2 cm = 10^3 mm = 10^6 µm = 10^9 nm = 10^10 Aº
 m = metre   cm = centimetre   mm = millimetre   µm = micrometre
 nm = nanometre   Aº =Angstrom
 
