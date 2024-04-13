@@ -1,6 +1,17 @@
 ---
 title: "Crassulacean Acid Metabolism or CAM cycle "
 weight: 13
+references:
+    videos:
+        - youtube:youtube:cp3j5ZXStys
+        - youtube:youtube:cBNr2aTk8jc
+    links:
+        - https://www.sciencedirect.com/topics/earth-and-planetary-sciences/crassulacean-acid-metabolism
+        - https://unacademy.com/content/cbse-class-11/study-material/biology/cam-crassulacean-acid-metabolism/
+    books:
+        - b1:
+            title: Crassulacean Acid Metabolism
+            url: https://www.google.co.in/books/edition/Crassulacean_Acid_Metabolism/rFnoCAAAQBAJ?hl=en&gbpv=0
 ---
 
 ## Crassulacean Acid Metabolism or CAM cycle

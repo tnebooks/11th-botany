@@ -1,6 +1,17 @@
 ---
 title: 'Hydroponics and Aeroponics'
 weight: 6
+references:
+    videos:
+        - youtube:i3pY5OCW9AU
+        - youtube:LV2jIkOwYl8
+    links:
+        - https://www.livinggreensfarm.com/blog/aeroponics-vs-hydroponics
+        - https://www.edengreen.com/blog-collection/aeroponics-vs-hydroponics-explained
+    books:
+        - b1:
+            title: Aeroponics
+            url: https://www.google.co.in/books/edition/Aeroponics/wYbiDwAAQBAJ?hl=en&gbpv=0 
 ---
 
 #  Hydroponics and Aeroponics 

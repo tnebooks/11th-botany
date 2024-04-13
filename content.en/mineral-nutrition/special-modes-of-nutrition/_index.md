@@ -1,6 +1,17 @@
 ---
 title: 'Special modes of nutrition'
 weight: 9
+references:
+    videos:
+        - youtube:wcEW_m1wd9s
+        - youtube:XbapVFjQpfI
+    links:
+        - https://study.com/learn/lesson/special-modes-of-nutrition-in-plants-overview-types-differences.html 
+        - https://www.vedantu.com/biology/modes-of-nutrition
+    books:
+        - b1:
+            title: Biology of Flowering Plants
+            url: https://www.google.co.in/books/edition/Biology_of_Flowering_Plants/pdyHbU1aKfgC?hl=en&gbpv=0
 ---
 
 #  Special modes of nutrition

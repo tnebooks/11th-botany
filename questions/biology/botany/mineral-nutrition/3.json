@@ -1,0 +1,20 @@
+
+{
+  "question": "The element which is not remobilized?",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Phosphorous"
+    },
+    {
+      "value": "Potassium"
+    },
+    {
+      "value": "Calcium"
+    },
+    {
+      "value": "Nitrogen",
+      "answer": true
+    }
+  ]
+}

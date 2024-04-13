@@ -1,6 +1,17 @@
 ---
 title: " Emerson’s Experiments and Hill’s Reaction"
 weight: 6
+references:
+    videos:
+        - youtube:youtube:lyUjbbVDQgI
+        - youtube:youtube:1j0yz2dszUA
+    links:
+        - https://www.brainkart.com/article/Emerson-s-Experiments-and-Hill-s-Reaction_33100/
+        - https://www.sciencedirect.com/topics/chemistry/hill-reaction
+    books:
+        - b1:
+            title: Modern Biology
+            url: https://www.google.co.in/books/edition/Modern_Biology/D-85x6Jhji0C?hl=en&gbpv=0
 ---
 
 ## Emerson’s Experiments and Hill’s Reaction

@@ -3,9 +3,14 @@ title: 'Plant Movements'
 weight: 3
 ---
 
-Plants have the capacity for changing their positions in response to external or internal stimuli, which are known as **plant movements**. Movements are basically of two types: I. Vital movements and II. Physical movements (hygroscopic) (Figure 15.10). 
+Plants have the capacity for changing their positions in response to external or internal stimuli, which are known as **plant movements**. 
 
-**I. Vital movements** 
+Movements are basically of two types: 
+
+1. Vital movements
+2. Physical movements (hygroscopic) 
+
+# Vital movements
 Vital movements are those which are exhibited by the living cells or plants or organs and they are always related to the irritability of the protoplasm. These movements are of two types:
 
 1. Movements of locomotion 
@@ -13,7 +18,7 @@ Vital movements are those which are exhibited by the living cells or plants or o
 
 ![alt text](15.10.1.png)
 
-**A. Movements of locomotion** 
+## Movements of locomotion
 These movements include the movement of protoplasm inside the cell or movement of whole unicellular or multicellular plant body as in _Chlamydomonas_, gametes and zoospores. 
 
 **i. Autonomic movements of locomotion** 
@@ -23,14 +28,15 @@ The movements arising from internal changes or internal stimuli of plant body is
 
 **ii. Paratonic or Tactic (induced) movements of locomotion** 
 The movements due to external factors or stimuli like light, temperature and chemicals are called paratonic movement of locomotion (Figure 15.11).
-**B. Movement of curvature** 
+
+## Movement of curvature
 In higher plants they are restricted only to bending or curvature of some of their parts. There are mainly two types:
 
 They are 
-i) Autonomic movement of curvature and 
-ii) Paratonic movement of curvature. 
+1. Autonomic movement of curvature 
+2. Paratonic movement of curvature 
 
-**i. Autonomic movements of curvature** 
+### Autonomic movements of curvature
 The movement arising from internal changes or internal stimuli of plant body is called **autonomic movement of curvature. This** does not require any external stimulus. They are two types: a. **Autonomic movement of growth:** It is ofthe following types:
 ![alt text](15.12.png)
 Hyponasty Epinasty
@@ -51,7 +57,7 @@ The growth of the stem apices occurs in a zig-zag manner. It is because the two 
 **b.Autonomic Movement of variation:**
 It happens in Indian telegraph plant. (_Desmodium gyrans_). The com pound leaf consists of a larger terminal and two smaller lateral leaflets. During day time, the two lateral leaflets move upward at an angle of 90° and come to lie parallel to the rachis. Again, they may move downward at 180° so that they are parallel to the rachis. They may again move upward at 90° to come in their original position. All these movements occur with jerks after intervals, each movement being completed in about 2 minutes (Figure 15.14).
 
-**ii. Paratonic (induces) movements of curvature**
+### Paratonic (induces) movements of curvature
 
 The movement arising from external stimulus is called **Paratonic** (Induced) movements of curvature. They are of two types. 1) Tropic movements 2) Nastic movements (Table 2)
 
@@ -101,12 +107,9 @@ A darkened black box is taken having a small window on one side. A well-watered 
 **ii. Thermonasty** 
 The nastic movement taking place in response to temperature is called **thermonasty** or **thermonastic movement**. In _Crocus_ the flowers open at high temperature and close at low temperature. 
 
-**2\. Seismonastic movement** This means a response to shaking. The best example is _Mimosa pudica_ (Touch-me-not plant) which is a sensitive plant (Figure 15.17). Such plants respond to stimuli such as touch, blow or metallic shock by folding their leaflets and lowering their leaves .This effect is caused by the movement of water in
+**2\. Seismonastic movement** This means a response to shaking. The best example is _Mimosa pudica_ (Touch-me-not plant) which is a sensitive plant (Figure 15.17). Such plants respond to stimuli such as touch, blow or metallic shock by folding their leaflets and lowering their leaves .This effect is caused by the movement of water in and out of the parenchymatous cells of the pulvinus (Figure 15.18).
 
 ![ _Mimosa pudica_ showing response to touch](15.17.png "")
-
-and out of the parenchymatous cells of the pulvinus (Figure 15.18).
-
 
 ![ Mechanism of Seismonastic movement in _Mimosa pudica_](15.18.png "")
 
@@ -115,6 +118,6 @@ and out of the parenchymatous cells of the pulvinus (Figure 15.18).
 ![alt text](15.10.3.png)
 **Figure 15.19: Thigmonasty in Dionaea**
 
-**II Physical Movement (Hygroscopic Movements)**
+# Physical Movement (Hygroscopic Movements)
 
 Physical movements are those which are found in dead parts of the plants and they are not related to any irritability of the protoplasm. They are also called hygroscopic **movements** or **mechanical movements**. Dispersal of spores and seeds, dehiscence of sporangia, bursting of seeds and movement of elaters are the examples of physical or hygroscopic movement.

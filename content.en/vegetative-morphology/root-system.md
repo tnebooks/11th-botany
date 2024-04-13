@@ -1,5 +1,5 @@
 ---
-title: "Parts of a flowering plant"
+title: "Root System"
 weight: 5
 references:
   videos:
@@ -49,8 +49,51 @@ Root developing from any part of the plant other than radicle is called **advent
 |Type Of Cells|Meristematic cells, actively divide and continuously increase in number|Elongated cells|Mature differentiated cells|
 |Functions|This is the main growing tip of the root|The cells increase the length and cause enlargement of the root. |The cells differentiate into various tissues like epidermis, cortex and vascular bundles. It also produces root hairs which absorb water and minerals from the soil|
 
-![Alt text](<Root Zones.png>)
+{{< mermaid >}}
+stateDiagram-v2
+  RootModification
+  TapRoot
+  AdventitiousRoot
+  Storage
+  MechanicalSupport
+  VitalFunction
+  Others
+  Conical
+  Fusiform
+  Napiform
+  TuberousRoot
+  PropRoot
+  StiltRoot
+  Pneumatophore
+  FoliarRoot
+  ClimbingRoot
+  SuckingRoot
+  ButtressRoot
+  PhotosyntheticRoot
+
+  RootModification --> TapRoot
+  RootModification --> AdventitiousRoot
+  TapRoot --> Conical
+  TapRoot --> Fusiform
+  TapRoot --> Napiform
+  AdventitiousRoot --> Storage
+  AdventitiousRoot --> MechanicalSupport
+  AdventitiousRoot --> VitalFunction
+  AdventitiousRoot --> Others
+  Storage --> TuberousRoot  # Potential additional states for other categories
+  MechanicalSupport --> PropRoot
+  MechanicalSupport --> StiltRoot
+  VitalFunction --> Pneumatophore
+  VitalFunction --> FoliarRoot
+  Others --> ClimbingRoot
+  Others --> SuckingRoot
+  Others --> ButtressRoot
+  Others --> PhotosyntheticRoot
+
+{{< /mermaid >}}
+
 roots arise from various regions of the plant body. These are bunch of thread-like roots nearly equal in size which are collectively called **fibrous** root system generally found in grasses. Example: _Oryza sativa, Eleusine coracana_.
+
 
 ### Functions of root
 

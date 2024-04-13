@@ -1,0 +1,19 @@
+{
+  "question": "Identify the true statement regarding the light reaction of photosynthesis.",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "Splitting of water molecule is associated with PS I."
+    },
+    {
+      "value": "PS I and PS II involved in the formation of NADPH."
+    },
+    {
+      "value": "The reaction center of PS I is Chlorophyll a with absorption peak at 680 nm."
+    },
+    {
+      "value": "The reaction center of PS II is Chlorophyll a with absorption peak at 700 nm.",
+      "answer": true
+    }
+  ]
+}

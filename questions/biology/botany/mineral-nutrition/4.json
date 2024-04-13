@@ -1,0 +1,19 @@
+{
+  "question": "Match the correct combination.",
+  "explanation": "",
+  "choices": [
+    {
+      "value": "A-1 B-3 C-4 D-2"
+    },
+    {
+      "value": "A-2 B-1 C-3 D-4"
+    },
+    {
+      "value": "A-4 B-3 C-1 D-2",
+      "answer": true
+    },
+    {
+      "value": "A-4 B-2 C-1 D-3"
+    }
+  ]
+}

@@ -3,8 +3,6 @@ title: 'Seed germination and dormancy'
 weight: 6
 ---
 
-
-**I. Seed Germination**
 The activation and growth of embryo from seed into seedling during favourable conditions is called **seed** **germination**. 
 
 **1. Types of germination** 

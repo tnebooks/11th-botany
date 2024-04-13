@@ -10,6 +10,7 @@ references:
       - https://testbook.com/biology/plant-kingdom
       - https://drive.google.com/file/d/1aGx0v7IoI8qe2lUhpP55yul624O9egHm/view
 ---
+<<<<<<< HEAD:content.en/plant-kingdom/bryophytes/bryophytes.md
 
 # Bryophytes
 
@@ -134,3 +135,5 @@ In _Marchantia_, sex organs are borne on special stalked receptacles called the 
 
 The sporophyte is not free-living but attached to the photosynthetic gametophyte and derives nutrition from it. Sporophyte is differentiated into foot, seta and capsule. The foot is bulbous and is embedded in the gametophyte. It derives nutrition from the gametophyte and transfers to the sporophyte. Seta is short and connects foot and capsule. The capsule consists of single layered jacket layer and encloses numerous haploid spores and elaters. The capsule is covered by protective covering called calyptra. On maturation the capsule dehisces and spores are released. Elaters helps in the dispersal of spores. The spores under favourable conditions germinate and develop into new gametophyte. The haploid gametophytic phase alternates with diploid sporophytic phase, thus the life cycle of _Marchantia_ shows alternation of generation \(Figure 2.14).
 ![Alt text](2.19.png)
+=======
+>>>>>>> 3ee2295704d22ed4124a53d8ea463aace054e86b:content.en/plant-kingdom/bryophytes.md

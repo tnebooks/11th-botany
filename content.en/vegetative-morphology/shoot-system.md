@@ -130,6 +130,45 @@ This is a green, flattened cylindrical or angled stem or branch of unlimited gro
 
 **5. Cladode** Cladode is a flattened or cylindrical stem similar to Phylloclade but with one or two internodes only. Their stem nature is evident by the fact that they bear buds, scales and flowers. Example: _Asparagus_ (cylindrical cladode)_, Ruscus_ (flattened cladode)_._
 
+
+{{< mermaid >}}
+stateDiagram-v2
+    [*] --> StemModification
+    StemModification --> SubAerialModification : Select
+    StemModification --> AerialModification : Select
+    StemModification --> UndergroundModification : Select
+    
+    SubAerialModification --> Runner
+    SubAerialModification --> Stolon
+    SubAerialModification --> Sucker
+    SubAerialModification --> Offset
+    
+    UndergroundModification --> Bulb
+    UndergroundModification --> Corm
+    UndergroundModification --> Rhizome
+    UndergroundModification --> Tuber
+    
+    SubAerialModification --> Others
+    
+    Others --> Climber
+    Others --> Trailer
+    Others --> Creepers
+    Others --> Phylloclade
+    Others --> Cladode
+    Others --> Thorns
+    
+    Climber --> RootClimber
+    Climber --> StemClimber
+    Climber --> TendrilClimber
+    Climber --> HookClimber
+    Climber --> Lianas
+    Climber --> ThornClimber
+  
+{{< /mermaid >}}
+
+
+
+
 **6. Thorns** Thorn is a woody and sharp pointed modified stem. Either the axillary bud or the terminal bud gets modified into thorns. In _Citrus_ and _Atalantia_ axillary bud is modified into thorns.
 
 **II.** **Sub aerial stem modifications**
