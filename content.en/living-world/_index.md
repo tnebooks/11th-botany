@@ -37,3 +37,6 @@ Earth was formed some 4.6 billion years ago. It is the life supporting planet wi
 ![ Attributes of living organisms](1.1.png)
 
 According to a survey made by Mora _et al.,_ 2011 the number of estimated species on earth is 8.7 million. The living world includes microbes, plants, animals and human beings which possess unique and distinct characteristic feature.
+ 
+
+ 
