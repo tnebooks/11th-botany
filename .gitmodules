@@ -1,0 +1,3 @@
+[submodule "themes/gurukulams-book"]
+	path = themes/gurukulams-book
+	url = https://github.com/techatpark/gurukulams-book
