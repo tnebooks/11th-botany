@@ -1,0 +1,10 @@
+.hugo/
+public/
+resources/
+themes/
+*.backup
+.gitmodules
+.hugo_build.lock
+.public
+.resource
+.DS_Store
