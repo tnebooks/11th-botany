@@ -1,7 +1,7 @@
 ---
 title: 'Secondary Growth'
 categories:
-    - science
+    - secondary-growth
 weight: 10
 ---
 

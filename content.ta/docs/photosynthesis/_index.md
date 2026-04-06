@@ -1,8 +1,8 @@
 ---
-title: 'ஒளிச்சேர்க்கை'
+title: 'Photosynthesis'
 categories:
-    - science
+    - photosynthesis
 weight: 13
 ---
 
-ஒளிச்சேர்க்கை
+Photosynthesis tamil

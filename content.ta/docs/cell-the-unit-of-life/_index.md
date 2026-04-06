@@ -1,8 +1,8 @@
 ---
-title: 'உயிரணு: வாழ்க்கையின் அலகு'
+title: 'Cell: The Unit of Life'
 categories:
-    - science
+    - cell-the-unit-of-life
 weight: 6
 ---
 
-உயிரணு: வாழ்க்கையின் அலகு
+Cell: The Unit of Life tamil

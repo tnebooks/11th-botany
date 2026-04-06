@@ -1,7 +1,7 @@
 ---
 title: 'Living World'
 categories:
-    - science
+    - living-world
 weight: 1
 ---
 

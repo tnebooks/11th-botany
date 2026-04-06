@@ -1,8 +1,8 @@
 ---
-title: 'உயிரணு மூலக்கூறுகள்'
+title: 'Biomolecules'
 categories:
-    - science
+    - biomolecules
 weight: 8
 ---
 
-உயிரணு மூலக்கூறுகள்
+Biomolecules tamil

@@ -1,7 +1,7 @@
 ---
 title: 'Transport in Plants'
 categories:
-    - science
+    - transport-in-plants
 weight: 11
 ---
 

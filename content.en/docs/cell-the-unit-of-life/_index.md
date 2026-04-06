@@ -1,7 +1,7 @@
 ---
 title: 'Cell: The Unit of Life'
 categories:
-    - science
+    - cell-the-unit-of-life
 weight: 6
 ---
 

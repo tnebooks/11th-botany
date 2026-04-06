@@ -1,7 +1,7 @@
 ---
 title: 'Reproductive Morphology'
 categories:
-    - science
+    - reproductive-morphology
 weight: 4
 ---
 

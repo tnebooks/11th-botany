@@ -1,7 +1,7 @@
 ---
 title: 'Plant Kingdom'
 categories:
-    - science
+    - plant-kingdom
 weight: 2
 ---
 

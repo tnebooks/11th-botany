@@ -1,8 +1,8 @@
 ---
-title: 'பெருக்க அமைப்பு (Reproductive Morphology)'
+title: 'Reproductive Morphology'
 categories:
-    - science
+    - reproductive-morphology
 weight: 4
 ---
 
-பெருக்க அமைப்பு (Reproductive Morphology)
+Reproductive Morphology tamil

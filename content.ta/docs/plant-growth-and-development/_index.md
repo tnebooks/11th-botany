@@ -1,8 +1,8 @@
 ---
-title: 'தாவர வளர்ச்சி மற்றும் முன்னேற்றம்'
+title: 'Plant Growth and Development'
 categories:
-    - science
+    - plant-growth-and-development
 weight: 15
 ---
 
-தாவர வளர்ச்சி மற்றும் முன்னேற்றம்
+Plant Growth and Development tamil

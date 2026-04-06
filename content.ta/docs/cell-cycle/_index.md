@@ -1,8 +1,8 @@
 ---
-title: 'உயிரணு சுழற்சி'
+title: 'Cell Cycle'
 categories:
-    - science
+    - cell-cycle
 weight: 7
 ---
 
-உயிரணு சுழற்சி
+Cell Cycle tamil
