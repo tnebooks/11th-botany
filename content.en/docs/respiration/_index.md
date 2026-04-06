@@ -1,7 +1,7 @@
 ---
 title: 'Respiration'
 categories:
-    - science
+    - respiration
 weight: 14
 ---
 

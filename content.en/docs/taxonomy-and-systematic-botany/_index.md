@@ -1,7 +1,7 @@
 ---
 title: 'Taxonomy and Systematic Botany'
 categories:
-    - science
+    - taxonomy-and-systematic-botany
 weight: 5
 ---
 

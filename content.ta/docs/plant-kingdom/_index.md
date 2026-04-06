@@ -1,8 +1,8 @@
 ---
-title: 'தாவர இராச்சியம்'
+title: 'Plant Kingdom'
 categories:
-    - science
+    - plant-kingdom
 weight: 2
 ---
 
-தாவர இராச்சியம்
+Plant Kingdom tamil

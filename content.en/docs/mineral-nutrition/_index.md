@@ -1,7 +1,7 @@
 ---
 title: 'Mineral Nutrition'
 categories:
-    - science
+    - mineral-nutrition
 weight: 12
 ---
 

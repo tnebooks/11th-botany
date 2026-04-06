@@ -1,8 +1,8 @@
 ---
-title: 'இரண்டாம் நிலை வளர்ச்சி'
+title: 'Secondary Growth'
 categories:
-    - science
+    - secondary-growth
 weight: 10
 ---
 
-இரண்டாம் நிலை வளர்ச்சி
+Secondary Growth tamil

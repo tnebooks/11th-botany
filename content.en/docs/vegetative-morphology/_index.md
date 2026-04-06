@@ -1,7 +1,7 @@
 ---
 title: 'Vegetative Morphology'
 categories:
-    - science
+    - vegetative-morphology
 weight: 3
 ---
 

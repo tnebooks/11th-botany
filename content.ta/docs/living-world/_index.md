@@ -1,8 +1,8 @@
 ---
-title: 'உயிரின உலகம்'
+title: 'Living World'
 categories:
-    - science
+    - living-world
 weight: 1
 ---
 
-உயிரின உலகம்
+Living World tamil

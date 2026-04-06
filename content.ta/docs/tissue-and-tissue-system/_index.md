@@ -1,8 +1,8 @@
 ---
-title: 'திசுக்கள் மற்றும் திசு அமைப்பு'
+title: 'Tissue and Tissue System'
 categories:
-    - science
+    - tissue-and-tissue-system
 weight: 9
 ---
 
-திசுக்கள் மற்றும் திசு அமைப்பு
+Tissue and Tissue System tamil

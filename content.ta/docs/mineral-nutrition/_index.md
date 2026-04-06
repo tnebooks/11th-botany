@@ -1,8 +1,8 @@
 ---
-title: 'தாதுக்கள் ஊட்டச்சத்து'
+title: 'Mineral Nutrition'
 categories:
-    - science
+    - mineral-nutrition
 weight: 12
 ---
 
-தாதுக்கள் ஊட்டச்சத்து
+Mineral Nutrition tamil

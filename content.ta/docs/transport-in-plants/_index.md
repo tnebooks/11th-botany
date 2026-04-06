@@ -1,8 +1,8 @@
 ---
-title: 'தாவரங்களில் போக்குவரத்து'
+title: 'Transport in Plants'
 categories:
-    - science
+    - transport-in-plants
 weight: 11
 ---
 
-தாவரங்களில் போக்குவரத்து
+Transport in Plants tamil

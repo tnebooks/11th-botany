@@ -1,7 +1,7 @@
 ---
 title: 'Cell Cycle'
 categories:
-    - science
+    - cell-cycle
 weight: 7
 ---
 

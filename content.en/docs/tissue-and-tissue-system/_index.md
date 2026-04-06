@@ -1,7 +1,7 @@
 ---
 title: 'Tissue and Tissue System'
 categories:
-    - science
+    - tissue-and-tissue-system
 weight: 9
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Photosynthesis'
 categories:
-    - science
+    - photosynthesis
 weight: 13
 ---
 

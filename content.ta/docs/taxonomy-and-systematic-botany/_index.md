@@ -1,8 +1,8 @@
 ---
-title: 'வரிசை அமைப்பு மற்றும் தாவரவியல் வகைப்பாடு'
+title: 'Taxonomy and Systematic Botany'
 categories:
-    - science
+    - taxonomy-and-systematic-botany
 weight: 5
 ---
 
-வரிசை அமைப்பு மற்றும் தாவரவியல் வகைப்பாடு
+Taxonomy and Systematic Botany tamil

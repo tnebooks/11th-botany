@@ -1,8 +1,8 @@
 ---
-title: 'மூச்சுவிடுதல்'
+title: 'Respiration'
 categories:
-    - science
+    - respiration
 weight: 14
 ---
 
-மூச்சுவிடுதல்
+Respiration tamil

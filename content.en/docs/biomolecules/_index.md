@@ -1,7 +1,7 @@
 ---
 title: 'Biomolecules'
 categories:
-    - science
+    - biomolecules
 weight: 8
 ---
 

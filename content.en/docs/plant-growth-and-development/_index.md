@@ -1,7 +1,7 @@
 ---
 title: 'Plant Growth and Development'
 categories:
-    - science
+    - plant-growth-and-development
 weight: 15
 ---
 

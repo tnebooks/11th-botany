@@ -1,8 +1,8 @@
 ---
-title: 'தாவர அமைப்பு (Vegetative Morphology)'
+title: 'Vegetative Morphology'
 categories:
-    - science
+    - vegetative-morphology
 weight: 3
 ---
 
-தாவர அமைப்பு (Vegetative Morphology)
+Vegetative Morphology tamil
